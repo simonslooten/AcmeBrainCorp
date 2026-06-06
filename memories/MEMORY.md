@@ -1,0 +1,1 @@
+User maintains soul.md files and the 8-points self-improvement list in an Obsidian folder called "Hermes Team". They expect the agent to copy/sync these into the corresponding Hermes profiles (~/.hermes/profiles/*/SOUL.md and ~/.hermes/SOUL.md) when updates are made in Obsidian.
