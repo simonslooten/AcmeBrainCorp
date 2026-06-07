@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "181d4623498594fb",
+        "id": "36a2e061a830e7a7",
         "type": "tabs",
         "children": [
           {
-            "id": "95915ae3284a717c",
+            "id": "6031475dafffa10d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,13 +157,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "8b201acea672985d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,6 +189,8 @@
   },
   "active": "5a18eace08f15552",
   "lastOpenFiles": [
+    "8-points-self-improvement.md",
+    "raw_input/other/test.md",
     "Hermes Indexing Dashboard.md",
     "hermes-team-auto-indexing-process.md",
     "memories/USER.md",
