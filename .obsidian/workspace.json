@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "36a2e061a830e7a7",
+        "id": "f9330b9d3b6627af",
         "type": "tabs",
         "children": [
           {
-            "id": "6031475dafffa10d",
+            "id": "5276936d446823c9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -159,7 +159,7 @@
             }
           },
           {
-            "id": "8b201acea672985d",
+            "id": "505a4b5f0a9af7f9",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -177,25 +177,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a18eace08f15552",
+  "active": "505a4b5f0a9af7f9",
   "lastOpenFiles": [
-    "8-points-self-improvement.md",
     "raw_input/other/test.md",
-    "Hermes Indexing Dashboard.md",
+    "raw_input/xlsx",
+    "raw_input/pdf",
+    "raw_input/other",
+    "raw_input/images",
+    "raw_input/docx",
+    "raw_input",
+    "conflict-files-obsidian-git.md",
     "hermes-team-auto-indexing-process.md",
+    "simons_files/test/Dit ga je doen.docx",
+    "simons_files/test",
+    "Hermes Indexing Dashboard.md",
+    "simons_files/untitled folder",
+    "simons_files",
     "memories/USER.md",
     "memories/MEMORY.md",
-    "memories",
     "grok_SOUL.md"
   ]
 }
