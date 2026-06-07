@@ -1,4 +1,6 @@
 # AcmeBrainCorp – 8 Points of Self-Improvement
+
+**TEST SYNC** - This line was added via terminal to verify push/pull
 **Official Retro Agenda** (used after every significant task or deliverable)
 
 This is the fixed agenda for every team retro meeting.  
