@@ -1,107 +1,89 @@
-# Hermes_Team Vault Auto-Indexing Process
+# Hermes_Team Vault Auto-Indexing Process (All-File)
 
-**Goal**: Automatically detect new `.md` files added by Simon to `/Users/marvin/documents/ObsidianVault/Hermes_Team`, create corresponding tasks on the Hermes Kanban board (default board), and route them to the appropriate agent for processing with minimal manual intervention. The vault is Git-synced.
+**Goal**: Automatically detect **any new file** added by Simon to the Hermes_Team vault (`.md`, `.pdf`, `.docx`, `.xlsx`, `.txt`, images, etc.), create a task on the Hermes Kanban board, and route it to the right agent(s) for processing with minimal manual work.
 
-**Key Principles**
-- Git-driven triggers for reliability (post-commit hook).
-- Tasks always appear on Kanban board first.
-- Existing team agents used where possible; new lightweight role only if needed.
-- Processing is idempotent and observable.
-- COO (grok-coo) owns setup and oversight; quality-auditor (bonica) owns final review.
+The vault is Git-synced between computers.
+
+## Key Principles
+- Git-driven triggers (post-commit hook) for reliability
+- Every new file → Kanban task first (no silent processing)
+- Use existing agents where possible
+- File-type aware processing (notes vs documents vs media)
+- Idempotent and observable
+- COO owns the overall system; quality-auditor owns final review
 
 ## Triggers
 
-1. **Primary: Git Post-Commit Hook** (recommended, reliable, low-overhead)
-   - Location: `.git/hooks/post-commit` in the Hermes_Team repo.
-   - Script detects newly added `.md` files:
-     ```bash
-     #!/bin/bash
-     NEW_FILES=$(git diff --name-only HEAD~1 HEAD | grep '\.md$' || true)
-     for file in $NEW_FILES; do
-       if [[ "$file" == *.md && ! $(git show HEAD:"$file" | grep -q "^processed: true") ]]; then
-         hermes kanban create \
-           --title "Index new note: $(basename "$file" .md)" \
-           --body "New file added: $file\n\nPlease process: tag, summarize, link, extract actionables. See [[hermes-team-auto-indexing-process]].\n\nFile path: /Users/marvin/documents/ObsidianVault/Hermes_Team/$file" \
-           --assignee tung_tung \
-           --board default \
-           --metadata '{"source":"git-hook","vault":"Hermes_Team","file":"'$file'"}'
-       fi
-     done
-     ```
-   - Make executable: `chmod +x .git/hooks/post-commit`
-   - Runs automatically on every commit by Simon (or Obsidian Git plugin auto-commit).
+### 1. Primary: Git Post-Commit Hook (recommended)
+Location: `.git/hooks/post-commit`
 
-2. **Fallback / Periodic**: Cron or launchd job (every 15-30 min)
-   - Scans for unprocessed `.md` files (no `processed: true` in frontmatter or missing `#indexed` tag).
-   - Creates Kanban tasks for any missed by hook.
-   - Script: `~/scripts/hermes-vault-index-watcher.sh`
+```bash
+#!/bin/bash
+# Detect all new or modified files in the last commit
+NEW_FILES=$(git diff --name-only HEAD~1 HEAD || true)
 
-3. **Manual trigger**: `hermes kanban create` with the same template (used by COO or Simon via Telegram `/kanban`).
+for file in $NEW_FILES; do
+    # Skip already processed files
+    if git show HEAD:"$file" | grep -q "^processed: true"; then
+        continue
+    fi
 
-## Agent Ownership & Routing
+    EXT="${file##*.}"
+    TITLE="Index new file: $(basename "$file")"
 
-- **grok-coo (COO)**: Owns the overall process, sets up hooks/cron, monitors Kanban for stuck tasks, runs retros via 8-points.
-- **tung_tung (research-generalist)**: Primary owner of indexing tasks. Handles deep processing of new notes.
-  - If volume high, decompose into sub-tasks or add lightweight "note-indexer" profile later.
-- **bonica (quality-auditor)**: Reviews completed indexing tasks, runs 8-point retro, ensures links/tags are high quality.
-- **Other agents** (as needed): Route sub-tasks (e.g. copy-writer for polishing summaries).
+    hermes kanban create \
+        --title "$TITLE" \
+        --body "New file added: $file\n\nExtension: .$EXT\n\nPlease process according to file type. See [[hermes-team-auto-indexing-process]].\n\nFile path: /Users/marvin/documents/ObsidianVault/Hermes_Team/$file" \
+        --assignee tung_tung \
+        --board default \
+        --metadata "{\"source\":\"git-hook\",\"vault\":\"Hermes_Team\",\"file\":\"$file\",\"ext\":\"$EXT\"}"
+done
+```
 
-**Kanban Task Lifecycle**:
-- Created in `todo` (or `triage` if using `specify`/`decompose`).
-- tung_tung claims → processes → `complete` with handoff (summary of changes, links added, tags).
-- If blocked → `block` with reason.
-- COO can `reassign`, `unblock`, or `archive`.
+Make it executable:
+```bash
+chmod +x .git/hooks/post-commit
+```
 
-## New Note Processing Steps (by tung_tung)
+### 2. Fallback
+Cron/launchd job every 15–30 min that scans for files without `processed: true` in frontmatter (or a `.processed` sidecar file for non-markdown files).
 
-When a task is claimed:
+### 3. Manual
+`hermes kanban create` with the same template.
 
-1. **Read the note** (use obsidian skill / `read_file` on absolute path).
-2. **Add frontmatter** (if missing):
-   ```yaml
-   ---
-   created: <iso-date>
-   processed: true
-   processed_at: <iso-datetime>
-   tags: [hermes-team, <domain-tag>, ...]
-   aliases: []
-   ---
-   ```
-3. **Generate & apply tags**:
-   - Use #hashtags and/or frontmatter `tags:`.
-   - Domain tags: #meeting, #idea, #decision, #research, #action, #project-hermes, etc.
-   - Always include #hermes-team and #indexed.
-4. **Create summary**:
-   - Add or update `## Summary` section (2-4 sentences).
-   - Extract key entities, decisions, action items.
-5. **Add wikilinks & connections**:
-   - Search existing vault for related notes (`search_files`).
-   - Insert `[[Existing Note]]` and `[[New Note|alias]]` where semantically relevant.
-   - Update any MOC (Map of Content) or Index notes (e.g. add to `memories/` or root index).
-6. **Extract & create follow-up tasks** (optional but encouraged):
-   - If action items found, create child Kanban tasks or new notes with `[[...]]`.
-7. **Commit changes** (via Git or let Obsidian Git handle; prefer small commits).
-8. **Handoff on Kanban**:
-   - `kanban_complete` with metadata: `{"tags_added": [...], "links_added": [...], "summary": "...", "issues": null}`.
+## File-Type Routing & Processing
 
-## Sustainability & Minimal Manual Work
+| File Type       | Primary Agent     | Processing Steps                                                                 | Output                          |
+|-----------------|-------------------|----------------------------------------------------------------------------------|---------------------------------|
+| `.md`           | tung_tung        | Tag, summarize, wikilink, update MOCs                                            | Updated note + Kanban complete  |
+| `.pdf`, `.docx` | tung_tung        | Extract text (OCR if needed), create summary note, tag                           | New `.md` companion note        |
+| `.xlsx`, `.csv` | tung_tung        | Extract key data/tables, create structured summary note                          | New `.md` + optional data note  |
+| Images          | tung_tung        | Describe content, extract text if present, tag                                   | New `.md` description note      |
+| `.txt`, other   | tung_tung        | Basic ingestion + tagging                                                        | New or updated `.md`            |
 
-- Hook ensures near-real-time creation of tasks.
-- Idempotency via `processed: true` frontmatter check prevents duplicates.
-- All processing produces observable Kanban artifacts (comments, metadata).
-- Periodic watcher catches any edge cases (manual file adds outside Git, etc.).
-- No new heavy infrastructure; reuses existing `hermes kanban` CLI, obsidian skill, Git, and team profiles.
-- Future enhancement: Integrate Obsidian Git plugin "post backup" command to also trigger the hook.
+**General rules**:
+- Every file gets a Kanban task assigned to `tung_tung` initially.
+- `tung_tung` can decompose or reassign sub-tasks.
+- Non-markdown files usually result in a companion `.md` note (e.g. `Report.pdf` → `Report.pdf.summary.md` or embedded in a note).
+- All processed files get `processed: true` (frontmatter for `.md`, sidecar file for others).
 
-## Setup Checklist (COO owns)
+## Agent Ownership
+- **grok-coo**: Overall process owner, hook setup, monitoring
+- **tung_tung**: Primary indexer (all file types)
+- **bonica**: Quality review of completed indexing tasks
+- **Other agents**: Used by tung_tung when needed (e.g. copy-writer for summaries)
 
-- [x] Create this note.
-- [ ] Install Git hook (post-commit script above).
-- [ ] Test with a sample new note.
-- [ ] Add cron/launchd for watcher if needed.
-- [ ] Brief tung_tung and bonica on the process (via Kanban task or chat).
-- [ ] Monitor first 10 notes; refine tags/linking rules.
+## Kanban Task Lifecycle
+1. Task created automatically on file addition
+2. tung_tung claims → processes according to file type
+3. Marks complete with summary of what was done
+4. bonica reviews (optional but recommended for important files)
 
-**Related Notes**: [[8-points-self-improvement]], [[grok-coo_SOUL]], vault Git config in .obsidian.
+---
 
-*Process designed for reliability, agent collaboration, and zero ongoing manual indexing by Simon.*
+**Next setup steps**:
+1. Install the post-commit hook
+2. Test with one `.md` and one non-markdown file
+3. Add fallback watcher if needed
+
+This version replaces the previous markdown-only design.
