@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reviews/enex-processing-review-2026-06-09.md",
+                "file": "Evernote/post-5-6-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "enex-processing-review-2026-06-09"
+              "title": "post-5-6-26"
             }
           }
         ]
@@ -191,8 +191,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "5a18eace08f15552",
+  "active": "6031475dafffa10d",
   "lastOpenFiles": [
+    "processed/evernote/post-5-6-26.enex",
+    "raw_input/evernote/post 5-6-26.enex",
+    "raw_input/evernote",
+    "raw_input/untitled folder",
+    "reviews/enex-processing-review-2026-06-09.md",
     "processed/evernote/post 5-6-26.enex",
     "processed/evernote",
     "processed",
@@ -200,7 +205,6 @@
     "Evernote/post-5-6-26.md",
     "raw_input/other/test.md",
     "tasks/enex-processing-tasks.md",
-    "reviews/enex-processing-review-2026-06-09.md",
     "reviews",
     "raw_input/other/post 5-6-26.enex",
     "8-points-self-improvement.md",
