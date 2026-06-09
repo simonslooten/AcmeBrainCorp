@@ -41,7 +41,7 @@ Periodic scan for unprocessed files in `raw_input/`.
 
 - **grok-coo**: Overall process owner
 - **tung_tung**: Primary owner — creates companion `.md` notes for files in `raw_input/`
-- **bonica**: Quality review
+- **bonica**: Quality review + **blocked task fixer** (standard part of the workflow)
 
 When tung_tung processes a task for a non-markdown file, they:
 1. Create a companion `.md` note

@@ -17,7 +17,7 @@
 
 ### Recently Processed
 <!-- Auto-updated or manually maintained -->
-- (none yet)
+- [[Evernote/post-5-6-26]] (evernote-import, research note on LLM reasoning)
 
 ## File Type Breakdown (Target)
 | Type       | Status     | Notes                          |
