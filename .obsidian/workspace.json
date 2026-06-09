@@ -4,24 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "36a2e061a830e7a7",
+        "id": "f9330b9d3b6627af",
         "type": "tabs",
         "children": [
           {
-            "id": "6031475dafffa10d",
+            "id": "5276936d446823c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evernote/post-5-6-26.md",
+                "file": "raw_input/other/test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "post-5-6-26"
+              "title": "test"
+            }
+          },
+          {
+            "id": "751c103f64e1bd4b",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Hermes Indexing Dashboard.md",
+                "bFile": "Hermes Indexing Dashboard.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Hermes Indexing Dashboard  (Index)"
+            }
+          },
+          {
+            "id": "99106aa46a907f3d",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Hermes Indexing Dashboard.md",
+                "bFile": "Hermes Indexing Dashboard.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Hermes Indexing Dashboard  (Index)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,7 +194,7 @@
             }
           },
           {
-            "id": "8b201acea672985d",
+            "id": "505a4b5f0a9af7f9",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -181,38 +212,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6031475dafffa10d",
+  "active": "99106aa46a907f3d",
   "lastOpenFiles": [
-    "processed/evernote/post-5-6-26.enex",
-    "raw_input/evernote/post 5-6-26.enex",
-    "raw_input/evernote",
-    "raw_input/untitled folder",
-    "reviews/enex-processing-review-2026-06-09.md",
-    "processed/evernote/post 5-6-26.enex",
-    "processed/evernote",
-    "processed",
-    "retros/enex-processing-retro-2026-06-09.md",
-    "Evernote/post-5-6-26.md",
+    "conflict-files-obsidian-git.md",
+    "Hermes Indexing Dashboard.md",
     "raw_input/other/test.md",
     "tasks/enex-processing-tasks.md",
+    "tasks",
+    "reviews/enex-processing-review-2026-06-09.md",
     "reviews",
+    "retros/enex-processing-retro-2026-06-09.md",
+    "retros",
+    "processed/evernote/post-5-6-26.enex",
+    "processed/evernote",
+    "processed",
+    "memories/USER.md.lock",
+    "Evernote/post-5-6-26.md",
+    "Evernote",
+    "raw_input/other/2020 archive.enex",
     "raw_input/other/post 5-6-26.enex",
-    "8-points-self-improvement.md",
-    "Hermes Indexing Dashboard.md",
     "hermes-team-auto-indexing-process.md",
     "memories/USER.md",
     "memories/MEMORY.md",
-    "memories",
     "grok_SOUL.md"
   ]
 }
