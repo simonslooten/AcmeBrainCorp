@@ -16,7 +16,7 @@ raw_input/
 ```
 
 - Drop new files into the appropriate subfolder under `raw_input/`
-- Agents will create companion `.md` notes (usually at root or in `notes/`)
+- Agents will create companion `.md` notes (usually at root or in `notes/` or `Evernote/`)
 - Original files remain untouched in `raw_input/`
 
 ## Key Principles
@@ -59,7 +59,8 @@ When tung_tung processes a task for a non-markdown file, they:
 | `.xlsx`       | Extract key data + create structured note    | Companion `.md` note                |
 | Images        | Describe + tag                               | Companion `.md` note                |
 | `.md`         | Normal indexing                              | Direct processing                   |
+| `.enex`       | Parse Evernote XML (ENML), extract notes/metadata, create rich companion .md (frontmatter + summary + links + tags + processed: true) | `post 5-6-26.enex` → `Evernote/post-5-6-26.md` |
 
 ---
 
-This version now includes the `raw_input/` ingestion area and makes the agents responsible for creating companion `.md` notes.
+This version now includes the `raw_input/` ingestion area, makes the agents responsible for creating companion `.md` notes, and adds explicit `.enex` (Evernote) handling per Phase 1 conversion spec in t_72642295.
