@@ -11,10 +11,10 @@
             "id": "c9ac1bbe8a33fa05",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -187,7 +187,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "505a4b5f0a9af7f9",
+  "active": "c9ac1bbe8a33fa05",
   "lastOpenFiles": [
     "processed/evernote/2020-archive.enex",
     "Evernote/2020-archive.md",
