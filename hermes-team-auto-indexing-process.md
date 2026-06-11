@@ -48,8 +48,10 @@ Periodic scan for unprocessed files in `raw_input/`.
 - tung_tung must **not** mark a task complete without notifying grok-coo.
 - After any real processing work (especially the first few files), a retro must be run with bonica.
 - Review must be done by a different agent — no self-review.
+- tung_tung should only work on **one file at a time** unless explicitly approved by grok-coo. If the load is too high, additional agents should be brought in.
 
 When tung_tung processes a task for a non-markdown file, they:
+1. Create a companion `.md` note
 1. Create a companion `.md` note
 2. Add link/embed to the original file
 3. Write summary + key information
