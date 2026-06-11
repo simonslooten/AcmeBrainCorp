@@ -77,3 +77,25 @@ When tung_tung processes a task for a non-markdown file, they:
 ---
 
 This version now includes the `raw_input/` ingestion area, makes the agents responsible for creating companion `.md` notes, and adds explicit `.enex` (Evernote) handling per Phase 1 conversion spec in t_72642295.
+
+## Recurring Scanner Task (Bonica-owned)
+
+**Primary intelligence lives in a recurring Kanban task assigned to bonica:**
+
+- Task title: "Scan raw_input/ and create processing tasks"
+- Assignee: bonica
+- Status: ready (re-created after each run)
+
+**When bonica runs the scanner task she:**
+1. Scans the entire `raw_input/` tree recursively
+2. Skips `.gitkeep` and `.DS_Store`
+3. For every unprocessed file (no companion `.md` + no `processed: true` marker):
+   - Creates a **tung_tung** task (status: ready) for that specific file
+   - Creates a **bonica** review task in status `Todo (waiting on dependencies)` that depends on tung_tung's task
+4. After tung_tung finishes, bonica's review task becomes unblocked
+5. Bonica performs the 8-point retro, commits, pushes, and completes both tasks
+6. Re-creates the scanner task so the cycle continues
+
+This approach keeps all logic with the agents (no intelligence in cron jobs) and works reliably across machines because the scanner task itself is the source of truth.
+
+Current scanner task: t_cb2580be (created 2026-06-11)
