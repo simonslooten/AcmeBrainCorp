@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-export SYSTEM "http://xml.evernote.com/pub/evernote-export4.dtd">
+<en-export export-date="20260611T133408Z" application="Evernote" version="11.16.3">
+  <note>
+    <title>MT PNL 20170127</title>
+    <created>20170127T083619Z</created>
+    <updated>20170127T091639Z</updated>
+    <note-attributes>
+      <author>simon@simonslooten.com</author>
+      <source>desktop.mac</source>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note><div><en-todo checked="false" />KPI’s bepalen per afdeling<br/></div><div><en-todo checked="false" /><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><hr/></div><div>Support</div><div><br/></div><div>- Overzicht tickets waarop aantal dagen per stap in de workflow + aantal dagen tot closed</div><div><br/></div><div><br/></div></en-note>      ]]>
+    </content>
+  </note>
+  <note>
+    <title>Uurtatieven vergelijken zzp&apos;er en werknemer, van loodgieter tot effectenmakelaar, projectleider tot vormgever, journalist tot meubelmaker</title>
+    <created>20150909T202130Z</created>
+    <updated>20150909T202138Z</updated>
+    <tag>clearly</tag>
+    <tag>lonen zzp</tag>
+    <note-attributes>
+      <source>Clearly</source>
+      <source-url>http://www.loonwijzer.nl/home/eigenbaaswijzer/tarief-check/uurtarieven-in-50-beroepen-zzpers-vergeleken-met-werknemers</source-url>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note><div>
+ <div>
+  <div>
+   <h1> Uurtarieven in 50 beroepen: zzp'ers vergeleken met werknemers </h1>
+   <div>
+    <div></div>
+   </div>
+  </div> 
+  <div>
+    het uurtarief van een zzp'er vergeleken met een werknemer: van timmerman tot pedicure en koerier tot verpleegkundige 
+  </div> 
+  <p>De gegevens komen uit de Loonwijzer Salaris Enquête en de Eigenbaaswijzer Zelfstandigen Enquête. De Salaris Enquête levert data uit de periode 2006 tot en met december 2010. De Zelfstandigen Enquête heeft uitsluitend in de 2e helft van 2010 data verstrekt.</p> 
+  <p>Bedenk dat zzp'ers naast hun kosten voor bedrijfsmiddelen, huisvesting en energie en dergelijke ook hun kosten voor arbeidsongeschiktheidsverzekering, pensioen, vakantiedagen en vakantiegeld in de uurtarieven moeten verwerken.</p> 
+  <div>
+   <table><tr><th colspan="2" rowspan="1"><strong>Uurtarief ZZP'ers</strong></th><th colspan="2" rowspan="1"><strong>Bruto uurloon werknemers</strong></th></tr><tr><th colspan="1" rowspan="1"><strong>Minimum</strong></th><th colspan="1" rowspan="1"><strong>Maximum</strong></th><th colspan="1" rowspan="1"><strong>Minimum</strong></th><th colspan="1" rowspan="1"><strong>Maximum</strong></th></tr><tr><td colspan="1" rowspan="1">Schoonmaker kantoren, scholen, andere gebouwen</td><td colspan="1" rowspan="1">€ 12</td><td colspan="1" rowspan="1">€ 20</td><td colspan="1" rowspan="1">€ 9</td><td colspan="1" rowspan="1">€ 14</td></tr><tr><td colspan="1" rowspan="1">Kapper</td><td colspan="1" rowspan="1">€ 15</td><td colspan="1" rowspan="1">€ 25</td><td colspan="1" rowspan="1">€ 8</td><td colspan="1" rowspan="1">€ 13</td></tr><tr><td colspan="1" rowspan="1">Pedicure</td><td colspan="1" rowspan="1">€ 15</td><td colspan="1" rowspan="1">€ 25</td><td colspan="1" rowspan="1">€ 10</td><td colspan="1" rowspan="1">€ 11</td></tr><tr><td colspan="1" rowspan="1">Schoonheidsspecialiste</td><td colspan="1" rowspan="1">€ 15</td><td colspan="1" rowspan="1">€ 25</td><td colspan="1" rowspan="1">€ 7</td><td colspan="1" rowspan="1">€ 11</td></tr><tr><td colspan="1" rowspan="1">Tuinman</td><td colspan="1" rowspan="1">€ 15</td><td colspan="1" rowspan="1">€ 25</td><td colspan="1" rowspan="1">€ 10</td><td colspan="1" rowspan="1">€ 15</td></tr><tr><td colspan="1" rowspan="1">Kweker bloemen, planten, bloembollen</td><td colspan="1" rowspan="1">€ 15</td><td colspan="1" rowspan="1">€ 35</td><td colspan="1" rowspan="1">€ 14</td><td colspan="1" rowspan="1">€ 19</td></tr><tr><td colspan="1" rowspan="1">Veefokker</td><td colspan="1" rowspan="1">€ 15</td><td colspan="1" rowspan="1">€ 45</td><td colspan="1" rowspan="1">€ 13</td><td colspan="1" rowspan="1">€ 23</td></tr><tr><td colspan="1" rowspan="1">Metselaar</td><td colspan="1" rowspan="1">€ 18</td><td colspan="1" rowspan="1">€ 35</td><td colspan="1" rowspan="1">€ 13</td><td colspan="1" rowspan="1">€ 17</td></tr><tr><td colspan="1" rowspan="1">Timmerman</td><td colspan="1" rowspan="1">€ 20</td><td colspan="1" rowspan="1">€ 30</td><td colspan="1" rowspan="1">€ 12</td><td colspan="1" rowspan="1">€ 16</td></tr><tr><td colspan="1" rowspan="1">Taxichauffeur</td><td colspan="1" rowspan="1">€ 20</td><td colspan="1" rowspan="1">€ 30</td><td colspan="1" rowspan="1">€ 8</td><td colspan="1" rowspan="1">€ 12</td></tr><tr><td colspan="1" rowspan="1">Medewerker thuiszorg</td><td colspan="1" rowspan="1">€ 20</td><td colspan="1" rowspan="1">€ 35</td><td colspan="1" rowspan="1">€ 10</td><td colspan="1" rowspan="1">€ 17</td></tr><tr><td colspan="1" rowspan="1">Etalage decorateur</td><td colspan="1" rowspan="1">€ 20</td><td colspan="1" rowspan="1">€ 40</td><td colspan="1" rowspan="1">€ 10</td><td colspan="1" rowspan="1">€ 17</td></tr><tr><td colspan="1" rowspan="1">Beveiliger</td><td colspan="1" rowspan="1">€ 20</td><td colspan="1" rowspan="1">€ 40</td><td colspan="1" rowspan="1">€ 11</td><td colspan="1" rowspan="1">€ 16</td></tr><tr><td colspan="1" rowspan="1">Automonteur</td><td colspan="1" rowspan="1">€ 25</td><td colspan="1" rowspan="1">€ 35</td><td colspan="1" rowspan="1">€ 10</td><td colspan="1" rowspan="1">€ 15</td></tr><tr><td colspan="1" rowspan="1">Koerier</td><td colspan="1" rowspan="1">€ 25</td><td colspan="1" rowspan="1">€ 35</td><td colspan="1" rowspan="1">€ 9</td><td colspan="1" rowspan="1">€ 12</td></tr><tr><td colspan="1" rowspan="1">Vrachtwagenchauffeur</td><td colspan="1" rowspan="1">€ 25</td><td colspan="1" rowspan="1">€ 35</td><td colspan="1" rowspan="1">€ 11</td><td colspan="1" rowspan="1">€ 15</td></tr><tr><td colspan="1" rowspan="1">Installatie‐of servicemonteur cv installaties</td><td colspan="1" rowspan="1">€ 25</td><td colspan="1" rowspan="1">€ 45</td><td colspan="1" rowspan="1">€ 12</td><td colspan="1" rowspan="1">€ 16</td></tr><tr><td colspan="1" rowspan="1">Tekenaar bouwfysische voorzieningen</td><td colspan="1" rowspan="1">€ 25</td><td colspan="1" rowspan="1">€ 45</td><td colspan="1" rowspan="1">€ 11</td><td colspan="1" rowspan="1">€ 16</td></tr><tr><td colspan="1" rowspan="1">Verpleegkundige (mbo)</td><td colspan="1" rowspan="1">€ 25</td><td colspan="1" rowspan="1">€ 45</td><td colspan="1" rowspan="1">€ 12</td><td colspan="1" rowspan="1">€ 18</td></tr><tr><td colspan="1" rowspan="1">Monteur landbouwmachines</td><td colspan="1" rowspan="1">€ 25</td><td colspan="1" rowspan="1">€ 45</td><td colspan="1" rowspan="1">€ 13</td><td colspan="1" rowspan="1">€ 18</td></tr><tr><td colspan="1" rowspan="1">Huisschilder</td><td colspan="1" rowspan="1">€ 25</td><td colspan="1" rowspan="1">€ 50</td><td colspan="1" rowspan="1">€ 11</td><td colspan="1" rowspan="1">€ 16</td></tr><tr><td colspan="1" rowspan="1">Loodgieter</td><td colspan="1" rowspan="1">€ 25</td><td colspan="1" rowspan="1">€ 50</td><td colspan="1" rowspan="1">€ 10</td><td colspan="1" rowspan="1">€ 16</td></tr><tr><td colspan="1" rowspan="1">Monteur systeemplafonds, scheidingswanden</td><td colspan="1" rowspan="1">€ 25</td><td colspan="1" rowspan="1">€ 50</td><td colspan="1" rowspan="1">€ 10</td><td colspan="1" rowspan="1">€ 14</td></tr><tr><td colspan="1" rowspan="1">Uitvoerder bouw</td><td colspan="1" rowspan="1">€ 25</td><td colspan="1" rowspan="1">€ 50</td><td colspan="1" rowspan="1">€ 15</td><td colspan="1" rowspan="1">€ 22</td></tr><tr><td colspan="1" rowspan="1">Stukadoor</td><td colspan="1" rowspan="1">€ 25</td><td colspan="1" rowspan="1">€ 55</td><td colspan="1" rowspan="1">€ 11</td><td colspan="1" rowspan="1">€ 17</td></tr><tr><td colspan="1" rowspan="1">Tegelzetter, tegellegger</td><td colspan="1" rowspan="1">€ 25</td><td colspan="1" rowspan="1">€ 55</td><td colspan="1" rowspan="1">€ 10</td><td colspan="1" rowspan="1">€ 16</td></tr><tr><td colspan="1" rowspan="1">Meubelmaker (ambachtelijk)</td><td colspan="1" rowspan="1">€ 25</td><td colspan="1" rowspan="1">€ 80</td><td colspan="1" rowspan="1">€ 10</td><td colspan="1" rowspan="1">€ 16</td></tr><tr><td colspan="1" rowspan="1">Journalist</td><td colspan="1" rowspan="1">€ 30</td><td colspan="1" rowspan="1">€ 90</td><td colspan="1" rowspan="1">€ 11</td><td colspan="1" rowspan="1">€ 22</td></tr><tr><td colspan="1" rowspan="1">Applicatieprogrammeur</td><td colspan="1" rowspan="1">€ 30</td><td colspan="1" rowspan="1">€ 150</td><td colspan="1" rowspan="1">€ 13</td><td colspan="1" rowspan="1">€ 19</td></tr><tr><td colspan="1" rowspan="1">Civiel ingenieur (wo)</td><td colspan="1" rowspan="1">€ 30</td><td colspan="1" rowspan="1">€ 160</td><td colspan="1" rowspan="1">€ 16</td><td colspan="1" rowspan="1">€ 28</td></tr><tr><td colspan="1" rowspan="1">Fysiotherapeut</td><td colspan="1" rowspan="1">€ 40</td><td colspan="1" rowspan="1">€ 75</td><td colspan="1" rowspan="1">€ 11</td><td colspan="1" rowspan="1">€ 20</td></tr><tr><td colspan="1" rowspan="1">Public relations medewerker</td><td colspan="1" rowspan="1">€ 40</td><td colspan="1" rowspan="1">€ 80</td><td colspan="1" rowspan="1">€ 13</td><td colspan="1" rowspan="1">€ 20</td></tr><tr><td colspan="1" rowspan="1">Accountant, administratieconsulent (AAC)</td><td colspan="1" rowspan="1">€ 40</td><td colspan="1" rowspan="1">€ 120</td><td colspan="1" rowspan="1">€ 17</td><td colspan="1" rowspan="1">€ 29</td></tr><tr><td colspan="1" rowspan="1">Bouwkundig architect</td><td colspan="1" rowspan="1">€ 45</td><td colspan="1" rowspan="1">€ 90</td><td colspan="1" rowspan="1">€ 14</td><td colspan="1" rowspan="1">€ 23</td></tr><tr><td colspan="1" rowspan="1">IT operations technicus</td><td colspan="1" rowspan="1">€ 45</td><td colspan="1" rowspan="1">€ 95</td><td colspan="1" rowspan="1">€ 14</td><td colspan="1" rowspan="1">€ 22</td></tr><tr><td colspan="1" rowspan="1">Systeemanalist</td><td colspan="1" rowspan="1">€ 45</td><td colspan="1" rowspan="1">€ 95</td><td colspan="1" rowspan="1">€ 17</td><td colspan="1" rowspan="1">€ 26</td></tr><tr><td colspan="1" rowspan="1">Grafisch vormgever (mbo)</td><td colspan="1" rowspan="1">€ 45</td><td colspan="1" rowspan="1">€ 95</td><td colspan="1" rowspan="1">€ 10</td><td colspan="1" rowspan="1">€ 16</td></tr><tr><td colspan="1" rowspan="1">Toneelontwerper, tribuneontwerper</td><td colspan="1" rowspan="1">€ 45</td><td colspan="1" rowspan="1">€ 120</td><td colspan="1" rowspan="1">€ 9</td><td colspan="1" rowspan="1">€ 14</td></tr><tr><td colspan="1" rowspan="1">Makelaar in onroerend goed</td><td colspan="1" rowspan="1">€ 50</td><td colspan="1" rowspan="1">€ 100</td><td colspan="1" rowspan="1">€ 12</td><td colspan="1" rowspan="1">€ 20</td></tr><tr><td colspan="1" rowspan="1">Projectleider IT</td><td colspan="1" rowspan="1">€ 50</td><td colspan="1" rowspan="1">€ 110</td><td colspan="1" rowspan="1">€ 19</td><td colspan="1" rowspan="1">€ 27</td></tr><tr><td colspan="1" rowspan="1">Effectenmakelaar</td><td colspan="1" rowspan="1">€ 50</td><td colspan="1" rowspan="1">€ 150</td><td colspan="1" rowspan="1">€ 19</td><td colspan="1" rowspan="1">€ 43</td></tr><tr><td colspan="1" rowspan="1">Merkenmanager, product manager</td><td colspan="1" rowspan="1">€ 50</td><td colspan="1" rowspan="1">€ 150</td><td colspan="1" rowspan="1">€ 17</td><td colspan="1" rowspan="1">€ 28</td></tr><tr><td colspan="1" rowspan="1">Financieel adviseur</td><td colspan="1" rowspan="1">€ 60</td><td colspan="1" rowspan="1">€ 180</td><td colspan="1" rowspan="1">€ 14</td><td colspan="1" rowspan="1">€ 25</td></tr><tr><td colspan="1" rowspan="1">Informatie consultant</td><td colspan="1" rowspan="1">€ 65</td><td colspan="1" rowspan="1">€ 95</td><td colspan="1" rowspan="1">€ 16</td><td colspan="1" rowspan="1">€ 25</td></tr><tr><td colspan="1" rowspan="1">Personeelsadviseur</td><td colspan="1" rowspan="1">€ 65</td><td colspan="1" rowspan="1">€ 120</td><td colspan="1" rowspan="1">€ 14</td><td colspan="1" rowspan="1">€ 21</td></tr><tr><td colspan="1" rowspan="1">Psycholoog</td><td colspan="1" rowspan="1">€ 70</td><td colspan="1" rowspan="1">€ 120</td><td colspan="1" rowspan="1">€ 15</td><td colspan="1" rowspan="1">€ 24</td></tr><tr><td colspan="1" rowspan="1">Jurist, juridisch adviseur</td><td colspan="1" rowspan="1">€ 70</td><td colspan="1" rowspan="1">€ 180</td><td colspan="1" rowspan="1">€ 14</td><td colspan="1" rowspan="1">€ 23</td></tr><tr><td colspan="1" rowspan="1">Bedrijfsorganisatie deskundige</td><td colspan="1" rowspan="1">€ 80</td><td colspan="1" rowspan="1">€ 150</td><td colspan="1" rowspan="1">€ 16</td><td colspan="1" rowspan="1">€ 28</td></tr><tr><td colspan="1" rowspan="1">Organisatie adviseur</td><td colspan="1" rowspan="1">€ 80</td><td colspan="1" rowspan="1">€ 150</td><td colspan="1" rowspan="1">€ 17</td><td colspan="1" rowspan="1">€ 26</td></tr></table>
+  </div> 
+  <h3>Hoe het totale ondernemersplaatje eruit ziet van:</h3> 
+  <ul><li><a shape="rect" href="http://www.loonwijzer.nl/home/eigenbaaswijzer/tarief-check/trainer-coach-docent" title="zzp coach, docent, trainer" target="_blank">Docenten, coaches, trainers </a></li></ul>
+  <ul><li><a shape="rect" href="http://www.loonwijzer.nl/home/eigenbaaswijzer/tarief-check/home/eigenbaaswijzer/tarief-check/zzp-zorg" title="zzp zorgverleners" target="_blank">Verpleegkundigen, verzorgenden, begeleiders</a></li></ul>
+  <ul><li><a shape="rect" href="http://www.loonwijzer.nl/home/eigenbaaswijzer/tarief-check/zzp-it" title="zzp'ers in IT" target="_blank">Webbouwers, programmeurs, webarchitecten</a></li></ul>
+  <ul><li><a shape="rect" href="http://www.loonwijzer.nl/home/eigenbaaswijzer/tarief-check/zzp-bouw" title="zzp'ers in de bouw" target="_blank">Stucadoors, timmerlieden, loodgieters</a></li></ul>
+  <ul><li><a shape="rect" href="http://www.loonwijzer.nl/home/eigenbaaswijzer/tarief-check/zelfstandige-adviseurs" title="zelfstandige adviseurs" target="_blank">Adviseurs, consulenten, raadsmannen</a></li></ul>
+  <ul><li><a shape="rect" href="http://www.loonwijzer.nl/home/eigenbaaswijzer/tarief-check/zzp-culturele-sector" title="zzp'ers in de culturele sector" target="_blank">Beeldend kunstenaars, muzikanten, acteurs</a></li></ul>
+ </div>
+</div></en-note>      ]]>
+    </content>
+  </note>
+  <note>
+    <title>MT PNL 2015M04H1 - ?? April 2015</title>
+    <created>20150406T190549Z</created>
+    <updated>20150406T190730Z</updated>
+    <note-attributes>
+      <author>simon@simonslooten.com</author>
+      <source>desktop.mac</source>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note>
+<div><en-todo/>Wordt er een backup vd laptops gemaakt?</div>
+<div><en-todo/>Status van 8-6 beriekbaarheid?</div>
+<div><en-todo/>Wanneer is project rapportage representatief?</div>
+<div><en-todo/>Project Management</div>
+<div><en-todo/></div>
+<div><br/></div>
+</en-note>      ]]>
+    </content>
+  </note>
+  <note>
+    <title>MT PNL 2015M03H1 - 12 mar 2015</title>
+    <created>20150310T195138Z</created>
+    <updated>20150312T131541Z</updated>
+    <note-attributes>
+      <author>simon@simonslooten.com</author>
+      <source>desktop.mac</source>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note>
+<div>- Bastiaan de Vogel &amp; Jeroen Albers zijn die gecontact? - Joyce</div>
+<div>- afspraak Natascha</div>
+<div>- afsluiten TT projecten - </div>
+<div><br/></div>
+<div>- Verhuizing sales</div>
+<div>- </div>
+<div><br/></div>
+<div><br/></div>
+<div><span style="font: 12.0px Helvetica; color: #0433ff"><a href="http://fuze.me/27801822"><u>http://fuze.me/27801822</u></a></span><br/></div>
+</en-note>      ]]>
+    </content>
+  </note>
+  <note>
+    <title>New Technologies</title>
+    <created>20150310T130755Z</created>
+    <updated>20150311T120059Z</updated>
+    <note-attributes>
+      <author>simon@simonslooten.com</author>
+      <source>desktop.mac</source>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note>
+<div>New Technologies - discussion</div>
+<div><br/></div>
+<div>Ik wil graag een discussie starten over het omarmen en adopteren van nieuwe technologien.</div>
+<div>In het verhaaltje dat ik aan het begin van dit jaar heb gestuurd, heb ik al aangegeven dat het ons - wat mij betreft - niet voldoende lukt om nieuwe technologien binnen deze organisatie te adopteren.</div>
+<div><br/></div>
+<div>Het is voor een bedrijf als Prisma IT van groot belang om onszelf “continu” opnieuw uit te vinden. Dat moeten we doen omdat de technieken en technologien in ons “field of operation” continu veranderen.</div>
+<div>Stilstand in de technoogien die wij gebruiken, is voor een bedrijf als Prisma IT binnen een paar jaar “killing”.</div>
+<div><br/></div>
+<div>Het lukt ons de laatste jaren niet goed (genoeg) om nieuwe technologien uit te proberen, te testen en als blijkt dat ze geschikt zijn, te adopteren.</div>
+<div><br/></div>
+<div>Op deze manier hebben we in de afgelopen periode technologien als Sencha, Sumo, Mendix, Bonita, MonoDB “verloren”.</div>
+</en-note>      ]]>
+    </content>
+  </note>
+  <note>
+    <title>PNL 2015 Werkafspraken</title>
+    <created>20150109T104624Z</created>
+    <updated>20150221T074110Z</updated>
+    <note-attributes>
+      <author>simon@simonslooten.com</author>
+      <source>desktop.mac</source>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note>
+<div>Sales</div>
+<div>     Offertes</div>
+<div>     CRM</div>
+<div>     Leveringsvoorwaarden</div>
+<div>     NDA's</div>
+<div>     Contracten</div>
+<div>     Opdrachtbevestigingen</div>
+<div>Marketing</div>
+<div>Operations</div>
+<div>Projecten</div>
+<div>     Project Management</div>
+<div>     Opleverdocumenten</div>
+<div>     Garantie</div>
+<div>Financiele administratie</div>
+<div>PZ</div>
+<div><br/></div>
+<div><br/></div>
+<div><br/></div>
+<div>
+<hr/></div>
+<div><br/></div>
+<div>“afbrokkelen"</div>
+<div><br/></div>
+<div>- copyright Prisma IT notice</div>
+<div><br/></div>
+<div>- ik ga mezelf niet verantwoorden</div>
+<div>- niet dingen “achterlangs” terugkrijgen</div>
+<div>- niet de organisatie wijzigen</div>
+<div>- er is een reden dat ik op omzet stuur ik wil dat eigenlijk niet wijzigen (hooguit op operationeel resultaat)</div>
+<div>- </div>
+<div><br/></div>
+<div><br/></div>
+<div>CRM: vtiger, odoo, zoo of zurmo, <a href="https://www.insightly.com" style="font-family: Times; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;">https://www.insightly.com</a></div>
+</en-note>      ]]>
+    </content>
+  </note>
+  <note>
+    <title>Ziekteverzuim</title>
+    <created>20150125T205029Z</created>
+    <updated>20150125T205922Z</updated>
+    <note-attributes>
+      <author>simon@simonslooten.com</author>
+      <source>desktop.mac</source>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note>
+<div><br/></div>
+<div>
+<hr/></div>
+<div>Week van arbeidsongeschiktheid Loondoorbetaling percentage van het loon</div>
+<div>1 t/m 26 100%</div>
+<div>27 t/m 52 95%</div>
+<div>53 t/m 78 85%</div>
+<div>79 t/m 104 80%</div>
+<div><br/></div>
+<div><a href="https://www.randstadpayrollsolutions.nl/downloads/payroll-solutions/VPO-Arbeidsvoorwaardenregeling.pdf">https://www.randstadpayrollsolutions.nl/downloads/payroll-solutions/VPO-Arbeidsvoorwaardenregeling.pdf</a><br/></div>
+<div>
+<hr/></div>
+<div><br/></div>
+<div>
+<div style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">
+<h1 style="padding: 0px; border: 0px; font-family: 'PT Serif'; font-size: 1.875em; font-style: inherit; font-variant: inherit; font-weight: normal; font-stretch: inherit; vertical-align: baseline; text-align: left;">Voorbeeld verzuimbeleid</h1>
+<div style="padding: 1.5em 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline; text-align: center;">
+<div style="padding: 0px 4em; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline; left: -4em; top: 8px; z-index: 10; opacity: 0.5; background: -webkit-linear-gradient(0deg, rgb(243, 242, 238) 1%, rgb(31, 9, 9) 50%, rgb(243, 242, 238) 99%);"></div>
+</div>
+</div>
+<p style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;"><a href="http://www.penoactueel.nl/HR-Strategie/Algemeen/2012/11/Voorbeeld-verzuimbeleid-PENO009035W/#comments" target="_blank" style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline; color: rgb(31, 9, 9); text-decoration: none;">0</a> <a href="http://www.penoactueel.nl/HR-Strategie/" target="_blank" style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline; color: rgb(31, 9, 9); text-decoration: none;">Strategie</a></p>
+<div style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">
+<div style="padding: 0px; border: 0px; font-family: 'PT Serif'; font-size: 16px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: inherit; vertical-align: baseline; color: rgb(31, 9, 9); letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;">Voor een regeling op het gebied van de arbeidsomstandigheden, het ziekteverzuim of het re- integratiebeleid is instemming van de OR vereist (artikel 27 lid 1 sub d Wet op de Ondernemingsraden, WOR).</div>
+<div style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline; text-align: center;"><en-media alt="Voorbeeld verzuimbeleid" title="Voorbeeld verzuimbeleid" style="padding: 0px; border: 0px rgb(31, 9, 9); font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline; max-width: 100%; height: auto;" type="image/jpeg" hash="53c4270984c727eb6b4b8ab5a65b9edb" /></div>
+<div style="padding: 0px; border: 0px; font-family: 'PT Serif'; font-size: 16px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: inherit; vertical-align: baseline; color: rgb(31, 9, 9); letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;">
+<p style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">Verzuimbeleid bij [<strong style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; vertical-align: baseline;">naam werkgever</strong>]<br/>
+[<strong style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; vertical-align: baseline;">naam werkgever</strong>] heeft een aantal vestigingen, die afzonderlijk zijn aangesloten bij diverse Arbodiensten. Het verzuimbeleid van [<strong style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; vertical-align: baseline;">naam werkgever</strong>] wordt nader uiteengezet. Een en ander is van toepassing op alle medewerkers in dienst van [<strong style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; vertical-align: baseline;">naam werkgever</strong>].<br/>
+<br/>
+[<strong style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; vertical-align: baseline;">naam werkgever</strong>] opereert in een vrije markteconomie. Om daarin ook op langere termijn succesvol te zijn dient zij te beschikken over voldoende financiële, technische en commerciële middelen en over mensen die in staat zijn en voldoende gemotiveerd zijn om zich zodanig in te zetten, zodat de doelstelling van [<strong style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; vertical-align: baseline;">naam werkgever</strong>] wordt bereikt.</p>
+<p style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">Binnen de Afdeling Human Resources van [naam werkgever] gaat het er om een bijdrage te leveren aan het bereiken van de ondernemingsdoelstellingen door zorg te dragen voor de mensen in de onderneming, voor de organisatie van hun werk en voor hun functioneren in die organisatie. In dit kader streeft [naam werkgever] naar dusdanige arbeidssituaties dat de medewerkers zo goed mogelijk in staat worden gesteld en voldoende gemotiveerd zijn om optimale arbeidsprestaties te leveren.</p>
+<p style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">Om te voorkomen dat medewerkers door negatieve aspecten in het werk en/of de organisatie minder gemotiveerd zijn en/of ziek worden, gaat hierbij bijzondere aandacht uit naar het creëren van voor de medewerker optimale:</p>
+<ul style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline; list-style: none;">
+<li style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline; list-style-type: disc; list-style-position: outside;">arbeidsomstandigheden</li>
+<li style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline; list-style-type: disc; list-style-position: outside;">organisatie en inhoud van het werk</li>
+<li style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline; list-style-type: disc; list-style-position: outside;">arbeidsverhoudingen</li>
+<li style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline; list-style-type: disc; list-style-position: outside;">arbeidsvoorwaarden</li>
+</ul>
+<p style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">[<strong style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; vertical-align: baseline;">naam werkgever</strong>] vindt het om deze reden wenselijk om aandacht te besteden aan het arbeidsomstandigheden- en verzuimbeleid. Daarnaast is [<strong style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; vertical-align: baseline;">naam werkgever</strong>] dit verplicht op grond van de Arbeidsomstandighedenwet (ARBO), de Wet Terugdringing Ziekteverzuim (TZ), Wet Uitbreiding Loondoorbetalingsplicht bij Ziekte (WULBZ) en Wet Verbetering Poortwachter (WVP). Bovendien is het voor [naam werkgever] noodzakelijk om de directe kosten (salaris, inlenen extra personeel) en de indirecte kosten van verzuim (extra belasting van de collega's van de zieke, toename van fouten, inwerkproblemen bij/na herstel, extra aandacht voor re-integratie) te beperken.<br/>
+<br/>
+Tenslotte draagt een laag verzuim bij aan het goede imago van onze onderneming. Dit geldt zowel voor de arbeids- als afzetmarkt. [<strong style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; vertical-align: baseline;">naam werkgever</strong>] beschouwt het als één van de taken van iedere leidinggevende om zich optimaal in te zetten om het verzuim te voorkomen dan wel terug te dringen. Dit kan bereikt worden door:</p>
+<ul style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline; list-style: none;">
+<li style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline; list-style-type: disc; list-style-position: outside;">verzuimpreventie</li>
+<li style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline; list-style-type: disc; list-style-position: outside;">verzuimbegeleiding.</li>
+</ul>
+<h2 style="padding: 0px; border: 0px; font-family: 'PT Serif'; font-size: 1.3125em; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; vertical-align: baseline; text-align: left;">Verzuimpreventie</h2>
+<p style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">Het verzuimbeleid van [<strong style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; vertical-align: baseline;">naam werkgever</strong>] richt zich erop arbeidsomstandigheden en verzuim aan elkaar te koppelen. Leidinggevenden dienen in hun beleid zorg te dragen voor de veiligheid, de gezondheid en het welzijn van hun medewerkers.</p>
+<p style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">De Arbo-wet bepaalt dat in bedrijven onder andere een risico-inventarisatie moet worden uitgevoerd. Deze risico-inventarisatie wordt bij [<strong style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; vertical-align: baseline;">naam werkgever</strong>] gecoördineerd door de Arbo-coördinator ([<strong style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; vertical-align: baseline;">functienaam coördinator</strong>]) en uitgevoerd door de leidinggevende in samenwerking met de desbetreffende Arbodienst. Eventuele verbeteringen van de arbeidsomstandigheden zullen door de leidinggevende verwezenlijkt dienen te worden. Deze verbeteringen worden weergegeven in het Arbo-jaarplan.</p>
+<p style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">De stijl van leidinggeven speelt een belangrijke rol in verzuimpreventie en -begeleiding. Door als leidinggevende open te staan voor ideeën en suggesties van medewerkers met betrekking tot het werk en de werkomstandigheden, kan voorkomen worden dat mensen zich - oneigenlijk of onnodig - ziekmelden. Persoonlijke belangstelling en een open communicatie waarbij kritiek, maar vooral ook waardering vrijelijk worden geuit zijn een vereiste voor goede arbeidsverhoudingen. Gestructureerd werkoverleg, waarbij arbeidsomstandigheden per kwartaal een vast agendapunt vormen, is belangrijk om de medewerkers te betrekken bij de bedrijfsvoering.</p>
+<p style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">De leidinggevende moet alert zijn op signalen van medewerkers waaruit blijkt dat zij niet goed functioneren of problemen hebben (met het werk).<br/>
+Tevens behoeven frequente en om onduidelijke redenen afwezige verzuimers de aandacht. Frequent verzuim kan worden aangetoond door de verzuimoverzichten.</p>
+<p style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">Persoonlijke gesprekken tussen leidinggevende en medewerker moeten inzicht geven in de achterliggende oorzaken en, afhankelijk van de aard van die oorzaken, leiden tot de te volgen aanpak.</p>
+<p style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">De leidinggevende kan te allen tijde assistentie vragen van:</p>
+<ul style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline; list-style: none;">
+<li style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline; list-style-type: disc; list-style-position: outside;">de Afdeling Human Resources</li>
+<li style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline; list-style-type: disc; list-style-position: outside;">de desbetreffende Arbodienst</li>
+<li style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline; list-style-type: disc; list-style-position: outside;">de Arbo-coördinator</li>
+</ul>
+<h2 style="padding: 0px; border: 0px; font-family: 'PT Serif'; font-size: 1.3125em; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; vertical-align: baseline; text-align: left;">Verzuimbegeleiding</h2>
+<h2 style="padding: 0px; border: 0px; font-family: 'PT Serif'; font-size: 1.3125em; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; vertical-align: baseline; text-align: left;">De bedrijfsarts</h2>
+<p style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">De bedrijfsarts van de Arbodienst houdt regelmatig spreekuur. Iedere medewerker kan zelf altijd een afspraak maken met de bedrijfsarts. Na 3 weken ziekte wordt de medewerker automatisch uitgenodigd voor een gesprek met de bedrijfsarts. Dit spreekuur is de basis voor het opstellen van de probleemanalyse die de bedrijfsarts binnen 6 weken ziekte opstelt. Deze analyse wordt gestuurd naar de medewerker en de leidinggevende.<br/>
+<br/>
+Tijdens het spreekuur wordt tevens een uitgebreid werkhervattingsadvies opgesteld waarvan zowel de medewerker als de adviseur Human Resources een afschrift ontvangen.</p>
+<p style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">De bedrijfsarts speelt een belangrijke rol in het proces omtrent de Wet Verbetering Poortwachter (WVP). De bedrijfsarts adviseert en informeert de medewerker over zijn rechten en plichten in het kader van de WVP. Tevens adviseert hij bij het opstellen van het plan van aanpak en verzorgt het medisch deel van het re-integratieverslag.<br/>
+De veiligheidsdeskundige, de arbeidshygiënist, de bedrijfsergonoom en de arbeids- en organisatiedeskundige van de Arbodienst kunnen door de leidinggevenden na overleg met de Arbo-coördinator geraadpleegd worden over klachten in verband met risico's van het werk. Als een medewerker de bovengenoemde deskundigen wil raadplegen dan neemt deze in eerste instantie contact op met zijn leidinggevende (bijvoorbeeld in het werkoverleg). Verloopt dit contact voor de medewerker niet bevredigend, dan kan de medewerker altijd in tweede instantie de Arbo-coördinator inschakelen.<br/>
+De Arbodienst verzorgt de controle en de sociaal medische begeleiding van de ziek gemelde medewerker. <br/>
+Tevens ondersteunt de Arbodienst bij de risico-inventarisaties.</p>
+<h2 style="padding: 0px; border: 0px; font-family: 'PT Serif'; font-size: 1.3125em; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; vertical-align: baseline; text-align: left;">De Arbo-coördinator</h2>
+<p style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">De Arbo-coördinator coördineert alle activiteiten op Arbo-gebied. In jaarplannen worden alle maatregelen die genomen moeten worden naar aanleiding van de risico-inventarisaties van alle afdelingen opgenomen.</p>
+<h2 style="padding: 0px; border: 0px; font-family: 'PT Serif'; font-size: 1.3125em; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; vertical-align: baseline; text-align: left;">De medewerker</h2>
+<p style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">De medewerker dient zich ook actief op te stellen in het arbeidsomstandighedenbeleid. Hij moet eventuele problemen aan de orde stellen tijdens het werkoverleg, functioneringsgesprek in het kader van het Personal Development Program (PDP) of in een persoonlijk gesprek met de leidinggevende. Als een medewerker niet in eerste instantie problemen wil bespreken met de leidinggevende kan de medewerker rechtstreeks contact opnemen met een ander relevant persoon, afdeling of bedrijfsarts, adviseur Human Resources of vertrouwenspersoon. De medewerker heeft de vrijheid om te allen tijde van het spreekuur van de bedrijfsarts gebruik te maken.</p>
+<p style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">Op het moment dat een medewerker ziek is, meldt hij dit bij zijn leidinggevende en bij de Afdeling Human Resources (eventueel kan dit ook worden waargenomen door de leidinggevende). <br/>
+Het verdient aanbeveling om vanaf het begin van de ziekte aantekeningen te maken over het verloop van de ziekte, gemaakte afspraken etc. Dit kan later van pas komen bij het opstellen van het plan van aanpak en bij het opstellen van het re-integratieverslag door de medewerker.</p>
+<p style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">Vanaf dit moment gelden de controlevoorschriften bij [naam werkgever]. <br/>
+De medewerker werkt mee aan de uitvoering van het plan van aanpak dat wordt opgesteld in samenspraak met de leidinggevende.</p>
+<p style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">In ieder geval eenmaal per 6 weken bespreekt de leidinggevende dit plan van aanpak met de medewerker en stelt dit eventueel bij. De medewerker evalueert het plan van aanpak eveneens met de bedrijfsarts tijdens het spreekuur.<br/>
+Als de medewerker 90 weken ziek is moet hij/zij zelf de WIA-aanvraag in dienen. Deze aanvraag dient vergezeld te gaan van het verslag van de bedrijfsarts, het verslag van de leidinggevende en het verslag van de medewerker zelf.<br/>
+Als een medewerker niet in voldoende mate meewerkt aan een spoedige re-integratie kan zijn of haar loon opgeschort worden.</p>
+<h2 style="padding: 0px; border: 0px; font-family: 'PT Serif'; font-size: 1.3125em; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; vertical-align: baseline; text-align: left;">De direct leidinggevende</h2>
+<p style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">Zodra een medewerker zich ziek meldt heeft de leidinggevende een kort gesprek met de zieke. Wat is de reden van het verzuim, hoe lang gaat het duren? etc. Het verdient aanbeveling dat de leidinggevende aantekeningen (komen later van pas voor het eventueel opstellen van het verzuimdossier) maakt en afspraken noteert, zodat eventuele vervolgacties gericht plaats kunnen vinden.</p>
+<p style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">Eventueel kan de leidinggevende, via de adviseur Human Resources, een controle door de Arbodienst aanvragen.<br/>
+Controles zijn functioneel als de medewerker niet bereid is zijn verzuimgedrag te verantwoorden en/of te veranderen. Aan de andere kant kunnen controles blijk geven van een gebrek aan vertrouwen en kunnen dientengevolge de sfeer bederven. Het is daarom belangrijk om het instrument zorgvuldig te gebruiken. Een belangrijke voorwaarde voor de aanvraag van een spoedcontrole is dat de leidinggevende reeds eerder een verzuimgesprek heeft gevoerd waarbij wantrouwen reeds aan de orde is geweest.</p>
+<p style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">Belangrijk is dat de leidinggevende het contact met de zieke onderhoudt om de drempel van terugkeer zo laag mogelijk te houden; kaarten of attenties sturen, bellen of op bezoek gaan. Het verdient aanbeveling ziekenbezoek van de leidinggevende en/of collega's alleen na aankondiging en instemming van de zieke medewerker te laten plaatsvinden. Dit om te voorkomen dat het bezoek geassocieerd wordt met ‘controle van de baas’. De leidinggevende kan, indien noodzakelijk, op elk moment de hulp inroepen van de adviseur Human Resources en de bedrijfsarts. Als medewerkers na langdurige afwezigheid hun werk weer gaan hervatten dient de leidinggevende bij terugkomst van deze medewerkers een persoonlijk terugkeergesprek te voeren. De medewerker moeten bijgepraat worden over eventuele veranderingen tijdens zijn afwezigheid en daarnaast is het wellicht nodig het werk of de werktijden aan te passen aan de nog niet optimale belastbaarheid van de medewerker.</p>
+<p style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">Binnen 8 weken ziekte stelt de leidinggevende in overleg met de zieke medewerker een plan van aanpak op om de medewerker op een goede manier spoedig te laten re-integreren in zijn of haar werk. Eventueel kan de bedrijfsarts of de adviseur Human Resources hierbij ondersteunen. De leidinggevende is de casemanager. Indien er sprake is van een arbeidsconflict en het niet wenselijk is dat de leidinggevende casemanager is, zal deze rol vervuld worden door een naast hoger leidinggevende, adviseur Human Resources of de Arbodienst.</p>
+<p style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">De leidinggevende dient mee te werken aan alle maatregelen die worden getroffen om een spoedige re-integratie te bewerkstelligen.</p>
+<p style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">Het plan van aanpak wordt iedere 6 weken geëvalueerd door de leidinggevende met de medewerker.<br/>
+Tevens evalueert de leidinggevende het plan met de bedrijfsarts en de adviseur Human Resources, de leidinggevende dient hiervoor een afspraak te maken met het secretariaat van Human Resources. Aan het einde van het eerste ziektejaar stelt de leidinggevende een verslag van het verloop van het eerste ziektejaar op (eerstejaarsevaluatie). In de 86ste ziekteweek wordt het re-integratietraject geëvalueerd in verband met de WIA-aanvraag.</p>
+<p style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">Indien de leidinggevende niet voldoende meewerkt aan de re-integratie-inspanningen kan dit leiden tot een loondoorbetalingsplicht tijdens de WIA-periode. Hersteld melden gebeurt door de medewerker bij de leidinggevende.</p>
+<h2 style="padding: 0px; border: 0px; font-family: 'PT Serif'; font-size: 1.3125em; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; vertical-align: baseline; text-align: left;">De Afdeling Human Resources / adviseur Human Resources</h2>
+<p style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">Na afloop van iedere kalendermaand stelt de afdeling Human Resources de kwantitatieve verzuimoverzichten samen. Eén keer per maand bespreekt de desbetreffende adviseur Human Resources de verzuimoverzichten met de uitgever/manager. De uitgever/manager bespreekt op zijn beurt deze verzuimoverzichten met zijn leidinggevenden en houdt overzicht in welke mate de leidinggevenden uitvoering geven aan het verzuimbeleid.<br/>
+Als een medewerker 3 keer of vaker ziek is in het voortschrijdende jaar, ontvangt de leidinggevende van de adviseur Human Resources hiervan een overzicht.<br/>
+De adviseur Human Resources heeft regelmatig overleg met de bedrijfsarts. Tijdens dit overleg worden o.a. de plannen van aanpak in het kader van WVP besproken (voortgang). De leidinggevende kan hiervoor een afspraak maken (minimaal eenmaal per 6 weken).<br/>
+De leidinggevende kan de adviseur Human Resources om advies vragen bij de re-integratie van de zieke medewerker.<br/>
+<br/>
+♦ <strong style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; vertical-align: baseline;"><a href="http://www.penoactueel.nl/HR-Strategie/Algemeen/2012/dossier-verzuim/" target="_blank" style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline; color: rgb(31, 9, 9); text-decoration: none;">Dossier Verzuim »</a><br/></strong><br/>
+<strong style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; vertical-align: baseline;">MEER WETEN?</strong></p>
+<table style="padding: 0px; border: 0px; font-family: inherit; font-size: 1em; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline; border-collapse: collapse; border-spacing: 0px;">
+<tbody style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">
+<tr style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline;">
+<td style="padding: 0.25em 0.25em 0.25em 0.4em; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: top;">Op <a href="http://XpertHR.nl">XpertHR.nl</a> vindt u uitgebreidere informatie over verschillende arbeidsverhoudingen met voorbeelddocumenten, checklists, et cetera. <br/>
+<strong style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; vertical-align: baseline;">CONTACT</strong><br/>
+<a href="http://XpertHR.nl">XpertHR.nl</a> is dé HR Antwoordbank. Bent u geïnteresseerd in XpertHR? Vraag dan een demonstratie aan op <a href="http://www.xperthr.nl/" target="_blank" style="padding: 0px; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: baseline; color: rgb(31, 9, 9); text-decoration: none;">www.xperthr.nl </a>of bel (020) 515 9555.</td>
+<td style="padding: 0.25em 0.25em 0.25em 0.4em; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; vertical-align: top;"></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p style="padding: 0px; border: 0px; font-family: 'PT Serif'; font-size: 16px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: inherit; vertical-align: baseline; color: rgb(31, 9, 9); letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;">door Redactie P&amp;Oactueel 29 nov 2012 laatste update:15 okt 2013</p>
+<br/></div>
+</div>
+<div><br/></div>
+</en-note>      ]]>
+    </content>
+    <resource>
+      <data encoding="base64">
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAA0JCgsKCA0LCgsODg0PEyAVExISEyccHhcgLikxMC4pLSwzOko+MzZGNywtQFdBRkxOUlNSMj5aYVpQYEpRUk//2wBDAQ4ODhMREyYVFSZPNS01T09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0//wAARCAEQARADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEA
+AAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx
+8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPE
+xcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD06iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAA1nnWtMBwbyPI960DXlsv+tf/eNdWGoKre/Q4cbipUOXlW56F/bel/8AP7F+dH9t6X/z+xV53RXV9Qh3Zw/2pU/lR6J/bel/8/sVH9t6X/z+xV53RR9Qh3Yf2pU7I9E/tvS/+f2Kj+29L/5/Yq87oo+oQ7sP7Uqfyo9E/tvS/wDn9io/tvS/+f2KvO6KPqMO7D+1KnZHof8Abemf
+8/sX51fjdZEDodysMgjvXltelaZ/yDbb/rmK5sTh40kmmdmDxcq8mpLYtUUUVyHoBRRRQAUUU0OhOAyk+maAPMLDxfrOmeJhY67OGhSQxS/KBj0b6d/pXqAIIBHQ1558TtB3oms26coAk4Hp2P8AStX4ea//AGppH2K4bN1ZgLz1dOx/of8A69AG34i1eLRNGnvZMFlG2Nf7znoP6/QVyPgbV/EGu6k8l1dZs4B8+EA3E9BWL461eXXtfj0yxBki
+gfy0Vf45D1P9K9H8N6PHoejQ2a4LgbpWH8THrQBqiis3+3tJ/tH+z/t0X2vfs8rnO70puqeIdJ0ltl9eRpJ/cHLfkKANSiuftPGmgXcwijvlRicDzFKg/ia3wwYAggg9CO9AC0UjMFUsxAAGST2rn7vxpoFpKY3vg7Dg+WpYfnQB0NFZOl+I9J1Z9lleI8n9w8N+Rq/e3ltYWr3V5KsUEeNzt0GTgfqRQBPRVCDWdNubGS9hvImto+GkzgCqlh4q
+0fULiWG1ud5iQux2kAKOpzQBssyopZ2CqOSScAU2GaK4iEsEiSRnoyHIP415f8SdbsdUj09NNvVnVDIZFQnA+7jP61veEfEmi2Xhqzt7rUYYpkUhkbORzQB2pry9x+/YH+9/WvSrS6gvbVLm1lWWGQZV16HtXmrf8fB/3v616GA+0eRmv2Pn+h0utaTZ2ujfaIYtsny859a5au38R/8AIuj6pXEV0YSTlBts5MfCMKiUVbQK6vTNHsp9EFzJFmTY
+xzmuUrutF/5Fof8AXNv60YuTjFWfUeAhGUpcyvocvoVnFfaksE4JQqTwcV0dxp2g2JC3IRWIyAzHNYnhT/kNL/uNVjxl/wAhGH/rl/U1lU5p11C7SsbUuSnhnU5U3c0I9P8AD98dluybuwV8H8qyNb0FtPTz4GMkHfPVaxQSpBUkEcgjtXdWUrah4a3XHLNGysT3xkZ/Sipz0Gpc10FN08UnFxs12OEr0rTP+Qbb/wDXMV5setek6X/yDbb/AK5i
+jH/Cgyv45ehaoorMi8QaRNf/AGGK+ia53FPLGc5HUV5h7Zp0Vk6n4k0jSnMd5eosg/gHLfkKh0/xboeozCG3vVEh4CuNpP0zQBtSf6tvoa8c8E/8lBtv+uk3/oD17HJ/qm+hrxzwT/yUG2/66Tf+gPQB7Bc28V1bSW86B4pFKsp7g14rex33g/xHcRQPghWVGPR426H/AD3Fe0X15DYWU13cttihUsxrxrydR8aa7eXCfeWNpAOoVR91RQB03wy0
+HcX1y7XLElIM/wDjzf0/OvRq8v8Ahrr5tL1tFu2xHMxMO4/dfuv4/wA/rXqFAHiniW7msPHV7d25Alin3IT2OK6bQPAa6hAuo+IJ5nmuPn8pWxgH+8eufpXOa6iy/ESeNxlWvFBH4ivZ1AAAAwBQB5n4r8AQ2VjJf6O0hWIbpIXO75e5B9qsfDHXppXk0e6kLhV3wFjyMdV/r+dehuoZSrAFSMEHvXjPhYfZfHsEUWdq3Dx8enIoA3PiJr9xc6iu
+g6e7bQQJQnWRz0X6dPx+lbOj/DzSbeyT+042ubll+c7yqqfQYP615695dp4ukvbeHz7pblnRNpbLAk9B+ddP/wAJl4t/6BLf+Az0AVfGfhdfDbwanpEkiQ78EFsmJu2D6fWt/VdT/t34XXF2xAlKIJP95ZFz+eP1rm9Z13xLrOnPZXWlSiNyCSts+eKtaVBdW3wz1uO6hlh/egqJEKnqnrQBg6Jb6jrscOg2R2RBzLIx+6Pc/wCe9ei6F4GtNHeV
+xeTTPNC0L5AUYbrj0rH+E0K+TqE+PmLKmfbGf616JQB4/wCPPDVj4eFj9haZvtHmb/MYH7u3GMD3NbXhrwNpOq6Da3tzJciWVcsEcAdfpR8XOmk/9tv/AGSun8C/8ijYf7h/maANTS9Ph0rTobG2LmKEEKXOT1J/rXnTf8fB/wB7+teoV5e3/Hwf97+tehgPtHkZr9j5/od7qNk+oaQtujhGIU5PtWF/wiNz/wA/Uf8A3ya2NbuJrXQhLbyFHG0b
+hXJ/23qn/P5J+lLDRrOPuOyHi54dTXtItuxqf8Ihc/8AP1H/AN8mt60tGsdFa3dgzLG3I+lcb/bmqf8AP5J+lddpk0tz4f8ANmcu7Rtlj360YiNVJc7urhhZUG5eyi07HN+FP+Q0v+41X/FdldXV9E9vBJIojwSozzmqHhT/AJDS/wC41bPiDWbnTbuOKAIQybjuHvVVHJYhcm9iKSg8I+d2VzBtPD+o3MgDQmFM8u/GPw61v6tc2+kaMLCFgZGT
+YB39yah0vxMbi5SC8jVN5wrr0z71U8VaYsDi9hB2yHDjOefWhuU6qjV0BKFOhKdDXvfoc5XpWl/8g22/65ivNa9K0v8A5Blt/wBcxVY/4UTlXxy9C1Xhmp3M+neMb6ayJE0d3KEOM87iK9zrxWRFk+I8qOMqdSYEf8DNeYe2dTo3w8huLcXeu3E8lzMNxjRsBc+p6k1g+NPCA8PrHeWUsklq7bSH+8jduRXr9c18QVVvCF3uGdpUj65FAFbwBrMu
+reHpIrly89ofLLHqykfKT79R+FcR4J/5KDbf9dJv/QHrZ+FBO7Vl7FIz/wChf41jeCf+Sg23/XSb/wBAemBt/E3Xi8i6LbNkKQ8+O57L/Wum8D6CNE0RTKv+lXOJJj6ei/h/MmuW8PeD9Yl8SjUdft9iK5mYmRG3vngYBPfn8K9MApAeS/EDQ30jWE1OzBSG4fcCvHlyDn/64r0Hwpraa7o0VySPPUbJlHZh3/HrVrXdKh1nSZ7GfgSL8rf3WHQ/
+nXE+CtE8SaDrB+0WH+hzfLKRMhx6NjdmgDmfE0/2bx3d3GM+VchsfTFex6fewahZRXVtIHjkXIIP6V494hhS58f3MEnKSXQVsehxWvP4d8V+G7l/7DmmmtWOR5RB/ND3/OgD0TWtUg0fTJry4YAIp2qf4m7AV5d8PbSXUPFgumBKwBpXb3PT9TTm8P8AjDxFdJ/aKTKoP37k7VT6L/gK9G8N+H7Xw/p/2e3O+RzullI5c/0HtQB5fdl/DXj0zyId
+kNx5n+8jf/WJr2O2uIbu3Se3kWSKQZVl5BFYfizwtbeIrdTu8m7iGI5cZyP7re1cHDpHjXQHMVilz5eePIYOh98f4igD1ysDx1/yJ2o/7i/+hiuJNv4/1X91J9rjQ8NuZYhj36V2WqaXqM/gR9L2rPfeQiEK/DEEZ5bHpQBh/Cb/AI8L/wD66j+VegVx/wAPNF1HRbS7j1K38lpJAVG9WyMexNdhQB518XFYxaU4Hygyg/js/wADXSeA3V/CNltI
+O1SD7HNSeMNB/wCEg0Y20bBbiNvMhZumfQ+xH9K85s9M8aaQXtrK3vYlY8iM5Un1z0oA9jry9v8Aj4P+9/WvQtEW7TRrNdQ3fahEol3MCd2OcmvPXIE7E/3v616GA+18jyM1+x8/0Oz8R/8AIuj6pXEV1OtavYXWi/Z4J98vy/LsYdPqK5aujCRlGFmrHJj5xlUTi76BXdaL/wAi0P8Arm39a4Wur0zWNPt9DFtNPtl2MNuxjyfwoxcXKKsuoYCc
+YylzO2hneFP+Q0v+41T+Mv8AkIQ/9cv6mqPh+6gs9UWa5fZGFIzgn+VTeJr62v7yKS1k8xVTBO0jnPvU8svrKlbSxfPH6o431uYwODwa7q+xqXhjzRyxiD/Qjr/WuFrqdB1mxg0r7LezbCCQBsY5U/QfWnioSaUoq7TJwM4pyhN2TRy1ek6awXS7dmIAEQJJ7cV5zMEEziNtyBjtbGMiu5ntZb7wnJaQMFlmtSiE+pXissd8KN8rVpyJbHxBpOo3
+TW1nfRSzL/CD1+nrXlR/5KVJ/wBhNv8A0M1oeDvC2tW3ia3uLq0ltordiXduh4IwPWrX/CKa5/wnD6j9h/0U3zSiTzU+5vJzjOeleae0enVznj//AJFC9/4D/wChCujrE8YWNzqXhy6tLKLzZ327V3Bc8juSBQBxvwo/1mrf9c4//Zqx/BP/ACUG2/66Tf8AoD11fw+8P6roz6gdStfJEyIE/eK2SM56E+orN8L+Fdb0/wAYwX93ZeXbI8hL+ahw
+CrAcA56kUAemUUUUAFFFFAHjWsf8lIl/6/F/pXstc3c+CdLudabVZJboXDSCUgOu3I9tv9a6SgAooooAKKKKACjFFFABRRRQAUUUUAFeXS/61/8AeNeomsw6BpZJJtVyfc11YauqV7rc4cbhZV+Xlex59RXoP/CP6X/z6L+Zo/4R/S/+fRfzNdX16HY4P7Lqd0efUV6D/wAI/pf/AD6L+Zo/4R/S/wDn0X8zR9fh2D+y6ndHn1Feg/8ACP6X/wA+
+i/maP+Ef0v8A59F/M0fX4dg/sup3R59RXoP/AAj+l/8APov5mj/hH9K/59F/M0fX4dg/sup3R59XpWl/8g22/wCuYqt/wj+l/wDPov8A30f8a0Io1ijWOMYVRgD0rmxOIjVSSR24PCSoSbk9x+KKKK5D0AooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK
+KKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK
+KKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK
+KKKACiiigAooooAKKKKACiiigAooooA//9k=
+      </data>
+      <mime>image/jpeg</mime>
+      <width>272</width>
+      <height>272</height>
+      <resource-attributes>
+        <file-name></file-name>
+        <source-url>en-cache://tokenKey%3D%22AuthToken%3AUser%3A23972749%22+2b2dbe6f-494c-4a57-8fe3-eefa4c3228bb+53c4270984c727eb6b4b8ab5a65b9edb+https%3A%2F%2Fpublic.www.evernote.com%2Fresources%2Fs213%2Ff0b9f44b-7526-4815-801a-667f18d2d898</source-url>
+      </resource-attributes>
+    </resource>
+  </note>
+  <note>
+    <title>Voorstel PNL Telefoon regeling 2015</title>
+    <created>20150109T142340Z</created>
+    <updated>20150123T143703Z</updated>
+    <note-attributes>
+      <author>simon@simonslooten.com</author>
+      <source>desktop.mac</source>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note>
+<div><br/></div>
+<table style="-evernote-table:true;border-collapse:collapse;margin-left:0px;table-layout:fixed;width:100%;">
+<tr>
+<td style="border-style:solid;border-width:1px;border-color:rgb(219,219,219);padding:10px;margin:0px;width:25.03113325031133%;">
+<div>Model</div>
+</td>
+<td style="border-style:solid;border-width:1px;border-color:rgb(219,219,219);padding:10px;margin:0px;width:25.03113325031133%;">
+<div>Memory</div>
+</td>
+<td style="border-style:solid;border-width:1px;border-color:rgb(219,219,219);padding:10px;margin:0px;width:24.906600249066003%;">
+<div>Prijs</div>
+</td>
+<td style="border-style:solid;border-width:1px;border-color:rgb(219,219,219);padding:10px;margin:0px;width:24.906600249066003%;">
+<div>Eigen Bijdrage (36 mnd)</div>
+</td>
+</tr>
+<tr>
+<td style="border-style:solid;border-width:1px;border-color:rgb(219,219,219);padding:10px;margin:0px;width:20%;">
+<div>Apple iPhone 5C</div>
+</td>
+<td style="border-style:solid;border-width:1px;border-color:rgb(219,219,219);padding:10px;margin:0px;width:20%;">
+<div><br/></div>
+</td>
+<td style="border-style:solid;border-width:1px;border-color:rgb(219,219,219);padding:10px;margin:0px;width:20%;">
+<div>€ 399,-</div>
+</td>
+<td style="border-style:solid;border-width:1px;border-color:rgb(219,219,219);padding:10px;margin:0px;width:20%;">
+<div>€ 0,-</div>
+</td>
+</tr>
+<tr>
+<td style="border-style:solid;border-width:1px;border-color:rgb(219,219,219);padding:10px;margin:0px;width:20%;">
+<div>Apple iPhone 5S</div>
+</td>
+<td style="border-style:solid;border-width:1px;border-color:rgb(219,219,219);padding:10px;margin:0px;width:20%;">
+<div>16 GB</div>
+</td>
+<td style="border-style:solid;border-width:1px;border-color:rgb(219,219,219);padding:10px;margin:0px;width:20%;">
+<div>€ 599,-</div>
+</td>
+<td style="border-style:solid;border-width:1px;border-color:rgb(219,219,219);padding:10px;margin:0px;width:20%;">
+<div>€ 6,-</div>
+</td>
+</tr>
+<tr>
+<td style="border-style:solid;border-width:1px;border-color:rgb(219,219,219);padding:10px;margin:0px;width:20%;">
+<div>Apple iPhone 5S</div>
+</td>
+<td style="border-style:solid;border-width:1px;border-color:rgb(219,219,219);padding:10px;margin:0px;width:20%;">
+<div>32 GB</div>
+</td>
+<td style="border-style:solid;border-width:1px;border-color:rgb(219,219,219);padding:10px;margin:0px;width:20%;">
+<div>€ 649,-</div>
+</td>
+<td style="border-style:solid;border-width:1px;border-color:rgb(219,219,219);padding:10px;margin:0px;width:20%;">
+<div>€ 7,50</div>
+</td>
+</tr>
+<tr>
+<td style="border-style:solid;border-width:1px;border-color:rgb(219,219,219);padding:10px;margin:0px;width:20%;">
+<div>Apple iPhone 6</div>
+</td>
+<td style="border-style:solid;border-width:1px;border-color:rgb(219,219,219);padding:10px;margin:0px;width:20%;">
+<div>16 GB</div>
+</td>
+<td style="border-style:solid;border-width:1px;border-color:rgb(219,219,219);padding:10px;margin:0px;width:20%;">
+<div>€ 699,-</div>
+</td>
+<td style="border-style:solid;border-width:1px;border-color:rgb(219,219,219);padding:10px;margin:0px;width:20%;">
+<div>€ 9,-</div>
+</td>
+</tr>
+<tr>
+<td style="border-style:solid;border-width:1px;border-color:rgb(219,219,219);padding:10px;margin:0px;width:20%;">
+<div>Apple iPhone 6</div>
+</td>
+<td style="border-style:solid;border-width:1px;border-color:rgb(219,219,219);padding:10px;margin:0px;width:20%;">
+<div>64 GB</div>
+</td>
+<td style="border-style:solid;border-width:1px;border-color:rgb(219,219,219);padding:10px;margin:0px;width:20%;">
+<div>€ 799,-</div>
+</td>
+<td style="border-style:solid;border-width:1px;border-color:rgb(219,219,219);padding:10px;margin:0px;width:20%;">
+<div>€ 12,-</div>
+</td>
+</tr>
+</table>
+<div><br/></div>
+</en-note>      ]]>
+    </content>
+  </note>
+  <note>
+    <title>PNL Mamibo Jan 2015</title>
+    <created>20150108T202128Z</created>
+    <updated>20150108T203636Z</updated>
+    <note-attributes>
+      <author>simon@simonslooten.com</author>
+      <source>desktop.mac</source>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note>
+<div style="font-size: 15px; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-indent: -18pt;">
+<div>1.<span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">       </span>Hoe is het afgelopen jaar voor Prisma-IT verlopen?</div>
+<div>PNL heeft het jaar op target afgesloten. We zijn tevreden over het afgelopen jaar. Iedereen heeft hier hard voor gewerkt.</div>
+</div>
+<div>
+<p style="font-size: 11pt; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-indent: -18pt;">2.<span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">       </span>Zijn de verwachtingen / targets  voor 2014 gehaald? Waarom wel / niet?</p>
+</div>
+<div style="font-size: 15px; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-indent: -18pt;">
+<div>3.<span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">       </span>Waar gaat Prisma-IT zich in 2015 op richten?</div>
+<div>PNL zal zich in 2015 gaan richten op groei en verdere versteviging van onze positie nar een aantal minder eenvoudige jaren.</div>
+</div>
+<div style="font-size: 15px; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-indent: -18pt;">
+<div>4.<span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">       </span>Wat zijn de verwachtingen voor komend jaar?</div>
+<div>Voor het komend jaar heeft PNL een groeiplan opgenomen en verdere versteviging van haar positie</div>
+</div>
+<div>
+<p style="font-size: 11pt; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-indent: -18pt;">5.<span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">       </span>Er zijn een aantal nieuwe mensen aangenomen, waaronder een CFO.</p>
+<p style="font-size: 11pt; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-indent: -18pt;">a.<span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">       </span>Waarom is er besloten om een CFO aangenomen?</p>
+<p style="font-size: 11pt; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-indent: -18pt;">b.<span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">      </span>Wat is de toegevoegde waarde van een CFO voor Prisma-IT?</p>
+<p style="font-size: 11pt; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-indent: -18pt;">c.<span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">       </span>Wat voor verantwoordelijkheden / taken heeft de CFO binnen Prisma-IT?</p>
+<p style="font-size: 11pt; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-indent: -18pt;">d.<span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">      </span>Wat gaan wij in de dagelijkse werkzaamheden merken van de CFO?</p>
+</div>
+<div style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;">
+<div><span style="font-size: 15px;"><span style="font-family: Calibri, sans-serif;">Kortom: ik ben nieuwsgierig naar onze CFO :-D.</span></span></div>
+<div style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-indent: -18pt;">
+<div><span style="font-size: 15px;"><span style="font-family: Calibri, sans-serif;">Prisma International is har management team aan het verstevigen/aanpassen. In het internationale Management Team zijn behalve Simon momenteel Robert Rosen (CLO &amp; Int bus dev) en Eric van den Adel (CFO) bezig. Eric heeft ook de rol van CFO voor PNL.</span></span></div>
+</div>
+</div>
+<div style="orphans: auto; text-align: start; widows: auto; text-indent: -18pt;">
+<div style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px;">
+<div><span style="font-size: 15px;"><span style="font-family: Calibri, sans-serif;">6.</span></span><span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">       </span><span style="font-size: 15px;"><span style="font-family: Calibri, sans-serif;">Wat valt er op het gebied van beloningen / bonussen  te verwachten voor 2015?</span></span></div>
+</div>
+<div><font face="Calibri, sans-serif"><span style="font-size: 15px;">Beloningen en eventuele bonussen worden met individuele medewerkers besproken indien zij daarvoor in </span><span style="font-size: 15px; line-height: 21px;">aanmerking komen.</span></font></div>
+<div style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px;"><span style="font-size: 15px;"><br/></span></div>
+<div>
+<p style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-size: 11pt; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); orphans: auto; text-align: start; widows: auto; text-indent: -18pt;"><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">1.<span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">     </span></span><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">Wat zijn de plannen van Prisma IT NL voor 2015</span></p>
+<p style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-size: 11pt; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); orphans: auto; text-align: start; widows: auto; text-indent: -18pt;"><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">2.<span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">     </span></span><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">Wat is er gebeurd met de doelstellingen die we in 2014 neergezet hebben, hoe wordt daarop teruggekeken en wat is hier de conclusie van</span></p>
+</div>
+<div style="orphans: auto; text-align: start; widows: auto; text-indent: -18pt;">
+<div style="color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px;">
+<div><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">3.<span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">     </span></span><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">Wat is in 2014 gebeurd met de partnerships die we aan zijn gegaan</span></div>
+</div>
+<div><font color="#1F497D" face="Tahoma, sans-serif"><span style="font-size: 15px;">Ik weet niet wat hier met </span><span style="font-size: 15px; line-height: 21px;">“</span><span style="font-size: 15px;">partnerships</span><span style="font-size: 15px; line-height: 21px;">”</span><span style="font-size: 15px;"> bedoeld wordt. PINT heeft een herdefinitie gemaakt voor de internationale bedrijven en kantoren, waarbij we 2 bedrijven hebben afgestoten. We zijn momenteel voor </span><span style="font-size: 15px; line-height: 21px;">meerdere landen aan het onderzoeken of we daar een bedrijf/kantoor willen opnemen/opzetten. We zullen dat met iedereen communiceren als de tijd daar juist voor is.</span></font></div>
+</div>
+<div style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-size: 15px; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); orphans: auto; text-align: start; widows: auto; text-indent: -18pt;">
+<div><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">4.<span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">     </span></span><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">Wat wordt er verwacht dat er in 2015 met de partnerships gedaan wordt</span></div>
+</div>
+<div style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-size: 15px; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); orphans: auto; text-align: start; widows: auto; text-indent: -18pt;">
+<div><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">5.<span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">     </span></span><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">Wat zijn de plannen met ADXP in 2015</span></div>
+<div><span style="font-family: Tahoma, sans-serif;"><span style="color: rgb(31, 73, 125);">We zijn momenteel een aantal Repeatable Solutions aan het definieren/samenstellen. </span></span></div>
+</div>
+<div style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-size: 15px; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); orphans: auto; text-align: start; widows: auto; text-indent: -18pt;">
+<div><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">6.<span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">     </span></span><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">Wat is de huidige personele bezetting van Prisma IT, waarom zijn hier de laatste maanden veel wijzigingen in geweest</span></div>
+<div><span style="color: rgb(31, 73, 125);"><span style="font-family: Tahoma;">Mensen gaan uit dienst en nieuwe mensen komen in dienst</span></span></div>
+</div>
+<div style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-size: 15px; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); orphans: auto; text-align: start; widows: auto; text-indent: -18pt;">
+<div><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">7.<span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">     </span></span><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">Wat is de verwachtte groei van personele bezetting in 2015 voor Prisma IT NL</span></div>
+<div><span style="color: rgb(31, 73, 125);"><span style="font-family: Tahoma;">We verwachten een groei in medewerkers voor PNL in 2015. In welke mate is momenteel niet bekend.</span></span></div>
+</div>
+<div style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-size: 15px; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); orphans: auto; text-align: start; widows: auto; text-indent: -18pt;">
+<div><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">8.<span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">     </span></span><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">Wat is de verhouding management/bestuurslaag t.o.v. productie omgeving van Prisma IT NL</span></div>
+</div>
+<div style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-size: 15px; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); orphans: auto; text-align: start; widows: auto; text-indent: -18pt;">
+<div><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">9.<span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">     </span></span><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">Wat is de visie voor de orde van grootte van de management/bestuurslaag van Prisma IT NL c.q. Prisma IT INT</span></div>
+</div>
+<div style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-size: 15px; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); orphans: auto; text-align: start; text-indent: 0px; widows: auto;">
+<div><br/></div>
+</div>
+<div>
+<p style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-size: 11pt; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); orphans: auto; text-align: start; widows: auto; text-indent: -18pt;"><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">10.<span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">  </span></span><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">Wat zijn de plannen voor Prisma IT’s internationale vestigingen in 2015</span></p>
+<p style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-size: 11pt; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); orphans: auto; text-align: start; widows: auto; text-indent: -18pt;"><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">11.<span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">  </span></span><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">Wat is er gebeurd met onze collega’s in Frankrijk en Polen</span></p>
+</div>
+<div style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-size: 15px; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); orphans: auto; text-align: start; widows: auto; text-indent: -18pt;">
+<div><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">12.<span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">  </span></span><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">Wat zijn de plannen voor Prisma IT BE voor 2015</span></div>
+</div>
+<div style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-size: 15px; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); orphans: auto; text-align: start; text-indent: 0px; widows: auto;">
+<div>Voor alle bedrijven binnen de Prisma IT groep wordt een groei verwacht in 2015</div>
+</div>
+<div style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-size: 15px; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); orphans: auto; text-align: start; widows: auto; text-indent: -18pt;">
+<div><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">13.<span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">  </span></span><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">Wat zijn de jaarcijfers van 2014</span></div>
+<div><span style="font-family: Tahoma, sans-serif;"><span style="color: rgb(31, 73, 125);">die worden niet publiek gecommuniceerd</span></span></div>
+</div>
+<div style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-size: 15px; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); orphans: auto; text-align: start; widows: auto; text-indent: -18pt;">
+<div><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">14.<span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">  </span></span><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">Is 2014 positief, quitte of negatief afgesloten</span></div>
+<div><span style="font-family: Tahoma, sans-serif;"><span style="color: rgb(31, 73, 125);">Dat wordt niet publiek gecommuniceerd</span></span></div>
+</div>
+<div style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-size: 15px; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); orphans: auto; text-align: start; widows: auto; text-indent: -18pt;">
+<div><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">15.<span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">  </span></span><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">Wat is de verwachtte groei van omzet voor Prisma IT NL en Prisma IT INT</span></div>
+<div><span style="font-family: Tahoma, sans-serif;"><span style="color: rgb(31, 73, 125);">Dat wordt niet publiek gecommuniceerd</span></span></div>
+</div>
+<div style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-size: 15px; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); orphans: auto; text-align: start; widows: auto; text-indent: -18pt;">
+<div><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">16.<span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">  </span></span><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">Wat zijn de grootste financiële meevallers geweest in 2014</span></div>
+<div><span style="font-family: Tahoma, sans-serif;"><span style="color: rgb(31, 73, 125);">Dat wordt niet publiek gecommuniceerd</span></span></div>
+</div>
+<div style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-size: 15px; font-family: Calibri, sans-serif; color: rgb(0, 0, 0); orphans: auto; text-align: start; widows: auto; text-indent: -18pt;">
+<div><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">17.<span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">  </span></span><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">Wat zijn de grootste financiële tegenvallers geweest in 2014</span></div>
+<div><span style="font-family: Tahoma, sans-serif;"><span style="color: rgb(31, 73, 125);">Dat wordt niet publiek gecommuniceerd</span></span></div>
+</div>
+<div style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; orphans: auto; text-align: start; widows: auto; text-indent: -18pt;">
+<div><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">18.<span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; font-family: 'Times New Roman';">  </span></span><span style="font-size: 10pt; font-family: Tahoma, sans-serif; color: rgb(31, 73, 125);">Wat valt er op gebied van beloningen te verwachten in 2015</span></div>
+<div><font face="Calibri, sans-serif"><span style="font-size: 15px;">Beloningen en eventuele bonussen worden met individuele medewerkers besproken indien zij daarvoor in </span><span style="font-size: 15px;">aanmerking komen.</span></font><span style="font-family: Tahoma, sans-serif;"><span style="color: rgb(31, 73, 125);"><br/></span></span></div>
+</div>
+<div style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px;"><span style="font-size: 15px;"><br/></span></div>
+</div>
+</en-note>      ]]>
+    </content>
+  </note>
+  <note>
+    <title>MT 2015M01H1</title>
+    <created>20150108T113408Z</created>
+    <updated>20150108T120302Z</updated>
+    <note-attributes>
+      <author>simon@simonslooten.com</author>
+      <source>desktop.mac</source>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note>
+<div><en-todo/>Target Breakdown template</div>
+<div><en-todo/>Nieuwe uurtarieven</div>
+<div><en-todo/>Vacatures</div>
+<div><en-todo/>Workflow offertes / handtekeningen / facturen</div>
+<div><en-todo/>Hulp nodig bij up-to-date brengen van Bamboo?</div>
+<div><en-todo/></div>
+<div><br/></div>
+</en-note>      ]]>
+    </content>
+  </note>
+  <note>
+    <title>Declarabele uren</title>
+    <created>20130715T101606Z</created>
+    <updated>20150106T103524Z</updated>
+    <tag>Productivity</tag>
+    <note-attributes>
+      <author>sslooten</author>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+<table cellspacing="0" style="border: none; width: 530px;">
+<thead>
+<tr>
+<td colspan="4" style="text-align: left; padding: 8px 0px; font-size: 18px;">
+<div><b> Productivity Settings Replicon</b></div>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr valign="middle">
+<td colspan="2" style="font-size: 12px; vertical-align: top; padding: 7px 10px 7px 3px; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(255, 255, 255); background-color: rgb(238, 238, 238); white-space: nowrap; width: 358px;">Declarabele uren per jaar</td>
+<td colspan="2" style="font-size: 12px; vertical-align: baseline; padding: 7px 3px; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(255, 255, 255); background-color: rgb(238, 238, 238); text-align: right; white-space: nowrap;"><b>1.824</b> uur</td>
+</tr>
+<tr>
+<td colspan="4" style="font-size: 12px; vertical-align: top; padding: 5px 0px;"><br/>
+<table style="width: 529px; color: rgb(57, 57, 57); border-collapse: collapse; background-color: rgb(255, 255, 255); border: 1px solid rgb(221, 221, 221); margin-top: 20px;">
+<thead>
+<tr>
+<th colspan="7" style="text-align: left; padding: 3px; font-size: 13px; letter-spacing: 0.03em; background-color: rgb(221, 221, 221);">Declarabele uren per jaar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="50%" style="vertical-align: top; padding: 3px; font-weight: bold; text-align: right; border-top-width: 1px; border-top-style: solid; border-top-color: rgb(221, 221, 221); border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(221, 221, 221);"> </td>
+<td width="8%" style="vertical-align: top; padding: 3px; font-weight: bold; text-align: right; border-top-width: 1px; border-top-style: solid; border-top-color: rgb(221, 221, 221); border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(221, 221, 221);"><br/>
+Weken</td>
+<td width="8%" style="vertical-align: top; padding: 3px; font-weight: bold; text-align: right; border-top-width: 1px; border-top-style: solid; border-top-color: rgb(221, 221, 221); border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(221, 221, 221);"><br/>
+Dagen</td>
+<td width="12%" style="vertical-align: top; padding: 3px; font-weight: bold; text-align: right; border-top-width: 1px; border-top-style: solid; border-top-color: rgb(221, 221, 221); border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(221, 221, 221);">Ondeclarabele<br/>
+uren</td>
+<td width="8%" style="vertical-align: top; padding: 3px; font-weight: bold; text-align: right; border-top-width: 1px; border-top-style: solid; border-top-color: rgb(221, 221, 221); border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(221, 221, 221);"> </td>
+<td width="12%" style="vertical-align: top; padding: 3px; font-weight: bold; text-align: right; border-top-width: 1px; border-top-style: solid; border-top-color: rgb(221, 221, 221); border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(221, 221, 221);">Declarabele<br/>
+uren</td>
+<td width="2%" style="vertical-align: top; padding: 3px; font-weight: bold; text-align: right; border-top-width: 1px; border-top-style: solid; border-top-color: rgb(221, 221, 221); border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(221, 221, 221);"> </td>
+</tr>
+<tr>
+<td style="vertical-align: top; padding: 3px; text-align: left;">Beschikbare werktijd</td>
+<td style="vertical-align: top; padding: 3px; text-align: right;">52</td>
+<td style="vertical-align: top; padding: 3px; text-align: right;">260</td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;">2.080</td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+</tr>
+<tr>
+<td style="vertical-align: top; padding: 3px; text-align: left;">Feestdagen</td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;">6</td>
+<td style="vertical-align: top; padding: 3px; text-align: right;">48</td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+</tr>
+<tr>
+<td style="vertical-align: top; padding: 3px; text-align: left;">Vakantie</td>
+<td style="vertical-align: top; padding: 3px; text-align: right;">5</td>
+<td style="vertical-align: top; padding: 3px; text-align: right;">25</td>
+<td style="vertical-align: top; padding: 3px; text-align: right;">200</td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+</tr>
+<tr>
+<td style="vertical-align: top; padding: 3px; text-align: left;">Extra vrije dagen</td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;">1</td>
+<td style="vertical-align: top; padding: 3px; text-align: right;">8</td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+</tr>
+<tr>
+<td style="vertical-align: top; padding: 3px; text-align: left;">Ziekte dagen</td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"></td>
+<td style="vertical-align: top; padding: 3px; text-align: right;">0</td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+</tr>
+<tr>
+<td style="vertical-align: top; padding: 3px; text-align: left;">Studie/cursusdagen</td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"></td>
+<td style="vertical-align: top; padding: 3px; text-align: right;">0</td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+</tr>
+<tr>
+<td style="vertical-align: top; padding: 3px; text-align: left;">Administratie</td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;">0</td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+</tr>
+<tr>
+<td style="vertical-align: top; padding: 3px; text-align: left;">Acquisitie</td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;">0</td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+</tr>
+<tr>
+<td style="vertical-align: top; padding: 3px; text-align: left;">Anders ondeclarabel</td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;">0</td>
+<td style="vertical-align: top; padding: 3px; text-align: left;">+</td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+</tr>
+<tr>
+<td style="vertical-align: top; padding: 3px; text-align: left;">Ondeclarabele uren</td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right; border-top-width: 1px; border-top-style: solid; border-top-color: rgb(57, 57, 57);">256</td>
+<td style="vertical-align: top; padding: 3px; text-align: right;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right;">256</td>
+<td style="vertical-align: top; padding: 3px; text-align: left;">–</td>
+</tr>
+<tr>
+<td style="vertical-align: top; padding: 3px; text-align: left; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;">Declarabele uren</td>
+<td style="vertical-align: top; padding: 3px; text-align: right; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;"> </td>
+<td style="vertical-align: top; padding: 3px; text-align: right; border-top-width: 1px; border-top-style: solid; border-top-color: rgb(57, 57, 57); font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;">1.824</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<div><br/></div>
+<div>
+<table border="1" width="100%" cellspacing="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><br/></td>
+<td valign="top">40 uur</td>
+<td valign="top">36 uur</td>
+<td valign="top">32 uur</td>
+<td valign="top"><br/></td>
+<td valign="top"><br/></td>
+<td valign="top"><br/></td>
+<td valign="top"><br/></td>
+</tr>
+<tr>
+<td valign="top">100%</td>
+<td valign="top">1824</td>
+<td valign="top">1642</td>
+<td valign="top">1459</td>
+<td valign="top"><br/></td>
+<td valign="top"><br/></td>
+<td valign="top"><br/></td>
+<td valign="top"><br/></td>
+</tr>
+<tr>
+<td valign="top">85%</td>
+<td valign="top">1550</td>
+<td valign="top">1396</td>
+<td valign="top">1240</td>
+<td valign="top"><br/></td>
+<td valign="top"><br/></td>
+<td valign="top"><br/></td>
+<td valign="top"><br/></td>
+</tr>
+<tr>
+<td valign="top">75%</td>
+<td valign="top">1368</td>
+<td valign="top">1232</td>
+<td valign="top">1094</td>
+<td valign="top"><br/></td>
+<td valign="top"><br/></td>
+<td valign="top"><br/></td>
+<td valign="top"><br/></td>
+</tr>
+<tr>
+<td valign="top">65%</td>
+<td valign="top">1186</td>
+<td valign="top">1067</td>
+<td valign="top">948</td>
+<td valign="top"><br/></td>
+<td valign="top"><br/></td>
+<td valign="top"><br/></td>
+<td valign="top"><br/></td>
+</tr>
+<tr>
+<td valign="top"><br/></td>
+<td valign="top"><br/></td>
+<td valign="top"><br/></td>
+<td valign="top"><br/></td>
+<td valign="top"><br/></td>
+<td valign="top"><br/></td>
+<td valign="top"><br/></td>
+<td valign="top"><br/></td>
+</tr>
+</tbody>
+</table>
+</div>
+</en-note>      ]]>
+    </content>
+  </note>
+  <note>
+    <title>MT 2014M12H2</title>
+    <created>20141210T201714Z</created>
+    <updated>20141217T201516Z</updated>
+    <note-attributes>
+      <author>simon@simonslooten.com</author>
+      <source>desktop.mac</source>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note>
+<div><en-todo/>PZ Balance vakantiedagen (wettelijke dagen vervallen een half jaar later) regeling in gebruik nemen</div>
+<div><en-todo/>Nieuwe FEDEX day opzetten</div>
+<div><en-todo/>Expenses gaan moeilijker worden en via Replicon lopen</div>
+<div><en-todo/>uurtarieven 2015 opstellen &amp; korting staffel + SLA prijzen &amp; voorwaarden + hosting prijzen</div>
+<div><en-todo/>eerstvolgende mamibo</div>
+<div><en-todo/>Tjomme MS CRM overview .. onder wie valt dat?</div>
+<div><br/></div>
+<div><en-todo/>CF license sales</div>
+<div><en-todo/>CF user groups</div>
+<div><en-todo/>admin support TRC 10K</div>
+<div><en-todo/>tech support 4F - 10K</div>
+<div><br/></div>
+<div><br/></div>
+<div>PZ beleid</div>
+<div><br/></div>
+<div>- Telefoon Michel</div>
+<div>- Salaris Marieke</div>
+<div>     - jaarcontract beleid</div>
+<div>     - alle andere jaarcontracten Vorige maand niet doorgevoerd. daar was iedereen het mee eens</div>
+<div>     - Marieke zit op 2600,-- + 100,--. Gemiddeld is 2500,--</div>
+<div>- 70% ziekte</div>
+<div><br/></div>
+<div>- verloop zou 80% of meer zijn?</div>
+<div><br/></div>
+<div><br/></div>
+<hr/>
+<div>
+<blockquote style="font-family: Calibri;">
+<div>
+<blockquote>
+<div>
+<div>Hallo Eric,</div>
+<div><br/></div>
+<div>Vreemde policy, maar goed het zal niet mee werken om Marieke verder te motiveren. Volgens mij zit Prisma <b>volledig op het verkeerde spoor</b> hiermee.</div>
+<div><br/></div>
+<div>Ik neem aan dat Joyce dit dan ook verder opneemt met Marieke? </div>
+<div><br/></div>
+<div>Gr.Jorrit</div>
+<div><br/></div>
+<div>Ps.Ik voorzie problemen met het team als dit soort zaken niet snel veranderen alsmede als voorbeeld de 70% issue. Hou er rekening mee dat de belangrijkste asset van Prisma nog altijd de mensen zijn <b>en deze zeer onder gewaardeerd worden</b>.</div>
+</div>
+</blockquote>
+</div>
+</blockquote>
+</div>
+<div><br/></div>
+<div><br/></div>
+<hr/>
+<div><br/></div>
+<div><br/></div>
+</en-note>      ]]>
+    </content>
+  </note>
+  <note>
+    <title>Discuss in new MT</title>
+    <created>20141120T093041Z</created>
+    <updated>20141204T154930Z</updated>
+    <note-attributes>
+      <author>sslooten</author>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;"><b>Projects revenue vs costs</b>
+<div><br/></div>
+<div><en-todo/>TT3600 - € 1750 vs 32 hours</div>
+<div><en-todo/>TT3613 - hostingkosten doorlopen.</div>
+<div><br/></div>
+<div><b>Deliveries</b></div>
+<div><br/></div>
+<div><en-todo/>2 schermen HPS; performance problemen</div>
+<div><br/></div>
+<div><b>Agenda</b></div>
+<div><br/></div>
+<div><en-todo/>Finance</div>
+<div><en-todo/>     Omzet “kwijt”; wordt verdeeld naar 2015 (??)</div>
+<div><en-todo/>Operations</div>
+<div><en-todo/>     lijst met betaaltermijnen klanten</div>
+<div><en-todo/>     Tesi - Prisma IT samenwerking (RPA)</div>
+<div><en-todo/>Sales</div>
+<div><en-todo/>     Laatste maand 2014</div>
+<div><en-todo/>     2015 plan</div>
+<div><en-todo/>     Plan ADXP Gregory - next steps</div>
+<div><en-todo/>Marketing</div>
+<div><en-todo/>Tech</div>
+<div><en-todo/>     HPS monitors - next steps</div>
+<div><en-todo/>HRM</div>
+<div><en-todo/>     are we using SI for 2014Q4?</div>
+<div><en-todo/>     status overdracht APL wie doet sign-off van de overdracht?</div>
+<div><en-todo/>     Voorstel Joyce Overbeek</div>
+<div><br/></div>
+<div>- organigram nieuw</div>
+<div>- bsn's voor WBSO ingevoerd?</div>
+<div>- Land. Ouderraad offerte, hosting is onvoodoende + geen SLA (??)</div>
+<div>- Over de schutting (zie hieronder)</div>
+<div>- 70% uitbetaling bij ziekte</div>
+<div>- regeling bij jubileum</div>
+<div>- waar is de website ondergebracht ?</div>
+<div>- </div>
+<div><br/></div>
+<div><br/></div>
+<div><br/></div>
+<div>sijbe</div>
+<div>eindloon regeling getekende brief opvragen</div>
+<div>trc jaarcijfers sturen naar rein</div>
+<div>nieuwe pensioenbrief komt eraan van Rein</div>
+<div>werkkosten regeling</div>
+<div>declaraties waterdicht maken (met wie ben je gaan eten)?</div>
+<div>parkeertickets van eigen auto’s kunnen niet meer gedeclareerd worden.</div>
+<div>erfbelasting</div>
+<div><br/></div>
+<div>18K dividend belasting per 31/12</div>
+<div><br/></div>
+<div>!! overzicht maken van kosten die eraan komen over de verschillende facturen.</div>
+<div><br/></div>
+<div><br/></div>
+<div>
+<hr/></div>
+<div><span style="font-family: Calibri; float: none;">FYI</span>
+<div><br style="font-family: Calibri;" /></div>
+<div><span style="font-family: Calibri; float: none;">Met vriendelijke groet / Best regards,</span></div>
+<div><br style="font-family: Calibri;" /></div>
+<div><span style="font-family: Calibri; float: none;">Tjomme Henny</span></div>
+<div><br style="font-family: Calibri;" /></div>
+<div><span style="font-family: Calibri; float: none;">PRISMA IT</span></div>
+<div><span style="font-family: Calibri; float: none;">+31 10 4587148  | </span><a href="mailto:tjomme@prisma-it.com" style="font-family: Calibri;">tjomme@prisma-it.com</a><span style="font-family: Calibri; float: none;"> |  </span><a href="http://www.prisma-it.com" style="font-family: Calibri;">www.prisma-it.com</a></div>
+<div><br style="font-family: Calibri;" /></div>
+<div><span style="font-family: Calibri; float: none;">Adobe Alliance &amp; Training Partner  -  Webtrends Certified Partner &amp; Training Partner</span></div>
+<div><span style="font-family: Calibri; float: none;">Brightcove Technical Partner  -  Tealeaf Certified Partner  -  comScore Authorised Partner</span></div>
+<div><br style="font-family: Calibri;" /></div>
+<div><span style="font-family: Calibri; float: none;">-----Original Message-----</span></div>
+<div><span style="font-family: Calibri; float: none;">From: Jorrit Wulffers </span></div>
+<div><span style="font-family: Calibri; float: none;">Sent: woensdag 3 december 2014 9:07</span></div>
+<div><span style="font-family: Calibri; float: none;">To: Tjomme Henny</span></div>
+<div><span style="font-family: Calibri; float: none;">Subject: RE: [TT 28919] - Acknowledgement - Re: Uitnodiging voor deelname aan een onderzoek -- [EMAIL IMPORT]</span></div>
+<div><br style="font-family: Calibri;" /></div>
+<div><span style="font-family: Calibri; float: none;">Stuur maar naar eric of simon lijkt me</span></div>
+<div><br style="font-family: Calibri;" /></div>
+<div><br style="font-family: Calibri;" /></div>
+<div><span style="font-family: Calibri; float: none;">-----Original Message-----</span></div>
+<div><span style="font-family: Calibri; float: none;">From: Tjomme T Henny [</span><a href="mailto:tjomme@prisma-it.com" style="font-family: Calibri;">mailto:tjomme@prisma-it.com</a><span style="font-family: Calibri; float: none;">] </span></div>
+<div><span style="font-family: Calibri; float: none;">Sent: woensdag 3 december 2014 08:49</span></div>
+<div><span style="font-family: Calibri; float: none;">To: Jorrit Wulffers</span></div>
+<div><span style="font-family: Calibri; float: none;">Subject: [TT 28919] - Acknowledgement - Re: Uitnodiging voor deelname aan een onderzoek -- [EMAIL IMPORT]</span></div>
+<div><br style="font-family: Calibri;" /></div>
+<div><span style="font-family: Calibri; float: none;">Jorrit,</span></div>
+<div><br style="font-family: Calibri;" /></div>
+<div><span style="font-family: Calibri; float: none;">wellicht vind jij dit interessant?</span></div>
+<div><br style="font-family: Calibri;" /></div>
+<div><span style="font-family: Calibri; float: none;">gr, Tjomme</span></div>
+<div><br style="font-family: Calibri;" /></div>
+<div><span style="font-family: Calibri; float: none;">--</span></div>
+<div><br style="font-family: Calibri;" /></div>
+<div><span style="font-family: Calibri; float: none;">Your original message:</span></div>
+<div><br style="font-family: Calibri;" /></div>
+<div>
+<blockquote style="font-family: Calibri;"><br/>
+<br/>
+ Vragenlijst Saxion2    <br/>
+<br/>
+<br/>
+<br/>
+Enschede, <br/>
+7 september 2014 <br/>
+<br/>
+Geachte Heer, Mevrouw <br/>
+<br/>
+Als studenten van de opleiding Technische Bedrijfskunde van de Saxion Hogeschool in Enschede voeren we in opdracht van het Lectoraat Business Development een landelijk onderzoek uit. Het onderzoek gaat over ondernemend gedrag volgens de Effectuation theorie van dr. Saras Sarasvahi en dr. Stuart Reed. <br/>
+<br/>
+Effectuation beschrijft met vijf principes typisch ondernemend gedrag (zie <a href="http://effectuation.org">effectuation.org</a>). We willen onderzoeken in welke mate deze principes in het MKB in Nederland in de praktijk wordt toegepast. <br/>
+<br/>
+Wat we van u vragen: <br/>
+Graag willen we dat de directeur / directeur-eigenaar of iemand uit het management team onze enquête invult en retourneert. Deze enquête kost u slechts beperkt tijd. Indien gewenst kunt u een verslag van dit onderzoek ontvangen, zodat u direct kennis kunt nemen van onze bevindingen. Om hiervoor in aanmerking te komen, moeten wel alle gegevens ingevuld worden. <br/>
+<br/>
+Er zijn bij deze enquête geen goede of foute antwoorden. Hoewel sommige vragen erg op elkaar lijken, zijn ze niet precies hetzelfde. Het is voor het onderzoek erg belangrijk dat u de vragen allemaal en zo eerlijk mogelijk beantwoordt. Bij elke vraag is maar één antwoord mogelijk, tenzij anders is aangegeven. <br/>
+<br/>
+Een deel van de enquête bestaat uit algemene vragen over u, uw positie en activiteiten en uw bedrijf. Daarna volgt het deel dat specifiek over Effectuation gaat. <br/>
+<br/>
+Alle gegevens worden gegarandeerd vertrouwelijk behandeld. Uw gegevens worden onder geen enkele voorwaarde aan derden verstrekt. <br/>
+<br/>
+Wij verzoeken u vriendelijk de ingevulde vragenlijst binnen vier weken na ontvangst terug te sturen naar onderstaand adres. <br/>
+Het invullen van dit onderzoek, dat uit 36 vragen bestaat, kost u slechts enkele minuten.<br/>
+U start het onderzoek door hier te klikken.<br/>
+Als deze link niet werkt, kopieer dan onderstaande link naar de adresbalk van uw browser:<br/>
+<a href="https://survey.parantion.nl/?a=lF&amp;s=a3506410ba6a42c082d334f8b5f74d7c&amp;u=urwa5gEDS10225217&amp;iid=8982191">https://survey.parantion.nl/?a=lF&amp;s=a3506410ba6a42c082d334f8b5f74d7c&amp;u=urwa5gEDS10225217&amp;iid=8982191</a><br/>
+<br/>
+Met vriendelijke groeten,<br/>
+<br/>
+Menno van de Straat,<br/>
+Studentlicentie Saxion <br/>
+<br/>
+Starten? Klik <br/>
+hier, of gebruik deze link:<br/>
+<a href="https://survey.parantion.nl/?a=lF&amp;s=a3506410ba6a42c082d334f8b5f74d7c&amp;u=urwa5gEDS10225217&amp;iid=8982191">https://survey.parantion.nl/?a=lF&amp;s=a3506410ba6a42c082d334f8b5f74d7c&amp;u=urwa5gEDS10225217&amp;iid=8982191</a><br/>
+<br/>
+<br/>
+<br/>
+<br/></blockquote>
+</div>
+</div>
+<div><br/></div>
+<div><br/></div>
+<div>
+<hr/></div>
+<div><br/></div>
+<div>meer vanuit bedrijf denken</div>
+<div>- andrea dagen vrij goedgekeurd</div>
+<div>- ziektegeld</div>
+<div>- inkopen direct goedgekeurd</div>
+<div>- tjomme contract</div>
+<div>- </div>
+</en-note>      ]]>
+    </content>
+  </note>
+  <note>
+    <title>HRM systems implementation</title>
+    <created>20130716T152616Z</created>
+    <updated>20130716T154119Z</updated>
+    <tag>Bamboohr</tag>
+    <tag>Pz</tag>
+    <tag>Resumator</tag>
+    <tag>hrm</tag>
+    <tag>small-improvements</tag>
+    <note-attributes>
+      <author>sslooten</author>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+<en-todo checked="true" />BambooHR setup
+<div><en-todo/>add contract data</div>
+<div><en-todo checked="true" />Invite people to BambooHR<br/></div>
+<div><en-todo/>All are invited to BambooHR &amp; submitted the data processing letter<br/></div>
+<div><en-todo/>link BambooHR to SI</div>
+<div><en-todo checked="true" />create 360 feedback</div>
+<div><en-todo/>invite people to submit feedback in SI</div>
+<div><en-todo/>Integrate Resumator</div>
+<div><en-todo/>Integrate Smarterer</div>
+<div><br/></div>
+<div><br/></div>
+<div><br/></div>
+<div>Openstaande bugs</div>
+<div><br/></div>
+<div><en-todo/>BambooHR linkt naar verkeerde SI URL (integratie Bamboo -> SI werkt niet)</div>
+<div><br/></div>
+<div><br/></div>
+</en-note>      ]]>
+    </content>
+  </note>
+  <note>
+    <title>Te bespreken</title>
+    <created>20130423T120332Z</created>
+    <updated>20130423T182111Z</updated>
+    <note-attributes>
+      <author>sslooten</author>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+<en-todo/>Metronomelabs
+<div><en-todo/>email Phil Watson (Linked in) over gebruik LinkedIn bij sales</div>
+</en-note>      ]]>
+    </content>
+  </note>
+</en-export>
