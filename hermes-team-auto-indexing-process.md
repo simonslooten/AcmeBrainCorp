@@ -55,14 +55,13 @@ When tung_tung processes a task for a non-markdown file, they:
 2. Add link/embed to the original file
 3. Write summary + key information
 4. Add tags and frontmatter (`processed: true`)
-5. Notify bonica that the task is ready for review
+5. Send a message to bonica with the file name and ask her to create a review + commit task for herself
 6. Move the task to review
 
 **bonica's responsibilities after review:**
 - Perform quality check
 - Commit and push all changes (`git add -A && git commit && git push`)
 - Move the task to complete
-5. Move the task to complete
 
 ## File Type Handling
 
