@@ -99,3 +99,12 @@ This version now includes the `raw_input/` ingestion area, makes the agents resp
 This approach keeps all logic with the agents (no intelligence in cron jobs) and works reliably across machines because the scanner task itself is the source of truth.
 
 Current scanner task: t_cb2580be (created 2026-06-11)
+## Handling Failed Processing Tasks
+
+When a tung_tung processing task crashes repeatedly (protocol violations, agent crashes, etc.):
+
+- Archive the blocked task and its dependent review task
+- Create a new task with smaller scope / explicit micro-task guidance
+- Document the failure reason in the new task body
+
+Example: t_c6859d8e (Prisma IT - Strategy 2015.enex) was archived after 4 crashes. Replaced by t_bcb55149 with explicit instruction to break the work into smaller steps if needed.
