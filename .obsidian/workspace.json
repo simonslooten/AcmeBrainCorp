@@ -11,14 +11,15 @@
             "id": "6031475dafffa10d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Evernote/post-5-6-26.md",
-                "mode": "source",
-                "source": false
+                "aFile": "hermes-team-auto-indexing-process.md",
+                "bFile": "hermes-team-auto-indexing-process.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "post-5-6-26"
+              "icon": "diff",
+              "title": "Diff: hermes-team-auto-indexing-process  (Index)"
             }
           }
         ]
@@ -177,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 264.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,25 +192,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "5a18eace08f15552",
+  "active": "6031475dafffa10d",
   "lastOpenFiles": [
-    "processed/evernote/2020-archive.enex",
     "Evernote/2020-archive.md",
+    "Evernote/post-5-6-26.md",
+    "reviews/enex-processing-review-2026-06-09.md",
+    "processed/evernote/2020-archive.enex",
     "raw_input/other/2020 archive.enex",
     "processed/evernote/post-5-6-26.enex",
     "raw_input/evernote/post 5-6-26.enex",
     "raw_input/evernote",
     "raw_input/untitled folder",
-    "reviews/enex-processing-review-2026-06-09.md",
     "processed/evernote/post 5-6-26.enex",
     "processed/evernote",
     "processed",
     "retros/enex-processing-retro-2026-06-09.md",
-    "Evernote/post-5-6-26.md",
     "raw_input/other/test.md",
     "tasks/enex-processing-tasks.md",
     "reviews",
-    "raw_input/other/post 5-6-26.enex",
     "8-points-self-improvement.md",
     "Hermes Indexing Dashboard.md",
     "hermes-team-auto-indexing-process.md",

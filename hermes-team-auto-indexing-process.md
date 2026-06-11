@@ -12,14 +12,15 @@ raw_input/
 ├── docx/
 ├── xlsx/
 ├── images/
+├── evernote/
 └── other/
 ```
 
 - Drop new files into the appropriate subfolder under `raw_input/`
-- Agents will create companion `.md` notes (usually at root or in `notes/` or `Evernote/`)
-- Original files remain untouched in `raw_input/`
+- **Evernote exports: Use .enex format** (not PDF). The entire automation pipeline (Git hook → tung_tung → companion .md notes) is built and optimized for .enex. PDF exports lose structure, tags, metadata, and make accurate conversion much harder.
 
 ## Key Principles
+- **.enex is the required format** for Evernote notebook exports. PDF is only acceptable as a supplementary visual backup, never as the primary input for processing.
 - Git-driven triggers (post-commit hook) for reliability
 - Every new file → Kanban task first
 - Agents create companion `.md` notes for non-markdown files
