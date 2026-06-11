@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-export SYSTEM "http://xml.evernote.com/pub/evernote-export4.dtd">
+<en-export export-date="20260611T145210Z" application="Evernote" version="11.16.3">
+  <note>
+    <title>Alliant - Business Intelligence</title>
+    <created>20141008T105511Z</created>
+    <updated>20150123T204254Z</updated>
+    <note-attributes>
+      <author>sslooten</author>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+<div><br/></div>
+<div>Competition:</div>
+<div><br/></div>
+<div><a href="http://www.statista.com/">http://www.statista.com/</a><br/></div>
+<div><br/></div>
+<div><span style="font-size: 24px;"><b>Alliant - Business Intelligence</b></span></div>
+<div><br/></div>
+<div><br/></div>
+<div><span style="font-family: Helvetica; font-size: 13px;"><b>Data Farming, Gathering &amp; Indexing</b></span></div>
+<span style="font-size: 13px; font-family: Helvetica;">We can farm and gather any machine data regardless of format, location or origin. Logfiles from any source, realtime data streams from websites, data from APIs and message queues, and even logs from custom applications. With no predefined schema, data can be indexed from virtually any source, format or location. <br/>
+<br/>
+<b>Indexing</b><br/>
+The next step is to index the data. We analyse the data, crunch it, mash it up, zoom in, enhance it and make sense of it.<br/>
+We then combine that data with other data from your organization, from SalesForce to SAP, from Big Data to Big-Iron, we can handle all.<br/>
+Our engineers work with you to add more knowledge and meaning by identifying, naming and tagging fields and data points.<br/>
+<br/>
+<b>Analysis</b><br/>
+Alliant can work with the best analysis tools available. From Piwik to Kognitio to Pion/Cloudmeter (by Splunk). We use them because they are the best at what they do and they are Open Source<br/>
+<br/>
+<b>Monitor &amp; Alert</b><br/>
+We can feed your in-house monitor systems with the analysed data. We can send notifications via email, RSS, twitter, SNMP or any other feed. We can generate reports in PDF, Excel or any file output format that you may need to further use that data in other systems<br/>
+<br/>
+<b>Report &amp; Analyze</b><br/>
+Together with you, our engineers create advanced visualizations, summarize top values, display the frequency of conditions, forecast highs and lows, plan systems resources and anticipate workloads with predictive visualisations through state-of-the-art dashboards on all devices or via PDF, Excel or any other format.Alliant can also embed your important charts and reports in other third-party business applications so that insights from your data are available wherever it's needed. <br/>
+Our built-in performance technology delivers your mission-critical insights at blazingly fast, (near) Real-Time speeds. Alliant dashboards integrate multiple charts and views of your real-time data for the needs of different users—technical and non-technical. Analyze your data further with chart overlay and pan and zoom controls. You can personalize dashboards for anyone on any device.</span>
+<div><span style="font-size: 13px; font-family: Helvetica;"><br/></span></div>
+<div><span style="font-size: 13px; font-family: Helvetica;"><b>Dashboards</b></span></div>
+<div><font face="Helvetica">Alliant Dashboards are offered as a SAAS solution or on premise. </font></div>
+<div><font face="Helvetica">Alliant dashboards cover 4 strategic areas:</font></div>
+<div><font face="Helvetica"><br/></font></div>
+<div><span style="font-size: 13px; font-family: Helvetica;"><b>Operational Intelligence</b></span></div>
+<div><span style="font-family: Helvetica;">These dashboards are used by departments and its employees. </span><font face="Helvetica">Operational dashboards provide detailed insights, while general reviews aren't a part of their users’ interest. </font><span style="font-family: Helvetica; font-size: 13px;">They have to be prepared for enabling detailed analysis and particular processes. They give insights in running processes.</span></div>
+<div><span style="font-family: Helvetica; font-size: 13px;"><br/></span></div>
+<div><i style="font-size: 13px; font-family: Helvetica;">Customers</i><span style="font-family: Helvetica; font-size: 13px;"><i>: MinAZ, RaboBank, Crisis.nl</i></span></div>
+<div><br/></div>
+<div><span style="font-size: 13px; font-family: Helvetica;"><b>Tactical Intelligence</b></span></div>
+<div><span style="font-size: 13px; font-family: Helvetica;">Tactical dashboards are prepared for more detailed purposes, usually being used for tracing the trends in relation to company's goals and initiatives.<br/>
+With these dashboards, managers can control how market reacts on company's actions and they can investigate how each particular task influences on the company as a whole. Tactical dashboard are usually measured against the preset goal.<br/>
+Tactical dashboards allow deeper insights into analyzed data, discover the problem - and trace its history, find why it had occurred, and – basing on gathered information – make well-thought-out decisions which lead to improving the current situation.<br/>
+<br/></span><i style="font-size: 13px; font-family: Helvetica;">Customers</i><i style="font-family: Helvetica; font-size: 13px;">: Juridisch Loket, PB51, ICCO, Oxfam Novib</i><span style="font-size: 13px; font-family: Helvetica;"><br/></span><span style="font-size: 13px; font-family: Helvetica;"><br/></span></div>
+<div><span style="font-size: 13px; font-family: Helvetica;"><b>Strategic Intelligence</b> <br/></span><font face="Helvetica">Strategic dashboards are connected directly with the balanced scorecard methodology (David Norton and Robert Kaplan).</font><br/>
+<font face="Helvetica">They are used for monitoring the company's progress in achieving predefined goals, defined through KPI's.</font><br/>
+<font face="Helvetica">Strategic dashboards are used on the highest level of company's hierarchy. They provide a ‘ oom’ functionality to allow management to "dive down" to lower levels in the hierarchy. They allow executives to see the generalities first, and then drill through to more detailed reports.</font><br/>
+<br/></div>
+<div><i style="font-size: 13px; font-family: Helvetica;">Customers</i><i style="font-size: 13px; font-family: Helvetica;">: RaboBank, Overheid.nl, Randstad</i><br/></div>
+<div><br/></div>
+<div><span style="font-size: 13px; font-family: Helvetica;"><b>Predictive Intelligence</b><br/></span></div>
+<div><font face="Helvetica">The next generation of Alliant Dashboards</font></div>
+<div><span style="font-size: 13px; font-family: Helvetica;"><br/></span></div>
+<div><span style="font-size: 13px; font-family: Helvetica;"><b>Spin-off products</b></span>
+<div><font face="Helvetica">Morpheus for Railo (morpheus4railo.com</font>)<font face="Helvetica"> is a Real-Time SAAS monitoring offering for Railo (getrailo.com) applications. Morpheus delivers realtime technical information to engineers, systems-managers and other software specialists of Railo applications in production environments.</font></div>
+<div><font face="Helvetica"><br/></font></div>
+<div><i style="font-size: 13px; font-family: Helvetica;">Customers: Korton</i><font face="Helvetica"><br/></font>
+<div>
+<div><span style="background-color: rgb(255, 255, 255); font-family: ProximaNova, Arial, Helvetica, sans-serif; font-size: 13px;"><br/></span></div>
+<div><br/></div>
+<div>
+<hr/>
+<a href="http://www.bidashboard.org/types/operational.html">http://www.bidashboard.org/types/operational.html</a><br/></div>
+<div><br/>
+<hr/>
+<br/></div>
+<a href="http://www.splunk.com/view/splunk/SP-CAAAG57" style="color: rgb(0, 169, 224); text-decoration: none; font-family: ProximaNova, Arial, Helvetica, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);">Splunk Enterprise</a><span style="font-family: ProximaNova, Arial, Helvetica, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);"> is the industry-leading platform for operational intelligence. Collect and index any </span><a href="http://www.splunk.com/view/machine-data/SP-CAAACDC" style="color: rgb(0, 169, 224); text-decoration: none; font-family: ProximaNova, Arial, Helvetica, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);">machine data</a><span style="font-family: ProximaNova, Arial, Helvetica, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);"> from virtually any source in real time. Search, monitor, analyze and visualize your data to gain new insights and intelligence. Index everything for deep visibility, forensics and troubleshooting. Work smarter as you and your team share searches and add knowledge specific to your organization. Create ad hoc reports to identify trends or prove compliance controls. Create interactive dashboards to monitor for security incidents, service levels and other key performance metrics. Analyze user transactions, customer behavior, machine behavior, security threats and fraudulent activity, all in real time.</span><br/>
+<div>
+<hr/>
+<h3 style="font-family: ProximaNovaBold, Arial, Helvetica, sans-serif; font-weight: normal; padding: 10px 0px 5px; font-size: 20px; letter-spacing: -0.3pt; background-color: rgb(255, 255, 255);"><span style="letter-spacing: -0.3pt;">Monitor and Alert</span><br/></h3>
+<div><span style="background-color: rgb(255, 255, 255); font-family: ProximaNova, Arial, Helvetica, sans-serif; font-size: 13px;">Turn searches into real-time alerts and automatically trigger notifications via email or RSS, execute remedial actions, send an SNMP trap to your system management console or generate a ticket at a service desk. Alerts can be triggered based on a variety of thresholds, trend-based conditions and other complex searches. Gain additional information at the time of the alert to assist with faster root cause analysis and problem resolution.</span></div>
+<div>
+<hr/>
+<h3 style="font-family: ProximaNovaBold, Arial, Helvetica, sans-serif; font-weight: normal; padding: 10px 0px 5px; font-size: 20px; letter-spacing: -0.3pt; background-color: rgb(255, 255, 255);">Report and Analyze</h3>
+<span style="background-color: rgb(255, 255, 255); font-family: ProximaNova, Arial, Helvetica, sans-serif; font-size: 13px;">Empower every user in your organization to rapidly analyze data. Build reports, advanced graphs and charts to understand important trends, create advanced visualizations, summarize top values and view the frequency of conditions. Forecast highs and lows, plan systems resources and anticipate workloads with new predictive visualizations. The pivot interface allows users to manipulate and interact with machine data to create robust, information-rich reports from scratch without learning the search language. Save reports, integrate them into dashboards and or share them with management or other colleagues via PDF. Embed your important charts and reports in other third-party business applications so that insights from your data are available wherever they're needed. Built-in performance technology delivers your mission-critical insights at blazingly fast speeds, all at the check of a box.</span></div>
+<div>
+<hr/>
+<h3 style="font-family: ProximaNovaBold, Arial, Helvetica, sans-serif; font-weight: normal; padding: 10px 0px 5px; font-size: 20px; letter-spacing: -0.3pt; background-color: rgb(255, 255, 255);">Custom Dashboards and Views</h3>
+<span style="background-color: rgb(255, 255, 255); font-family: ProximaNova, Arial, Helvetica, sans-serif; font-size: 13px;">Create custom dashboards in a few clicks with the dashboard editor. Dashboards integrate multiple charts and views of your real-time data for the needs of different users—technical and non-technical. Analyze your data further with chart overlay and pan and zoom controls. You can personalize dashboards for anyone on any device.</span></div>
+<div>
+<hr/>
+<span style="color: rgb(51, 51, 51); font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);">Palantir Technologies builds software platforms that help human experts perform powerful, collaborative analysis of data at scale. Palantir’s software is deployed at public institutions, private enterprises, and in the non-profit sector to address the challenges of responsibly making sense of complex, diverse data. </span>
+<div><br style="color: rgb(51, 51, 51); font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);" />
+<br/></div>
+<div><span style="color: rgb(51, 51, 51); font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);">Palantir's solutions are backed by our data fusion platforms: Palantir Gotham and Palantir Metropolis. These technologies for integrating, visualizing, and analyzing massive amounts of information are revolutionizing the work being done in pursuit of many of the world’s most critical missions, from Defense to Anti-Fraud to Disease Response. </span></div>
+<div><br style="color: rgb(51, 51, 51); font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);" />
+<br/></div>
+<span style="background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: Helvetica, Arial, sans-serif; font-size: 13px;">Palantir is headquartered in sunny downtown Palo Alto, CA with offices around the world.</span></div>
+<div>
+<div><br/></div>
+<hr/>
+ </div>
+<div><br/></div>
+</div>
+</div>
+</div>
+</div>
+</en-note>      ]]>
+    </content>
+  </note>
+  <note>
+    <title>Alliant - Digital Marketing</title>
+    <created>20140104T214324Z</created>
+    <updated>20140113T092555Z</updated>
+    <note-attributes>
+      <author>sslooten</author>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+Digital Marketing is not rocket science<br/>
+<div><a href="http://bj-o23.deviantart.com/art/NOT-Rocket-Science-324795055">http://bj-o23.deviantart.com/art/NOT-Rocket-Science-324795055</a><br/></div>
+<div><br/></div>
+<div>Digital Marketing can be Open Source</div>
+<div><br/></div>
+<div>DIgital Marketing components can be flexibel</div>
+<div><br/></div>
+<div>Digital Marketing can be affordable</div>
+<div><br/></div>
+<div>Digital Marketing can be available for small(er) organisations</div>
+<div><br/></div>
+<div>The components</div>
+<div>
+<ul>
+<li>(E)CMS - Mura<br/></li>
+<li>MURA Portal Server<span style="-evernote-last-insertion-point:true;"></span></li>
+<li>DAM - EMshare<br/></li>
+<li>Realtime Anaylyses - Piwik</li>
+<li>Realtime Dashboarding - Alliant Dashboards</li>
+<li>Multi-channel publishing - Alliant ePublishr</li>
+<li>Narrow Casting - Brightcove / Caltura</li>
+<li>BPM - Bonita</li>
+<li>Document based input &amp; output - DataLogics</li>
+<li>Integration with</li>
+<li style="list-style: none; display: inline">
+<ul>
+<li>MS Dynamics</li>
+<li>MS Sharepoint</li>
+<li>SAP</li>
+<li>MS Exchange Server</li>
+<li>Custom Build Integration</li>
+</ul>
+</li>
+<li>AWS</li>
+<li><br/></li>
+</ul>
+<div>What we still need: Tag Management, </div>
+<div><br/></div>
+<div>Together with our partners, we have created and integrated an impressive stack of Open Source systems with an even more impressive list of customers.</div>
+</div>
+<div>Alliant Digital Marketing Platform is available on an elastic infra structure (AWS) and is backed by our 24/7 ‘follow the sun’ - support plans</div>
+</en-note>      ]]>
+    </content>
+  </note>
+  <note>
+    <title>Morpheus</title>
+    <created>20121219T094809Z</created>
+    <updated>20130319T090518Z</updated>
+    <note-attributes>
+      <author>sslooten</author>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;"><a href="https://cloud.google.com/products/more-products">https://cloud.google.com/products/more-products</a> -- Google prediction API / Google Translation API
+</en-note>      ]]>
+    </content>
+  </note>
+</en-export>
