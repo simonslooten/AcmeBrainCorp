@@ -44,6 +44,11 @@ Periodic scan for unprocessed files in `raw_input/`.
 - **tung_tung**: Primary owner — creates companion `.md` notes for files in `raw_input/`
 - **bonica**: Quality review + **blocked task fixer** (standard part of the workflow)
 
+**Mandatory rules:**
+- tung_tung must **not** mark a task complete without notifying grok-coo.
+- After any real processing work (especially the first few files), a retro must be run with bonica.
+- Review must be done by a different agent — no self-review.
+
 When tung_tung processes a task for a non-markdown file, they:
 1. Create a companion `.md` note
 2. Add link/embed to the original file
