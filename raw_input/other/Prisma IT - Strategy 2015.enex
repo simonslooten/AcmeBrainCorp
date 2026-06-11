@@ -1,0 +1,5548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-export SYSTEM "http://xml.evernote.com/pub/evernote-export4.dtd">
+<en-export export-date="20260611T151809Z" application="Evernote" version="11.16.3">
+  <note>
+    <title>PNL Uurtarieven 2017</title>
+    <created>20150106T122403Z</created>
+    <updated>20161212T155205Z</updated>
+    <note-attributes>
+      <author>simon@simonslooten.com</author>
+      <source>desktop.mac</source>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note><div>Voorstel voor nieuwe uurtarieven</div><div><br/></div><div>Development</div><div>     Junior                          <span>    <span>    <span>    <span>    <span>    <span>    <span>    </span></span></span></span></span></span></span>100               </div><div>     Medior                         <span>    <span>    <span>    <span>    <span>    <span>    <span>    </span></span></span></span></span></span></span>110               </div><div>     Senior                          <span>    <span>    <span>    <span>    <span>    <span>    <span>    </span></span></span></span></span></span></span>125              </div><div>Consultancy (dev)            </div><div>     Junior                          <span>    <span>    <span>    <span>    <span>    <span>    <span>    </span></span></span></span></span></span></span>125</div><div>     Medior                         <span>    <span>    <span>    <span>    <span>    <span>    <span>    </span></span></span></span></span></span></span>150</div><div>     Senior                          <span>    <span>    <span>    <span>    <span>    <span>    <span>    </span></span></span></span></span></span></span>175              </div><div>Consultancy (Analytics)</div><div>     Junior                           <span>    <span>    <span>    <span>    <span>    <span>    <span>    </span></span></span></span></span></span></span>100  </div><div>     Medior                          <span>    <span>    <span>    <span>    <span>    <span>    <span>    </span></span></span></span></span></span></span>110              </div><div>     Senior                           <span>    <span>    <span>    <span>    <span>    <span>    <span>    </span></span></span></span></span></span></span>125</div><div><br/></div><div>Project Management                              150<br/></div><div>System Management        <span>    <span>    <span>    <span>    <span>    <span> </span></span></span></span></span></span>110       </div><div><br/></div><div>Training (per dag)              <span>    <span>    <span>    <span>    <span>    <span>   </span></span></span></span></span></span>2.000,- <br/></div><div><br/></div><div>Maximale korting op deze tarieven zonder overleg: 10%</div><div><br/></div><div><br/></div><div><br/></div><div>    </div><div><br/></div></en-note>      ]]>
+    </content>
+  </note>
+  <note>
+    <title>PNL 2015</title>
+    <created>19691215T142607Z</created>
+    <updated>20141223T082036Z</updated>
+    <note-attributes>
+      <author>sslooten</author>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">2015</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;"><br/></span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">Every software company needs to continuously reinvent itself. In fact, it’s not only software companies that face this problem, car manufactures who would still produce horse carriages, would be out of business. The only difference is that we tend to move faster.</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;"><br/></span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">Prisma IT has always done this by scouting the market, finding an opportunity (programming language or other), start to work with it, start delivering training, find customers who wanted software build with these tools and then adapt in the organization. This was the case with ColdFusion, Flex, LiveCycle, Mura, frameworks etc.</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;"><br/></span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">The reason why we have always succeeded is that there would always be one person, who would be the “evangelist” of the new language. For CF &amp; Flex that person was me, for LiveCycle it was Jochem, for frameworks Mark would often be an evangelist. Ron for Brightcove and for Mura it is Guust.</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;"><br/></span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">In the last few years we have not really been able to re-invent ourselves on a continuous basis. And that is starting to worry me more and more.</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">There is an old saying: “if you don’t rewrite your code, someone else will do it for you”. </span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">I believe we have been in the danger zone of “falling behind” for the last 2 or 3 years.</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;"><br/></span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">In the last few years, we have tried to adapt new technologies, but - apart from Mura and Brightcove - we havent really been able to do so. And having said that, I believe Mura and Brightcove aren’t the ones that will be able to “make the difference”. They are nice, but they will not be the big differentiators to get us into and through 2015 and further.</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;"><br/></span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">Mendix, AWS training, BonitaSoft, DataLogics, DocOrigin are all technologies that we have not been able to adapt to and, as a result, we let them slip.</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;"><br/></span></font></div>
+
+	
+	
+	
+	<div>If Prisma IT wants to survive and lead in this continuously faster moving world, we need to change our model and adapt faster and with more conviction to changes and new oportunities.</div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;"><br/></span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">For the next years, We need to have a discussion and build a plan around the idea to become a “Cloud Architected Software” centric company.</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;"><br/></span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">What I have seen in the last few days from AWS blew my mind. for the first time in over 14 years and for the 5th time in my career, I believe we found something that can help us push ourselves to the next stage. After DEC VAX, Apple Macintosh, ColdFusion and Flex, I believe Cloud centric (or cloud architected) *we need to find a better term* development will completely change the paradigm of software development.</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;"><br/></span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">Our partner of choice is AWS.</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;"><br/></span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">Over the last couple of years, AWS has been handled by us on the level of system management. We build applications, hand them over to sysmngmnt and they deploy. Either on our own hardware or in the cloud.</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;"><br/></span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">We need to rapidly change this model. “Cloud awareness” needs to become cloud architected and needs to be handled at the architect level. We need to start designing and architecting our applications (projects, existing projects and repeatable solutions) around the possibilities that AWS provides.</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;"><br/></span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">We also (and at the same time) need to change the way we develop. AWS tools like AWS CodeCommit, CodeDeploy CodePipeline, AWS Container Service, Docker and Apollo all need to be at the heart of our development methodologies.</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;"><br/></span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">Running the apps we build on AWS will be the standard.</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;"><br/></span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">Technologies like AWS Lambda will fundamentally change the way we build software.</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;"><br/></span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">At the same time we need to start projects and programs with sales and marketing to start talking to customers, add content on our website etc.</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;"><br/></span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">We need to come up with a way to be able to adapt to new technologies and features that AWS releases. Just as an indication of the speed they are approbating: AWS has released more than 500 new technologies and features since Jan 1 2014!</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">And the scary thing is that they build up even more speed with their releases.</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;"><br/></span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">This will be a huge project for 2015 and it will mean that everybody needs to commit to this.</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">We need to do this. It will be hard work and fun and it will make us better.</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;"><br/></span></font></div>
+
+	
+	
+	
+	<div><span style="font-family: Calibri; font-size: 14px;">I have created this text as the start of an internal discussion with management, team leads, developers and sysmngmnt on how to do this.</span><font face="Calibri"><span style="font-size: 14px;"><br/></span></font></div>
+
+	
+	
+	
+	<div><span style="font-family: Calibri; font-size: 14px;"><br/></span></div>
+
+	
+	
+	
+	<div><span style="font-family: Calibri; font-size: 14px;">We can not afford to miss this one and we cannot afford to wait another year.</span></div>
+
+	
+	
+	
+	<div><span style="font-family: Calibri; font-size: 14px;"><br/></span></div>
+
+	
+	
+	
+	<div><span style="font-family: Calibri; font-size: 14px;">Prisma IT needs to expand in 5 different focus areas in 2015</span></div>
+
+	
+	
+	
+	<div><span style="font-family: Calibri; font-size: 14px;"><br/></span></div>
+
+	
+	
+	
+	<div><span style="font-family: Calibri; font-size: 14px;">- Revenues for PNL need to go up by 30% to 2.6MM</span></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">- The Alliant Solution Suite needs to be finalised and launched</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">- We need to expand out international operations into different regions</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">- We need to expand our solutions &amp; services offering with (at least) mobile &amp; Search optimalisation services (SEO, SEA etc)</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">- We need to make AWS the core of our software Dev &amp; Ops work. AWS needs to be included at the architectural level of what we do</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;"><br/></span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">Further, we must complete a number of internal projects:</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;"><br/></span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">- Single Signon for all Prisma IT services (Through PingONe?)</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">- Pass out of international servers</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">- Move Domain controllers to the cloud</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">- Move all backups to the cloud</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">- Move Fileshares to the cloud (Sharepoint, Zocalo or other?)</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">- Move dev environments (of non-standard environments) to EC2?</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">- Update &amp; Professionalize WIFI at HQ</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">- Setup a Prisma IT blog</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">- Make sure new clients/projects/releases are on our website on the day of the release</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">- </span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;"><br/></span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;">And we need to create a m eeting scheme that works for everybody.</span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;"><br/></span></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;"><br/></span></font></div>
+
+	
+	
+	
+	<div>
+
+		
+		
+		
+		<hr/>
+<font face="Calibri"><span style="font-size: 14px;"> </span></font>
+	
+	
+	
+	</div>
+
+	
+	
+	
+	<div><font face="Calibri"><span style="font-size: 14px;"><font face="Calibri"><span style="font-size: 14px;"><br/></span></font></span></font></div>
+<font face="Calibri">Apigee<br/>
+Twilio<br/>
+Security, risk, compliance &amp; corp governance<br/>
+<br/>
+Codedeploy<br/>
+Codepipeline<br/>
+Codecommit<br/>
+<br/>
+KeyManagementService<br/>
+<br/>
+Cloudtrail<br/>
+Aws config!!<br/>
+Service catalog<br/>
+<br/>
+Netsuite<br/>
+<a href="http://intuit.com/"><u>Intuit.com</u></a><br/>
+<br/>
+<a href="http://alliant.io/"><u>Alliant.io</u></a><br/>
+<br/>
+<a href="http://mint.com/"><u>Mint.com</u></a><br/>
+<br/>
+Aws workspaces<br/>
+<br/>
+Customer focussed<br/>
+Pioneer<br/>
+Long term orientation<br/>
+<br/>
+<a href="http://downforeveryoneorjustme.com/"><u>Downforeveryoneorjustme.com</u></a><br/>
+<br/>
+Buzzfeed<br/>
+<br/>
+Hire aws solution architect<br/>
+<br/>
+Let everyone try!<br/>
+<br/>
+Continuous deploy<br/>
+<br/>
+Aurora<br/>
+<br/>
+Pres inst to sven<br/>
+<br/>
+Aws autoscaling<br/>
+<br/>
+Event in europe?<br/>
+<br/>
+<a href="http://omnifone.com/"><u>Omnifone.com</u></a><br/>
+<br/>
+If you dont rebuild somebody else will<br/>
+<br/>
+Pono<br/>
+<br/>
+Weather underground<br/>
+<br/>
+We need a culture change --> andrea<br/>
+<br/>
+Send pristine to rob --> the market is changing<br/>
+<br/>
+Check aws docker<br/>
+<br/>
+Book suggestion: the box<br/>
+<br/>
+Aws container service -- uses docker -- ecs<br/>
+<br/>
+Railo must support docker<br/>
+<br/>
+Mijn idee frustratie uitleggen -- flex, cf deed ik zelf in 2014 bloedde alles dood. Hoe kan ik braindumps zaaien?<br/>
+<br/>
+Aws lambda<br/>
+<br/>
+Check lambda voorbeeld van werner<br/>
+<br/>
+Check pingone &amp; octa<br/>
+<br/>
+Email tridib<br/>
+<br/>
+Check mainframe2<br/>
+<br/>
+Check ping identity<br/>
+<br/>
+Certivox<br/>
+<br/>
+Lucidchart<br/>
+<br/>
+<br/></font> From the show:
+
+	
+	
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	
+	
+	<div><font face="Calibri">Runscope.com - testing van API’s</font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	
+	
+	<div><font face="Calibri">Teradici - beheerloos / OS-loos device voor AWS workspace (PCOIP zero clients)</font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	
+	
+	<div><font face="Calibri">Mainframe2 - ALL software in a browser</font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	
+	
+	<div><font face="Calibri">ScaleArc.com - Software Load balancing for databases (also Aurora) on Amazon</font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	
+	
+	<div><font face="Calibri">Ping Identity - Single Signon for the enterprise (pinging - single signon !!! )</font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	
+	
+	<div><span style="font-family: Times;"><br/></span></div>
+
+
+
+
+
+
+	
+	<hr/>Conflicting modification on 19 november 2014 09:41:34:
+	
+	<hr/>
+
+	
+	<div><span style="font-family: Calibri;"><br/></span></div>
+
+	
+	<div>
+
+		
+		<div style="font-family: Calibri;">Een aantal uitgangspunten</div>
+
+		
+		<div style="font-family: Calibri;"><br/></div>
+
+		
+		<div style="font-family: Calibri;">- We (PNL) zullen in de komende 3 jaar moeten groeien naar een omvang van 30-35 FTE om (weer) een gezonde bedrijfsopbouw te hebben (verhouding overhead|productie). </div>
+
+		
+		<div style="font-family: Calibri;">- Een tweede reden voor de noodzaak voor die groei ligt in het feit dat we nog met een aantal single point of failures zitten vwb de kennis die bij mensen aanwezig is.</div>
+
+		
+		<div style="font-family: Calibri;">- Uitgaande van een in de IT gebruikelijk omzet per FTE van zo’n 125K, hoort daar een omzet bij van tussen de 4MM en 4.5MM</div>
+
+		
+		<div style="font-family: Calibri;">- meer dan 35 FTE mag, al wordt het pand dan te klein, maar wel met een verhouding van 125-150K / FTE.</div>
+
+		
+		<div style="font-family: Calibri;"><font face="Calibri">- Minder dan 35FTE mag ook (bijvoorbeeld door te outsourcen naar andere Prisma vestigingen), dan moet de omzet/FTE dus stijgen.</font></div>
+
+		
+		<div style="font-family: Calibri;"><br/></div>
+
+		
+		<div style="font-family: Calibri;"><font face="Calibri">- Prisma IT help onze klanten met het realiseren van online oplossingen. Daarvoor maken we gebruik van een “toolkit” of “lego blokken”. We zijn experts op het gebied van de verschillende tools (consultancy, training, licenties) en gebruiken die tools voor het realiseren van oplossingen.</font></div>
+
+		
+		<div style="font-family: Calibri;"><font face="Calibri">- We zullen (zie ook het 2015 en beyond stuk) onszelf continu opnieuw moeten uitvinden. Dat uitvinden bestaat uit: nieuwe tools (platforms) vinden, expertise opbouwen (onze mensen trainen) en die nieuwe tools in onze toolkit opnemen. MBT de nieuwe tools kunnen we die expertise weer verkopen (consultancy, training, licenties), terwijl we de tools ook gebruiken in onze oplossingen. Dit is het continue vernieuwing proces (life-cycle) waarin we ons bevinden.</font></div>
+
+		
+		<div style="font-family: Calibri;"><br/></div>
+
+		
+		<div style="font-family: Calibri;">- Onze USP’s zitten in </div>
+
+		
+		<div style="font-family: Calibri;">     a. expertise van de tools (Lego blokken) die we gebruiken en de interactie tussen die tools</div>
+
+		
+		<div style="font-family: Calibri;">     b. kennis van het ontwerpen en ontwikkelen van “user friendly” en “technisch en architectonisch hoogwaardige” online oplossingen. Vooral onze kennis van het koppelen van onze oplossingen aan “alles wat los en vast zit" (dus ook big-iron) wordt als waardevol gezien door externe experts</div>
+
+		
+		<div style="font-family: Calibri;"><br/></div>
+
+		
+		<div style="font-family: Calibri;">Wat doen we? </div>
+
+		
+		<div style="font-family: Calibri;">Discover, Create, Deliver</div>
+
+		
+		<div style="font-family: Calibri;">- Development (ontwerp, architectuur, bouwen)</div>
+
+		
+		<div style="font-family: Calibri;">- Training, consulting &amp; mentoring</div>
+
+		
+		<div style="font-family: Calibri;">- Sysops (hosting)</div>
+
+		
+		<div style="font-family: Calibri;">- Licenties</div>
+
+		
+		<div style="font-family: Calibri;"><br/></div>
+
+		
+		<div style="font-family: Calibri;">Wat gaan we (moeten we) toevoegen?</div>
+
+		
+		<div style="font-family: Calibri;">- Repeatable solutions (Alliant DXP, Alliant BI en Alliant BPM onder de verzamelnaam Alliant)</div>
+
+		
+		<div style="font-family: Calibri;">- Products (Morpheus)</div>
+
+		
+		<div style="font-family: Calibri;">- Mobile</div>
+
+		
+		<div style="font-family: Calibri;"><br/></div>
+
+		
+		<div style="font-family: Calibri;">Wat gaan we veranderen?</div>
+
+		
+		<div style="font-family: Calibri;">- (deels) uit de lineaire omzet proberen te komen. Dat kan alleen door een prijsopbouw mbv componenten (dus niet in een offerte “hosting XXX per jaar” opnemen, maar uitsplitsen).</div>
+
+		
+		<div style="font-family: Calibri;">- een ingrijpende verandering wordt het embedden van de “Cloud architected” development methodieken, inclusief “continuous delivery” in onze ontwikkel methodieken. Dit zal een groot intern project zijn, maar het is mi absoluut noodzakelijk dit te gaan doen in 2015.</div>
+
+		
+		<div style="font-family: Calibri;"><br/></div>
+
+		
+		<div style="font-family: Calibri;">Voor 2015 wil ik vasthouden aan een target van 2.6MM (afhankelijk van de omzet in 2014; we moeten 30% groeien in 2015). Als in het huidige sales plan “toegewerkt” wordt naar een target van 2.4MM, dan moet (met een aantal nieuwe en nog niet besproken zaken) 2.6 ZEKER haalbaar zijn.</div>
+
+		
+		<div style="font-family: Calibri;"><br/></div>
+
+		
+		<div style="font-family: Calibri;">Onderverdeling:</div>
+
+		
+		<div style="font-family: Calibri;"><br/></div>
+
+		
+		<div style="font-family: Calibri;">- Complexe ontwikkel projecten, devops, continuous delivery</div>
+
+		
+		<div style="font-family: Calibri;">- Mobile</div>
+
+		
+		<div style="font-family: Calibri;">- Piwik (iMetrix?)</div>
+
+		
+		<div style="font-family: Calibri;">- licenties / trainingen / products</div>
+
+		
+		<div style="font-family: Calibri;">- AWS consultancy, sysops &amp; trainingen</div>
+
+		
+		<div style="font-family: Calibri;">- repeatable solutions</div>
+
+		
+		<div style="font-family: Calibri;"><br/></div>
+
+		
+		<div style="font-family: Calibri;">Dit zijn vwo sales bemanning (wellicht) geen full FTE’s (in het begin), maar kunnen m.i. zeker uitgroeien tot full FTE’s.</div>
+
+		
+		<div style="font-family: Calibri;"><br/></div>
+
+		
+		<div style="font-family: Calibri;">—> Ik zou (per direct) op zoek willen naar een dedicated sales rep voor licenties/trainingen/products (morpheus). Dit is een Fulltime functie, met een groot variabel salaris component</div>
+
+		
+		<div style="font-family: Calibri;">—> In Q1 moet er een sales rep voor Piwik/Mobile bijkomen (als we die combi kunnen vinden)</div>
+
+		
+		<div style="font-family: Calibri;">—> in Q1 moet er een sales rep voor AWS bijkomen</div>
+
+		
+		<div style="font-family: Calibri;"><br/></div>
+
+		
+		<div style="font-family: Calibri;">Bemensing development</div>
+
+		
+		<div style="font-family: Calibri;"><br/></div>
+
+		
+		<div style="font-family: Calibri;">hangt af van het aantal uren dat we gaan verkopen + goedgekeurde investeringen + hetgeen we gaan outsourcen naar andere vestigingen.</div>
+
+		
+		<div style="font-family: Calibri;"><br/></div>
+
+		
+		<div style="font-family: Calibri;">
+
+			
+			<div>Gevoelsmatig moet er in Q1 een developer bij. In Q1 kunnen we kijken wat er in Q2 bij moet komen.</div>
+
+		
+		</div>
+
+		
+		<div><br/></div>
+
+	
+	</div>
+
+	
+	<div><br/></div>
+
+	
+	<div><br/></div>
+
+	
+	<div><br/></div>
+
+	
+	<div>
+
+		
+		<hr/>
+	
+	</div>
+
+	
+	<div><span style="font-family: Calibri;"><br/></span></div>
+
+	
+	<div><font face="Calibri">Prisma IT Nederland BV - 2015 and beyond.</font></div>
+
+	
+	<div><span style="font-family: Calibri;"><br/></span></div>
+
+	
+	<div><font face="Calibri">There is an old saying: “if you don’t rewrite your code, someone else will do it for you”. </font><span style="font-family: Calibri;"><br/></span></div>
+
+	
+	<div><font face="Calibri">Every software company needs to continuously reinvent itself. In fact, it’s not only software companies that face this problem, car manufactures who would still produce horse carriages, would be out of business. The same is the fact for software companies, the only difference is that we tend to move faster than the rest of the world. An example: who had heard of “the Cloud” 3 years ago? And today, barely 3 years later, “the Cloud” is “the new normal”.</font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><font face="Calibri">Prisma IT has always done this by scouting the market, finding an opportunity (programming language, platform or other), start to work with it, start delivering training, find customers who wanted software build with these tools and then adapt in the organization. This was the case with ColdFusion, Spectra, Flex, LiveCycle, Mura, frameworks, Webtrends etc.</font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><font face="Calibri">The reason why we have always succeeded is that there would always be one person, who would be the “evangelist” of the new language. For CF &amp; Flex that person was me, for LiveCycle it was Jochem, for frameworks Mark would often be an evangelist. Vincent for Webtrends, Ron for Brightcove and for Mura it is Guust.</font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><font face="Calibri">In the last few years we have not really been able to re-invent ourselves on a continuous basis. And that is starting to worry me more and more. We are falling behind and we run the risk of becoming “an average” IT provider. </font><font face="Calibri">I believe we have been in that danger zone for the last 2 or 3 years.</font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><font face="Calibri">The problem is, it is not due to that fact that we couldn’t find any new technologies, we have tried to adapt new technologies, but - apart from Mura and Brightcove - we havent really been able to do so. And having said that, I believe Mura and Brightcove aren’t the ones that will be able to “make the difference”. They are nice, but they will not be big differentiators.</font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><font face="Calibri">Mendix, AWS training, BonitaSoft, DataLogics, DocOrigin are all technologies that we have not been able to adapt. And we let them slip.</font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><font face="Calibri">That needs  to change in 2 ways.</font></div>
+
+	
+	<div><span style="font-family: Calibri;"><br/></span></div>
+
+	
+	<div><span style="font-family: Calibri;">1. we need to start adapting new technologies</span></div>
+
+	
+	<div><span style="font-family: Calibri;">2. we need to implement an ongoing process that enables point no. 1</span></div>
+
+	
+	<div><span style="font-family: Calibri;"><br/></span></div>
+
+	
+	<div><span style="font-family: Calibri;">As a start, w</span><font face="Calibri">e need to have a discussion and build a plan around the idea to become a “Cloud Architected Software” centric company.</font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><font face="Calibri">What I have seen in November from AWS blew my mind. for the first time in over 14 years and for the 5th time in my career, I believe we found something that can help us push ourselves to the next stage. After DEC VAX, Apple Macintosh, ColdFusion and Flex, I believe Cloud centric (or cloud architected) *we need to find a better term* will completely change the paradigm of software development.</font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><font face="Calibri">Over the last couple of years, AWS has been handled by us on the level of system management. We build applications, hand them over to sysmngmnt and they deploy. Either on our own hardware or in the cloud.</font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><font face="Calibri">We need to rapidly change this model. “Cloud awareness” needs to be handled at the architect level. We need to start designing and architecting our applications (projects, existing projects and repeatable solutions) around the possibilities that AWS provides.</font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><font face="Calibri">We also (and at the same time) need to change the way we develop. AWS tools like AWS CodeCommit, CodeDeploy CodePipeline, AWS Container Service, Docker and Apollo all need to be at the heart of our development methodologies.</font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><font face="Calibri">Running the apps we build on AWS will be the new normal.</font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><font face="Calibri">Technologies like AWS Lambda will fundamentally change the way we build software.</font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><font face="Calibri">At the same time we need to start projects and programs with sales and marketing to start talking to customers, add content on our website etc.</font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><font face="Calibri">We need to come up with a way to be able to adapt to new technologies and features that AWS releases. Just as an indication of the speed they are gaining: AWS has released more than 500 new technologies and features since Jan 1 2014.</font></div>
+
+	
+	<div><font face="Calibri">And the scary thing is that they build up even more speed with their releases.</font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><font face="Calibri">This will be a huge project for 2015 and it will mean that everybody needs to commit to this.</font></div>
+
+	
+	<div><font face="Calibri">We need to do this. It will be hard work and fun and it will make us better.</font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><span style="font-family: Calibri;">I have created this text as the start of an internal discussion with management, team leads, sales &amp; marketing, developers and sysmngmnt on how to do this.</span><font face="Calibri"><br/></font></div>
+
+	
+	<div><span style="font-family: Calibri;"><br/></span></div>
+
+	
+	<div><span style="font-family: Calibri;">We can not afford to miss this one and we cannot afford to wait another year.</span></div>
+
+	
+	<div><span style="font-family: Calibri;"><br/></span></div>
+
+	
+	<div><span style="font-family: Calibri;">Prisma IT needs to expand in 5 different focus areas in 2015</span></div>
+
+	
+	<div><span style="font-family: Calibri;"><br/></span></div>
+
+	
+	<div><span style="font-family: Calibri;">- Revenues for PNL need to go up by 30% to 2.6MM</span></div>
+
+	
+	<div><span style="font-family: Calibri;">- That would ratify a staff of between 20 and 26 FTE</span></div>
+
+	
+	<div><font face="Calibri">- The Alliant Solution Suite needs to be finalised and launched</font></div>
+
+	
+	<div><font face="Calibri">- We need to expand out international operations into different regions</font></div>
+
+	
+	<div><font face="Calibri">- We need to expand our solutions &amp; services offering with (at least) mobile &amp; Search optimalisation services (SEO, SEA etc)</font></div>
+
+	
+	<div><font face="Calibri">- We need to make AWS the core of our software Dev &amp; Ops work. AWS needs to be included at the architectural level of what we do</font></div>
+
+	
+	<div><span style="font-family: Calibri;"><br/></span></div>
+
+	
+	<div><font face="Calibri">We have already started to refocus from “selling hours” to “selling a solution”. Currently pricing of solutions is still based on the work needed for the solution. We need to continue changing this and introducing license models.</font></div>
+
+	
+	<div><span style="font-family: Calibri;"><br/></span></div>
+
+	
+	<div><font face="Calibri">We need to continue to get out of the “linear” revenue model (which is what selling hours is)</font></div>
+
+	
+	<div><span style="font-family: Calibri;"><br/></span></div>
+
+	
+	<div><span style="font-family: Calibri;">Just based on workforce, our financial capacity is 200 days * 8 hours * 9 employees * € 85,- = 1.2MM</span></div>
+
+	
+	<div><font face="Calibri">This number is high. People are not 100% billable and our many of our people are not full FTE’s.</font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><font face="Calibri">Further, we must complete a number of internal projects:</font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><font face="Calibri">- Single Signon for all Prisma IT services (Through PingONe?)</font></div>
+
+	
+	<div><font face="Calibri">- Phase out of international servers</font></div>
+
+	
+	<div><font face="Calibri">- Move Domain controllers to the cloud</font></div>
+
+	
+	<div><font face="Calibri">- Move all backups to the cloud</font></div>
+
+	
+	<div><font face="Calibri">- Move Fileshares to the cloud (Sharepoint, Zocalo or other?)</font></div>
+
+	
+	<div><font face="Calibri">- Move dev environments (of non-standard environments) to EC2?</font></div>
+
+	
+	<div><font face="Calibri">- Update &amp; Professionalize WIFI at HQ</font></div>
+
+	
+	<div><font face="Calibri">- Setup a Prisma IT blog</font></div>
+
+	
+	<div><font face="Calibri">- Make sure new clients/projects/releases are on our website on the day of the release</font></div>
+
+	
+	<div><font face="Calibri">- </font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><span style="font-family: Calibri;"><br/></span></div>
+
+	
+	<div>
+
+		
+		<hr/>
+	
+	</div>
+
+	
+	<div><br/></div>
+
+	
+	<div><span style="mso-ansi-language:EN-US">PINT version 2015</span></div>
+
+	
+	<div>
+
+		
+		<div><i style="mso-bidi-font-style:normal"><span style="mso-bidi-font-size:9.0pt;mso-ansi-language:EN-US">“Prisma IT is dedicated to helping you realize superior digital solutions”. Founded in 1992 and headquartered in Rotterdam, we are a Pan-European organization with offices in multiple countries. Our down-to-earth approach and proven commitment to providing our clients the right solutions, the best technology available worldwide and qualified professionals, have made us the partner of choice for public and private organizations of all sizes around the world. Our consultants, trainers and engineers are industry experts in rich media and cloud technologies. We leverage these technologies, our craftsmanship and our experience to help our clients realize business critical applications as well as rich online content delivery solutions across devices. You can find us at <a href="http://prisma-it.com">prisma-it.com</a>.</span></i></div>
+
+		
+		<div><i style="mso-bidi-font-style:normal"><span style="mso-bidi-font-size:9.0pt;mso-ansi-language:EN-US"> </span></i></div>
+
+		
+		<div style="background:#F8F7F6;vertical-align:baseline;"><b style="mso-bidi-font-weight:normal"><span style="font-size:11.0pt;font-family: Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Arial;color:black;mso-themecolor:text1">Mission</span></b><span style="font-size:11.0pt;font-family:Calibri;mso-ascii-theme-font:minor-latin; mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Arial;color:black; mso-themecolor:text1">: Prisma IT is dedicated to helping you realize superior digital solutions</span></div>
+
+		
+		<div style="background:#F8F7F6;vertical-align:baseline;"><b style="mso-bidi-font-weight:normal"><span style="font-size:11.0pt;font-family: Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Arial;color:black;mso-themecolor:text1">Vision</span></b><span style="font-size:11.0pt;font-family:Calibri;mso-ascii-theme-font:minor-latin; mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Arial;color:black; mso-themecolor:text1">: Committed people, good technology and craftsmanship make great solutions.</span></div>
+
+		
+		<div style="background:#F8F7F6;vertical-align:baseline;"><b style="mso-bidi-font-weight:normal"><span style="font-size:11.0pt;font-family: Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Arial;color:black;mso-themecolor:text1">Philosophy</span></b><span style="font-size:11.0pt;font-family:Calibri;mso-ascii-theme-font:minor-latin; mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Arial;color:black; mso-themecolor:text1">: have fun, work hard, be better</span></div>
+
+		
+		<div style="background:#F8F7F6;vertical-align:baseline;"><b style="mso-bidi-font-weight:normal"><span style="font-size:11.0pt;font-family: Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Arial;color:black;mso-themecolor:text1">Mantra</span></b><span style="font-size:11.0pt;font-family:Calibri;mso-ascii-theme-font:minor-latin; mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Arial;color:black; mso-themecolor:text1">: It is kind of fun to do the impossible (Walt Disney)</span></div>
+
+	
+	</div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div>
+
+		
+		<hr/>
+<font face="Calibri"> </font>
+	
+	</div>
+
+	
+	<div><font face="Calibri"><font face="Calibri"><br/></font></font></div>
+<font face="Calibri">Apigee<br/>
+Twilio<br/>
+Security, risk, compliance &amp; corp governance<br/>
+<br/>
+Codedeploy<br/>
+Codepipeline<br/>
+Codecommit<br/>
+<br/>
+KeyManagementService<br/>
+<br/>
+Cloudtrail<br/>
+Aws config!!<br/>
+Service catalog<br/>
+<br/>
+Netsuite<br/>
+<a href="http://intuit.com/"><u>Intuit.com</u></a><br/>
+<br/>
+<a href="http://alliant.io/"><u>Alliant.io</u></a><br/>
+<br/>
+<a href="http://mint.com/"><u>Mint.com</u></a><br/>
+<br/>
+Aws workspaces<br/>
+<br/>
+Customer focussed<br/>
+Pioneer<br/>
+Long term orientation<br/>
+<br/>
+<a href="http://downforeveryoneorjustme.com/"><u>Downforeveryoneorjustme.com</u></a><br/>
+<br/>
+Buzzfeed<br/>
+<br/>
+Hire aws solution architect<br/>
+<br/>
+Let everyone try!<br/>
+<br/>
+Continuous deploy<br/>
+<br/>
+Aurora<br/>
+<br/>
+Pres inst to sven<br/>
+<br/>
+Aws autoscaling<br/>
+<br/>
+Event in europe?<br/>
+<br/>
+<a href="http://omnifone.com/"><u>Omnifone.com</u></a><br/>
+<br/>
+If you dont rebuild somebody else will<br/>
+<br/>
+Pono<br/>
+<br/>
+Weather underground<br/>
+<br/>
+We need a culture change --> andrea<br/>
+<br/>
+Send pristine to rob --> the market is changing<br/>
+<br/>
+Check aws docker<br/>
+<br/>
+Book suggestion: the box<br/>
+<br/>
+Aws container service -- uses docker -- ecs<br/>
+<br/>
+Railo must support docker<br/>
+<br/>
+Mijn idee frustratie uitleggen -- flex, cf deed ik zelf in 2014 bloedde alles dood. Hoe kan ik braindumps zaaien?<br/>
+<br/>
+Aws lambda<br/>
+<br/>
+Check lambda voorbeeld van werner<br/>
+<br/>
+Check pingone &amp; octa<br/>
+<br/>
+Email tridib<br/>
+<br/>
+Check mainframe2<br/>
+<br/>
+Check ping identity<br/>
+<br/>
+Certivox<br/>
+<br/>
+Lucidchart<br/>
+<br/>
+<br/></font> From the show:
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><font face="Calibri">Runscope.com - testing van API’s</font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><font face="Calibri">Teradici - beheerloos / OS-loos device voor AWS workspace (PCOIP zero clients)</font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><font face="Calibri">Mainframe2 - ALL software in a browser</font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><font face="Calibri">ScaleArc.com - Software Load balancing for databases (also Aurora) on Amazon</font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><font face="Calibri">Ping Identity - Single Signon for the enterprise (pinging - single signon !!! )</font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><font face="Calibri"><br/></font></div>
+
+	
+	<div><span style="font-family: Times;"><br/></span></div>
+
+
+
+	<hr/>Conflicting modification on 19 november 2014 09:41:34:
+	<hr/>
+
+	<div><span style="font-family: Calibri;"><br/></span></div>
+
+	<div>
+
+		<div style="font-family: Calibri;">Een aantal uitgangspunten</div>
+
+		<div style="font-family: Calibri;"><br/></div>
+
+		<div style="font-family: Calibri;">- We (PNL) zullen in de komende 3 jaar moeten groeien naar een omvang van 30-35 FTE om (weer) een gezonde bedrijfsopbouw te hebben (verhouding overhead|productie). </div>
+
+		<div style="font-family: Calibri;">- Een tweede reden voor de noodzaak voor die groei ligt in het feit dat we nog met een aantal single point of failures zitten vwb de kennis die bij mensen aanwezig is.</div>
+
+		<div style="font-family: Calibri;">- Uitgaande van een in de IT gebruikelijk omzet per FTE van zo’n 125K, hoort daar een omzet bij van tussen de 4MM en 4.5MM</div>
+
+		<div style="font-family: Calibri;">- meer dan 35 FTE mag, al wordt het pand dan te klein, maar wel met een verhouding van 125-150K / FTE.</div>
+
+		<div style="font-family: Calibri;"><font face="Calibri">- Minder dan 35FTE mag ook (bijvoorbeeld door te outsourcen naar andere Prisma vestigingen), dan moet de omzet/FTE dus stijgen.</font></div>
+
+		<div style="font-family: Calibri;"><br/></div>
+
+		<div style="font-family: Calibri;"><font face="Calibri">- Prisma IT help onze klanten met het realiseren van online oplossingen. Daarvoor maken we gebruik van een “toolkit” of “lego blokken”. We zijn experts op het gebied van de verschillende tools (consultancy, training, licenties) en gebruiken die tools voor het realiseren van oplossingen.</font></div>
+
+		<div style="font-family: Calibri;"><font face="Calibri">- We zullen (zie ook het 2015 en beyond stuk) onszelf continu opnieuw moeten uitvinden. Dat uitvinden bestaat uit: nieuwe tools (platforms) vinden, expertise opbouwen (onze mensen trainen) en die nieuwe tools in onze toolkit opnemen. MBT de nieuwe tools kunnen we die expertise weer verkopen (consultancy, training, licenties), terwijl we de tools ook gebruiken in onze oplossingen. Dit is het continue vernieuwing proces (life-cycle) waarin we ons bevinden.</font></div>
+
+		<div style="font-family: Calibri;"><br/></div>
+
+		<div style="font-family: Calibri;">- Onze USP’s zitten in </div>
+
+		<div style="font-family: Calibri;">     a. expertise van de tools (Lego blokken) die we gebruiken en de interactie tussen die tools</div>
+
+		<div style="font-family: Calibri;">     b. kennis van het ontwerpen en ontwikkelen van “user friendly” en “technisch en architectonisch hoogwaardige” online oplossingen. Vooral onze kennis van het koppelen van onze oplossingen aan “alles wat los en vast zit" (dus ook big-iron) wordt als waardevol gezien door externe experts</div>
+
+		<div style="font-family: Calibri;"><br/></div>
+
+		<div style="font-family: Calibri;">Wat doen we? </div>
+
+		<div style="font-family: Calibri;">Discover, Create, Deliver</div>
+
+		<div style="font-family: Calibri;">- Development (ontwerp, architectuur, bouwen)</div>
+
+		<div style="font-family: Calibri;">- Training, consulting &amp; mentoring</div>
+
+		<div style="font-family: Calibri;">- Sysops (hosting)</div>
+
+		<div style="font-family: Calibri;">- Licenties</div>
+
+		<div style="font-family: Calibri;"><br/></div>
+
+		<div style="font-family: Calibri;">Wat gaan we (moeten we) toevoegen?</div>
+
+		<div style="font-family: Calibri;">- Repeatable solutions (Alliant DXP, Alliant BI en Alliant BPM onder de verzamelnaam Alliant)</div>
+
+		<div style="font-family: Calibri;">- Products (Morpheus)</div>
+
+		<div style="font-family: Calibri;">- Mobile</div>
+
+		<div style="font-family: Calibri;"><br/></div>
+
+		<div style="font-family: Calibri;">Wat gaan we veranderen?</div>
+
+		<div style="font-family: Calibri;">- (deels) uit de lineaire omzet proberen te komen. Dat kan alleen door een prijsopbouw mbv componenten (dus niet in een offerte “hosting XXX per jaar” opnemen, maar uitsplitsen).</div>
+
+		<div style="font-family: Calibri;">- een ingrijpende verandering wordt het embedden van de “Cloud architected” development methodieken, inclusief “continuous delivery” in onze ontwikkel methodieken. Dit zal een groot intern project zijn, maar het is mi absoluut noodzakelijk dit te gaan doen in 2015.</div>
+
+		<div style="font-family: Calibri;"><br/></div>
+
+		<div style="font-family: Calibri;">Voor 2015 wil ik vasthouden aan een target van 2.6MM (afhankelijk van de omzet in 2014; we moeten 30% groeien in 2015). Als in het huidige sales plan “toegewerkt” wordt naar een target van 2.4MM, dan moet (met een aantal nieuwe en nog niet besproken zaken) 2.6 ZEKER haalbaar zijn.</div>
+
+		<div style="font-family: Calibri;"><br/></div>
+
+		<div style="font-family: Calibri;">Onderverdeling:</div>
+
+		<div style="font-family: Calibri;"><br/></div>
+
+		<div style="font-family: Calibri;">- Complexe ontwikkel projecten, devops, continuous delivery</div>
+
+		<div style="font-family: Calibri;">- Mobile</div>
+
+		<div style="font-family: Calibri;">- Piwik (iMetrix?)</div>
+
+		<div style="font-family: Calibri;">- licenties / trainingen / products</div>
+
+		<div style="font-family: Calibri;">- AWS consultancy, sysops &amp; trainingen</div>
+
+		<div style="font-family: Calibri;">- repeatable solutions</div>
+
+		<div style="font-family: Calibri;"><br/></div>
+
+		<div style="font-family: Calibri;">Dit zijn vwo sales bemanning (wellicht) geen full FTE’s (in het begin), maar kunnen m.i. zeker uitgroeien tot full FTE’s.</div>
+
+		<div style="font-family: Calibri;"><br/></div>
+
+		<div style="font-family: Calibri;">—> Ik zou (per direct) op zoek willen naar een dedicated sales rep voor licenties/trainingen/products (morpheus). Dit is een Fulltime functie, met een groot variabel salaris component</div>
+
+		<div style="font-family: Calibri;">—> In Q1 moet er een sales rep voor Piwik/Mobile bijkomen (als we die combi kunnen vinden)</div>
+
+		<div style="font-family: Calibri;">—> in Q1 moet er een sales rep voor AWS bijkomen</div>
+
+		<div style="font-family: Calibri;"><br/></div>
+
+		<div style="font-family: Calibri;">Bemensing development</div>
+
+		<div style="font-family: Calibri;"><br/></div>
+
+		<div style="font-family: Calibri;">hangt af van het aantal uren dat we gaan verkopen + goedgekeurde investeringen + hetgeen we gaan outsourcen naar andere vestigingen.</div>
+
+		<div style="font-family: Calibri;"><br/></div>
+
+		<div style="font-family: Calibri;">
+
+			<div>Gevoelsmatig moet er in Q1 een developer bij. In Q1 kunnen we kijken wat er in Q2 bij moet komen.</div>
+
+		</div>
+
+		<div><br/></div>
+
+	</div>
+
+	<div><br/></div>
+
+	<div><br/></div>
+
+	<div><br/></div>
+
+	<div>
+
+		<hr/>
+	</div>
+
+	<div><span style="font-family: Calibri;"><br/></span></div>
+
+	<div><font face="Calibri">Prisma IT Nederland BV - 2015 and beyond.</font></div>
+
+	<div><span style="font-family: Calibri;"><br/></span></div>
+
+	<div><font face="Calibri">There is an old saying: “if you don’t rewrite your code, someone else will do it for you”. </font><span style="font-family: Calibri;"><br/></span></div>
+
+	<div><font face="Calibri">Every software company needs to continuously reinvent itself. In fact, it’s not only software companies that face this problem, car manufactures who would still produce horse carriages, would be out of business. The same is the fact for software companies, the only difference is that we tend to move faster than the rest of the world. An example: who had heard of “the Cloud” 3 years ago? And today, barely 3 years later, “the Cloud” is “the new normal”.</font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><font face="Calibri">Prisma IT has always done this by scouting the market, finding an opportunity (programming language, platform or other), start to work with it, start delivering training, find customers who wanted software build with these tools and then adapt in the organization. This was the case with ColdFusion, Spectra, Flex, LiveCycle, Mura, frameworks, Webtrends etc.</font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><font face="Calibri">The reason why we have always succeeded is that there would always be one person, who would be the “evangelist” of the new language. For CF &amp; Flex that person was me, for LiveCycle it was Jochem, for frameworks Mark would often be an evangelist. Vincent for Webtrends, Ron for Brightcove and for Mura it is Guust.</font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><font face="Calibri">In the last few years we have not really been able to re-invent ourselves on a continuous basis. And that is starting to worry me more and more. We are falling behind and we run the risk of becoming “an average” IT provider. </font><font face="Calibri">I believe we have been in that danger zone for the last 2 or 3 years.</font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><font face="Calibri">The problem is, it is not due to that fact that we couldn’t find any new technologies, we have tried to adapt new technologies, but - apart from Mura and Brightcove - we havent really been able to do so. And having said that, I believe Mura and Brightcove aren’t the ones that will be able to “make the difference”. They are nice, but they will not be big differentiators.</font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><font face="Calibri">Mendix, AWS training, BonitaSoft, DataLogics, DocOrigin are all technologies that we have not been able to adapt. And we let them slip.</font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><font face="Calibri">That needs  to change in 2 ways.</font></div>
+
+	<div><span style="font-family: Calibri;"><br/></span></div>
+
+	<div><span style="font-family: Calibri;">1. we need to start adapting new technologies</span></div>
+
+	<div><span style="font-family: Calibri;">2. we need to implement an ongoing process that enables point no. 1</span></div>
+
+	<div><span style="font-family: Calibri;"><br/></span></div>
+
+	<div><span style="font-family: Calibri;">As a start, w</span><font face="Calibri">e need to have a discussion and build a plan around the idea to become a “Cloud Architected Software” centric company.</font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><font face="Calibri">What I have seen in November from AWS blew my mind. for the first time in over 14 years and for the 5th time in my career, I believe we found something that can help us push ourselves to the next stage. After DEC VAX, Apple Macintosh, ColdFusion and Flex, I believe Cloud centric (or cloud architected) *we need to find a better term* will completely change the paradigm of software development.</font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><font face="Calibri">Over the last couple of years, AWS has been handled by us on the level of system management. We build applications, hand them over to sysmngmnt and they deploy. Either on our own hardware or in the cloud.</font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><font face="Calibri">We need to rapidly change this model. “Cloud awareness” needs to be handled at the architect level. We need to start designing and architecting our applications (projects, existing projects and repeatable solutions) around the possibilities that AWS provides.</font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><font face="Calibri">We also (and at the same time) need to change the way we develop. AWS tools like AWS CodeCommit, CodeDeploy CodePipeline, AWS Container Service, Docker and Apollo all need to be at the heart of our development methodologies.</font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><font face="Calibri">Running the apps we build on AWS will be the new normal.</font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><font face="Calibri">Technologies like AWS Lambda will fundamentally change the way we build software.</font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><font face="Calibri">At the same time we need to start projects and programs with sales and marketing to start talking to customers, add content on our website etc.</font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><font face="Calibri">We need to come up with a way to be able to adapt to new technologies and features that AWS releases. Just as an indication of the speed they are gaining: AWS has released more than 500 new technologies and features since Jan 1 2014.</font></div>
+
+	<div><font face="Calibri">And the scary thing is that they build up even more speed with their releases.</font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><font face="Calibri">This will be a huge project for 2015 and it will mean that everybody needs to commit to this.</font></div>
+
+	<div><font face="Calibri">We need to do this. It will be hard work and fun and it will make us better.</font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><span style="font-family: Calibri;">I have created this text as the start of an internal discussion with management, team leads, sales &amp; marketing, developers and sysmngmnt on how to do this.</span><font face="Calibri"><br/></font></div>
+
+	<div><span style="font-family: Calibri;"><br/></span></div>
+
+	<div><span style="font-family: Calibri;">We can not afford to miss this one and we cannot afford to wait another year.</span></div>
+
+	<div><span style="font-family: Calibri;"><br/></span></div>
+
+	<div><span style="font-family: Calibri;">Prisma IT needs to expand in 5 different focus areas in 2015</span></div>
+
+	<div><span style="font-family: Calibri;"><br/></span></div>
+
+	<div><span style="font-family: Calibri;">- Revenues for PNL need to go up by 30% to 2.6MM</span></div>
+
+	<div><span style="font-family: Calibri;">- That would ratify a staff of between 20 and 26 FTE</span></div>
+
+	<div><font face="Calibri">- The Alliant Solution Suite needs to be finalised and launched</font></div>
+
+	<div><font face="Calibri">- We need to expand out international operations into different regions</font></div>
+
+	<div><font face="Calibri">- We need to expand our solutions &amp; services offering with (at least) mobile &amp; Search optimalisation services (SEO, SEA etc)</font></div>
+
+	<div><font face="Calibri">- We need to make AWS the core of our software Dev &amp; Ops work. AWS needs to be included at the architectural level of what we do</font></div>
+
+	<div><span style="font-family: Calibri;"><br/></span></div>
+
+	<div><font face="Calibri">We have already started to refocus from “selling hours” to “selling a solution”. Currently pricing of solutions is still based on the work needed for the solution. We need to continue changing this and introducing license models.</font></div>
+
+	<div><span style="font-family: Calibri;"><br/></span></div>
+
+	<div><font face="Calibri">We need to continue to get out of the “linear” revenue model (which is what selling hours is)</font></div>
+
+	<div><span style="font-family: Calibri;"><br/></span></div>
+
+	<div><span style="font-family: Calibri;">Just based on workforce, our financial capacity is 200 days * 8 hours * 9 employees * € 85,- = 1.2MM</span></div>
+
+	<div><font face="Calibri">This number is high. People are not 100% billable and our many of our people are not full FTE’s.</font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><font face="Calibri">Further, we must complete a number of internal projects:</font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><font face="Calibri">- Single Signon for all Prisma IT services (Through PingONe?)</font></div>
+
+	<div><font face="Calibri">- Phase out of international servers</font></div>
+
+	<div><font face="Calibri">- Move Domain controllers to the cloud</font></div>
+
+	<div><font face="Calibri">- Move all backups to the cloud</font></div>
+
+	<div><font face="Calibri">- Move Fileshares to the cloud (Sharepoint, Zocalo or other?)</font></div>
+
+	<div><font face="Calibri">- Move dev environments (of non-standard environments) to EC2?</font></div>
+
+	<div><font face="Calibri">- Update &amp; Professionalize WIFI at HQ</font></div>
+
+	<div><font face="Calibri">- Setup a Prisma IT blog</font></div>
+
+	<div><font face="Calibri">- Make sure new clients/projects/releases are on our website on the day of the release</font></div>
+
+	<div><font face="Calibri">- </font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><span style="font-family: Calibri;"><br/></span></div>
+
+	<div>
+
+		<hr/>
+	</div>
+
+	<div><br/></div>
+
+	<div><span style="mso-ansi-language:EN-US">PINT version 2015</span></div>
+
+	<div>
+
+		<div><i style="mso-bidi-font-style:normal"><span style="mso-bidi-font-size:9.0pt;mso-ansi-language:EN-US">“Prisma IT is dedicated to helping you realize superior digital solutions”. Founded in 1992 and headquartered in Rotterdam, we are a Pan-European organization with offices in multiple countries. Our down-to-earth approach and proven commitment to providing our clients the right solutions, the best technology available worldwide and qualified professionals, have made us the partner of choice for public and private organizations of all sizes around the world. Our consultants, trainers and engineers are industry experts in rich media and cloud technologies. We leverage these technologies, our craftsmanship and our experience to help our clients realize business critical applications as well as rich online content delivery solutions across devices. You can find us at <a href="http://prisma-it.com">prisma-it.com</a>.</span></i></div>
+
+		<div><i style="mso-bidi-font-style:normal"><span style="mso-bidi-font-size:9.0pt;mso-ansi-language:EN-US"> </span></i></div>
+
+		<div style="background:#F8F7F6;vertical-align:baseline;"><b style="mso-bidi-font-weight:normal"><span style="font-size:11.0pt;font-family: Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Arial;color:black;mso-themecolor:text1">Mission</span></b><span style="font-size:11.0pt;font-family:Calibri;mso-ascii-theme-font:minor-latin; mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Arial;color:black; mso-themecolor:text1">: Prisma IT is dedicated to helping you realize superior digital solutions</span></div>
+
+		<div style="background:#F8F7F6;vertical-align:baseline;"><b style="mso-bidi-font-weight:normal"><span style="font-size:11.0pt;font-family: Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Arial;color:black;mso-themecolor:text1">Vision</span></b><span style="font-size:11.0pt;font-family:Calibri;mso-ascii-theme-font:minor-latin; mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Arial;color:black; mso-themecolor:text1">: Committed people, good technology and craftsmanship make great solutions.</span></div>
+
+		<div style="background:#F8F7F6;vertical-align:baseline;"><b style="mso-bidi-font-weight:normal"><span style="font-size:11.0pt;font-family: Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Arial;color:black;mso-themecolor:text1">Philosophy</span></b><span style="font-size:11.0pt;font-family:Calibri;mso-ascii-theme-font:minor-latin; mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Arial;color:black; mso-themecolor:text1">: have fun, work hard, be better</span></div>
+
+		<div style="background:#F8F7F6;vertical-align:baseline;"><b style="mso-bidi-font-weight:normal"><span style="font-size:11.0pt;font-family: Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Arial;color:black;mso-themecolor:text1">Mantra</span></b><span style="font-size:11.0pt;font-family:Calibri;mso-ascii-theme-font:minor-latin; mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Arial;color:black; mso-themecolor:text1">: It is kind of fun to do the impossible (Walt Disney)</span></div>
+
+	</div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div>
+
+		<hr/>
+<font face="Calibri"> </font>
+	</div>
+
+	<div><font face="Calibri"><font face="Calibri"><br/></font></font></div>
+<font face="Calibri">Apigee<br/>
+Twilio<br/>
+Security, risk, compliance &amp; corp governance<br/>
+<br/>
+Codedeploy<br/>
+Codepipeline<br/>
+Codecommit<br/>
+<br/>
+KeyManagementService<br/>
+<br/>
+Cloudtrail<br/>
+Aws config!!<br/>
+Service catalog<br/>
+<br/>
+Netsuite<br/>
+<a href="http://intuit.com/"><u>Intuit.com</u></a><br/>
+<br/>
+<a href="http://alliant.io/"><u>Alliant.io</u></a><br/>
+<br/>
+<a href="http://mint.com/"><u>Mint.com</u></a><br/>
+<br/>
+Aws workspaces<br/>
+<br/>
+Customer focussed<br/>
+Pioneer<br/>
+Long term orientation<br/>
+<br/>
+<a href="http://downforeveryoneorjustme.com/"><u>Downforeveryoneorjustme.com</u></a><br/>
+<br/>
+Buzzfeed<br/>
+<br/>
+Hire aws solution architect<br/>
+<br/>
+Let everyone try!<br/>
+<br/>
+Continuous deploy<br/>
+<br/>
+Aurora<br/>
+<br/>
+Pres inst to sven<br/>
+<br/>
+Aws autoscaling<br/>
+<br/>
+Event in europe?<br/>
+<br/>
+<a href="http://omnifone.com/"><u>Omnifone.com</u></a><br/>
+<br/>
+If you dont rebuild somebody else will<br/>
+<br/>
+Pono<br/>
+<br/>
+Weather underground<br/>
+<br/>
+We need a culture change --> andrea<br/>
+<br/>
+Send pristine to rob --> the market is changing<br/>
+<br/>
+Check aws docker<br/>
+<br/>
+Book suggestion: the box<br/>
+<br/>
+Aws container service -- uses docker -- ecs<br/>
+<br/>
+Railo must support docker<br/>
+<br/>
+Mijn idee frustratie uitleggen -- flex, cf deed ik zelf in 2014 bloedde alles dood. Hoe kan ik braindumps zaaien?<br/>
+<br/>
+Aws lambda<br/>
+<br/>
+Check lambda voorbeeld van werner<br/>
+<br/>
+Check pingone &amp; octa<br/>
+<br/>
+Email tridib<br/>
+<br/>
+Check mainframe2<br/>
+<br/>
+Check ping identity<br/>
+<br/>
+Certivox<br/>
+<br/>
+Lucidchart<br/>
+<br/>
+<br/></font> From the show:
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><font face="Calibri">Runscope.com - testing van API’s</font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><font face="Calibri">Teradici - beheerloos / OS-loos device voor AWS workspace (PCOIP zero clients)</font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><font face="Calibri">Mainframe2 - ALL software in a browser</font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><font face="Calibri">ScaleArc.com - Software Load balancing for databases (also Aurora) on Amazon</font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><font face="Calibri">Ping Identity - Single Signon for the enterprise (pinging - single signon !!! )</font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><font face="Calibri"><br/></font></div>
+
+	<div><span style="font-family: Times;"><br/></span></div>
+
+</en-note>      ]]>
+    </content>
+  </note>
+  <note>
+    <title>4FTI&apos;s list for a reset of TRC</title>
+    <created>19700107T055220Z</created>
+    <updated>20141223T082031Z</updated>
+    <tag>Reset</tag>
+    <tag>TRC</tag>
+    <note-attributes>
+      <author>sslooten</author>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+
+	
+	
+	<div>
+
+		
+		
+		<div><span style="font-size: 14px;">Final version</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;"><br/></span></div>
+
+		
+		
+		<div>
+
+			
+			
+			<div style="font-family: Calibri, sans-serif; font-size: 14px;">
+
+				
+				
+				<div>
+
+					
+					
+					<div>
+
+						
+						
+						<p><span lang="EN-US"><font color="#00007F">This is the minimal indispensable list from 4FTI. We are willing to discuss adding things to this list. Removing anything from this list is not open to discussion</font></span></p>
+
+					
+					
+					</div>
+
+					
+					
+					<div>
+
+						
+						
+						<ul>
+
+							
+							
+							<li><font color="#00007F">Immediate and unconditional handover of</font>
+
+								
+								
+								<ul>
+
+									
+									
+									<li><font color="#00007F">Domain registration un/pw (all domains, incl. <a href="http://railo.io">railo.io</a>)</font></li>
+
+									
+									
+									<li><font color="#00007F">Github master un/pw</font></li>
+
+									
+									
+									<li><font color="#00007F">Freshdesk, Mailchimp and all other systems master un/pw</font></li>
+
+									
+									
+									<li><font color="#00007F">Mura un/pw for all sites</font></li>
+
+									
+									
+									<li><font color="#00007F">Sources for installers</font></li>
+
+									
+									
+									<li><font color="#00007F">All testcases</font></li>
+
+									
+									
+									<li><font color="#00007F">All (unpublished) sources for R5 and other</font></li>
+
+									
+									
+									<li><font color="#00007F">All sources, scripts &amp; other files not in git</font></li>
+
+									
+									
+									<li><font color="#00007F">Master files for logo’s</font></li>
+
+									
+									
+									<li><font color="#00007F">Training materials (slides, code etc)</font></li>
+
+									
+									
+									<li><font color="#00007F">Master files for published books under RT brand</font></li>
+
+									
+									
+									<li><font color="#00007F">.. All that is not mentioned here, but is related to the IP</font></li>
+
+								
+								
+								</ul>
+
+							
+							
+							</li>
+
+						
+						
+						</ul>
+
+					
+					
+					</div>
+
+					
+					
+					<div>
+
+						
+						
+						<ul>
+
+							
+							
+							<li><font color="#00007F">All IP is owned by TRC</font></li>
+
+							
+							
+							<li><font color="#00007F">Calle is MD</font></li>
+
+							
+							
+							<li><font color="#00007F">MD is installed by Shareholders</font></li>
+
+							
+							
+							<li><font color="#00007F"><span lang="EN-US">MD reports to the Board (or shareholders, </span><span lang="EN-US">when </span><span lang="EN-US">no Board exists (see below))</span></font></li>
+
+							
+							
+							<li><font color="#00007F">ALL financial commitments to an amount of 5K (with a total of 20K per month) to be approved by MD</font></li>
+
+							
+							
+							<li><font color="#00007F">ALL financial commitments to an amount of 20K (with a total of 40K per month) to be approved by Board</font></li>
+
+							
+							
+							<li><font color="#00007F">ALL other financial commitments to be approved by Shareholders </font></li>
+
+							
+							
+							<li><font color="#00007F">MD to sign 1-year contract with TRC with renewal option (subject to Shareholder approval)</font></li>
+
+							
+							
+							<li><font color="#00007F">Clearly defined list with topics that MD can not decide on and that should be handled by Board</font></li>
+
+							
+							
+							<li><font color="#00007F">Remuneration for MD is EUR. 5K per month, commencing on Jan 1st (as TRC needs to create financial buffer)</font></li>
+
+						
+						
+						</ul>
+
+					
+					
+					</div>
+
+				
+				
+				</div>
+
+				
+				
+				<div>
+
+					
+					
+					<ul>
+
+						
+						
+						<li><font color="#00007F"><span lang="EN-US">4FTI list of amendments to existing shareholder</span><span lang="EN-US"> agreement:</span></font>
+
+							
+							
+							<ul>
+
+								
+								
+								<li><font color="#00007F">Deadlock to be removed from agreements</font></li>
+
+								
+								
+								<li><font color="#00007F">Shareholders decide by majority of votes, except articles in the already present list that requires 85% of the votes</font></li>
+
+								
+								
+								<li><font color="#00007F">Repurchase right only possible when TRC fails for financial reasons (bankrupt)</font></li>
+
+								
+								
+								<li><font color="#00007F">Repurchase price is valued against paid dividend (price = 45K + any paid dividends onder the 15% rule in the agreements) </font></li>
+
+							
+							
+							</ul>
+
+						
+						
+						</li>
+
+					
+					
+					</ul>
+
+				
+				
+				</div>
+
+				
+				
+				<div>
+
+					
+					
+					<div>
+
+						
+						
+						<ul>
+
+							
+							
+							<li><span lang="EN-US"><font color="#00007F">If BR and GMBH insist on a board and board not dissolved, then Board will consist of 4 members:</font></span>
+
+								
+								
+								<ul>
+
+									
+									
+									<li><font color="#00007F">1 for 4F with 3 votes (based on share %)</font></li>
+
+									
+									
+									<li><font color="#00007F">1 for BR with 1 vote (based on share %)</font></li>
+
+									
+									
+									<li><font color="#00007F">1 for RT with 2 votes (based on share %)</font></li>
+
+									
+									
+									<li><font color="#00007F">MD with 1 vote, who also is the chairman of the Board, he has swing vote in case of tie.</font></li>
+
+									
+									
+									<li><font color="#00007F">Board decides with majority of votes</font></li>
+
+									
+									
+									<li><font color="#00007F">ALL Board members to be approved by shareholders (also the current members)</font></li>
+
+									
+									
+									<li><font color="#00007F">Board &amp; all Board members enter into a 1 year agreement with renewal option</font></li>
+
+								
+								
+								</ul>
+
+								
+								
+								<div>
+
+									
+									
+									<ul>
+
+										
+										
+										<li><font color="#00007F">Board to meet with pre-approved agenda &amp; resolutions</font></li>
+
+										
+										
+										<li><font color="#00007F">Board will NOT handle day-to-day operations</font></li>
+
+									
+									
+									</ul>
+
+									
+									
+									<ul>
+
+										
+										
+										<li><font color="#00007F">Review of list with topics that Board can not decide on and that should be handled by shareholders</font></li>
+
+										
+										
+										<li><font color="#00007F">Quorum for a Board meeting is 4 (ALL members should be present)</font></li>
+
+									
+									
+									</ul>
+
+								
+								
+								</div>
+
+							
+							
+							</li>
+
+						
+						
+						</ul>
+
+					
+					
+					</div>
+
+					
+					
+					<div>
+
+						
+						
+						<ul>
+
+							
+							
+							<li><span lang="EN-US"><font color="#00007F">Railo Technologies Gmbh needs to be renamed immediately per our agreements in place</font></span></li>
+
+							
+							
+							<li><font color="#00007F">RT (and other partners &amp; free-lancers) will be paid on a per hour, pre-approved work agreement (PO) at a pre-approved rate (currently € 50,- per hour, excl VAT)</font></li>
+
+							
+							
+							<li><font color="#00007F">All engineers, consultants, trainers and other free-lancers to sign agreement with TRC</font></li>
+
+							
+							
+							<li><font color="#00007F">All individuals to sign NDA with TRC</font></li>
+
+							
+							
+							<li><font color="#00007F">RT to provide a list of (partly finished) products during "TRC v1 time” (see email 7-10-13 "Upcoming Products - New Team Members”). <span lang="EN-US">These are part of the IP</span></font></li>
+
+						
+						
+						</ul>
+
+					
+					
+					</div>
+
+					
+					
+					<div>
+
+						
+						
+						<ul>
+
+							
+							
+							<li><span lang="EN-US"><font color="#00007F">When RT decides to develop something built “into” Railo on their own account, TRC has the right of first refusal for that feature</font></span>
+
+								
+								
+								<ul>
+
+									
+									
+									<li><font color="#00007F"><span lang="EN-US">When “yes” T</span><span lang="EN-US">RC pays actual worked hours at current rate</span></font></li>
+
+									
+									
+									<li><font color="#00007F"><span lang="EN-US">When “no” RT has right to publish/sell feature themselv</span>es per the partner agreement and per the OS license</font></li>
+
+									
+									
+									<li><font color="#00007F">Everything built “into” Railo (not as external tool) is subject to approval from Tech Committee (see below)</font></li>
+
+								
+								
+								</ul>
+
+							
+							
+							</li>
+
+						
+						
+						</ul>
+
+					
+					
+					</div>
+
+				
+				
+				</div>
+
+				
+				
+				<div>
+
+					
+					
+					<div>
+
+						
+						
+						<div>
+
+							
+							
+							<ul>
+
+								
+								
+								<li><font color="#00007F">TRC to enter into agreement with all individual contributors immediately (when known &amp; possible). When unknown, TRC assumes ownership of contribution.</font></li>
+
+								
+								
+								<li><font color="#00007F">All contributors to enter into agreement with TRC to handoff ownership of contributions (MURA agreement is example)</font></li>
+
+								
+								
+								<li><font color="#00007F">Everybody without a valid free-lance or other contract with TRC to be removed from all systems (incl TRC email accounts)</font></li>
+
+								
+								
+								<li><font color="#00007F">All patches, bug fixes, installers etc owned by TRC.</font></li>
+
+							
+							
+							</ul>
+
+						
+						
+						</div>
+
+						
+						
+						<div>
+
+							
+							
+							<ul>
+
+								
+								
+								<li><span lang="EN-US"><font color="#00007F">TRC will hire new accountant immediately</font></span></li>
+
+								
+								
+								<li><font color="#00007F">TRC will implement new accounting system with Read Only Access for all shareholders (1 per shareholder)</font></li>
+
+							
+							
+							</ul>
+
+							
+							
+							<div><font color="#00007F"><br/></font></div>
+
+							
+							
+							<ul>
+
+								
+								
+								<li><font color="#00007F">All TRC sales will be done through partner channel</font></li>
+
+								
+								
+								<li><font color="#00007F">BR already stated they are not interested in a partnership, New partner(s) in US needed</font></li>
+
+								
+								
+								<li><font color="#00007F">MD will manage TRC’s CRM system (all partners will have an account)</font></li>
+
+								
+								
+								<li><font color="#00007F">MD &amp; Chair of Shareholder meeting (see below) have signatory rights on bank account (co-sign only)</font></li>
+
+							
+							
+							</ul>
+
+						
+						
+						</div>
+
+						
+						
+						<div>
+
+							
+							
+							<ul>
+
+								
+								
+								<li><span lang="EN-US"><font color="#00007F">There will always be an Open Source version of Railo (initially with a significant slower release cycle, patch release &amp; bug fixes than commercial version)</font></span></li>
+
+								
+								
+								<li><font color="#00007F">TRC to release a commercial offering around Railo with a clear incentive towards paid version</font></li>
+
+								
+								
+								<li><font color="#00007F">Already proposed commercial offering for Railo to be ratified w/o changes, released immediately</font></li>
+
+								
+								
+								<li><font color="#00007F">Initially existing method of authentication used to verify commercial version (enter key in admin) (railo.io maybe introduced later)</font></li>
+
+								
+								
+								<li><font color="#00007F">TRC exclusive licensor of Railo paid support, Railo paid training, server-specific consulting (performance tuning, bug fixes, etc.) through selected partner channel</font></li>
+
+								
+								
+								<li><font color="#00007F">3 partners (RT, BR &amp; Prisma) have 1 Certified Trainer and can offer training</font></li>
+
+							
+							
+							</ul>
+
+						
+						
+						</div>
+
+						
+						
+						<div>
+
+							
+							
+							<ul>
+
+								
+								
+								<li><font color="#00007F">RT (under new name) &amp; Prisma IT to enter into new partner contract with TRC (BR not interested in partnership)</font></li>
+
+								
+								
+								<li><font color="#00007F">Only contracted partners allowed to offer Railo approved consulting, training and other services</font></li>
+
+								
+								
+								<li><font color="#00007F">Already approved upon partner discount on Railo license sales, training &amp; consulting (incl 3% rule if applicable)</font></li>
+
+								
+								
+								<li><font color="#00007F">RT to deliver a 1 week “Railo/JAVA source code” training to engineers of 4F &amp; BR at current rate (this is a training on the internals of Railo, NOT on cfml)</font></li>
+
+							
+							
+							</ul>
+
+						
+						
+						</div>
+
+						
+						
+						<div>
+
+							
+							
+							<ul>
+
+								
+								
+								<li><span lang="EN-US"><font color="#00007F">TDAC to be installed immediately </font></span></li>
+
+								
+								
+								<li><span lang="EN-US"><font color="#00007F">TDAC consists of 7 people</font></span></li>
+
+								
+								
+								<li><font color="#00007F">TDAC members approved by Shareholders</font></li>
+
+								
+								
+								<li><font color="#00007F">TDAC will PROPOSE new features to Tech Committee (see below)</font></li>
+
+							
+							
+							</ul>
+
+							
+							
+							<div><font color="#00007F"><br/></font></div>
+
+							
+							
+							<ul>
+
+								
+								
+								<li><font color="#00007F">A seperate Technical Committee to be installed immediately to DECIDE on new features/changes of product advised by TDAC</font></li>
+
+								
+								
+								<li><font color="#00007F">All Git source code accepts to be approved by Technical Committee</font></li>
+
+								
+								
+								<li><font color="#00007F">Technical Committee consists of 3 people, to be approved by Shareholders</font></li>
+
+							
+							
+							</ul>
+
+						
+						
+						</div>
+
+					
+					
+					</div>
+
+					
+					
+					<div>
+
+						
+						
+						<p></p>
+
+					
+					
+					</div>
+
+					
+					
+					<div>
+
+						
+						
+						<ul>
+
+							
+							
+							<li><span lang="EN-US"><font color="#00007F">NOBODY can hold more than 1 position in MD, Board, Shareholder representation, TDAC and Tech Committee (example: if you are the shh representative, you can not also be on the Board)</font></span></li>
+
+							
+							
+							<li><span style="font-family: Calibri;"><font color="#00007F">4FTI is permanent chairperson of Shareholders meeting (and holds signatory rights with bankaccount in coop with MD)</font></span></li>
+
+						
+						
+						</ul>
+
+						
+						
+						<div><span style="font-family: Calibri;"><font color="#00007F"><br/></font></span></div>
+
+						
+						
+						<ul>
+
+							
+							
+							<li><span lang="EN-US"><font color="#00007F">All finances will be reset per November 1st – NOBODY OWES ANYBODY ANYTHING</font></span></li>
+
+							
+							
+							<li><font color="#00007F">AFTER financial reset, ALL shareholders to award a LOAN of EUR. 10K to TRC (for a total of EUR. 30K). This has NO impact on share % and is NOT a capital raise).</font></li>
+
+						
+						
+						</ul>
+
+					
+					
+					</div>
+
+					
+					
+					<div>
+
+						
+						
+						<ul>
+
+							
+							
+							<li><font color="#00007F">NO WAIVER OF ANY EXISTING CLAIMS BUT THEY WILL NOT BE PURSUED UNLESS AND UNTIL THE ABOVE IS COMPLIED WITH.</font></li>
+
+							
+							
+							<li><font color="#00007F">Deadline is October 31st 2014, 2014 EOB.</font></li>
+
+						
+						
+						</ul>
+
+					
+					
+					</div>
+
+				
+				
+				</div>
+
+			
+			
+			</div>
+
+			
+			
+			<div style="font-family: Calibri, sans-serif; font-size: 14px;">
+
+				
+				
+				<div>
+
+					
+					
+					<hr/>
+<font color="#00007F"><br/></font>
+				
+				
+				</div>
+
+			
+			
+			</div>
+
+		
+		
+		</div>
+
+		
+		
+		<div><span style="font-size: 14px;"><br/></span></div>
+
+		
+		
+		<div><span style="font-size: 14px;"><br/></span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">V2</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;"><br/></span></div>
+
+		
+		
+		<div>
+
+			
+			
+			<div style="font-family: Calibri, sans-serif; font-size: 14px;">
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">4FTI’s list</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Immediate Handover</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     Domain registration un/pw (all domains, incl. <a href="http://railo.io">railo.io</a>)</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     Github master un/pw</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     Freshdesk, Mailchimp and all other systems master un/pw</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     Mura un/pw for all sites</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     Sources for installers</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     All testcases</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     All (unpublished) sources for R5</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     All sources, scripts &amp; other files not in github</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     Master files for logo’s</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     Training materials (slides, code etc)</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">      .. All that is not mentioned here, but is related to the IP</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Calle is MD<br/></div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">MD is installed by Shareholders</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">MD reports to the Board (or shareholders when no Board)<br/></div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">MD to manage all un/pw masters</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">MD to sign 1-year contract with TRC with renewal option (subject to Board/shareholder approval)</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Clearly defined list with topics that MD can not decide on and that should be handed by Board</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">
+
+					
+					
+					<div>Current Board &amp; Shareholder agreements to be reviewed, changed and amended. </div>
+
+					
+					
+					<div>Deadlock to be removed from agreements<br/></div>
+
+				
+				
+				</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Repurchase right only possible when TRC fails for financial reason (bankrupt)</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Paid dividend is added to repurchase price</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Board will be dissolved (if not, then meet on a monthly basis with pre-approved agenda &amp; resolutions). Board will NOT handle day-to-day operations</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Review of list with topics that Board can not decide on and that should be handed by shareholders</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">When Board not dissolved, Board will consist of 4 members:</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - 1 4F with 3 votes (based on share %)</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - 1 BR with 1 vote (based on share %)</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - 1 RT with 2 votes (based on share %)</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - 1 external member with 1 vote, who also is the chairman of the Board, he has swing vote in case of tie.</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - Board decides with majority of votes</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - MD is not in the Board</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - External member to be approved by shareholders</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - Board &amp; all Board members enter into a 1 year agreement with renewal option</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - All members of “new” board subject to shareholder approval (all members will be voted on)</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     </div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Railo Tech Gmbh needs to be renamed to something else</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">RT (and other partners &amp; free-lancers) will be paid on a per hour, pre-approved work agreement (PO) at a pre-approved rate (currently € 50,- per hour, excl VAT)</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">All engineers, consultants, trainers and other free-lancers to sign agreement with TRC</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">All individuals to sign NDA with TRC</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">RT to provide a list of (partly finished) products during "TRC v1 time” (see email 7-10-13 "Upcoming Products - New Team Members”). These are part of the IP</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">When RT decides to develop something on their own account, TRC has the right of first refusal for that feature.</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - When “yes” TRC pays actual worked hours at current rate</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - When “no” RT has right to publish/sell feature themselves per the partner agreement</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">TRC to enter into agreement with all individual contributors (when known &amp; possible). When unknown, TRC assumes ownership of contribution.</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">All contributors to enter into agreement with TRC to handoff ownership of contributions (per MURA agreement)</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Everybody without a valid free-lance or other contract with TRC to be removed from all systems (incl TRC email accounts)<br/></div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">All patches, bug fixes, installers etc owned by TRC.</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">TRC will hire new accountant</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">TRC will implement new accounting system with Read Only Access for all shareholders (1 per shareholder)</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">All TRC sales will be done through partner channel</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">MD will manage TRC’s CRM system (all partners will have an account)</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">
+
+					
+					
+					<div>There will always be an Open Source version of Railo (innitially with a significant slower release cycle, patch release &amp; bug fixes than commercial version)</div>
+
+					
+					
+					<div>TRC to release a commercial offering around Railo with a clear incentive towards paid version</div>
+
+					
+					
+					<div>Already proposed commercial offering for Railo to be ratified w/o changes, released immediately</div>
+
+					
+					
+					<div>Initially old method of authentication used to verify commercial version (enter key in admin) (railo.io maybe introduced later)</div>
+
+					
+					
+					<div>TRC exclusive licensor of Railo paid support, Railo paid training, server-specific consulting (performance tuning, bug fixes, etc.) through selected partner channel</div>
+
+				
+				
+				</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">3 partners (RT, BR &amp; Prisma) have 1 Certified Trainer</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">RT (under new name), Prisma IT and BR to enter into new partner contract</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Only contracted partners allowed to offer Railo approved consulting, training and other services</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Partners get a 25% discount on Railo license sales, training &amp; consulting (incl 3% rule if applicable)</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">RT to deliver a 1 week “JAVA source code” training to engineers of 4F &amp; BR at current rate<br/></div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">TDAC to be installed immediately (members get 1 year contract, total of 7 members (3 from shareholders))</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Other 4 members approved by Board</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">A tech committee to be installed to decide on new features/changes of product advised by TDAC</div>
+
+				
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">All Git source code accepts to be approved by technical committee</div>
+
+			
+			
+			</div>
+
+			
+			
+			<div style="font-size: 14px;"><br/></div>
+
+			
+			
+			<div style="font-size: 14px;">If financial reset, then 4F is willing to discuss outstanding invoices. </div>
+
+		
+		
+		</div>
+
+		
+		
+		<div><span style="font-size: 14px;"><br/></span></div>
+
+		
+		
+		<div>
+
+			
+			
+			<hr/>
+<span style="font-size: 14px;"><br/></span>
+		
+		
+		</div>
+
+		
+		
+		<div><span style="font-size: 14px;">V1</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">Compliance List</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;"><br/></span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">Immediate Handover</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">     domain registration un/pw (all domains, incl. railo.io)</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">     Github master un/pw</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">     Freshdesk, Mailchimp and all other systems master un/pw</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">     Mura un/pw for all sites</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">     Sources for installers</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">     All testcases</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">     All (unpublished) sources for R5</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">     All sources, scripts &amp; other files not in github</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">     Master files for logo’s</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">     Training materials (slides, code etc)</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;"><br/></span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">Calle is MD</span><span style="font-size: 14px;"><br/></span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">MD is installed by Shareholders</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">MD reports to the Board (or shareholders when no Board)</span><span style="font-size: 14px;"><br/></span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">MD to manage all un/pw masters</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">MD to sign 1-year contract with TRC with renewal option (subject to Board approval)</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">Review of list with topics that MD can not decide on and that should be handed by Board</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;"><br/></span></div>
+
+		
+		
+		<div>
+
+			
+			
+			<div><span style="font-size: 14px;">Current Board &amp; Shareholder agreements to be reviewed, changed and amended. </span></div>
+
+			
+			
+			<div><span style="font-size: 14px;">Deadlock to be removed from agreements</span><br/></div>
+
+		
+		
+		</div>
+
+		
+		
+		<div><span style="font-size: 14px;">Repurchase right only possible when TRC fails for financial reason (bankrupt)</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">Paid dividend is added to repurchase price</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;"><br/></span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">Board will be dissolved (if not, then meet on a monthly basis with pre-approved agenda &amp; resolutions. Board will NOT handle day-to-day operations</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">Review of list with topics that Board can not decide on and that should be handed by shareholders</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">When Board not dissolved, Board will consist of 4 members:</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">     - 1 4F with 3 votes (based on share %)</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">     - 1 BR with 1 votes (based on share %)</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">     - 1 RT with 2 votes (based on share %)</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">     - 1 external member with 1 vote, being the chairman of the Board, he has swing vote in case of tie.</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">     - Board decides with majority of votes</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">     - External member to be approved by shareholders</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">     - </span><span style="font-size: 14px;">Board &amp; all Board members enter into a 1 year agreement with renewal option</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">     - All members of “new” board subject to shareholder approval (all members will be voted on)</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">     </span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">Railo Tech Gmbh needs to be renamed to something else</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">RT (and other partners &amp; free-lancers) will be paid on a per hour, pre-approved work agreement (PO) at a pre-approved rate (currently € 50,- per hour, excl VAT)</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">All engineers, consultants, trainers and other free-lancers to sign agreement with TRC</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">All individuals to sign NDA with TRC</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">RT to provide a list of (partly finished) products during "TRC v1 time” (see email 7-10-13 "Upcoming Products - New Team Members")</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;"><br/></span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">When RT decides to develop something on their own account, TRC has the right of first refusal for that feature.</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">     - When “yes” TRC pays actual worked hours at current rate</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">     - When “no” RT has right to publish/sell feature themselves per the partner agreement</span></div>
+
+		
+		
+		<div><br/></div>
+
+		
+		
+		<div><span style="font-size: 14px;">TRC to enter into agreement with all individual contributors (when known &amp; possible). When unknown, TRC assumes ownership of contribution.</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">All contributors to enter into agreement with TRC to handoff ownership of contributions (per MURA agreement)</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">Everybody without a valid free-lance or other contract with TRC to be removed from all systems (incl TRC email accounts)</span><span style="font-size: 14px;"><br/></span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">All patches, bug fixes, installers etc owned by TRC.</span></div>
+
+		
+		
+		<div><br/></div>
+
+		
+		
+		<div><span style="font-size: 14px;">TRC will hire new accountant</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">TRC will implement new accounting system with Read Only Access for all shareholders (1 per shareholder)</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">TRC to hire (free-lance) Sales Engineer (low salary, heavy commission)</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;"><br/></span></div>
+
+		
+		
+		<div>
+
+			
+			
+			<div><span style="font-size: 14px;">There will always be an Open Source version of Railo (innitially with a significant slower release cycle, patch release &amp; bug fixes than commercial version)</span></div>
+
+			
+			
+			<div><span style="font-size: 14px;">TRC to release a commercial offering around Railo with a clear incentive towards paid version</span></div>
+
+			
+			
+			<div><span style="font-size: 14px;">Already proposed commercial offering for Railo to be ratified w/o changes, released immediately</span></div>
+
+			
+			
+			<div><span style="font-size: 14px;">Initially old method of authentication used to verify commercial version (enter key in admin) (railo.io maybe introduced later)</span></div>
+
+			
+			
+			<div><span style="font-size: 14px;">TRC exclusive licensor of Railo paid support, Railo paid training, server-specific consulting (performance tuning, bug fixes, etc.) through selected partner channel</span></div>
+
+		
+		
+		</div>
+
+		
+		
+		<div><span style="font-size: 14px;">3 partners (RT, BR &amp; Prisma) have 1 Certified Trainer</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;"><br/></span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">RT (under new name), Prisma IT and BR to enter into new partner contract</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">Only contracted partners allowed to offer Railo approved consulting, training and other services</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">Partners get a 25% discount on Railo license sales, training &amp; consulting (incl 3% rule if applicable)</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">RT to deliver a 1 week “JAVA source code” training to engineers of 4F &amp; BR at current rate</span><br/></div>
+
+		
+		
+		<div><span style="font-size: 14px;"><br/></span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">TDAC to be installed immediately (members get 1 year contract, total of 7 members (3 from shareholders))</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">Other 4 members approved by Board</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;"><br/></span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">A tech committee to be installed to decide on new features/changes of product advised by TDAC</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">All Git source code accepts to be approved by technical committee</span></div>
+
+		
+		
+		<div><br/></div>
+
+		
+		
+		<div><span style="font-size: 14px;">Possible Board Members:</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">- Tim Buntel</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">- Bilal Soylu</span></div>
+
+		
+		
+		<div><span style="font-family: Times; font-size: 14px;">- Lara Kisielewska</span></div>
+
+		
+		
+		<div><span style="font-size: 14px;">- other external senior manager </span></div>
+
+		
+		
+		<div><br/></div>
+
+		
+		
+		<div><span style="font-size: 14px;"><br/></span></div>
+
+		
+		
+		<div><span style="font-size: 14px;"><br/></span></div>
+
+		
+		
+		<div><br/></div>
+
+		
+		
+		<hr/>
+<br/>
+	
+	
+	</div>
+
+	
+	
+	<div><br/></div>
+[17/10/14 15:00:09] Malcolm O'Keeffe: Just talked to gert - short call, but positive reaction to:
+
+	
+	
+	<div>[17/10/14 15:00:33] Malcolm O'Keeffe: 1. Providing you and Calle review of his slides prior to CF Camp , and promise to not “go off script”</div>
+
+	
+	
+	<div>[17/10/14 15:01:06] Malcolm O'Keeffe: 2. The concepts that you and I came up with today. Here’s the email I wrote him:</div>
+
+	
+	
+	<div>[17/10/14 15:03:10] Malcolm O'Keeffe: The compromise we discussed returns close to the original concepts of TRC, but with some significant changes. The basic plan would be for TRC to release a Commercial and Open Source version of Railo 5, and for TRC to pursue the commercial activities and opportunities for Railo Server.</div>
+
+	
+	
+	<div><br/></div>
+
+	
+	
+	<div>Here’s what’s significantly different from the first TRC arrangement:</div>
+
+	
+	
+	<div>RT has much more freedom than under original agreement</div>
+
+	
+	
+	<div>RT is not employed by TRC, but is paid on a per-hour worked agreement</div>
+
+	
+	
+	<div>Calle to represent 4F in TRC, no direct Simon involvement</div>
+
+	
+	
+	<div>TRC is run with maximum focus on transparency, profit. No secrets, total visibility for all shareholders.</div>
+
+	
+	
+	<div>New accountant and accounting system to provide all shareholders more confidence and information.</div>
+
+	
+	
+	<div>Sales compensation is mostly (maybe all) commission-based (no big salaries)</div>
+
+	
+	
+	<div>All current contracts between TRC and shareholders (RT, 4F, BR) are reviewed and updated with much more precise legal guidance and clarity</div>
+
+	
+	
+	<div><br/></div>
+
+	
+	
+	<div>What stays the same:</div>
+
+	
+	
+	<div><br/></div>
+
+	
+	
+	<div>TRC owns the IP</div>
+
+	
+	
+	<div>TRC releases an open source Railo Server (full featured, but with slower release cycle to encourage commercial server sales)</div>
+
+	
+	
+	<div>TRC releases a commercial Railo Server (initially using old method of authentication - <a href="http://Railo.IO">Railo.IO</a> maybe introduced later)</div>
+
+	
+	
+	<div>RT, BR and 4F keep active input via Board of Directors</div>
+
+	
+	
+	<div>TRC exclusive licensor of paid support, paid training, server-specific consulting (performance tuning, bug fixes, etc.)</div>
+
+	
+	
+	<div><br/></div>
+
+	
+	
+	<div>What (I think) is good for RT about this concept:</div>
+
+	
+	
+	<div>Prevents expensive and time consuming legal battle</div>
+
+	
+	
+	<div>Provides RT with a significant increase in autonomy and freedom</div>
+
+	
+	
+	<div>RT leads development and release cycle of Railo Server (with TRC feedback and input on RT plans).</div>
+
+	
+	
+	<div><b>—> TRC always needs to give final approval, also subject to TDAC’s role</b></div>
+
+	
+	
+	<div>Eliminates uncertainty: RT free of legal complications or threats</div>
+
+	
+	
+	<div>Gert and Michael retain community position as Railo core team</div>
+
+	
+	
+	<div>RT free to pursue any other commercial activities (only restricted on TRC specific stuff like paid support, paid training, server-specific consulting) - RT can pursue web and application development that uses Railo, Java tools, etc.</div>
+
+	
+	
+	<div>RT can choose to either retain ownership of Railo Tools or get paid for this work and “sell” them to TRC</div>
+
+	
+	
+	<div><b>—> TRC has paid a number of months “salary” while they said they were working on these products. A certain percentage of the products (subject to further discussion) is already owned by TRC. This will not be just “their choice"</b></div>
+
+	
+	
+	<div>RT retains its shares in TRC, commission structure (15% of net profits annually, etc)</div>
+
+	
+	
+	<div><br/></div>
+
+	
+	
+	<div>Miscellaneous notes:</div>
+
+	
+	
+	<div>Both 4F and RT can offer commercial add-ons to Railo Commercial Server to increase value - must be agreed upon by all before included in offering. Revenue sharing arrangements for any contributions to be worked out prior to inclusion.</div>
+
+	
+	
+	<div>TRC will get early access to bug/security fixes for inclusion in commercial server, before release in open source server</div>
+
+	
+	
+	<div><b>--> since everything is owned by TRC, I don’t “get” this.</b></div>
+
+	
+	
+	<div>TRC can count on RT to maintain compatibility with Morpheus and other 4F products</div>
+
+	
+	
+	<div><b>—> TRC has final decision on what is done to the product, so this is good, but not really necessary</b></div>
+
+	
+	
+	<div>There will not be any further legal actions from both sides, neither against 4FTi nor Simon Slooten nor Gert Franz, etc.</div>
+
+	
+	
+	<div>The matter of the 3% commission still to be addressed</div>
+
+	
+	
+	<div><b>—> All financials still need to be addressed. A balance sheet needs to be created. there will be amounts on the left side and on the right side of the balance</b></div>
+
+	
+	
+	<div>The work performed to date during 2014 by RT that benefits TRC to be compensated - arrangement to be discussed and negotiated</div>
+
+	
+	
+	<div><b>—> In relation to amounts invoiced by RT to “Swiss customers"</b></div>
+
+	
+	
+	<div>The “financial audit” proposed by Blue River can move forward, and financial negotiations can follow based on findings, OR all sides can call for a fresh start from today. Whether this potential “fresh start” includes the 3% commission is not yet decided.</div>
+
+	
+	
+	<div><b>—> A “fresh start” would include everything</b></div>
+
+	
+	
+	<div>[17/10/14 15:05:36] Malcolm O'Keeffe: If there’s content in there that’s different from your recollection please let me know soon so we catch any inaccuracies early</div>
+
+
+
+	
+	<hr/>Conflicting modification on 20 november 2014 19:28:48:
+	
+	<hr/>
+
+	
+	<div>
+
+		
+		<div>Final version</div>
+
+		
+		<div><br/></div>
+
+		
+		<div>
+
+			
+			<div style="font-family: Calibri, sans-serif;">
+
+				
+				<div>
+
+					
+					<div>
+
+						
+						<p><span lang="EN-US"><font color="#00007F">This is the minimal indispensable list from 4FTI. We are willing to discuss adding things to this list. Removing anything from this list is not open to discussion</font></span></p>
+
+					
+					</div>
+
+					
+					<div>
+
+						
+						<ul>
+
+							
+							<li><font color="#00007F">Immediate and unconditional handover of</font>
+
+								
+								<ul>
+
+									
+									<li><font color="#00007F">Domain registration un/pw (all domains, incl. <a href="http://railo.io">railo.io</a>)</font></li>
+
+									
+									<li><font color="#00007F">Github master un/pw</font></li>
+
+									
+									<li><font color="#00007F">Freshdesk, Mailchimp and all other systems master un/pw</font></li>
+
+									
+									<li><font color="#00007F">Mura un/pw for all sites</font></li>
+
+									
+									<li><font color="#00007F">Sources for installers</font></li>
+
+									
+									<li><font color="#00007F">All testcases</font></li>
+
+									
+									<li><font color="#00007F">All (unpublished) sources for R5 and other</font></li>
+
+									
+									<li><font color="#00007F">All sources, scripts &amp; other files not in git</font></li>
+
+									
+									<li><font color="#00007F">Master files for logo’s</font></li>
+
+									
+									<li><font color="#00007F">Training materials (slides, code etc)</font></li>
+
+									
+									<li><font color="#00007F">Master files for published books under RT brand</font></li>
+
+									
+									<li><font color="#00007F">.. All that is not mentioned here, but is related to the IP</font></li>
+
+								
+								</ul>
+
+							
+							</li>
+
+						
+						</ul>
+
+					
+					</div>
+
+					
+					<div>
+
+						
+						<ul>
+
+							
+							<li><font color="#00007F">All IP is owned by TRC</font></li>
+
+							
+							<li><font color="#00007F">Calle is MD</font></li>
+
+							
+							<li><font color="#00007F">MD is installed by Shareholders</font></li>
+
+							
+							<li><font color="#00007F"><span lang="EN-US">MD reports to the Board (or shareholders, </span><span lang="EN-US">when </span><span lang="EN-US">no Board exists (see below))</span></font></li>
+
+							
+							<li><font color="#00007F">ALL financial commitments to an amount of 5K (with a total of 20K per month) to be approved by MD</font></li>
+
+							
+							<li><font color="#00007F">ALL financial commitments to an amount of 20K (with a total of 40K per month) to be approved by Board</font></li>
+
+							
+							<li><font color="#00007F">ALL other financial commitments to be approved by Shareholders </font></li>
+
+							
+							<li><font color="#00007F">MD to sign 1-year contract with TRC with renewal option (subject to Shareholder approval)</font></li>
+
+							
+							<li><font color="#00007F">Clearly defined list with topics that MD can not decide on and that should be handled by Board</font></li>
+
+							
+							<li><font color="#00007F">Remuneration for MD is EUR. 5K per month, commencing on Jan 1st (as TRC needs to create financial buffer)</font></li>
+
+						
+						</ul>
+
+					
+					</div>
+
+				
+				</div>
+
+				
+				<div>
+
+					
+					<ul>
+
+						
+						<li><font color="#00007F"><span lang="EN-US">4FTI list of amendments to existing shareholder</span><span lang="EN-US"> agreement:</span></font>
+
+							
+							<ul>
+
+								
+								<li><font color="#00007F">Deadlock to be removed from agreements</font></li>
+
+								
+								<li><font color="#00007F">Shareholders decide by majority of votes, except articles in the already present list that requires 85% of the votes</font></li>
+
+								
+								<li><font color="#00007F">Repurchase right only possible when TRC fails for financial reasons (bankrupt)</font></li>
+
+								
+								<li><font color="#00007F">Repurchase price is valued against paid dividend (price = 45K + any paid dividends onder the 15% rule in the agreements) </font></li>
+
+							
+							</ul>
+
+						
+						</li>
+
+					
+					</ul>
+
+				
+				</div>
+
+				
+				<div>
+
+					
+					<div>
+
+						
+						<ul>
+
+							
+							<li><span lang="EN-US"><font color="#00007F">If BR and GMBH insist on a board and board not dissolved, then Board will consist of 4 members:</font></span>
+
+								
+								<ul>
+
+									
+									<li><font color="#00007F">1 for 4F with 3 votes (based on share %)</font></li>
+
+									
+									<li><font color="#00007F">1 for BR with 1 vote (based on share %)</font></li>
+
+									
+									<li><font color="#00007F">1 for RT with 2 votes (based on share %)</font></li>
+
+									
+									<li><font color="#00007F">MD with 1 vote, who also is the chairman of the Board, he has swing vote in case of tie.</font></li>
+
+									
+									<li><font color="#00007F">Board decides with majority of votes</font></li>
+
+									
+									<li><font color="#00007F">ALL Board members to be approved by shareholders (also the current members)</font></li>
+
+									
+									<li><font color="#00007F">Board &amp; all Board members enter into a 1 year agreement with renewal option</font></li>
+
+								
+								</ul>
+
+								
+								<div>
+
+									
+									<ul>
+
+										
+										<li><font color="#00007F">Board to meet with pre-approved agenda &amp; resolutions</font></li>
+
+										
+										<li><font color="#00007F">Board will NOT handle day-to-day operations</font></li>
+
+									
+									</ul>
+
+									
+									<ul>
+
+										
+										<li><font color="#00007F">Review of list with topics that Board can not decide on and that should be handled by shareholders</font></li>
+
+										
+										<li><font color="#00007F">Quorum for a Board meeting is 4 (ALL members should be present)</font></li>
+
+									
+									</ul>
+
+								
+								</div>
+
+							
+							</li>
+
+						
+						</ul>
+
+					
+					</div>
+
+					
+					<div>
+
+						
+						<ul>
+
+							
+							<li><span lang="EN-US"><font color="#00007F">Railo Technologies Gmbh needs to be renamed immediately per our agreements in place</font></span></li>
+
+							
+							<li><font color="#00007F">RT (and other partners &amp; free-lancers) will be paid on a per hour, pre-approved work agreement (PO) at a pre-approved rate (currently € 50,- per hour, excl VAT)</font></li>
+
+							
+							<li><font color="#00007F">All engineers, consultants, trainers and other free-lancers to sign agreement with TRC</font></li>
+
+							
+							<li><font color="#00007F">All individuals to sign NDA with TRC</font></li>
+
+							
+							<li><font color="#00007F">RT to provide a list of (partly finished) products during "TRC v1 time” (see email 7-10-13 "Upcoming Products - New Team Members”). <span lang="EN-US">These are part of the IP</span></font></li>
+
+						
+						</ul>
+
+					
+					</div>
+
+					
+					<div>
+
+						
+						<ul>
+
+							
+							<li><span lang="EN-US"><font color="#00007F">When RT decides to develop something built “into” Railo on their own account, TRC has the right of first refusal for that feature</font></span>
+
+								
+								<ul>
+
+									
+									<li><font color="#00007F"><span lang="EN-US">When “yes” T</span><span lang="EN-US">RC pays actual worked hours at current rate</span></font></li>
+
+									
+									<li><font color="#00007F"><span lang="EN-US">When “no” RT has right to publish/sell feature themselv</span>es per the partner agreement and per the OS license</font></li>
+
+									
+									<li><font color="#00007F">Everything built “into” Railo (not as external tool) is subject to approval from Tech Committee (see below)</font></li>
+
+								
+								</ul>
+
+							
+							</li>
+
+						
+						</ul>
+
+					
+					</div>
+
+				
+				</div>
+
+				
+				<div>
+
+					
+					<div>
+
+						
+						<div>
+
+							
+							<ul>
+
+								
+								<li><font color="#00007F">TRC to enter into agreement with all individual contributors immediately (when known &amp; possible). When unknown, TRC assumes ownership of contribution.</font></li>
+
+								
+								<li><font color="#00007F">All contributors to enter into agreement with TRC to handoff ownership of contributions (MURA agreement is example)</font></li>
+
+								
+								<li><font color="#00007F">Everybody without a valid free-lance or other contract with TRC to be removed from all systems (incl TRC email accounts)</font></li>
+
+								
+								<li><font color="#00007F">All patches, bug fixes, installers etc owned by TRC.</font></li>
+
+							
+							</ul>
+
+						
+						</div>
+
+						
+						<div>
+
+							
+							<ul>
+
+								
+								<li><span lang="EN-US"><font color="#00007F">TRC will hire new accountant immediately</font></span></li>
+
+								
+								<li><font color="#00007F">TRC will implement new accounting system with Read Only Access for all shareholders (1 per shareholder)</font></li>
+
+							
+							</ul>
+
+							
+							<div><font color="#00007F"><br/></font></div>
+
+							
+							<ul>
+
+								
+								<li><font color="#00007F">All TRC sales will be done through partner channel</font></li>
+
+								
+								<li><font color="#00007F">BR already stated they are not interested in a partnership, New partner(s) in US needed</font></li>
+
+								
+								<li><font color="#00007F">MD will manage TRC’s CRM system (all partners will have an account)</font></li>
+
+								
+								<li><font color="#00007F">MD &amp; Chair of Shareholder meeting (see below) have signatory rights on bank account (co-sign only)</font></li>
+
+							
+							</ul>
+
+						
+						</div>
+
+						
+						<div>
+
+							
+							<ul>
+
+								
+								<li><span lang="EN-US"><font color="#00007F">There will always be an Open Source version of Railo (initially with a significant slower release cycle, patch release &amp; bug fixes than commercial version)</font></span></li>
+
+								
+								<li><font color="#00007F">TRC to release a commercial offering around Railo with a clear incentive towards paid version</font></li>
+
+								
+								<li><font color="#00007F">Already proposed commercial offering for Railo to be ratified w/o changes, released immediately</font></li>
+
+								
+								<li><font color="#00007F">Initially existing method of authentication used to verify commercial version (enter key in admin) (railo.io maybe introduced later)</font></li>
+
+								
+								<li><font color="#00007F">TRC exclusive licensor of Railo paid support, Railo paid training, server-specific consulting (performance tuning, bug fixes, etc.) through selected partner channel</font></li>
+
+								
+								<li><font color="#00007F">3 partners (RT, BR &amp; Prisma) have 1 Certified Trainer and can offer training</font></li>
+
+							
+							</ul>
+
+						
+						</div>
+
+						
+						<div>
+
+							
+							<ul>
+
+								
+								<li><font color="#00007F">RT (under new name) &amp; Prisma IT to enter into new partner contract with TRC (BR not interested in partnership)</font></li>
+
+								
+								<li><font color="#00007F">Only contracted partners allowed to offer Railo approved consulting, training and other services</font></li>
+
+								
+								<li><font color="#00007F">Already approved upon partner discount on Railo license sales, training &amp; consulting (incl 3% rule if applicable)</font></li>
+
+								
+								<li><font color="#00007F">RT to deliver a 1 week “Railo/JAVA source code” training to engineers of 4F &amp; BR at current rate (this is a training on the internals of Railo, NOT on cfml)</font></li>
+
+							
+							</ul>
+
+						
+						</div>
+
+						
+						<div>
+
+							
+							<ul>
+
+								
+								<li><span lang="EN-US"><font color="#00007F">TDAC to be installed immediately </font></span></li>
+
+								
+								<li><span lang="EN-US"><font color="#00007F">TDAC consists of 7 people</font></span></li>
+
+								
+								<li><font color="#00007F">TDAC members approved by Shareholders</font></li>
+
+								
+								<li><font color="#00007F">TDAC will PROPOSE new features to Tech Committee (see below)</font></li>
+
+							
+							</ul>
+
+							
+							<div><font color="#00007F"><br/></font></div>
+
+							
+							<ul>
+
+								
+								<li><font color="#00007F">A seperate Technical Committee to be installed immediately to DECIDE on new features/changes of product advised by TDAC</font></li>
+
+								
+								<li><font color="#00007F">All Git source code accepts to be approved by Technical Committee</font></li>
+
+								
+								<li><font color="#00007F">Technical Committee consists of 3 people, to be approved by Shareholders</font></li>
+
+							
+							</ul>
+
+						
+						</div>
+
+					
+					</div>
+
+					
+					<div>
+
+						
+						<p></p>
+
+					
+					</div>
+
+					
+					<div>
+
+						
+						<ul>
+
+							
+							<li><span lang="EN-US"><font color="#00007F">NOBODY can hold more than 1 position in MD, Board, Shareholder representation, TDAC and Tech Committee (example: if you are the shh representative, you can not also be on the Board)</font></span></li>
+
+							
+							<li><span style="font-family: Calibri;"><font color="#00007F">4FTI is permanent chairperson of Shareholders meeting (and holds signatory rights with bankaccount in coop with MD)</font></span></li>
+
+						
+						</ul>
+
+						
+						<div><span style="font-family: Calibri;"><font color="#00007F"><br/></font></span></div>
+
+						
+						<ul>
+
+							
+							<li><span lang="EN-US"><font color="#00007F">All finances will be reset per November 1st – NOBODY OWES ANYBODY ANYTHING</font></span></li>
+
+							
+							<li><font color="#00007F">AFTER financial reset, ALL shareholders to award a LOAN of EUR. 10K to TRC (for a total of EUR. 30K). This has NO impact on share % and is NOT a capital raise).</font></li>
+
+						
+						</ul>
+
+					
+					</div>
+
+					
+					<div>
+
+						
+						<ul>
+
+							
+							<li><font color="#00007F">NO WAIVER OF ANY EXISTING CLAIMS BUT THEY WILL NOT BE PURSUED UNLESS AND UNTIL THE ABOVE IS COMPLIED WITH.</font></li>
+
+							
+							<li><font color="#00007F">Deadline is October 31st 2014, 2014 EOB.</font></li>
+
+						
+						</ul>
+
+					
+					</div>
+
+				
+				</div>
+
+			
+			</div>
+
+			
+			<div style="font-family: Calibri, sans-serif;">
+
+				
+				<div>
+
+					
+					<hr/>
+<font color="#00007F"><br/></font>
+				
+				</div>
+
+			
+			</div>
+
+		
+		</div>
+
+		
+		<div><br/></div>
+
+		
+		<div><br/></div>
+
+		
+		<div>V2</div>
+
+		
+		<div><br/></div>
+
+		
+		<div>
+
+			
+			<div style="font-family: Calibri, sans-serif;">
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">4FTI’s list</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Immediate Handover</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     Domain registration un/pw (all domains, incl. <a href="http://railo.io">railo.io</a>)</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     Github master un/pw</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     Freshdesk, Mailchimp and all other systems master un/pw</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     Mura un/pw for all sites</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     Sources for installers</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     All testcases</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     All (unpublished) sources for R5</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     All sources, scripts &amp; other files not in github</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     Master files for logo’s</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     Training materials (slides, code etc)</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">      .. All that is not mentioned here, but is related to the IP</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Calle is MD<br/></div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">MD is installed by Shareholders</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">MD reports to the Board (or shareholders when no Board)<br/></div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">MD to manage all un/pw masters</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">MD to sign 1-year contract with TRC with renewal option (subject to Board/shareholder approval)</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Clearly defined list with topics that MD can not decide on and that should be handed by Board</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">
+
+					
+					<div>Current Board &amp; Shareholder agreements to be reviewed, changed and amended. </div>
+
+					
+					<div>Deadlock to be removed from agreements<br/></div>
+
+				
+				</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Repurchase right only possible when TRC fails for financial reason (bankrupt)</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Paid dividend is added to repurchase price</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Board will be dissolved (if not, then meet on a monthly basis with pre-approved agenda &amp; resolutions). Board will NOT handle day-to-day operations</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Review of list with topics that Board can not decide on and that should be handed by shareholders</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">When Board not dissolved, Board will consist of 4 members:</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - 1 4F with 3 votes (based on share %)</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - 1 BR with 1 vote (based on share %)</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - 1 RT with 2 votes (based on share %)</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - 1 external member with 1 vote, who also is the chairman of the Board, he has swing vote in case of tie.</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - Board decides with majority of votes</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - MD is not in the Board</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - External member to be approved by shareholders</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - Board &amp; all Board members enter into a 1 year agreement with renewal option</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - All members of “new” board subject to shareholder approval (all members will be voted on)</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     </div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Railo Tech Gmbh needs to be renamed to something else</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">RT (and other partners &amp; free-lancers) will be paid on a per hour, pre-approved work agreement (PO) at a pre-approved rate (currently € 50,- per hour, excl VAT)</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">All engineers, consultants, trainers and other free-lancers to sign agreement with TRC</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">All individuals to sign NDA with TRC</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">RT to provide a list of (partly finished) products during "TRC v1 time” (see email 7-10-13 "Upcoming Products - New Team Members”). These are part of the IP</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">When RT decides to develop something on their own account, TRC has the right of first refusal for that feature.</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - When “yes” TRC pays actual worked hours at current rate</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - When “no” RT has right to publish/sell feature themselves per the partner agreement</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">TRC to enter into agreement with all individual contributors (when known &amp; possible). When unknown, TRC assumes ownership of contribution.</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">All contributors to enter into agreement with TRC to handoff ownership of contributions (per MURA agreement)</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Everybody without a valid free-lance or other contract with TRC to be removed from all systems (incl TRC email accounts)<br/></div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">All patches, bug fixes, installers etc owned by TRC.</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">TRC will hire new accountant</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">TRC will implement new accounting system with Read Only Access for all shareholders (1 per shareholder)</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">All TRC sales will be done through partner channel</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">MD will manage TRC’s CRM system (all partners will have an account)</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">
+
+					
+					<div>There will always be an Open Source version of Railo (innitially with a significant slower release cycle, patch release &amp; bug fixes than commercial version)</div>
+
+					
+					<div>TRC to release a commercial offering around Railo with a clear incentive towards paid version</div>
+
+					
+					<div>Already proposed commercial offering for Railo to be ratified w/o changes, released immediately</div>
+
+					
+					<div>Initially old method of authentication used to verify commercial version (enter key in admin) (railo.io maybe introduced later)</div>
+
+					
+					<div>TRC exclusive licensor of Railo paid support, Railo paid training, server-specific consulting (performance tuning, bug fixes, etc.) through selected partner channel</div>
+
+				
+				</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">3 partners (RT, BR &amp; Prisma) have 1 Certified Trainer</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">RT (under new name), Prisma IT and BR to enter into new partner contract</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Only contracted partners allowed to offer Railo approved consulting, training and other services</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Partners get a 25% discount on Railo license sales, training &amp; consulting (incl 3% rule if applicable)</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">RT to deliver a 1 week “JAVA source code” training to engineers of 4F &amp; BR at current rate<br/></div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">TDAC to be installed immediately (members get 1 year contract, total of 7 members (3 from shareholders))</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Other 4 members approved by Board</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">A tech committee to be installed to decide on new features/changes of product advised by TDAC</div>
+
+				
+				<div style="font-family: '.Helvetica Neue DeskInterface';">All Git source code accepts to be approved by technical committee</div>
+
+			
+			</div>
+
+			
+			<div><br/></div>
+
+			
+			<div>If financial reset, then 4F is willing to discuss outstanding invoices. </div>
+
+		
+		</div>
+
+		
+		<div><br/></div>
+
+		
+		<div>
+
+			
+			<hr/>
+<br/>
+		
+		</div>
+
+		
+		<div>V1</div>
+
+		
+		<div>Compliance List</div>
+
+		
+		<div><br/></div>
+
+		
+		<div>Immediate Handover</div>
+
+		
+		<div>     domain registration un/pw (all domains, incl. railo.io)</div>
+
+		
+		<div>     Github master un/pw</div>
+
+		
+		<div>     Freshdesk, Mailchimp and all other systems master un/pw</div>
+
+		
+		<div>     Mura un/pw for all sites</div>
+
+		
+		<div>     Sources for installers</div>
+
+		
+		<div>     All testcases</div>
+
+		
+		<div>     All (unpublished) sources for R5</div>
+
+		
+		<div>     All sources, scripts &amp; other files not in github</div>
+
+		
+		<div>     Master files for logo’s</div>
+
+		
+		<div>     Training materials (slides, code etc)</div>
+
+		
+		<div><br/></div>
+
+		
+		<div>Calle is MD<br/></div>
+
+		
+		<div>MD is installed by Shareholders</div>
+
+		
+		<div>MD reports to the Board (or shareholders when no Board)<br/></div>
+
+		
+		<div>MD to manage all un/pw masters</div>
+
+		
+		<div>MD to sign 1-year contract with TRC with renewal option (subject to Board approval)</div>
+
+		
+		<div>Review of list with topics that MD can not decide on and that should be handed by Board</div>
+
+		
+		<div><br/></div>
+
+		
+		<div>
+
+			
+			<div>Current Board &amp; Shareholder agreements to be reviewed, changed and amended. </div>
+
+			
+			<div>Deadlock to be removed from agreements<br/></div>
+
+		
+		</div>
+
+		
+		<div>Repurchase right only possible when TRC fails for financial reason (bankrupt)</div>
+
+		
+		<div>Paid dividend is added to repurchase price</div>
+
+		
+		<div><br/></div>
+
+		
+		<div>Board will be dissolved (if not, then meet on a monthly basis with pre-approved agenda &amp; resolutions. Board will NOT handle day-to-day operations</div>
+
+		
+		<div>Review of list with topics that Board can not decide on and that should be handed by shareholders</div>
+
+		
+		<div>When Board not dissolved, Board will consist of 4 members:</div>
+
+		
+		<div>     - 1 4F with 3 votes (based on share %)</div>
+
+		
+		<div>     - 1 BR with 1 votes (based on share %)</div>
+
+		
+		<div>     - 1 RT with 2 votes (based on share %)</div>
+
+		
+		<div>     - 1 external member with 1 vote, being the chairman of the Board, he has swing vote in case of tie.</div>
+
+		
+		<div>     - Board decides with majority of votes</div>
+
+		
+		<div>     - External member to be approved by shareholders</div>
+
+		
+		<div>     - Board &amp; all Board members enter into a 1 year agreement with renewal option</div>
+
+		
+		<div>     - All members of “new” board subject to shareholder approval (all members will be voted on)</div>
+
+		
+		<div>     </div>
+
+		
+		<div>Railo Tech Gmbh needs to be renamed to something else</div>
+
+		
+		<div>RT (and other partners &amp; free-lancers) will be paid on a per hour, pre-approved work agreement (PO) at a pre-approved rate (currently € 50,- per hour, excl VAT)</div>
+
+		
+		<div>All engineers, consultants, trainers and other free-lancers to sign agreement with TRC</div>
+
+		
+		<div>All individuals to sign NDA with TRC</div>
+
+		
+		<div>RT to provide a list of (partly finished) products during "TRC v1 time” (see email 7-10-13 "Upcoming Products - New Team Members")</div>
+
+		
+		<div><br/></div>
+
+		
+		<div>When RT decides to develop something on their own account, TRC has the right of first refusal for that feature.</div>
+
+		
+		<div>     - When “yes” TRC pays actual worked hours at current rate</div>
+
+		
+		<div>     - When “no” RT has right to publish/sell feature themselves per the partner agreement</div>
+
+		
+		<div><br/></div>
+
+		
+		<div>TRC to enter into agreement with all individual contributors (when known &amp; possible). When unknown, TRC assumes ownership of contribution.</div>
+
+		
+		<div>All contributors to enter into agreement with TRC to handoff ownership of contributions (per MURA agreement)</div>
+
+		
+		<div>Everybody without a valid free-lance or other contract with TRC to be removed from all systems (incl TRC email accounts)<br/></div>
+
+		
+		<div>All patches, bug fixes, installers etc owned by TRC.</div>
+
+		
+		<div><br/></div>
+
+		
+		<div>TRC will hire new accountant</div>
+
+		
+		<div>TRC will implement new accounting system with Read Only Access for all shareholders (1 per shareholder)</div>
+
+		
+		<div>TRC to hire (free-lance) Sales Engineer (low salary, heavy commission)</div>
+
+		
+		<div><br/></div>
+
+		
+		<div>
+
+			
+			<div>There will always be an Open Source version of Railo (innitially with a significant slower release cycle, patch release &amp; bug fixes than commercial version)</div>
+
+			
+			<div>TRC to release a commercial offering around Railo with a clear incentive towards paid version</div>
+
+			
+			<div>Already proposed commercial offering for Railo to be ratified w/o changes, released immediately</div>
+
+			
+			<div>Initially old method of authentication used to verify commercial version (enter key in admin) (railo.io maybe introduced later)</div>
+
+			
+			<div>TRC exclusive licensor of Railo paid support, Railo paid training, server-specific consulting (performance tuning, bug fixes, etc.) through selected partner channel</div>
+
+		
+		</div>
+
+		
+		<div>3 partners (RT, BR &amp; Prisma) have 1 Certified Trainer</div>
+
+		
+		<div><br/></div>
+
+		
+		<div>RT (under new name), Prisma IT and BR to enter into new partner contract</div>
+
+		
+		<div>Only contracted partners allowed to offer Railo approved consulting, training and other services</div>
+
+		
+		<div>Partners get a 25% discount on Railo license sales, training &amp; consulting (incl 3% rule if applicable)</div>
+
+		
+		<div>RT to deliver a 1 week “JAVA source code” training to engineers of 4F &amp; BR at current rate<br/></div>
+
+		
+		<div><br/></div>
+
+		
+		<div>TDAC to be installed immediately (members get 1 year contract, total of 7 members (3 from shareholders))</div>
+
+		
+		<div>Other 4 members approved by Board</div>
+
+		
+		<div><br/></div>
+
+		
+		<div>A tech committee to be installed to decide on new features/changes of product advised by TDAC</div>
+
+		
+		<div>All Git source code accepts to be approved by technical committee</div>
+
+		
+		<div><br/></div>
+
+		
+		<div>Possible Board Members:</div>
+
+		
+		<div>- Tim Buntel</div>
+
+		
+		<div>- Bilal Soylu</div>
+
+		
+		<div><span style="font-family: Times;">- Lara Kisielewska</span></div>
+
+		
+		<div>- other external senior manager </div>
+
+		
+		<div><br/></div>
+
+		
+		<div><br/></div>
+
+		
+		<div><br/></div>
+
+		
+		<div><br/></div>
+
+		
+		<hr/>
+<br/>
+	
+	</div>
+
+	
+	<div><br/></div>
+[17/10/14 15:00:09] Malcolm O'Keeffe: Just talked to gert - short call, but positive reaction to:
+
+	
+	<div>[17/10/14 15:00:33] Malcolm O'Keeffe: 1. Providing you and Calle review of his slides prior to CF Camp , and promise to not “go off script”</div>
+
+	
+	<div>[17/10/14 15:01:06] Malcolm O'Keeffe: 2. The concepts that you and I came up with today. Here’s the email I wrote him:</div>
+
+	
+	<div>[17/10/14 15:03:10] Malcolm O'Keeffe: The compromise we discussed returns close to the original concepts of TRC, but with some significant changes. The basic plan would be for TRC to release a Commercial and Open Source version of Railo 5, and for TRC to pursue the commercial activities and opportunities for Railo Server.</div>
+
+	
+	<div><br/></div>
+
+	
+	<div>Here’s what’s significantly different from the first TRC arrangement:</div>
+
+	
+	<div>RT has much more freedom than under original agreement</div>
+
+	
+	<div>RT is not employed by TRC, but is paid on a per-hour worked agreement</div>
+
+	
+	<div>Calle to represent 4F in TRC, no direct Simon involvement</div>
+
+	
+	<div>TRC is run with maximum focus on transparency, profit. No secrets, total visibility for all shareholders.</div>
+
+	
+	<div>New accountant and accounting system to provide all shareholders more confidence and information.</div>
+
+	
+	<div>Sales compensation is mostly (maybe all) commission-based (no big salaries)</div>
+
+	
+	<div>All current contracts between TRC and shareholders (RT, 4F, BR) are reviewed and updated with much more precise legal guidance and clarity</div>
+
+	
+	<div><br/></div>
+
+	
+	<div>What stays the same:</div>
+
+	
+	<div><br/></div>
+
+	
+	<div>TRC owns the IP</div>
+
+	
+	<div>TRC releases an open source Railo Server (full featured, but with slower release cycle to encourage commercial server sales)</div>
+
+	
+	<div>TRC releases a commercial Railo Server (initially using old method of authentication - <a href="http://Railo.IO">Railo.IO</a> maybe introduced later)</div>
+
+	
+	<div>RT, BR and 4F keep active input via Board of Directors</div>
+
+	
+	<div>TRC exclusive licensor of paid support, paid training, server-specific consulting (performance tuning, bug fixes, etc.)</div>
+
+	
+	<div><br/></div>
+
+	
+	<div>What (I think) is good for RT about this concept:</div>
+
+	
+	<div>Prevents expensive and time consuming legal battle</div>
+
+	
+	<div>Provides RT with a significant increase in autonomy and freedom</div>
+
+	
+	<div>RT leads development and release cycle of Railo Server (with TRC feedback and input on RT plans).</div>
+
+	
+	<div><b>—> TRC always needs to give final approval, also subject to TDAC’s role</b></div>
+
+	
+	<div>Eliminates uncertainty: RT free of legal complications or threats</div>
+
+	
+	<div>Gert and Michael retain community position as Railo core team</div>
+
+	
+	<div>RT free to pursue any other commercial activities (only restricted on TRC specific stuff like paid support, paid training, server-specific consulting) - RT can pursue web and application development that uses Railo, Java tools, etc.</div>
+
+	
+	<div>RT can choose to either retain ownership of Railo Tools or get paid for this work and “sell” them to TRC</div>
+
+	
+	<div><b>—> TRC has paid a number of months “salary” while they said they were working on these products. A certain percentage of the products (subject to further discussion) is already owned by TRC. This will not be just “their choice"</b></div>
+
+	
+	<div>RT retains its shares in TRC, commission structure (15% of net profits annually, etc)</div>
+
+	
+	<div><br/></div>
+
+	
+	<div>Miscellaneous notes:</div>
+
+	
+	<div>Both 4F and RT can offer commercial add-ons to Railo Commercial Server to increase value - must be agreed upon by all before included in offering. Revenue sharing arrangements for any contributions to be worked out prior to inclusion.</div>
+
+	
+	<div>TRC will get early access to bug/security fixes for inclusion in commercial server, before release in open source server</div>
+
+	
+	<div><b>--> since everything is owned by TRC, I don’t “get” this.</b></div>
+
+	
+	<div>TRC can count on RT to maintain compatibility with Morpheus and other 4F products</div>
+
+	
+	<div><b>—> TRC has final decision on what is done to the product, so this is good, but not really necessary</b></div>
+
+	
+	<div>There will not be any further legal actions from both sides, neither against 4FTi nor Simon Slooten nor Gert Franz, etc.</div>
+
+	
+	<div>The matter of the 3% commission still to be addressed</div>
+
+	
+	<div><b>—> All financials still need to be addressed. A balance sheet needs to be created. there will be amounts on the left side and on the right side of the balance</b></div>
+
+	
+	<div>The work performed to date during 2014 by RT that benefits TRC to be compensated - arrangement to be discussed and negotiated</div>
+
+	
+	<div><b>—> In relation to amounts invoiced by RT to “Swiss customers"</b></div>
+
+	
+	<div>The “financial audit” proposed by Blue River can move forward, and financial negotiations can follow based on findings, OR all sides can call for a fresh start from today. Whether this potential “fresh start” includes the 3% commission is not yet decided.</div>
+
+	
+	<div><b>—> A “fresh start” would include everything</b></div>
+
+	
+	<div>[17/10/14 15:05:36] Malcolm O'Keeffe: If there’s content in there that’s different from your recollection please let me know soon so we catch any inaccuracies early</div>
+
+
+
+	<hr/>Conflicting modification on 20 november 2014 19:28:48:
+	<hr/>
+
+	<div>
+
+		<div>Final version</div>
+
+		<div><br/></div>
+
+		<div>
+
+			<div style="font-family: Calibri, sans-serif;">
+
+				<div>
+
+					<div>
+
+						<p><span lang="EN-US"><font color="#00007F">This is the minimal indispensable list from 4FTI. We are willing to discuss adding things to this list. Removing anything from this list is not open to discussion</font></span></p>
+
+					</div>
+
+					<div>
+
+						<ul>
+
+							<li><font color="#00007F">Immediate and unconditional handover of</font>
+
+								<ul>
+
+									<li><font color="#00007F">Domain registration un/pw (all domains, incl. <a href="http://railo.io">railo.io</a>)</font></li>
+
+									<li><font color="#00007F">Github master un/pw</font></li>
+
+									<li><font color="#00007F">Freshdesk, Mailchimp and all other systems master un/pw</font></li>
+
+									<li><font color="#00007F">Mura un/pw for all sites</font></li>
+
+									<li><font color="#00007F">Sources for installers</font></li>
+
+									<li><font color="#00007F">All testcases</font></li>
+
+									<li><font color="#00007F">All (unpublished) sources for R5 and other</font></li>
+
+									<li><font color="#00007F">All sources, scripts &amp; other files not in git</font></li>
+
+									<li><font color="#00007F">Master files for logo’s</font></li>
+
+									<li><font color="#00007F">Training materials (slides, code etc)</font></li>
+
+									<li><font color="#00007F">Master files for published books under RT brand</font></li>
+
+									<li><font color="#00007F">.. All that is not mentioned here, but is related to the IP</font></li>
+
+								</ul>
+
+							</li>
+
+						</ul>
+
+					</div>
+
+					<div>
+
+						<ul>
+
+							<li><font color="#00007F">All IP is owned by TRC</font></li>
+
+							<li><font color="#00007F">Calle is MD</font></li>
+
+							<li><font color="#00007F">MD is installed by Shareholders</font></li>
+
+							<li><font color="#00007F"><span lang="EN-US">MD reports to the Board (or shareholders, </span><span lang="EN-US">when </span><span lang="EN-US">no Board exists (see below))</span></font></li>
+
+							<li><font color="#00007F">ALL financial commitments to an amount of 5K (with a total of 20K per month) to be approved by MD</font></li>
+
+							<li><font color="#00007F">ALL financial commitments to an amount of 20K (with a total of 40K per month) to be approved by Board</font></li>
+
+							<li><font color="#00007F">ALL other financial commitments to be approved by Shareholders </font></li>
+
+							<li><font color="#00007F">MD to sign 1-year contract with TRC with renewal option (subject to Shareholder approval)</font></li>
+
+							<li><font color="#00007F">Clearly defined list with topics that MD can not decide on and that should be handled by Board</font></li>
+
+							<li><font color="#00007F">Remuneration for MD is EUR. 5K per month, commencing on Jan 1st (as TRC needs to create financial buffer)</font></li>
+
+						</ul>
+
+					</div>
+
+				</div>
+
+				<div>
+
+					<ul>
+
+						<li><font color="#00007F"><span lang="EN-US">4FTI list of amendments to existing shareholder</span><span lang="EN-US"> agreement:</span></font>
+
+							<ul>
+
+								<li><font color="#00007F">Deadlock to be removed from agreements</font></li>
+
+								<li><font color="#00007F">Shareholders decide by majority of votes, except articles in the already present list that requires 85% of the votes</font></li>
+
+								<li><font color="#00007F">Repurchase right only possible when TRC fails for financial reasons (bankrupt)</font></li>
+
+								<li><font color="#00007F">Repurchase price is valued against paid dividend (price = 45K + any paid dividends onder the 15% rule in the agreements) </font></li>
+
+							</ul>
+
+						</li>
+
+					</ul>
+
+				</div>
+
+				<div>
+
+					<div>
+
+						<ul>
+
+							<li><span lang="EN-US"><font color="#00007F">If BR and GMBH insist on a board and board not dissolved, then Board will consist of 4 members:</font></span>
+
+								<ul>
+
+									<li><font color="#00007F">1 for 4F with 3 votes (based on share %)</font></li>
+
+									<li><font color="#00007F">1 for BR with 1 vote (based on share %)</font></li>
+
+									<li><font color="#00007F">1 for RT with 2 votes (based on share %)</font></li>
+
+									<li><font color="#00007F">MD with 1 vote, who also is the chairman of the Board, he has swing vote in case of tie.</font></li>
+
+									<li><font color="#00007F">Board decides with majority of votes</font></li>
+
+									<li><font color="#00007F">ALL Board members to be approved by shareholders (also the current members)</font></li>
+
+									<li><font color="#00007F">Board &amp; all Board members enter into a 1 year agreement with renewal option</font></li>
+
+								</ul>
+
+								<div>
+
+									<ul>
+
+										<li><font color="#00007F">Board to meet with pre-approved agenda &amp; resolutions</font></li>
+
+										<li><font color="#00007F">Board will NOT handle day-to-day operations</font></li>
+
+									</ul>
+
+									<ul>
+
+										<li><font color="#00007F">Review of list with topics that Board can not decide on and that should be handled by shareholders</font></li>
+
+										<li><font color="#00007F">Quorum for a Board meeting is 4 (ALL members should be present)</font></li>
+
+									</ul>
+
+								</div>
+
+							</li>
+
+						</ul>
+
+					</div>
+
+					<div>
+
+						<ul>
+
+							<li><span lang="EN-US"><font color="#00007F">Railo Technologies Gmbh needs to be renamed immediately per our agreements in place</font></span></li>
+
+							<li><font color="#00007F">RT (and other partners &amp; free-lancers) will be paid on a per hour, pre-approved work agreement (PO) at a pre-approved rate (currently € 50,- per hour, excl VAT)</font></li>
+
+							<li><font color="#00007F">All engineers, consultants, trainers and other free-lancers to sign agreement with TRC</font></li>
+
+							<li><font color="#00007F">All individuals to sign NDA with TRC</font></li>
+
+							<li><font color="#00007F">RT to provide a list of (partly finished) products during "TRC v1 time” (see email 7-10-13 "Upcoming Products - New Team Members”). <span lang="EN-US">These are part of the IP</span></font></li>
+
+						</ul>
+
+					</div>
+
+					<div>
+
+						<ul>
+
+							<li><span lang="EN-US"><font color="#00007F">When RT decides to develop something built “into” Railo on their own account, TRC has the right of first refusal for that feature</font></span>
+
+								<ul>
+
+									<li><font color="#00007F"><span lang="EN-US">When “yes” T</span><span lang="EN-US">RC pays actual worked hours at current rate</span></font></li>
+
+									<li><font color="#00007F"><span lang="EN-US">When “no” RT has right to publish/sell feature themselv</span>es per the partner agreement and per the OS license</font></li>
+
+									<li><font color="#00007F">Everything built “into” Railo (not as external tool) is subject to approval from Tech Committee (see below)</font></li>
+
+								</ul>
+
+							</li>
+
+						</ul>
+
+					</div>
+
+				</div>
+
+				<div>
+
+					<div>
+
+						<div>
+
+							<ul>
+
+								<li><font color="#00007F">TRC to enter into agreement with all individual contributors immediately (when known &amp; possible). When unknown, TRC assumes ownership of contribution.</font></li>
+
+								<li><font color="#00007F">All contributors to enter into agreement with TRC to handoff ownership of contributions (MURA agreement is example)</font></li>
+
+								<li><font color="#00007F">Everybody without a valid free-lance or other contract with TRC to be removed from all systems (incl TRC email accounts)</font></li>
+
+								<li><font color="#00007F">All patches, bug fixes, installers etc owned by TRC.</font></li>
+
+							</ul>
+
+						</div>
+
+						<div>
+
+							<ul>
+
+								<li><span lang="EN-US"><font color="#00007F">TRC will hire new accountant immediately</font></span></li>
+
+								<li><font color="#00007F">TRC will implement new accounting system with Read Only Access for all shareholders (1 per shareholder)</font></li>
+
+							</ul>
+
+							<div><font color="#00007F"><br/></font></div>
+
+							<ul>
+
+								<li><font color="#00007F">All TRC sales will be done through partner channel</font></li>
+
+								<li><font color="#00007F">BR already stated they are not interested in a partnership, New partner(s) in US needed</font></li>
+
+								<li><font color="#00007F">MD will manage TRC’s CRM system (all partners will have an account)</font></li>
+
+								<li><font color="#00007F">MD &amp; Chair of Shareholder meeting (see below) have signatory rights on bank account (co-sign only)</font></li>
+
+							</ul>
+
+						</div>
+
+						<div>
+
+							<ul>
+
+								<li><span lang="EN-US"><font color="#00007F">There will always be an Open Source version of Railo (initially with a significant slower release cycle, patch release &amp; bug fixes than commercial version)</font></span></li>
+
+								<li><font color="#00007F">TRC to release a commercial offering around Railo with a clear incentive towards paid version</font></li>
+
+								<li><font color="#00007F">Already proposed commercial offering for Railo to be ratified w/o changes, released immediately</font></li>
+
+								<li><font color="#00007F">Initially existing method of authentication used to verify commercial version (enter key in admin) (railo.io maybe introduced later)</font></li>
+
+								<li><font color="#00007F">TRC exclusive licensor of Railo paid support, Railo paid training, server-specific consulting (performance tuning, bug fixes, etc.) through selected partner channel</font></li>
+
+								<li><font color="#00007F">3 partners (RT, BR &amp; Prisma) have 1 Certified Trainer and can offer training</font></li>
+
+							</ul>
+
+						</div>
+
+						<div>
+
+							<ul>
+
+								<li><font color="#00007F">RT (under new name) &amp; Prisma IT to enter into new partner contract with TRC (BR not interested in partnership)</font></li>
+
+								<li><font color="#00007F">Only contracted partners allowed to offer Railo approved consulting, training and other services</font></li>
+
+								<li><font color="#00007F">Already approved upon partner discount on Railo license sales, training &amp; consulting (incl 3% rule if applicable)</font></li>
+
+								<li><font color="#00007F">RT to deliver a 1 week “Railo/JAVA source code” training to engineers of 4F &amp; BR at current rate (this is a training on the internals of Railo, NOT on cfml)</font></li>
+
+							</ul>
+
+						</div>
+
+						<div>
+
+							<ul>
+
+								<li><span lang="EN-US"><font color="#00007F">TDAC to be installed immediately </font></span></li>
+
+								<li><span lang="EN-US"><font color="#00007F">TDAC consists of 7 people</font></span></li>
+
+								<li><font color="#00007F">TDAC members approved by Shareholders</font></li>
+
+								<li><font color="#00007F">TDAC will PROPOSE new features to Tech Committee (see below)</font></li>
+
+							</ul>
+
+							<div><font color="#00007F"><br/></font></div>
+
+							<ul>
+
+								<li><font color="#00007F">A seperate Technical Committee to be installed immediately to DECIDE on new features/changes of product advised by TDAC</font></li>
+
+								<li><font color="#00007F">All Git source code accepts to be approved by Technical Committee</font></li>
+
+								<li><font color="#00007F">Technical Committee consists of 3 people, to be approved by Shareholders</font></li>
+
+							</ul>
+
+						</div>
+
+					</div>
+
+					<div>
+
+						<p></p>
+
+					</div>
+
+					<div>
+
+						<ul>
+
+							<li><span lang="EN-US"><font color="#00007F">NOBODY can hold more than 1 position in MD, Board, Shareholder representation, TDAC and Tech Committee (example: if you are the shh representative, you can not also be on the Board)</font></span></li>
+
+							<li><span style="font-family: Calibri;"><font color="#00007F">4FTI is permanent chairperson of Shareholders meeting (and holds signatory rights with bankaccount in coop with MD)</font></span></li>
+
+						</ul>
+
+						<div><span style="font-family: Calibri;"><font color="#00007F"><br/></font></span></div>
+
+						<ul>
+
+							<li><span lang="EN-US"><font color="#00007F">All finances will be reset per November 1st – NOBODY OWES ANYBODY ANYTHING</font></span></li>
+
+							<li><font color="#00007F">AFTER financial reset, ALL shareholders to award a LOAN of EUR. 10K to TRC (for a total of EUR. 30K). This has NO impact on share % and is NOT a capital raise).</font></li>
+
+						</ul>
+
+					</div>
+
+					<div>
+
+						<ul>
+
+							<li><font color="#00007F">NO WAIVER OF ANY EXISTING CLAIMS BUT THEY WILL NOT BE PURSUED UNLESS AND UNTIL THE ABOVE IS COMPLIED WITH.</font></li>
+
+							<li><font color="#00007F">Deadline is October 31st 2014, 2014 EOB.</font></li>
+
+						</ul>
+
+					</div>
+
+				</div>
+
+			</div>
+
+			<div style="font-family: Calibri, sans-serif;">
+
+				<div>
+
+					<hr/>
+<font color="#00007F"><br/></font>
+				</div>
+
+			</div>
+
+		</div>
+
+		<div><br/></div>
+
+		<div><br/></div>
+
+		<div>V2</div>
+
+		<div><br/></div>
+
+		<div>
+
+			<div style="font-family: Calibri, sans-serif;">
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">4FTI’s list</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Immediate Handover</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     Domain registration un/pw (all domains, incl. <a href="http://railo.io">railo.io</a>)</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     Github master un/pw</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     Freshdesk, Mailchimp and all other systems master un/pw</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     Mura un/pw for all sites</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     Sources for installers</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     All testcases</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     All (unpublished) sources for R5</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     All sources, scripts &amp; other files not in github</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     Master files for logo’s</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     Training materials (slides, code etc)</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">      .. All that is not mentioned here, but is related to the IP</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Calle is MD<br/></div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">MD is installed by Shareholders</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">MD reports to the Board (or shareholders when no Board)<br/></div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">MD to manage all un/pw masters</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">MD to sign 1-year contract with TRC with renewal option (subject to Board/shareholder approval)</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Clearly defined list with topics that MD can not decide on and that should be handed by Board</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">
+
+					<div>Current Board &amp; Shareholder agreements to be reviewed, changed and amended. </div>
+
+					<div>Deadlock to be removed from agreements<br/></div>
+
+				</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Repurchase right only possible when TRC fails for financial reason (bankrupt)</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Paid dividend is added to repurchase price</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Board will be dissolved (if not, then meet on a monthly basis with pre-approved agenda &amp; resolutions). Board will NOT handle day-to-day operations</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Review of list with topics that Board can not decide on and that should be handed by shareholders</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">When Board not dissolved, Board will consist of 4 members:</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - 1 4F with 3 votes (based on share %)</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - 1 BR with 1 vote (based on share %)</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - 1 RT with 2 votes (based on share %)</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - 1 external member with 1 vote, who also is the chairman of the Board, he has swing vote in case of tie.</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - Board decides with majority of votes</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - MD is not in the Board</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - External member to be approved by shareholders</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - Board &amp; all Board members enter into a 1 year agreement with renewal option</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - All members of “new” board subject to shareholder approval (all members will be voted on)</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     </div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Railo Tech Gmbh needs to be renamed to something else</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">RT (and other partners &amp; free-lancers) will be paid on a per hour, pre-approved work agreement (PO) at a pre-approved rate (currently € 50,- per hour, excl VAT)</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">All engineers, consultants, trainers and other free-lancers to sign agreement with TRC</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">All individuals to sign NDA with TRC</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">RT to provide a list of (partly finished) products during "TRC v1 time” (see email 7-10-13 "Upcoming Products - New Team Members”). These are part of the IP</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">When RT decides to develop something on their own account, TRC has the right of first refusal for that feature.</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - When “yes” TRC pays actual worked hours at current rate</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">     - When “no” RT has right to publish/sell feature themselves per the partner agreement</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">TRC to enter into agreement with all individual contributors (when known &amp; possible). When unknown, TRC assumes ownership of contribution.</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">All contributors to enter into agreement with TRC to handoff ownership of contributions (per MURA agreement)</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Everybody without a valid free-lance or other contract with TRC to be removed from all systems (incl TRC email accounts)<br/></div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">All patches, bug fixes, installers etc owned by TRC.</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">TRC will hire new accountant</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">TRC will implement new accounting system with Read Only Access for all shareholders (1 per shareholder)</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">All TRC sales will be done through partner channel</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">MD will manage TRC’s CRM system (all partners will have an account)</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">
+
+					<div>There will always be an Open Source version of Railo (innitially with a significant slower release cycle, patch release &amp; bug fixes than commercial version)</div>
+
+					<div>TRC to release a commercial offering around Railo with a clear incentive towards paid version</div>
+
+					<div>Already proposed commercial offering for Railo to be ratified w/o changes, released immediately</div>
+
+					<div>Initially old method of authentication used to verify commercial version (enter key in admin) (railo.io maybe introduced later)</div>
+
+					<div>TRC exclusive licensor of Railo paid support, Railo paid training, server-specific consulting (performance tuning, bug fixes, etc.) through selected partner channel</div>
+
+				</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">3 partners (RT, BR &amp; Prisma) have 1 Certified Trainer</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">RT (under new name), Prisma IT and BR to enter into new partner contract</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Only contracted partners allowed to offer Railo approved consulting, training and other services</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Partners get a 25% discount on Railo license sales, training &amp; consulting (incl 3% rule if applicable)</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">RT to deliver a 1 week “JAVA source code” training to engineers of 4F &amp; BR at current rate<br/></div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">TDAC to be installed immediately (members get 1 year contract, total of 7 members (3 from shareholders))</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">Other 4 members approved by Board</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';"><br/></div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">A tech committee to be installed to decide on new features/changes of product advised by TDAC</div>
+
+				<div style="font-family: '.Helvetica Neue DeskInterface';">All Git source code accepts to be approved by technical committee</div>
+
+			</div>
+
+			<div><br/></div>
+
+			<div>If financial reset, then 4F is willing to discuss outstanding invoices. </div>
+
+		</div>
+
+		<div><br/></div>
+
+		<div>
+
+			<hr/>
+<br/>
+		</div>
+
+		<div>V1</div>
+
+		<div>Compliance List</div>
+
+		<div><br/></div>
+
+		<div>Immediate Handover</div>
+
+		<div>     domain registration un/pw (all domains, incl. railo.io)</div>
+
+		<div>     Github master un/pw</div>
+
+		<div>     Freshdesk, Mailchimp and all other systems master un/pw</div>
+
+		<div>     Mura un/pw for all sites</div>
+
+		<div>     Sources for installers</div>
+
+		<div>     All testcases</div>
+
+		<div>     All (unpublished) sources for R5</div>
+
+		<div>     All sources, scripts &amp; other files not in github</div>
+
+		<div>     Master files for logo’s</div>
+
+		<div>     Training materials (slides, code etc)</div>
+
+		<div><br/></div>
+
+		<div>Calle is MD<br/></div>
+
+		<div>MD is installed by Shareholders</div>
+
+		<div>MD reports to the Board (or shareholders when no Board)<br/></div>
+
+		<div>MD to manage all un/pw masters</div>
+
+		<div>MD to sign 1-year contract with TRC with renewal option (subject to Board approval)</div>
+
+		<div>Review of list with topics that MD can not decide on and that should be handed by Board</div>
+
+		<div><br/></div>
+
+		<div>
+
+			<div>Current Board &amp; Shareholder agreements to be reviewed, changed and amended. </div>
+
+			<div>Deadlock to be removed from agreements<br/></div>
+
+		</div>
+
+		<div>Repurchase right only possible when TRC fails for financial reason (bankrupt)</div>
+
+		<div>Paid dividend is added to repurchase price</div>
+
+		<div><br/></div>
+
+		<div>Board will be dissolved (if not, then meet on a monthly basis with pre-approved agenda &amp; resolutions. Board will NOT handle day-to-day operations</div>
+
+		<div>Review of list with topics that Board can not decide on and that should be handed by shareholders</div>
+
+		<div>When Board not dissolved, Board will consist of 4 members:</div>
+
+		<div>     - 1 4F with 3 votes (based on share %)</div>
+
+		<div>     - 1 BR with 1 votes (based on share %)</div>
+
+		<div>     - 1 RT with 2 votes (based on share %)</div>
+
+		<div>     - 1 external member with 1 vote, being the chairman of the Board, he has swing vote in case of tie.</div>
+
+		<div>     - Board decides with majority of votes</div>
+
+		<div>     - External member to be approved by shareholders</div>
+
+		<div>     - Board &amp; all Board members enter into a 1 year agreement with renewal option</div>
+
+		<div>     - All members of “new” board subject to shareholder approval (all members will be voted on)</div>
+
+		<div>     </div>
+
+		<div>Railo Tech Gmbh needs to be renamed to something else</div>
+
+		<div>RT (and other partners &amp; free-lancers) will be paid on a per hour, pre-approved work agreement (PO) at a pre-approved rate (currently € 50,- per hour, excl VAT)</div>
+
+		<div>All engineers, consultants, trainers and other free-lancers to sign agreement with TRC</div>
+
+		<div>All individuals to sign NDA with TRC</div>
+
+		<div>RT to provide a list of (partly finished) products during "TRC v1 time” (see email 7-10-13 "Upcoming Products - New Team Members")</div>
+
+		<div><br/></div>
+
+		<div>When RT decides to develop something on their own account, TRC has the right of first refusal for that feature.</div>
+
+		<div>     - When “yes” TRC pays actual worked hours at current rate</div>
+
+		<div>     - When “no” RT has right to publish/sell feature themselves per the partner agreement</div>
+
+		<div><br/></div>
+
+		<div>TRC to enter into agreement with all individual contributors (when known &amp; possible). When unknown, TRC assumes ownership of contribution.</div>
+
+		<div>All contributors to enter into agreement with TRC to handoff ownership of contributions (per MURA agreement)</div>
+
+		<div>Everybody without a valid free-lance or other contract with TRC to be removed from all systems (incl TRC email accounts)<br/></div>
+
+		<div>All patches, bug fixes, installers etc owned by TRC.</div>
+
+		<div><br/></div>
+
+		<div>TRC will hire new accountant</div>
+
+		<div>TRC will implement new accounting system with Read Only Access for all shareholders (1 per shareholder)</div>
+
+		<div>TRC to hire (free-lance) Sales Engineer (low salary, heavy commission)</div>
+
+		<div><br/></div>
+
+		<div>
+
+			<div>There will always be an Open Source version of Railo (innitially with a significant slower release cycle, patch release &amp; bug fixes than commercial version)</div>
+
+			<div>TRC to release a commercial offering around Railo with a clear incentive towards paid version</div>
+
+			<div>Already proposed commercial offering for Railo to be ratified w/o changes, released immediately</div>
+
+			<div>Initially old method of authentication used to verify commercial version (enter key in admin) (railo.io maybe introduced later)</div>
+
+			<div>TRC exclusive licensor of Railo paid support, Railo paid training, server-specific consulting (performance tuning, bug fixes, etc.) through selected partner channel</div>
+
+		</div>
+
+		<div>3 partners (RT, BR &amp; Prisma) have 1 Certified Trainer</div>
+
+		<div><br/></div>
+
+		<div>RT (under new name), Prisma IT and BR to enter into new partner contract</div>
+
+		<div>Only contracted partners allowed to offer Railo approved consulting, training and other services</div>
+
+		<div>Partners get a 25% discount on Railo license sales, training &amp; consulting (incl 3% rule if applicable)</div>
+
+		<div>RT to deliver a 1 week “JAVA source code” training to engineers of 4F &amp; BR at current rate<br/></div>
+
+		<div><br/></div>
+
+		<div>TDAC to be installed immediately (members get 1 year contract, total of 7 members (3 from shareholders))</div>
+
+		<div>Other 4 members approved by Board</div>
+
+		<div><br/></div>
+
+		<div>A tech committee to be installed to decide on new features/changes of product advised by TDAC</div>
+
+		<div>All Git source code accepts to be approved by technical committee</div>
+
+		<div><br/></div>
+
+		<div>Possible Board Members:</div>
+
+		<div>- Tim Buntel</div>
+
+		<div>- Bilal Soylu</div>
+
+		<div><span style="font-family: Times;">- Lara Kisielewska</span></div>
+
+		<div>- other external senior manager </div>
+
+		<div><br/></div>
+
+		<div><br/></div>
+
+		<div><br/></div>
+
+		<div><br/></div>
+
+		<hr/>
+<br/>
+	</div>
+
+	<div><br/></div>
+[17/10/14 15:00:09] Malcolm O'Keeffe: Just talked to gert - short call, but positive reaction to:
+
+	<div>[17/10/14 15:00:33] Malcolm O'Keeffe: 1. Providing you and Calle review of his slides prior to CF Camp , and promise to not “go off script”</div>
+
+	<div>[17/10/14 15:01:06] Malcolm O'Keeffe: 2. The concepts that you and I came up with today. Here’s the email I wrote him:</div>
+
+	<div>[17/10/14 15:03:10] Malcolm O'Keeffe: The compromise we discussed returns close to the original concepts of TRC, but with some significant changes. The basic plan would be for TRC to release a Commercial and Open Source version of Railo 5, and for TRC to pursue the commercial activities and opportunities for Railo Server.</div>
+
+	<div><br/></div>
+
+	<div>Here’s what’s significantly different from the first TRC arrangement:</div>
+
+	<div>RT has much more freedom than under original agreement</div>
+
+	<div>RT is not employed by TRC, but is paid on a per-hour worked agreement</div>
+
+	<div>Calle to represent 4F in TRC, no direct Simon involvement</div>
+
+	<div>TRC is run with maximum focus on transparency, profit. No secrets, total visibility for all shareholders.</div>
+
+	<div>New accountant and accounting system to provide all shareholders more confidence and information.</div>
+
+	<div>Sales compensation is mostly (maybe all) commission-based (no big salaries)</div>
+
+	<div>All current contracts between TRC and shareholders (RT, 4F, BR) are reviewed and updated with much more precise legal guidance and clarity</div>
+
+	<div><br/></div>
+
+	<div>What stays the same:</div>
+
+	<div><br/></div>
+
+	<div>TRC owns the IP</div>
+
+	<div>TRC releases an open source Railo Server (full featured, but with slower release cycle to encourage commercial server sales)</div>
+
+	<div>TRC releases a commercial Railo Server (initially using old method of authentication - <a href="http://Railo.IO">Railo.IO</a> maybe introduced later)</div>
+
+	<div>RT, BR and 4F keep active input via Board of Directors</div>
+
+	<div>TRC exclusive licensor of paid support, paid training, server-specific consulting (performance tuning, bug fixes, etc.)</div>
+
+	<div><br/></div>
+
+	<div>What (I think) is good for RT about this concept:</div>
+
+	<div>Prevents expensive and time consuming legal battle</div>
+
+	<div>Provides RT with a significant increase in autonomy and freedom</div>
+
+	<div>RT leads development and release cycle of Railo Server (with TRC feedback and input on RT plans).</div>
+
+	<div><b>—> TRC always needs to give final approval, also subject to TDAC’s role</b></div>
+
+	<div>Eliminates uncertainty: RT free of legal complications or threats</div>
+
+	<div>Gert and Michael retain community position as Railo core team</div>
+
+	<div>RT free to pursue any other commercial activities (only restricted on TRC specific stuff like paid support, paid training, server-specific consulting) - RT can pursue web and application development that uses Railo, Java tools, etc.</div>
+
+	<div>RT can choose to either retain ownership of Railo Tools or get paid for this work and “sell” them to TRC</div>
+
+	<div><b>—> TRC has paid a number of months “salary” while they said they were working on these products. A certain percentage of the products (subject to further discussion) is already owned by TRC. This will not be just “their choice"</b></div>
+
+	<div>RT retains its shares in TRC, commission structure (15% of net profits annually, etc)</div>
+
+	<div><br/></div>
+
+	<div>Miscellaneous notes:</div>
+
+	<div>Both 4F and RT can offer commercial add-ons to Railo Commercial Server to increase value - must be agreed upon by all before included in offering. Revenue sharing arrangements for any contributions to be worked out prior to inclusion.</div>
+
+	<div>TRC will get early access to bug/security fixes for inclusion in commercial server, before release in open source server</div>
+
+	<div><b>--> since everything is owned by TRC, I don’t “get” this.</b></div>
+
+	<div>TRC can count on RT to maintain compatibility with Morpheus and other 4F products</div>
+
+	<div><b>—> TRC has final decision on what is done to the product, so this is good, but not really necessary</b></div>
+
+	<div>There will not be any further legal actions from both sides, neither against 4FTi nor Simon Slooten nor Gert Franz, etc.</div>
+
+	<div>The matter of the 3% commission still to be addressed</div>
+
+	<div><b>—> All financials still need to be addressed. A balance sheet needs to be created. there will be amounts on the left side and on the right side of the balance</b></div>
+
+	<div>The work performed to date during 2014 by RT that benefits TRC to be compensated - arrangement to be discussed and negotiated</div>
+
+	<div><b>—> In relation to amounts invoiced by RT to “Swiss customers"</b></div>
+
+	<div>The “financial audit” proposed by Blue River can move forward, and financial negotiations can follow based on findings, OR all sides can call for a fresh start from today. Whether this potential “fresh start” includes the 3% commission is not yet decided.</div>
+
+	<div><b>—> A “fresh start” would include everything</b></div>
+
+	<div>[17/10/14 15:05:36] Malcolm O'Keeffe: If there’s content in there that’s different from your recollection please let me know soon so we catch any inaccuracies early</div>
+
+</en-note>      ]]>
+    </content>
+  </note>
+  <note>
+    <title>2015 kickoff ondrwerpen</title>
+    <created>20141210T202613Z</created>
+    <updated>20141210T203615Z</updated>
+    <note-attributes>
+      <author>simon@simonslooten.com</author>
+      <source>desktop.mac</source>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note>
+<div><en-todo/>Werkkosten regeling</div>
+<div><en-todo/>vakantiedagen regeling (wettelijk (4 x aantal uren per week) meenemen, vervallen na 6 maanden, bovenwettelijk 5 jaar geldig)</div>
+<div><en-todo/>Expenses gaan moeilijker worden en via Replicon lopen</div>
+</en-note>      ]]>
+    </content>
+  </note>
+  <note>
+    <title>Meeting Jorrit</title>
+    <created>20141017T143958Z</created>
+    <updated>20141028T092554Z</updated>
+    <note-attributes>
+      <author>sslooten</author>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+- Prisma IT in every webpage + copyright notice in every source
+<div>
+<div>- deploy/security checklist for every app (regelhulp security problem with mura/admin page)</div>
+<div>- dedicated license/training sales rep als we ADB software willen verkopen</div>
+<div>- Organogram voor nieuwe mensen die we gaan aannemen</div>
+<div>- </div>
+<div><br/></div>
+<div>Nieuwe rol Andrea</div>
+<div>Opzetten Razuna</div>
+<div>Mirjam (100K niet geboekt + vrijdag (10 uur + uur bellen) + email over incasso)</div>
+<div>Vin prullenbakken</div>
+<div><br/></div>
+<div><br/></div>
+</div>
+<div><br/></div>
+<div><br/></div>
+<div><br/></div>
+</en-note>      ]]>
+    </content>
+  </note>
+  <note>
+    <title>First 2015 Sales Strategy Meeting</title>
+    <created>20140905T071752Z</created>
+    <updated>20140905T073311Z</updated>
+    <note-attributes>
+      <author>sslooten</author>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+<blockquote style="font-family: Calibri;">
+<div>Jorrit,</div>
+<div><br/></div>
+<div>ik heb vanmiddag een conf call gehad met een potentiële partner en een gesprek met Gregory.</div>
+<div>We zijn met de DXP opzet nu op een punt gekomen dat we geld uit moeten gaan geven aan een partnership voor marketing-automation (<a href="http://net-results.com">net-results.com</a> is de keuze). </div>
+<div>Het lijkt me goed om de tussenstand op te maken en deze te koppelen aan de mogelijkheden die we zien voor volgend jaar. </div>
+<ol>
+<li>waar staan we met Alliant (DXP &amp; BI)?</li>
+<li>wat moet er nog gebeuren om ‘aan de slag te kunnen’?</li>
+<li>wat zijn de opties voor lead-generatie voor Alliant (en andere solutions en diensten) (events, Danielle andere opties)?</li>
+<li>‘samenstelling’ sales team (nu Annick weg is en we met Jan niet verder gaan). Moeten er mensen bij? Dat vooral in het licht van:</li>
+<li>ik wil meer terug naar een beleid waarin we niet ‘wedden op 1 paard’. we moeten onze revenues halen uit diensten &amp; producten, maatwerk projecten, solutions en trainingen. Ik wil graag weten hoe iedereen daar over denkt en hoe we dat gaan realiseren.</li>
+<li>we moeten ook (maar dat kan letter besproken worden) naar de door jouw genoemde hogere recurring revenue percentages, terwijl we ook een hoger percentage nieuwe klanten moeten realiseren. Er komt momenteel een te hoog percentage van de omzet bij een te laag percentage van de klanten vandaan.</li>
+<li>Ook wil ik even overleggen over sales-rapportages.  Ik heb behoefte aan rapportages (zoals ik die ‘vroeger’ kreeg)).</li>
+</ol>
+<div>Omdat we volgend jaar een grote slag moeten maken (25% groei minimaal), moeten we zorgen dat we het beleid duidelijk hebben en dat alle neuzen dezelfde kant op staan.</div>
+<div>Dat wordt nu ook noodzakelijk omdat jij meldde dat de ‘low hanging fruit’ - bron van de laatste maanden aan het opdrogen is.</div>
+<div><br/></div>
+<div>We moeten verder de discussie voeren over wat Vin in zn emailtje meldde (hoe gaan we om met support van andere vestigingen).</div>
+<div><br/></div>
+<div>Omdat Gregory morgen ook op kantoor is en mijn reis-seizoen weer gaat beginnen, lijkt het me goed om daar morgen even met zn vieren (jij, ik, Vin en Gregory) over te gaan zitten.</div>
+<div>Ik heb nog niets naar de anderen gestuurd omdat ik eerst jouw mening wilde polsen.</div>
+</blockquote>
+<div><br/></div>
+</en-note>      ]]>
+    </content>
+  </note>
+</en-export>
