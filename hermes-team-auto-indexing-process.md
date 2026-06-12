@@ -108,3 +108,23 @@ When a tung_tung processing task crashes repeatedly (protocol violations, agent 
 - Document the failure reason in the new task body
 
 Example: t_c6859d8e (Prisma IT - Strategy 2015.enex) was archived after 4 crashes. Replaced by t_bcb55149 with explicit instruction to break the work into smaller steps if needed.
+
+## Long-Term Memory from Vault (Added 2026-06-12)
+
+**Policy**: The Hermes_Team Obsidian vault is the primary long-term memory and single source of truth for all agents in the coo profile.
+
+### Option 1 – Always-available vault access
+- The `obsidian` skill is considered pre-approved and always loadable for any agent that needs vault context.
+- Absolute vault path (coo profile): `/Users/marvin/Documents/ObsidianVault/Hermes_Team`
+- Agents may use `search_files`, `read_file`, and `patch` directly on this path without additional approval when the task involves process docs, SOUL files, memories, or indexing work.
+- `OBSIDIAN_VAULT_PATH` should be set in the profile `.env` (when writable) as documentation.
+
+### Option 2 – Automatic vault → memory ingestion
+- Key vault documents (hermes-team-auto-indexing-process.md, SOUL.md files, Hermes Indexing Dashboard.md, memories/*) are the source of truth.
+- When these files change, bonica is responsible for syncing relevant excerpts into the profile's `memories/` directory so they are automatically injected on every turn.
+- No intelligent cron jobs — the trigger is either the existing post-commit hook or an explicit bonica "memory sync" task created after substantial vault changes.
+- tung_tung creates companion notes; bonica performs the memory sync + review + commit/push.
+
+This ensures agents have up-to-date vault knowledge without manual `skill_view` calls on every turn.
+
+**SSOT Rule**: Any change to this memory policy or the ingestion workflow must be reflected in this document first.
