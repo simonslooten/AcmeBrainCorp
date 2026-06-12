@@ -128,3 +128,23 @@ Example: t_c6859d8e (Prisma IT - Strategy 2015.enex) was archived after 4 crashe
 This ensures agents have up-to-date vault knowledge without manual `skill_view` calls on every turn.
 
 **SSOT Rule**: Any change to this memory policy or the ingestion workflow must be reflected in this document first.
+
+## Memory Sync Task (bonica-owned)
+
+When the post-commit hook detects changes to key long-term memory documents (hermes-team-auto-indexing-process.md, Hermes Indexing Dashboard.md, vault memories/*.md, or any *SOUL.md), it automatically creates a task for bonica:
+
+- Title: "Memory sync: vault → profile memories/"
+- Status: Todo (waiting on dependencies) — created in the waiting lane
+- Assignee: bonica
+
+**bonica's responsibilities on this task:**
+1. Read the changed vault documents
+2. Extract the relevant, stable, high-value excerpts (process rules, ownership, key facts)
+3. Update or append to the corresponding files in `~/.hermes/profiles/coo/memories/`
+4. Perform quality review
+5. Commit + push the profile memory changes
+6. Move the task to complete
+
+This task is created in addition to (not instead of) the normal review task for raw_input files.
+
+**Rule**: tung_tung never self-reviews memory sync work. bonica always owns the final memory injection.
