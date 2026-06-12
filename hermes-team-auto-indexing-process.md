@@ -148,3 +148,35 @@ When the post-commit hook detects changes to key long-term memory documents (her
 This task is created in addition to (not instead of) the normal review task for raw_input files.
 
 **Rule**: tung_tung never self-reviews memory sync work. bonica always owns the final memory injection.
+
+## Memory Excerpt Template (for bonica memory-sync tasks)
+
+When syncing from vault to `~/.hermes/profiles/coo/memories/`, use this format. Keep excerpts short, stable, and high-signal only.
+
+**Template structure** (one section per memory file):
+
+```
+### [Topic / File]
+
+- Key fact / rule: [one sentence]
+- Owner: [agent or role]
+- Last updated: [date from vault doc]
+- Source: [[hermes-team-auto-indexing-process.md]] (or other vault link)
+```
+
+**Rules for excerpts:**
+- Only include items that will actually change agent behaviour on future turns.
+- Never copy entire sections — extract the minimal stable truth.
+- If the excerpt would be longer than 4–5 bullets, split it into a new memory file instead.
+- After syncing, always run the 8-point retro if the change was substantial.
+
+Example (for this document):
+
+```
+### Long-term Memory Policy
+
+- Key fact / rule: The Hermes_Team vault is the primary long-term memory source for the coo profile.
+- Owner: grok-coo (policy) + bonica (execution)
+- Last updated: 2026-06-12
+- Source: [[hermes-team-auto-indexing-process.md]]
+```
