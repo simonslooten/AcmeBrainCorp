@@ -4,7 +4,6 @@ Living list. Chief of Staff keeps this current. Chat is not the list.
 
 ## Needs you
 
-- [ ] Wait for the rate check on € 2.490,- excl. BTW, rewrite in progress before sending the half-day letters. Simon thinks it may be high.
 - [ ] Review the three half-day letters. File: `/Users/marvin/Documents/Work/conceptbrieven-halfdag-2026-09-08.md`. Zutphen, Tiel, Waterschap Rijn en IJssel. € 2.490,- excl. BTW, rewrite in progress. Nothing sent.
 - [ ] Set a day-rate. Unset, so no quote goes on a fractional note.
 
@@ -20,3 +19,4 @@ Living list. Chief of Staff keeps this current. Chat is not the list.
 - Mail is not connected. Simon sends drafts himself.
 - Fractional search: .5 to 4 days. 32 hours is 4 days. 36 hours is 4 days if it is 4 x 9.
 - Named-file door only. Mac is source of truth. Copies go through Documents/Work. No mail, keys, or home-folder sync.
+- CareerHandling customers live in tasks/CareerHandling.md. Not this list.
