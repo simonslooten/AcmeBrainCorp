@@ -5,12 +5,17 @@ Living list. Chief of Staff keeps this current. Chat is not the list.
 ## Needs you
 
 - [ ] Review the three half-day letters. File: `/Users/marvin/Documents/Work/conceptbrieven-halfdag-2026-09-08.md`. Zutphen, Tiel, Waterschap Rijn en IJssel. €4.500 excl. BTW. Nothing sent.
-- [ ] Review the three channel notes. File: `/Users/marvin/Documents/Work/kanaalnotities-2026-09-08.md`. &deBlauw, Boardtrust, JBR. No rate. No CV. Nothing sent.
 - [ ] Set a day-rate. Unset, so no quote goes on a fractional note.
+
+## Not for sending
+
+- [x] Channel notes to &deBlauw, Boardtrust and JBR. Simon will not send them. No opening behind them. File stays at `/Users/marvin/Documents/Work/kanaalnotities-2026-09-08.md`. Do not treat as a lead.
 
 ## Standing rules
 
 - Nothing goes out without a separate yes.
+- No letter unless there is a named, live opening or mandate.
 - External proposals are in Dutch.
-- Mail is not connected. Drafts stay files. Simon sends them, or Outlook only after a separate yes.
+- Mail is not connected. Simon sends drafts himself.
 - Fractional cap: 3 to 4 days. 32 hours is 4 days. 36 hours is 4 days if it is 4 x 9.
+- Named-file door only. Mac is source of truth. Copies go through Documents/Work. No mail, keys, or home-folder sync.
