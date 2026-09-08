@@ -4,6 +4,9 @@ Living list. Chief of Staff keeps this current. Chat is not the list.
 
 ## Needs you
 
+- [ ] Woensdag 9 sep: AcmeBrainCorp site in Gamma plakken vanuit Documents/Work/acmebraincorp-site-herschrijving-2026-09-08.md. Jij publiceert.
+- [ ] Na publicatie: rankingwerk op acmebraincorp.com doen, geen advies. Eerst titel en omschrijving live, dan de pagina zelf checken.
+
 - [ ] Review the three half-day letters. File: `/Users/marvin/Documents/Work/conceptbrieven-halfdag-2026-09-08.md`. Zutphen, Tiel, Waterschap Rijn en IJssel. € 2.490,- excl. BTW, rewrite in progress. Nothing sent.
 - [ ] Set a day-rate. Unset, so no quote goes on a fractional note.
 
