@@ -5,9 +5,10 @@ Owner: Archivaris. Chief of Staff keeps this current.
 
 ## Needs you
 
-- [ ] Install Evernote on the Grok Bot Mac and sign in. Then say it is ready. No bulk export.
+- [ ] Say when Evernote on the Grok Bot Mac is signed in and finished syncing.
 
 ## Standing
 
-- Pull only the note a project asks for.
-- Copy lands in that project's Work folder, not in a pile.
+- Pulled notes are saved in Hermes_Team/Evernote.
+- No full dump unless you ask.
+- One note or one notebook at a time.
