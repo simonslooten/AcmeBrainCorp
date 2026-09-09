@@ -4,6 +4,8 @@ Living list. Chief of Staff keeps this current. Chat is not the list.
 
 ## Needs you
 
+- [x] Zutphen kennismaking verstuurd (9 sep 2026). Creveld. Bestand: Documents/Work/conceptbrief-zutphen-kennismaking-2026-09-09.md.
+
 - [x] ICTU: aanmelding verstuurd via freelance.nl. Status Open. Tarief op de reactie: In overleg. Simon wilde 95. Geen veld om te wijzigen. Geen tweede aanmelding. Geen contact met ICTU of BZK.
 
 - [ ] Woensdag 9 sep: AcmeBrainCorp site in Gamma plakken vanuit Documents/Work/acmebraincorp-site-herschrijving-2026-09-08.md. Jij publiceert.
