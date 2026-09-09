@@ -1,0 +1,128 @@
+# Simon's notebook
+
+- notebook_id: `d4e5c9c7-4930-4d3f-a10d-13838685c6d8`
+- notes: 119
+- created: 2012-05-02T07:08:48+00:00
+- updated: 2022-01-17T10:37:45+00:00
+
+## Notes
+
+- [[Funeral Blues|Funeral Blues]]
+- [[5 steps for business|5 steps for business]]
+- [[Setup Windows local only|Setup Windows local only]]
+- [[If - Rudyard Kipling|If - Rudyard Kipling]]
+- [[JFK|JFK]]
+- [[Nieuw overleg Ida|Nieuw overleg Ida]]
+- [[Emmaus College - Siem|Emmaus College - Siem]]
+- [[General archive info|General archive info]]
+- [[NOGRZ schoenen|NOGRZ schoenen]]
+- [[Voortuin 2022 administratie|Voortuin 2022 administratie]]
+- [[Do not stand|Do not stand]]
+- [[new Linkedin profile|new Linkedin profile]]
+- [[Five essential Mail rules|Five essential Mail rules]]
+- [[Mark Knopfler’s Fingerstyle Finesse|Mark Knopfler’s Fingerstyle Finesse]]
+- [[How to generate an SSH key pair in Mac OS|How to generate an SSH key pair in Mac OS?]]
+- [[Televisie - series - kijken|Televisie / series / kijken]]
+- [[10 Reasons Why Privacy Matters|10 Reasons Why Privacy Matters]]
+- [[Ida|Ida]]
+- [[Het huwelijk - Willem Elschot|Het huwelijk - Willem Elschot]]
+- [[Speech General Gearge S. Patton - June 6, 1944|Speech General Gearge S. Patton - June 6, 1944]]
+- [[Using Project Milestones to Track Accomplishments and Status|Using Project Milestones to Track Accomplishments and Status]]
+- [[Note from Schiphol Centrum in Haarlemmermeer|Note from Schiphol Centrum in Haarlemmermeer]]
+- [[New partners|New partners]]
+- [[The true sacrifice of the modern-day leader Nordic Business Forum|The true sacrifice of the modern-day leader | Nordic Business Forum]]
+- [[Nice Guys Don’t Finish Last Nordic Business Report|Nice Guys Don’t Finish Last | Nordic Business Report]]
+- [[Good Leaders Ask Great Questions Nordic Business Forum|Good Leaders Ask Great Questions | Nordic Business Forum]]
+- [[Start creating your game plan Nordic Business Forum|Start creating your game plan | Nordic Business Forum]]
+- [[Efficiency no longer creates value – social does Nordic Business Forum|Efficiency no longer creates value – social does | Nordic Business Forum]]
+- [[Punchlines on disruption, innovation and change Nordic Business Forum|Punchlines on disruption, innovation and change | Nordic Business Forum]]
+- [[The true sacrifice of the modern-day leader Nordic Business Forum (2)|The true sacrifice of the modern-day leader | Nordic Business Forum]]
+- [[Change requires doing something differently Nordic Business Forum|Change requires doing something differently | Nordic Business Forum]]
+- [[“Hell on earth would be to meet the man you could have been” Nordic Business Fo…|“Hell on earth would be to meet the man you could have been” | Nordic Business Forum]]
+- [[Thoughts and Ideas|Thoughts and Ideas]]
+- [[PS4 games|PS4 games]]
+- [[Home Automation|Home Automation]]
+- [[How I Hire- My Guiding Principles Angela Ahrendts LinkedIn|How I Hire: My Guiding Principles | Angela Ahrendts | LinkedIn]]
+- [[5 project management hacks for a better customer experience CIO|5 project management hacks for a better customer experience | CIO]]
+- [[Movies & Series to watch|Movies & Series to watch]]
+- [[10 Ingredients for Successful Projects Smartsheet|10 Ingredients for Successful Projects | Smartsheet]]
+- [[Playmobil|Playmobil]]
+- [[New Task|New Task]] *(deleted)*
+- [[10 Word defaults you can customize to work the way YOU want|10 Word defaults you can customize to work the way YOU want]]
+- [[Zero Inbox Policy with Todoist - Todoist Blog|Zero Inbox Policy with Todoist - Todoist Blog]]
+- [[Easy Mac Hacks- Run OS X applications without their Dock icon|Easy Mac Hacks: Run OS X applications without their Dock icon]]
+- [[Easy Mac Hacks- Run OS X applications without their Dock icon (2)|Easy Mac Hacks: Run OS X applications without their Dock icon]] *(deleted)*
+- [[Easy Mac Hacks- Run OS X applications without their Dock icon (3)|Easy Mac Hacks: Run OS X applications without their Dock icon]] *(deleted)*
+- [[How To Install Popcorn Time On iPhone Without Jailbreaking|How To Install Popcorn Time On iPhone Without Jailbreaking]]
+- [[SAAS apps|SAAS apps]]
+- [[Cool Links|Cool Links]]
+- [[Personality Type|Personality Type]]
+- [[ISTP personality 16Personalities|ISTP personality | 16Personalities]] *(deleted)*
+- [[HR Interview Questions|HR Interview Questions]]
+- [[35 super-advanced tips for Mac OS X Yosemite (UPDATED) - How to - Macworld UK|35 super-advanced tips for Mac OS X Yosemite (UPDATED) - How to - Macworld UK]]
+- [[Content document 3 ter vertaling NL|Content document 3 ter vertaling NL]] *(deleted)*
+- [[January 2015 TODO|January 2015 TODO]]
+- [[jaren in dienst|jaren in dienst]]
+- [[Vakanties CSV Siem 2015|Vakanties CSV Siem 2015]]
+- [[How To See Your iPhone's True Cell Signal Strength - Business Insider|How To See Your iPhone's True Cell Signal Strength - Business Insider]]
+- [[Apple Mail alias problem|Apple Mail alias problem]]
+- [[Things to do immediately|Things to do immediately]]
+- [[Untitled|Untitled]] *(deleted)*
+- [[How to make Apple Watch’s custom font the default on your Mac Cult of Mac|How to make Apple Watch’s custom font the default on your Mac | Cult of Mac]]
+- [[100 Email Hacks|100 Email Hacks]]
+- [[Quotes|Quotes]]
+- [[Untitled Note|Untitled Note]] *(deleted)*
+- [[Untitled Note (2)|Untitled Note]] *(deleted)*
+- [[Untitled Note (3)|Untitled Note]] *(deleted)*
+- [[Today's list 2014-10-02|Today's list 2014-10-02]] *(deleted)*
+- [[Profile - Country Manager|Profile - Country Manager]]
+- [[vertigo|vertigo]]
+- [[Things I did|Things I did]]
+- [[Travel Schedule 2014H2|Travel Schedule 2014H2]] *(deleted)*
+- [[Muziek|Muziek]]
+- [[music to search for|music to search for]] *(deleted)*
+- [[Simon's email setup|Simon's email setup]]
+- [[Gave dingen|Gave dingen]]
+- [[Apple shortcuts|Apple shortcuts]]
+- [[Note from OUT Muracon in Kansas City|Note from OUT Muracon in Kansas City]]
+- [[Need to watch|Need to watch]]
+- [[Pricing strategies|Pricing strategies]]
+- [[Jeroen|Jeroen]] *(deleted)*
+- [[The Rules of Business|The Rules of Business]]
+- [[Project management software|Project management software]]
+- [[IBC registration code 2013|IBC registration code 2013]]
+- [[Funny Stuff|Funny Stuff]]
+- [[Check later|Check later]]
+- [[Ongefilterde todo lijst Simon|Ongefilterde todo lijst Simon]]
+- [[Todo overzicht officiële zaken per land|Todo overzicht officiële zaken per land]]
+- [[Conferences to attend|Conferences to attend]]
+- [[Streaming TV options|Streaming TV options]]
+- [[Apple Timecapsule remote access|Apple Timecapsule remote access]]
+- [[TED talks|TED talks]]
+- [[Apple Links & Stuff|Apple Links & Stuff]]
+- [[Receipt Page|Receipt Page]]
+- [[Is Outlook for Mac 2011 compatible with iCloud - Microsoft Answers|Is Outlook for Mac 2011 compatible with iCloud? - Microsoft Answers]]
+- [[E 137200|E 137200]] *(deleted)*
+- [[Notes|Notes]] *(deleted)*
+- [[4 Friends oprichten|4 Friends oprichten]] *(deleted)*
+- [[vliegtuiglijst Minneapolis 16-05-2012|vliegtuiglijst Minneapolis 16/05/2012]] *(deleted)*
+- [[Prisma TD Lijst|Prisma TD Lijst]] *(deleted)*
+- [[Bestelling afdrukken - Thomann Nederlandse Cyberstore|Bestelling afdrukken - Thomann Nederlandse Cyberstore]] *(deleted)*
+- [[How to Make Skype Play Nicely with Google Voice|How to Make Skype Play Nicely with Google Voice]]
+- [[Is Outlook for Mac 2011 compatible with iCloud - Microsoft Answers (2)|Is Outlook for Mac 2011 compatible with iCloud? - Microsoft Answers]] *(deleted)*
+- [[Nieuw Pand - nieuwe software|Nieuw Pand / nieuwe software]] *(deleted)*
+- [[Bestelling Jos Bank juli 2012|Bestelling Jos Bank juli 2012]] *(deleted)*
+- [[Prisma IT - Website 2012|Prisma IT - Website 2012]]
+- [[Trainingen toevoegen aan trainingaanbod|Trainingen toevoegen aan trainingaanbod]]
+- [[Prisma IT projecten - To Do|Prisma IT projecten - To Do]] *(deleted)*
+- [[Railo - Blue River|Railo - Blue River]] *(deleted)*
+- [[Shoeboxed bekijken als add-on voor Razuna|Shoeboxed bekijken als add-on voor Razuna]] *(deleted)*
+- [[Magnolia CMS bekijken. magnolia-cms.com|Magnolia CMS bekijken. magnolia-cms.com]] *(deleted)*
+- [[Contentbox bekijken. Wellicht is dit een goede replacement voor Mura|Contentbox bekijken. Wellicht is dit een goede replacement voor Mura]] *(deleted)*
+- [[Evernote email adres- sslooten.df18488@m.evernote.com|Evernote email adres: sslooten.df18488@m.evernote.com]] *(deleted)*
+- [[UPS apple zending|UPS apple zending]] *(deleted)*
+- [[Brightcove Play 2012|Brightcove Play 2012]]
+- [[http---www.leapmotion.com-|http://www.leapmotion.com/]]
+- [[http---oudesite.shared.prisma-it.com-|http://oudesite.shared.prisma-it.com/]]
+- [[Prisma IT - Nieuw Pand|Prisma IT - Nieuw Pand]]
+- [[2012 strategic plan|2012 strategic plan]]

@@ -1,0 +1,53 @@
+# Prisma International
+
+- notebook_id: `166d3a9f-017e-48fd-946c-4397c6743a3e`
+- notes: 44
+- created: 2013-03-19T09:05:14+00:00
+- updated: 2021-01-25T14:54:48+00:00
+
+## Notes
+
+- [[PIN - Phone numbers|PIN - Phone numbers]]
+- [[PIN - FUZE audio bridge numbers|PIN - FUZE audio bridge numbers]]
+- [[Untitled|Untitled]] *(deleted)*
+- [[Prisma International KickOff 13-14 Augustus|Prisma International KickOff 13-14 Augustus]]
+- [[My philosophy|My philosophy]]
+- [[Prisma IT New operating procedure & financials|Prisma IT New operating procedure & financials]]
+- [[Prisma International MT 20150626|Prisma International MT 20150626]]
+- [[Cookies|Cookies]]
+- [[Prisma IT website|Prisma IT website]]
+- [[Todo list|Todo list]] *(deleted)*
+- [[Tech meeting|Tech meeting]]
+- [[Code War|Code War]]
+- [[Web site|Web site]]
+- [[Prisma Meeting|Prisma Meeting]]
+- [[Contacts|Contacts]]
+- [[Mura - video - translation|Mura - video - translation]]
+- [[password|password]]
+- [[Telephone plan|Telephone plan]] *(deleted)*
+- [[Prisma IT statements for presentation 2014 - 2015|Prisma IT statements for presentation 2014 - 2015]]
+- [[Prisma IT Germany|Prisma IT Germany]]
+- [[The idea behind Prisma IT|The idea behind Prisma IT]]
+- [[Prisma IT Corporate presentation|Prisma IT Corporate presentation]]
+- [[International Companies Official Docs Missing|International Companies Official Docs Missing]] *(deleted)*
+- [[Prisma Fedex speech|Prisma Fedex speech]] *(deleted)*
+- [[TODO|TODO]] *(deleted)*
+- [[Omerus.com|Omerus.com]]
+- [[Software & systems to use|Software & systems to use]]
+- [[Communication|Communication]] *(deleted)*
+- [[Task Manager Software|Task Manager Software]]
+- [[Show that it is about fun|Show that it is about fun]]
+- [[Financial backing of LGS|Financial backing of LGS]]
+- [[Job Descriptions|Job Descriptions]] *(deleted)*
+- [[Email setup|Email setup]]
+- [[Prisma Internal company - company pricing|Prisma Internal company - company pricing]]
+- [[Replicon WTS setup 20130619|Replicon WTS setup 20130619]]
+- [[Note from OUT- NS , JOhannes van de Bank, 06 29598367|Note from OUT: NS , JOhannes van de Bank, 06 29598367]] *(deleted)*
+- [[Prisma IT External Messaging - FAQ|Prisma IT External Messaging / FAQ]]
+- [[Prisma IT Company Addresses|Prisma IT Company Addresses]]
+- [[Growth Scenario|Growth Scenario]]
+- [[Email setup (2)|Email setup]] *(deleted)*
+- [[Telephone setup|Telephone setup]]
+- [[Our Team|Our Team]]
+- [[Discuss with Robert|Discuss with Robert]]
+- [[Shared Services|Shared Services]]

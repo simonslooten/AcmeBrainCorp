@@ -1,0 +1,239 @@
+# Algemeen archive
+
+- **Notebook slug:** `Algemeen-archive`
+- **Note count:** 226
+- **Source ENEX:** `/Users/marvin/Documents/ObsidianVault/Hermes_Team/processed/evernote/Algemeen archive.enex`
+- **Converted (UTC):** 2026-09-09T21:42:25Z
+- **Attachments extracted:** 75
+- **Resources skipped:** 0
+
+## Notes
+
+- [BMW](BMW.md) — created: 2017-08-09T09:22:12Z; tags: —
+- [PDF - www.holacracy.org](PDF-www.holacracy.org.md) — created: 2016-05-31T21:25:27Z; tags: —
+- [PDF - cdn2.hubspot.net](PDF-cdn2.hubspot.net.md) — created: 2016-06-09T20:32:06Z; tags: —
+- [How to use GitHub for agile project management](How-to-use-GitHub-for-agile-project-management.md) — created: 2016-06-10T07:29:39Z; tags: —
+- [Part Numbering | Product Numbering](Part-Numbering-Product-Numbering.md) — created: 2016-05-31T22:05:02Z; tags: Product numbering, artikelnummer
+- [Untitled Note](Untitled-Note.md) — created: 2016-06-14T19:12:11Z; tags: —
+- [Telefoonsetup 2016 PIN](Telefoonsetup-2016-PIN.md) — created: 2016-06-15T08:23:08Z; tags: —
+- [How to Add Custom Status and Away Messages to Slack — Medium](How-to-Add-Custom-Status-and-Away-Messages-to-Slack-Medium.md) — created: 2016-06-17T13:42:12Z; tags: —
+- [Functieomschrijving Project Management Ondersteuning](Functieomschrijving-Project-Management-Ondersteuning.md) — created: 2016-07-27T11:56:34Z; tags: —
+- [NS Todo's](NS-Todos.md) — created: 2016-07-12T10:02:39Z; tags: —
+- [Untitled Note](Untitled-Note-2.md) — created: 2016-06-24T07:12:36Z; tags: —
+- [Overleg Patricia 15/8/2016](Overleg-Patricia-1582016.md) — created: 2016-08-15T11:11:04Z; tags: —
+- [LasVegas - New York Oct 2016](LasVegas-New-York-Oct-2016.md) — created: 2016-09-14T21:39:36Z; tags: —
+- [MTG RaboBank - 20-09-2016](MTG-RaboBank-20-09-2016.md) — created: 2016-09-20T09:33:14Z; tags: —
+- [MTG Brightcove in London -20160921](MTG-Brightcove-in-London-20160921.md) — created: 2016-09-21T10:26:57Z; tags: —
+- [pic](pic.md) — created: 2016-10-17T20:47:34Z; tags: —
+- [Untitled Note](Untitled-Note-3.md) — created: 2016-09-21T20:22:44Z; tags: —
+- [vTiger opschonen](vTiger-opschonen.md) — created: 2016-10-20T08:35:08Z; tags: —
+- [Brief Opvoeden](Brief-Opvoeden.md) — created: 2016-10-25T09:42:12Z; tags: —
+- [PDF - www.sumologic.com](PDF-www.sumologic.com.md) — created: 2016-11-22T08:48:45Z; tags: —
+- [Wise words](Wise-words.md) — created: 2016-11-10T12:22:23Z; tags: —
+- [check](check.md) — created: 2015-09-22T22:10:45Z; tags: —
+- [MTG NS Reizigers 23/11](MTG-NS-Reizigers-2311.md) — created: 2016-11-23T13:11:11Z; tags: —
+- [Vasco (Eindhoven) 20161128](Vasco-Eindhoven-20161128.md) — created: 2016-11-28T09:35:56Z; tags: —
+- [Dierenasiel](Dierenasiel.md) — created: 2016-11-29T17:49:16Z; tags: Dierenasiel
+- [Projectmanagement tools](Projectmanagement-tools.md) — created: 2016-11-29T09:34:22Z; tags: project management, projectmanagement
+- [PDF - AWS Well Architected Framework](PDF-AWS-Well-Architected-Framework.md) — created: 2016-12-01T17:00:05Z; tags: —
+- [Stichting Opvoeden](Stichting-Opvoeden.md) — created: 2016-11-29T18:34:05Z; tags: —
+- [AWS RE:Invent 2016](AWS-REInvent-2016.md) — created: 2016-12-01T16:50:15Z; tags: —
+- [Overwerk regeling](Overwerk-regeling.md) — created: 2016-12-02T06:19:34Z; tags: —
+- [Meeting Dick](Meeting-Dick.md) — created: 2016-12-05T07:57:56Z; tags: —
+- [Gentle On My Mind](Gentle-On-My-Mind.md) — created: 2016-12-02T09:31:06Z; tags: —
+- [Pass](Pass.md) — created: 2016-12-15T08:23:58Z; tags: —
+- [Overleg NS 20161215](Overleg-NS-20161215.md) — created: 2016-12-15T09:41:53Z; tags: —
+- [Mooie Websites](Mooie-Websites.md) — created: 2016-11-10T15:50:33Z; tags: —
+- [Projectmeeting 20170111](Projectmeeting-20170111.md) — created: 2017-01-11T13:34:57Z; tags: —
+- [People we need to find](People-we-need-to-find.md) — created: 2017-01-04T14:03:48Z; tags: —
+- [Resultaatgebieden & Plan 2017](Resultaatgebieden-Plan-2017.md) — created: 2016-03-18T07:48:56Z; tags: KPI, Rapportages
+- [Soep](Soep.md) — created: 2017-01-12T14:28:27Z; tags: —
+- [Prisma IT Systemen](Prisma-IT-Systemen.md) — created: 2017-01-21T11:32:04Z; tags: —
+- [SalesMeeting Job - Simon](SalesMeeting-Job-Simon.md) — created: 2017-01-24T07:55:38Z; tags: Job - Simon, sales, salesmeeting
+- [Operations Meeting - Ruud - Simon](Operations-Meeting-Ruud-Simon.md) — created: 2017-01-23T10:41:23Z; tags: Operations, Ruud, Ruud-Simon
+- [WRIKE Implementation](WRIKE-Implementation.md) — created: 2017-01-24T14:21:18Z; tags: wrike
+- [NS Sprintplanning 20170123](NS-Sprintplanning-20170123.md) — created: 2017-01-23T12:07:49Z; tags: NS, spoorwegen, sprintplanning
+- [Manager Accounting & Reporting functieprofiel](Manager-Accounting-Reporting-functieprofiel.md) — created: 2016-11-24T15:47:27Z; tags: —
+- [ToDo voor opschoning FinAdm / werkwijze](ToDo-voor-opschoning-FinAdm-werkwijze.md) — created: 2016-06-29T19:07:44Z; tags: Finadm, Operations, Opschoning, projecten
+- [senior Systems Engineer](senior-Systems-Engineer.md) — created: 2016-02-10T21:31:46Z; tags: —
+- [Gesprek met NOMAD 20170202](Gesprek-met-NOMAD-20170202.md) — created: 2017-02-02T09:32:03Z; tags: —
+- [NS Bespreking 20170130](NS-Bespreking-20170130.md) — created: 2017-01-30T13:08:58Z; tags: —
+- [Tarieven NS 2017](Tarieven-NS-2017.md) — created: 2017-01-19T09:15:17Z; tags: —
+- [Getuigschrift](Getuigschrift.md) — created: 2017-02-21T08:54:35Z; tags: —
+- [NS Kontraktmeeting 20170119](NS-Kontraktmeeting-20170119.md) — created: 2017-01-19T14:15:11Z; tags: —
+- [Untitled Note](Untitled-Note-4.md) — created: 2017-02-22T10:04:05Z; tags: —
+- [The 18 Best Analytics Tools Every Business Manager Should Know](The-18-Best-Analytics-Tools-Every-Business-Manager-Should-Know.md) — created: 2017-02-22T10:05:43Z; tags: —
+- [The 18 Best Analytics Tools Every Business Manager Should Know](The-18-Best-Analytics-Tools-Every-Business-Manager-Should-Know-2.md) — created: 2017-02-22T10:06:15Z; tags: —
+- [The Railo Compiler Project](The-Railo-Compiler-Project.md) — created: 2017-02-27T21:02:54Z; tags: Compiler, Railo
+- [JIRA werkwijze - Bespreken in MT](JIRA-werkwijze-Bespreken-in-MT.md) — created: 2017-02-24T10:14:46Z; tags: —
+- [Web/App analytics](WebApp-analytics.md) — created: 2016-10-25T07:42:06Z; tags: BI, Partner, Partnership, analytics
+- [Finland - 20170302](Finland-20170302.md) — created: 2017-03-02T07:59:58Z; tags: —
+- [Valeant Robert 20170307](Valeant-Robert-20170307.md) — created: 2017-03-07T16:25:47Z; tags: —
+- [Links to watch 20170116](Links-to-watch-20170116.md) — created: 2017-01-16T13:03:40Z; tags: —
+- [NS / KPN / Prisma IT 20170310 Werkafspraken](NS-KPN-Prisma-IT-20170310-Werkafspraken.md) — created: 2017-03-10T09:19:49Z; tags: KPN, NS, ePublisher
+- [ePublisher Sprints](ePublisher-Sprints.md) — created: 2017-03-14T09:10:19Z; tags: P4108, P4133
+- [MT PNL 20170310](MT-PNL-20170310.md) — created: 2017-03-10T13:09:47Z; tags: —
+- [/Users/simonslooten/Desktop/My Stuff/Companies/Prisma International/Marketing/Assets/Letterhead](UserssimonslootenDesktopMy-StuffCompaniesPrisma-InternationalMarketingAssetsLett.md) — created: 2017-03-22T11:53:31Z; tags: —
+- [Brief aan Emile](Brief-aan-Emile.md) — created: 2017-03-20T13:37:58Z; tags: —
+- [DocOrigin / JetForms](DocOrigin-JetForms.md) — created: 2017-03-20T08:18:24Z; tags: —
+- [Marrit - Simon](Marrit-Simon.md) — created: 2016-10-03T11:21:46Z; tags: —
+- [vakantie 2017](vakantie-2017.md) — created: 2017-04-03T06:46:44Z; tags: —
+- [Beckfish](Beckfish.md) — created: 2017-04-11T07:53:52Z; tags: —
+- [ColdFusion Developers](ColdFusion-Developers.md) — created: 2017-04-03T07:10:03Z; tags: —
+- [PNL - Sales Meeting 20170403](PNL-Sales-Meeting-20170403.md) — created: 2017-04-03T07:11:30Z; tags: —
+- [Open brief aan Stella van Rijn](Open-brief-aan-Stella-van-Rijn.md) — created: 2017-04-27T13:18:45Z; tags: —
+- [new hardware 2017-3](new-hardware-2017-3.md) — created: 2017-03-22T10:22:47Z; tags: —
+- [Project Meeting](Project-Meeting.md) — created: 2017-05-09T09:14:41Z; tags: —
+- [Valeant Proposal](Valeant-Proposal.md) — created: 2017-05-23T08:36:13Z; tags: —
+- [Website Prisma IT](Website-Prisma-IT.md) — created: 2017-06-01T14:04:35Z; tags: —
+- [MT PNL 20170602](MT-PNL-20170602.md) — created: 2017-06-02T10:47:03Z; tags: —
+- [Untitled Note](Untitled-Note-5.md) — created: 2017-06-02T10:46:56Z; tags: —
+- [Untitled Note](Untitled-Note-6.md) — created: 2017-06-04T10:47:13Z; tags: —
+- [Overleggen met Wim Liet](Overleggen-met-Wim-Liet.md) — created: 2017-05-29T10:01:19Z; tags: —
+- [Emile Peeters](Emile-Peeters.md) — created: 2017-07-10T07:54:21Z; tags: —
+- [Das Kapital: Hypotheek nodig? Kies voor de korte rente](Das-Kapital-Hypotheek-nodig-Kies-voor-de-korte-rente.md) — created: 2017-07-27T09:00:10Z; tags: —
+- [MTG: NS over koppeling ePublisher - SAP - 20170725](MTG-NS-over-koppeling-ePublisher-SAP-20170725.md) — created: 2017-07-25T07:29:45Z; tags: —
+- [Project Management Basics Not to Be Overlooked | Smartsheet](Project-Management-Basics-Not-to-Be-Overlooked-Smartsheet.md) — created: 2015-09-13T20:48:06Z; tags: project management
+- [Factuur NS](Factuur-NS.md) — created: 2015-09-20T22:52:30Z; tags: —
+- [Prisma IT - Strategy 2016](Prisma-IT-Strategy-2016.md) — created: 2015-09-23T20:26:29Z; tags: —
+- [projecten volgende week](projecten-volgende-week.md) — created: 2015-09-26T06:20:02Z; tags: —
+- [Hoe werft en behoudt u goed personeel?](Hoe-werft-en-behoudt-u-goed-personeel.md) — created: 2015-09-27T21:19:26Z; tags: clearly
+- [Copy file or folder path to the clipboard in Mac OS X Lion | MacYourself](Copy-file-or-folder-path-to-the-clipboard-in-Mac-OS-X-Lion-MacYourself.md) — created: 2015-09-29T19:35:00Z; tags: —
+- [Wat zijn de belangrijkste digital- en webdesigntrends van 2015? - Frankwatching](Wat-zijn-de-belangrijkste-digital-en-webdesigntrends-van-2015-Frankwatching.md) — created: 2015-09-29T21:48:39Z; tags: —
+- [Software Support Engineer vacature](Software-Support-Engineer-vacature.md) — created: 2015-10-08T22:43:11Z; tags: —
+- [Note from Käpylän urheilupuisto in Helsinki](Note-from-Käpylän-urheilupuisto-in-Helsinki.md) — created: 2015-10-01T07:24:43Z; tags: —
+- [Note from Sands Expo Center in Las Vegas](Note-from-Sands-Expo-Center-in-Las-Vegas.md) — created: 2015-10-08T16:05:12Z; tags: —
+- [Sales stages](Sales-stages.md) — created: 2015-10-30T09:47:00Z; tags: —
+- [Repeatable Solutions 2016 - 1e opzet](Repeatable-Solutions-2016-1e-opzet.md) — created: 2015-10-31T11:18:25Z; tags: —
+- [Welcome message Prisma IT](Welcome-message-Prisma-IT.md) — created: 2015-11-02T08:16:54Z; tags: —
+- [express VPN](express-VPN.md) — created: 2015-11-09T17:07:27Z; tags: —
+- [Connect to Office - SharePoint Online](Connect-to-Office-SharePoint-Online.md) — created: 2016-01-16T20:50:42Z; tags: —
+- [Alliant MCP 2016](Alliant-MCP-2016.md) — created: 2016-01-07T09:13:09Z; tags: —
+- [NS OBIS](NS-OBIS.md) — created: 2016-01-13T12:08:21Z; tags: —
+- [Vacature teksten](Vacature-teksten.md) — created: 2016-01-20T12:41:51Z; tags: —
+- [Sharepoint](Sharepoint.md) — created: 2016-01-16T20:44:46Z; tags: —
+- [Onboarding Process New Employees](Onboarding-Process-New-Employees.md) — created: 2016-02-02T14:19:03Z; tags: —
+- [Prisma IT Pricing 2016](Prisma-IT-Pricing-2016.md) — created: 2016-01-18T14:28:14Z; tags: —
+- [NS Edger](NS-Edger.md) — created: 2016-01-22T10:01:05Z; tags: —
+- [Financial Controller Vacature 2016Q1](Financial-Controller-Vacature-2016Q1.md) — created: 2016-02-09T08:18:11Z; tags: —
+- [Functioneel beheer](Functioneel-beheer.md) — created: 2016-01-28T08:29:41Z; tags: —
+- [Operational overleg 20160211](Operational-overleg-20160211.md) — created: 2016-02-10T20:30:01Z; tags: —
+- [Web Analytics Consultant](Web-Analytics-Consultant.md) — created: 2016-03-01T10:19:23Z; tags: —
+- [Vacature Web Analytics Consultant - BlooSEM 2015](Vacature-Web-Analytics-Consultant-BlooSEM-2015.md) — created: 2016-03-01T10:21:13Z; tags: —
+- [Vacature Business Intelligence /  Analytics Consultant](Vacature-Business-Intelligence-Analytics-Consultant.md) — created: 2016-03-01T15:37:09Z; tags: —
+- [NS Smartscreens](NS-Smartscreens.md) — created: 2016-03-07T10:20:16Z; tags: —
+- [PDF - www.factor-e.nl](PDF-www.factor-e.nl.md) — created: 2016-04-13T08:41:51Z; tags: —
+- [Rijkswaterstaat 20160322 - voortgangsoverleg](Rijkswaterstaat-20160322-voortgangsoverleg.md) — created: 2016-03-22T09:06:10Z; tags: —
+- [Bespreken met Ruud Molle](Bespreken-met-Ruud-Molle.md) — created: 2016-03-11T12:01:41Z; tags: —
+- [NAAMGEVING DOCUMENTEN](NAAMGEVING-DOCUMENTEN.md) — created: 2016-04-25T14:20:45Z; tags: —
+- [Bespreken met Rein](Bespreken-met-Rein.md) — created: 2016-04-11T12:45:49Z; tags: —
+- [Functieprofiel Manager CS](Functieprofiel-Manager-CS.md) — created: 2016-04-20T19:25:57Z; tags: —
+- [vTiger Demo](vTiger-Demo.md) — created: 2016-04-29T21:39:37Z; tags: —
+- [About us](About-us.md) — created: 2016-05-17T07:07:19Z; tags: —
+- [PDF - media.voog.com](PDF-media.voog.com.md) — created: 2016-05-17T08:12:01Z; tags: —
+- [Functieprofiel Project Administration Medewerker](Functieprofiel-Project-Administration-Medewerker.md) — created: 2016-05-22T08:35:25Z; tags: —
+- [Projectnames](Projectnames.md) — created: 2016-05-11T09:01:00Z; tags: projectnamen
+- [Alliant Competition](Alliant-Competition.md) — created: 2016-05-30T06:57:48Z; tags: —
+- [Rollen 2016](Rollen-2016.md) — created: 2015-12-30T12:31:36Z; tags: —
+- [The best way to structure your information (folders and files) electronically](The-best-way-to-structure-your-information-folders-and-files-electronically.md) — created: 2016-05-26T07:21:15Z; tags: Folders, Structure, holacracy
+- [NS Motivatie](NS-Motivatie.md) — created: 2020-02-03T08:13:46Z; tags: —
+- [Badkamer](Badkamer.md) — created: 2019-11-22T16:03:16Z; tags: —
+- [213 aanpassingen 2020](213-aanpassingen-2020.md) — created: 2020-01-28T08:13:47Z; tags: —
+- [Notes scheiding](Notes-scheiding.md) — created: 2019-01-23T19:19:45Z; tags: —
+- [FvD](FvD.md) — created: 2019-09-06T21:31:49Z; tags: —
+- [Colombia werkstuk Siem](Colombia-werkstuk-Siem.md) — created: 2019-11-08T14:00:52Z; tags: —
+- [DK Aug 2019](DK-Aug-2019.md) — created: 2019-07-31T10:02:35Z; tags: —
+- [knopfler rig](knopfler-rig.md) — created: 2019-09-26T08:34:48Z; tags: —
+- [Untitled Note](Untitled-Note-7.md) — created: 2019-09-10T21:16:19Z; tags: —
+- [AWS Amsterdam 2019](AWS-Amsterdam-2019.md) — created: 2019-04-17T09:10:10Z; tags: —
+- [Glacier Estate](Glacier-Estate.md) — created: 2019-05-17T14:00:24Z; tags: —
+- [Open Browser tabs](Open-Browser-tabs.md) — created: 2019-05-01T19:19:02Z; tags: —
+- [Gibson Lucille](Gibson-Lucille.md) — created: 2019-03-13T09:58:22Z; tags: —
+- [Curacao](Curacao.md) — created: 2019-04-23T08:29:46Z; tags: —
+- [Bartek](Bartek.md) — created: 2019-04-19T11:47:08Z; tags: —
+- [Europees Parlement stemt voor #artikel13. En nu?](Europees-Parlement-stemt-voor-artikel13.-En-nu.md) — created: 2019-03-26T12:35:35Z; tags: —
+- [European Copyright Directive](European-Copyright-Directive.md) — created: 2019-03-20T11:00:40Z; tags: —
+- [Untitled Note](Untitled-Note-8.md) — created: 2019-03-20T09:58:28Z; tags: —
+- [KOPEN](KOPEN.md) — created: 2019-01-22T12:53:49Z; tags: —
+- [Op te heffen BV's](Op-te-heffen-BVs.md) — created: 2019-02-26T12:50:49Z; tags: opheffen, sluiten, uitschrijven
+- [Kerst 2019 ...](Kerst-2019.md) — created: 2018-12-07T11:11:19Z; tags: —
+- [Rein](Rein.md) — created: 2019-02-21T06:14:01Z; tags: —
+- [Synology](Synology.md) — created: 2019-02-19T10:29:06Z; tags: —
+- [Studio](Studio.md) — created: 2019-02-20T07:51:41Z; tags: —
+- [Note](Note.md) — created: 2018-12-20T10:42:23Z; tags: —
+- [Mail sturen ivm verkoop Prisma IT](Mail-sturen-ivm-verkoop-Prisma-IT.md) — created: 2019-01-09T12:41:22Z; tags: —
+- [ToDo / Betalen](ToDo-Betalen.md) — created: 2018-12-17T10:54:15Z; tags: —
+- [Review Samsung QE65Q9FN Ultra HD HDR tv](Review-Samsung-QE65Q9FN-Ultra-HD-HDR-tv.md) — created: 2018-11-27T14:38:07Z; tags: —
+- [AWS Re:Invent 2018](AWS-ReInvent-2018.md) — created: 2018-11-28T18:26:29Z; tags: —
+- [Sjaak / vd Ham](Sjaak-vd-Ham.md) — created: 2018-10-08T06:51:20Z; tags: —
+- [Apple Mail Rules](Apple-Mail-Rules.md) — created: 2018-10-03T10:23:57Z; tags: —
+- [Untitled Note](Untitled-Note-9.md) — created: 2018-10-01T08:28:39Z; tags: —
+- [Peter Riemens - Bespreken](Peter-Riemens-Bespreken.md) — created: 2018-08-24T10:59:20Z; tags: —
+- [The Ultimate ToDo List](The-Ultimate-ToDo-List.md) — created: 2018-07-02T18:50:03Z; tags: —
+- [IKE - SSL - 20180921](IKE-SSL-20180921.md) — created: 2018-09-21T07:30:56Z; tags: —
+- [NS Operational Meeting 20180727 / 20180906](NS-Operational-Meeting-20180727-20180906.md) — created: 2018-07-27T11:20:19Z; tags: —
+- [Bespreking NS 20180830](Bespreking-NS-20180830.md) — created: 2018-08-31T08:21:37Z; tags: —
+- [Domain Names Prisma IT](Domain-Names-Prisma-IT.md) — created: 2018-09-04T07:52:26Z; tags: —
+- [Saxum](Saxum.md) — created: 2018-08-03T07:01:04Z; tags: —
+- [Prisma IT acquires Remotion](Prisma-IT-acquires-Remotion.md) — created: 2018-08-03T10:49:40Z; tags: —
+- [Ferdi van Til - Remotion](Ferdi-van-Til-Remotion.md) — created: 2018-08-03T08:16:01Z; tags: —
+- [Piwik klanten onder contract bij Piwik Pro](Piwik-klanten-onder-contract-bij-Piwik-Pro.md) — created: 2018-08-02T09:21:49Z; tags: —
+- [Hallmark](Hallmark.md) — created: 2018-07-19T08:20:15Z; tags: —
+- [Peter Riemens](Peter-Riemens.md) — created: 2018-07-12T19:56:21Z; tags: —
+- [Jochem 20180718](Jochem-20180718.md) — created: 2018-07-16T10:44:56Z; tags: —
+- [Bespreken met Ralph 20180629](Bespreken-met-Ralph-20180629.md) — created: 2018-06-29T05:22:12Z; tags: —
+- [Hallmark 20180628](Hallmark-20180628.md) — created: 2018-06-28T08:05:37Z; tags: —
+- [CV voorbeeld](CV-voorbeeld.md) — created: 2018-06-18T07:47:54Z; tags: —
+- [Overdracht Systeembeheer 20180626 JDI](Overdracht-Systeembeheer-20180626-JDI.md) — created: 2018-06-26T07:39:19Z; tags: —
+- [NS 20180615 - NOK-Meeting](NS-20180615-NOK-Meeting.md) — created: 2018-06-14T12:50:54Z; tags: —
+- [Olga Lapina](Olga-Lapina.md) — created: 2018-06-15T07:59:43Z; tags: —
+- [Am I hacked?](Am-I-hacked.md) — created: 2018-06-06T07:41:01Z; tags: —
+- [InnoCraft Ltd - Software License](InnoCraft-Ltd-Software-License.md) — created: 2018-05-31T13:58:54Z; tags: —
+- [AWS Den Haag 2018](AWS-Den-Haag-2018.md) — created: 2018-06-01T08:00:54Z; tags: —
+- [Centric 20180613](Centric-20180613.md) — created: 2018-06-13T09:26:19Z; tags: —
+- [RWS - 20180529](RWS-20180529.md) — created: 2018-05-29T12:22:38Z; tags: —
+- [Privacy statement](Privacy-statement.md) — created: 2018-05-24T07:50:57Z; tags: —
+- [How Piwik PRO Marketing Suite Compares with Matomo](How-Piwik-PRO-Marketing-Suite-Compares-with-Matomo.md) — created: 2018-05-15T07:02:27Z; tags: —
+- [Betaalrekening Siem en Puk](Betaalrekening-Siem-en-Puk.md) — created: 2018-05-07T13:29:02Z; tags: —
+- [JOB Besprekingen](JOB-Besprekingen.md) — created: 2018-03-27T09:20:46Z; tags: —
+- [Meeting Edger 20180502](Meeting-Edger-20180502.md) — created: 2018-05-02T08:25:51Z; tags: —
+- [Spaarloon regeling](Spaarloon-regeling.md) — created: 2018-05-04T11:42:08Z; tags: —
+- [Jochem besprekingen](Jochem-besprekingen.md) — created: 2018-03-26T11:40:44Z; tags: —
+- [PDF - www.jpmorgan.com](PDF-www.jpmorgan.com.md) — created: 2018-04-27T07:53:14Z; tags: —
+- [Potentials 20180426](Potentials-20180426.md) — created: 2018-04-26T21:18:04Z; tags: —
+- [Ralph Besprekingen](Ralph-Besprekingen.md) — created: 2018-01-26T10:10:47Z; tags: —
+- [CJIB vragen 2018M04](CJIB-vragen-2018M04.md) — created: 2018-04-16T20:54:20Z; tags: —
+- [Overzicht klanten Prisma IT (strippenkaa…](Overzicht-klanten-Prisma-IT-strippenkaa.md) — created: 2018-03-28T11:05:10Z; tags: —
+- [OBIS - SPrint Planning](OBIS-SPrint-Planning.md) — created: 2018-03-27T08:04:18Z; tags: —
+- [Te bespreken met Marc](Te-bespreken-met-Marc.md) — created: 2018-02-16T12:01:51Z; tags: —
+- [SLA Ticket overleg 20180315](SLA-Ticket-overleg-20180315.md) — created: 2018-03-14T10:11:36Z; tags: —
+- [Opnemen bij vacatures](Opnemen-bij-vacatures.md) — created: 2018-02-06T13:21:39Z; tags: —
+- [SLA OBIS overleg 20170117](SLA-OBIS-overleg-20170117.md) — created: 2018-01-17T10:08:18Z; tags: —
+- [Bespreken met Marc](Bespreken-met-Marc.md) — created: 2018-01-11T09:22:26Z; tags: —
+- [Prisma IT 2018](Prisma-IT-2018.md) — created: 2017-11-30T22:09:07Z; tags: —
+- [Bespreken met Marc voor 2018](Bespreken-met-Marc-voor-2018.md) — created: 2017-12-22T08:28:22Z; tags: —
+- [Lightray 2018](Lightray-2018.md) — created: 2017-12-01T14:42:10Z; tags: —
+- [SZW SLA bespreking 20171205](SZW-SLA-bespreking-20171205.md) — created: 2017-12-05T07:32:10Z; tags: —
+- [NS overleg 20171113 (Wim Liet, Maarten, Erik Boshoeve, Jochem, Klaas Brinkman, Kitty, Simon)](NS-overleg-20171113-Wim-Liet-Maarten-Erik-Boshoeve-Jochem-Klaas-Brinkman-Kitty-S.md) — created: 2017-11-13T10:40:40Z; tags: —
+- [Teksthuisstijl: schrijven volgens de kernwaarden van je organisatie - Tekstblog - Kennisplatform voor tekst- en communicatieprofessionals](Teksthuisstijl-schrijven-volgens-de-kernwaarden-van-je-organisatie-Tekstblog-Ken.md) — created: 2017-12-01T13:19:25Z; tags: —
+- [AWS 2018 aandachtspunten](AWS-2018-aandachtspunten.md) — created: 2017-11-29T16:34:21Z; tags: —
+- [Telco Marrit 20171129](Telco-Marrit-20171129.md) — created: 2017-11-29T13:24:17Z; tags: —
+- [Untitled Note](Untitled-Note-10.md) — created: 2017-10-02T10:14:39Z; tags: —
+- [NS ePublisher GVB Referentie](NS-ePublisher-GVB-Referentie.md) — created: 2017-09-20T13:22:52Z; tags: —
+- [In browser 20170925](In-browser-20170925.md) — created: 2017-09-25T14:13:30Z; tags: —
+- [Overleggen met Job](Overleggen-met-Job.md) — created: 2017-09-19T09:39:13Z; tags: —
+- [NS ERM](NS-ERM.md) — created: 2017-09-12T07:50:12Z; tags: —
+- [HEBBON!](HEBBON.md) — created: 2016-01-16T14:12:38Z; tags: —
+- [RWS 20170907 - Backlog Meeting](RWS-20170907-Backlog-Meeting.md) — created: 2017-09-07T12:03:39Z; tags: —
+- [SpamSieve](SpamSieve.md) — created: 2017-09-12T09:38:51Z; tags: —
+- [Arbeidsovereenkomsten 2017](Arbeidsovereenkomsten-2017.md) — created: 2017-08-16T21:00:17Z; tags: —
+- [Untitled Note](Untitled-Note-11.md) — created: 2017-08-16T09:16:57Z; tags: —
+- [Things to remember](Things-to-remember.md) — created: 2017-08-16T09:18:26Z; tags: Onthouden, Reminder, links
+- [The best privacy respecting countries for VPN](The-best-privacy-respecting-countries-for-VPN.md) — created: 2017-08-14T07:52:36Z; tags: —
+- [Overdracht Ruud ivm Vakantie](Overdracht-Ruud-ivm-Vakantie.md) — created: 2017-08-15T10:39:20Z; tags: —
+- [Untitled Note](Untitled-Note-12.md) — created: 2017-08-12T20:48:18Z; tags: —
+- [NS - Bespreking Job 20170810](NS-Bespreking-Job-20170810.md) — created: 2017-08-10T08:18:46Z; tags: —
+- [Untitled Note](Untitled-Note-13.md) — created: 2017-08-01T14:14:52Z; tags: —
+- [Kitty](Kitty.md) — created: 2017-05-18T13:31:21Z; tags: —
+
+See also: [_summary.md](_summary.md) (companion archive notes).

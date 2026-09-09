@@ -1,0 +1,23 @@
+---
+id: "291f2cc4-cab7-c61a-23a4-007d6e3571e4"
+title: "Omschrijving SSL"
+notebook: "_INBOX"
+created: "2020-08-20T11:02:24+00:00"
+updated: "2026-06-09T14:39:32+00:00"
+deleted: true
+body_source: "offline_search"
+source: evernote-local-live
+---
+
+# Omschrijving SSL
+
+Ik ben een ervaren en toegewijde IT project- en programma-manager met ruim 35 jaar ervaring. Ik ben daadkrachtig en ik beschik over een sterke persoonlijkheid. Gericht op de inhoud, kan ik met mijn onderzoekende houding individueel en in een team snel tot de kern van de zaak komen. Met enthousiasme en oprechtheid en gewend aan politiek gevoelige omgevingen, werk ik planmatig en resultaatgericht naar een geformuleerd doel. Ik het een groot probleem-oplossend vermogen en kom het best tot mijn recht bij vastgelopen of problematische projecten. Ik ben een “Rotterdammer”, pragmatisch, down-to-earth, open en verbindend met veel kennis van (international) ondernemen. Ik ben gewend P
+&
+L verantwoordelijkheid te dragen.
+Voorbeeld:
+Value-driven entrepeneur and consultant with substantial experience in a wide variety as Chairman of the Board and CEO of governmental organisations and non governmental organisations in (youth) care, education, philanthropy and welfare.
+Interested in advising government and non profits on governance, credible leadership and management issues.
+Waardengedreven ondernemer en adviseur met ruime ervaring als president-commissaris, lid Raad van Toezicht en directeur-bestuurder van overheden en non-profitorganisaties op het terrein van (jeugd)zorg, onderwijs, filantropie en welzijn.
+Beschikbaar als adviseur van overheden en non-profitorganisaties op het gebied van goed bestuur, geloofwaardig leiderschap en organisatievraagstukken.
+Specialties: Management and consultancy of governmental and non governmental organisations in (youth) care, education, philanthropy and welfare.
+Management en advisering van overheden en non-profitorganisaties voor (jeugd)zorg, onderwijs, filantropie en welzijn.

@@ -10,6 +10,10 @@ Living list. Chief of Staff keeps this current. Chat is not the list.
 
 ## Needs you
 
+- [x] Evernote full local sync → Hermes_Team/Evernote/live (9 sep nachtelijke run): 104 notebooks, 1992 notes, 6 missing bodies. Juni-export mappen blijven. Melden aan Simon na 07:00.
+
+- [x] Evernote bestaande exports omgezet (9 sep 2026): 331 notes in Hermes_Team/Evernote uit processed/evernote. Geen nieuwe exports van Simon. Live app-notities na juni 2026 nog niet binnen.
+
 - [x] Zutphen kennismaking verstuurd (9 sep 2026). Creveld. Bestand: `Documents/Work/conceptbrief-zutphen-kennismaking-2026-09-09.md`.
 - [x] ICTU: aanmelding via freelance.nl. Status Open. Tarief In overleg. Geen tweede aanmelding. Geen contact ICTU/BZK.
 - [x] AcmeBrainCorp site live (acmebraincorp.com). Search Console sitemap Success. Pagina indexed (crawl 29 aug — oude tekst). Index-request faalde een keer; Google komt terug.

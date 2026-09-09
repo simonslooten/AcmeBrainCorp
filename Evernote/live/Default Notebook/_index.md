@@ -1,0 +1,101 @@
+# Default Notebook
+
+- notebook_id: `90ed5a35-bbff-451a-8a13-a3cf97900083`
+- notes: 92
+- created: 2013-03-19T09:05:14+00:00
+- updated: 2022-05-10T06:35:48+00:00
+
+## Notes
+
+- [[Kadoos|Kadoos]]
+- [[attachment73EC4A64|attachment73EC4A64]] *(deleted)*
+- [[Leadership- The Keys to Instilling Autonomy, Mastery, & Purpose In Your Team|Leadership: The Keys to Instilling Autonomy, Mastery, & Purpose In Your Team]]
+- [[Eric vd Adel - Simon|Eric vd Adel - Simon]]
+- [[4F|4F]]
+- [[Top 13 Most Absurd Programming Languages Top Design Magazine - Web Design and D…|Top 13 Most Absurd Programming Languages | Top Design Magazine - Web Design and Digital Content]]
+- [[Technical Web Analytics Consultant - Periscopix Prospects.ac.uk|Technical Web Analytics Consultant - Periscopix | Prospects.ac.uk]]
+- [[The digital tipping point- McKinsey Global Survey results|The digital tipping point: McKinsey Global Survey results]]
+- [[How to Report Status on a Project|How to Report Status on a Project]]
+- [[How to Create a Pre-Project Document - NOOP.NL|How to Create a Pre-Project Document - NOOP.NL]]
+- [[Hiring a Senior Web Analyst Here's a Suggested Job Requisition - Description -…|Hiring a Senior Web Analyst? Here's a Suggested Job Requisition / Description - Occam's Razor by Avinash Kaushik]]
+- [[Job Description - Front End Developer|Job Description - Front End Developer]]
+- [[Narrowcasting hardware|Narrowcasting hardware]]
+- [[Untitled|Untitled]] *(deleted)*
+- [[Sales Executive|Sales Executive]]
+- [[5 Mistakes Vendors Make When Building a New Partner Program Heather K. Margolis…|5 Mistakes Vendors Make When Building a New Partner Program | Heather K. Margolis | LinkedIn]]
+- [[TRC invoice|TRC invoice]]
+- [[5 Steps to Creating a Merit Matrix|5 Steps to Creating a Merit Matrix]]
+- [[silvella|silvella]]
+- [[Job Description - Software Support Engineer|Job Description - Software Support Engineer]]
+- [[Untitled (2)|Untitled]]
+- [[Job Description - Senior Software Engineer|Job Description - Senior Software Engineer]]
+- [[schadebeperking NS|schadebeperking NS]]
+- [[Job Opportunity - Systeembeheerder - Applicatie beheerder|Job Opportunity - Systeembeheerder / Applicatie beheerder]]
+- [[Untitled (3)|Untitled]] *(deleted)*
+- [[JIRA - vTiger integration|JIRA - vTiger integration]]
+- [[NS ePublisher|NS ePublisher]]
+- [[Vincent - Simon|Vincent - Simon]] *(deleted)*
+- [[Amazon Alexa Commands|Amazon Alexa Commands]]
+- [[Untitled (4)|Untitled]]
+- [[Amazon Echo Alexa - Hue|Amazon Echo Alexa - Hue]]
+- [[Untitled (5)|Untitled]] *(deleted)*
+- [[Untitled (6)|Untitled]]
+- [[Job Description - Senior Software Developer|Job Description - Senior Software Developer]]
+- [[Job Description - Software Engineer|Job Description - Software Engineer]]
+- [[Job Description - Software Developer|Job Description - Software Developer]]
+- [[Job Description - Web Application Developer|Job Description - Web Application Developer]]
+- [[Job Description - Project Manager|Job Description - Project Manager]]
+- [[Job Description - Software Development Manager|Job Description - Software Development Manager]]
+- [[Job Description - Software Architect|Job Description - Software Architect]]
+- [[Job Description - Senior Web Developer|Job Description - Senior Web Developer]]
+- [[Job Description - Web Developer|Job Description - Web Developer]]
+- [[Job Description - Junior Software Engineer|Job Description - Junior Software Engineer]]
+- [[Job Description - Principal Software Engineer|Job Description - Principal Software Engineer]]
+- [[Incorrect filing at Companies House|Incorrect filing at Companies House]]
+- [[Great waiting texts|Great waiting texts]] *(deleted)*
+- [[Atlassian Discussion|Atlassian Discussion]]
+- [[Ideas to open-up the company|Ideas to open-up the company]]
+- [[Untitled (7)|Untitled]] *(deleted)*
+- [[J. Exit|J. Exit]] *(deleted)*
+- [[Fwd- vTiger project nummer|Fwd: vTiger project nummer]] *(deleted)*
+- [[Fwd- Bynder|Fwd: Bynder]]
+- [[Fwd- Railo|Fwd: Railo]]
+- [[Jorrit - Eric-Simon|Jorrit - Eric/Simon]]
+- [[Vincent - Simon (2)|Vincent - Simon]]
+- [[Untitled (8)|Untitled]] *(deleted)*
+- [[Content document 3 ter vertaling NL|Content document 3 ter vertaling NL]] *(deleted)*
+- [[Content document 3 ter vertaling NL (2)|Content document 3 ter vertaling NL]] *(deleted)*
+- [[Untitled Note|Untitled Note]] *(deleted)*
+- [[Sync photos from android to iPhoto & icloud|Sync photos from android to iPhoto & icloud]]
+- [[Untitled Note (2)|Untitled Note]] *(deleted)*
+- [[Untitled Note (3)|Untitled Note]] *(deleted)*
+- [[Untitled Note (4)|Untitled Note]] *(deleted)*
+- [[Untitled Note (5)|Untitled Note]] *(deleted)*
+- [[Untitled Note (6)|Untitled Note]] *(deleted)*
+- [[Untitled Note (7)|Untitled Note]] *(deleted)*
+- [[FW- Invoice - FV 2-2013 - Prisma IT France|FW: Invoice - FV 2/2013 - Prisma IT France]] *(deleted)*
+- [[Note from Aurelien in Rotterdam|Note from Aurelien in Rotterdam]] *(deleted)*
+- [[Note from MTG- Morpheus update in Rotterdam|Note from MTG: Morpheus update in Rotterdam]] *(deleted)*
+- [[2013-11-06|2013-11-06]] *(deleted)*
+- [[Note from Aurelien in Rotterdam (2)|Note from Aurelien in Rotterdam]] *(deleted)*
+- [[Untitled Note (8)|Untitled Note]] *(deleted)*
+- [[test|test]] *(deleted)*
+- [[BA meeting 03-10-2013|BA meeting 03-10-2013]] *(deleted)*
+- [[Untitled Note (9)|Untitled Note]] *(deleted)*
+- [[The next chapter|The next chapter]] *(deleted)*
+- [[2013-05-02|2013-05-02]] *(deleted)*
+- [[2013-04-25 - voorstel gestuurd|2013-04-25 - voorstel gestuurd]] *(deleted)*
+- [[mooie dingen|mooie dingen...]]
+- [[Note from IN- overleg finance Mirjam + Simon in kamer Simon|Note from IN: overleg finance Mirjam + Simon in kamer Simon]] *(deleted)*
+- [[Untitled note (10)|Untitled note]] *(deleted)*
+- [[Untitled Note (11)|Untitled Note]] *(deleted)*
+- [[Praten met|Praten met]] *(deleted)*
+- [[Agenda|Agenda]] *(deleted)*
+- [[DJS administraties|DJS administraties]] *(deleted)*
+- [[Uitzoeken - controleren|Uitzoeken / controleren]] *(deleted)*
+- [[Note from Boxing Day in Netherlands|Note from Boxing Day in Netherlands]] *(deleted)*
+- [[ToDo list 4FTI|ToDo list 4FTI]] *(deleted)*
+- [[4F status - things to do as of Sept 12, 2012|4F status / things to do as of Sept 12, 2012]] *(deleted)*
+- [[Sync photos from your Android device to iCloud's Photo Stream How To - CNET|Sync photos from your Android device to iCloud's Photo Stream | How To - CNET]] *(deleted)*
+- [[Sync photos from your Android device to iCloud's Photo Stream How To - CNET (2)|Sync photos from your Android device to iCloud's Photo Stream | How To - CNET]] *(deleted)*
+- [[Meeting notes Aug 10, 2012. Amsterdam|Meeting notes Aug 10, 2012. Amsterdam]] *(deleted)*

@@ -1,0 +1,118 @@
+# Evernote live sync
+
+Exported from local Evernote store on Marvins-MacBook-Pro.
+
+- Notebooks: **104** (+ orphans if any)
+- Notes written: **1992**
+- Missing bodies: **0** (6 empty-shell notes documented; no recoverable text)
+- Body from `.dat` fallback: **141**
+- Body from snippet fallback: **0**
+- Generated (UTC): 2026-09-09T21:48:18.197474+00:00
+
+## Notebooks
+
+- [[(Imported) post-5-6-26/_index|(Imported) post-5-6-26]] — 1 notes
+- [[_No_Notebook/_index|(no notebook)]] — 1 notes
+- [[109/_index|109]] — 3 notes
+- [[2020 archive/_index|2020 archive]] — 44 notes
+- [[2021 archive/_index|2021 archive]] — 1 notes
+- [[2025 nieuw gedoe/_index|2025 nieuw gedoe]] — 6 notes
+- [[211/_index|211]] — 3 notes
+- [[213/_index|213]] — 11 notes
+- [[4F Technology Innovation/_index|4F Technology Innovation]] — 2 notes
+- [[_INBOX/_index|_INBOX]] — 435 notes
+- [[Acme Social Media Posts/_index|Acme Social Media Posts]] — 14 notes
+- [[AcmeBrainCorp/_index|AcmeBrainCorp]] — 22 notes
+- [[AI - Grok/_index|AI / Grok]] — 19 notes
+- [[AI - Grok prompts/_index|AI / Grok prompts]] — 1 notes
+- [[AI Businessplan 25M04/_index|AI Businessplan 25M04]] — 12 notes
+- [[AI Training/_index|AI Training]] — 0 notes
+- [[Algemeen archive/_index|Algemeen archive]] — 226 notes
+- [[AWS/_index|AWS]] — 2 notes
+- [[Bart Bakker/_index|Bart Bakker]] — 1 notes
+- [[Careerhandling/_index|Careerhandling]] — 19 notes
+- [[Checken/_index|Checken]] — 2 notes
+- [[Chirpa Holding/_index|Chirpa Holding]] — 10 notes
+- [[Daarn Houwer/_index|Daarn Houwer]] — 1 notes
+- [[Daily Notes/_index|Daily Notes]] — 3 notes
+- [[Default Notebook/_index|Default Notebook]] — 92 notes
+- [[Discuss with Gert/_index|Discuss with Gert]] — 1 notes
+- [[E. Kiraz/_index|E. Kiraz]] — 1 notes
+- [[G. Deutekom/_index|G. Deutekom]] — 1 notes
+- [[Home Tasks/_index|Home Tasks]] — 0 notes
+- [[HVC/_index|HVC]] — 21 notes
+- [[JA21 - Algemeen/_index|JA21 - Algemeen]] — 109 notes
+- [[JA21 - Bestuur/_index|JA21 - Bestuur]] — 96 notes
+- [[JA21 - Expertgroepen/_index|JA21 - Expertgroepen]] — 1 notes
+- [[JA21 - GR22/_index|JA21 - GR22]] — 3 notes
+- [[JA21 - GR26/_index|JA21 - GR26]] — 16 notes
+- [[JA21 - International/_index|JA21 - International]] — 1 notes
+- [[JA21 - IT/_index|JA21 - IT]] — 2 notes
+- [[JA21 - PS23/_index|JA21 - PS23]] — 74 notes
+- [[JA21 - PS27/_index|JA21 - PS27]] — 1 notes
+- [[JA21 - Talentpool/_index|JA21 - Talentpool]] — 1 notes
+- [[JA21 - TK23/_index|JA21 - TK23]] — 29 notes
+- [[JA21 - TK25/_index|JA21 - TK25]] — 28 notes
+- [[Kaprun/_index|Kaprun]] — 2 notes
+- [[Keep watching/_index|Keep watching ...]] — 1 notes
+- [[KG2/_index|KG2]] — 1 notes
+- [[Marketing/_index|Marketing]] — 3 notes
+- [[Nederlandse Spoorwegen ( NS )/_index|Nederlandse Spoorwegen ( NS )]] — 2 notes
+- [[OpenClaw/_index|OpenClaw]] — 12 notes
+- [[Opleidingen/_index|Opleidingen]] — 1 notes
+- [[Outplacement/_index|Outplacement]] — 20 notes
+- [[PA Stuff/_index|PA Stuff]] — 2 notes
+- [[Penultimate/_index|Penultimate]] — 14 notes
+- [[Personal Plans/_index|Personal Plans]] — 1 notes
+- [[Politiek Overleg/_index|Politiek Overleg]] — 2 notes
+- [[Prisma - Financial & Operational/_index|Prisma - Financial & Operational]] — 6 notes
+- [[Prisma International/_index|Prisma International]] — 44 notes
+- [[Prisma IT - Beoordelingen 2012Q4 - 2013H1/_index|Prisma IT - Beoordelingen 2012Q4 / 2013H1]] — 11 notes
+- [[Prisma IT - Business Development/_index|Prisma IT - Business Development]] — 4 notes
+- [[Prisma IT - FEDEX day/_index|Prisma IT - FEDEX day]] — 2 notes
+- [[Prisma IT - HR/_index|Prisma IT - HR]] — 38 notes
+- [[Prisma IT - MT/_index|Prisma IT - MT]] — 19 notes
+- [[Prisma IT - New Building/_index|Prisma IT - New Building]] — 5 notes
+- [[Prisma IT - Processes/_index|Prisma IT - Processes]] — 4 notes
+- [[Prisma IT - Products/_index|Prisma IT - Products]] — 3 notes
+- [[Prisma IT - Projecten/_index|Prisma IT - Projecten]] — 31 notes
+- [[Prisma IT - Sales/_index|Prisma IT - Sales]] — 15 notes
+- [[Prisma IT - Strategy 2013-2014/_index|Prisma IT - Strategy 2013-2014]] — 15 notes
+- [[Prisma IT - Strategy 2015/_index|Prisma IT - Strategy 2015]] — 7 notes
+- [[Prisma IT - Technical/_index|Prisma IT - Technical]] — 15 notes
+- [[Prisma IT - ToDo lijst/_index|Prisma IT - ToDo lijst]] — 7 notes
+- [[Prisma IT - ToDo-lijst Hoofdweg/_index|Prisma IT - ToDo-lijst Hoofdweg]] — 11 notes
+- [[Prisma IT - Workflow/_index|Prisma IT - Workflow]] — 2 notes
+- [[Prisma IT Nordics/_index|Prisma IT Nordics]] — 1 notes
+- [[Prisma IT Poland/_index|Prisma IT Poland]] — 5 notes
+- [[Prisma IT preso's/_index|Prisma IT preso's]] — 1 notes
+- [[Prisma Training Descriptions/_index|Prisma Training Descriptions]] — 10 notes
+- [[Private/_index|Private]] — 38 notes — bodies: held
+- [[Projecten Post TK25/_index|Projecten Post TK25]] — 4 notes
+- [[R. van Otterlo/_index|R. van Otterlo]] — 1 notes
+- [[Radio Ideaal/_index|Radio Ideaal]] — 19 notes
+- [[Radio Ideaal - Bestuur/_index|Radio Ideaal - Bestuur]] — 10 notes
+- [[Radio Ideaal Mermaid/_index|Radio Ideaal Mermaid]] — 2 notes
+- [[Radio Ideaal Techniek/_index|Radio Ideaal Techniek]] — 9 notes
+- [[Railo - Boardmeetings/_index|Railo - Boardmeetings]] — 19 notes
+- [[Railo - CEO/_index|Railo - CEO]] — 15 notes
+- [[Railo - Management/_index|Railo - Management]] — 10 notes
+- [[Railo - Tech stuff/_index|Railo - Tech stuff]] — 6 notes
+- [[Railo Public Statement/_index|Railo Public Statement]] — 1 notes
+- [[Railo Roadmap/_index|Railo Roadmap]] — 5 notes
+- [[Read Later/_index|Read Later]] — 9 notes
+- [[Recipes/_index|Recipes]] — 1 notes
+- [[Robert - Simon- Ongoing discussion list/_index|Robert - Simon: Ongoing discussion list]] — 31 notes
+- [[Ruurloseweg/_index|Ruurloseweg]] — 16 notes
+- [[Saver - Roosendaal/_index|Saver - Roosendaal]] — 1 notes
+- [[Siem - Thorbecke/_index|Siem - Thorbecke]] — 1 notes
+- [[Simon's notebook/_index|Simon's notebook]] — 119 notes
+- [[Special Guitars/_index|Special Guitars]] — 7 notes
+- [[Stadswerk/_index|Stadswerk]] — 2 notes
+- [[Systemmanagement/_index|Systemmanagement]] — 6 notes
+- [[The Producer Academie/_index|The Producer Academie]] — 1 notes
+- [[Thorbecke MR/_index|Thorbecke MR]] — 5 notes
+- [[TV Series/_index|TV Series]] — 2 notes
+- [[Uiterwijk Slooten/_index|Uiterwijk | Slooten]] — 1 notes
+- [[van Heerden/_index|van Heerden]] — 1 notes
+- [[~Interne Zaken/_index|~Interne Zaken]] — 17 notes

@@ -1,0 +1,53 @@
+# 2020 archive
+
+- notebook_id: `41cc9407-7973-122a-1b4b-99eff6aae51a`
+- notes: 44
+- created: 2022-12-25T13:38:29+00:00
+- updated: 2023-01-14T13:56:29+00:00
+
+## Notes
+
+- [[Untitled|Untitled]]
+- [[Annabel Nanninga over ’linkse wolk’ Rutte- ’Nu gaan bij mensen schellen van de…|Annabel Nanninga over ’linkse wolk’ Rutte: ’Nu gaan bij mensen schellen van de ogen vallen’ | Binnenland | Telegraaf.nl]]
+- [[Hoe deze asielmotie laat zien dat mild-rechts een Kamermeerderheid heeft - Wyni…|Hoe deze asielmotie laat zien dat mild-rechts een Kamermeerderheid heeft - Wynia's Week]]
+- [[Sigrid Kaag over migratie- ‘Hekken horen niet bij een beschaafd land’ Politiek…|Sigrid Kaag over migratie: ‘Hekken horen niet bij een beschaafd land’ | Politiek | AD.nl]]
+- [[Geheime afspraak coalitie- mond dicht over migratie deze campagne Onder Politic…|Geheime afspraak coalitie: mond dicht over migratie deze campagne | Onder Politici | AD.nl]]
+- [[She Hulk wordt steeds groter- 160 kilo weegt spierbundel Jackie nu Binnenland T…|She Hulk wordt steeds groter: 160 kilo weegt spierbundel Jackie nu | Binnenland | Telegraaf.nl]] *(deleted)*
+- [[Wat doen Caroline en Joost met de brokstukken van de neergestorte uil van Miner…|Wat doen Caroline en Joost met de brokstukken van de neergestorte uil van Minerva?]]
+- [[FvD|FvD]]
+- [[CORONA|CORONA]]
+- [[FVD aanmwelding|FVD aanmwelding]]
+- [[Belasting 2020|Belasting 2020]]
+- [[Doen!!|Doen!!]]
+- [[Untitled (2)|Untitled]]
+- [[Binnenverlichting|Binnenverlichting]]
+- [[Domotica IJsselstijn|Domotica IJsselstijn]]
+- [[Kids safe DNS settings|Kids safe DNS settings]]
+- [[Bestellingen|Bestellingen]]
+- [[Vrijdag doen|Vrijdag doen]]
+- [[FVD mail naar belteam|FVD mail naar belteam]]
+- [[sollicitatie HB|sollicitatie HB]]
+- [[CSV brief|CSV brief]]
+- [[Beschrijving|Beschrijving]]
+- [[LinkedIN S Slooten|LinkedIN S Slooten]]
+- [[FVD - teamcaptain update|FVD - teamcaptain update]]
+- [[Recept- POM|Recept: POM]]
+- [[Fvd (2)|Fvd]]
+- [[FVD afdeling meeting 2-9-20|FVD afdeling meeting 2/9/20]]
+- [[FVD afdelingsvergadering 20200907|FVD afdelingsvergadering 20200907]]
+- [[Untitled (3)|Untitled]]
+- [[IKE & SSL|IKE & SSL]]
+- [[FVD (3)|FVD]]
+- [[Untitled (4)|Untitled]]
+- [[werk zoeken|werk zoeken]]
+- [[Untitled (5)|Untitled]]
+- [[FVD online team meetings|FVD online team meetings]]
+- [[Team Meeting Link|Team Meeting Link]]
+- [[Belangrijk te onthouden|Belangrijk te onthouden]]
+- [[Omschrijving SSL|Omschrijving SSL]]
+- [[FVD gesprek 26-11|FVD gesprek 26/11]]
+- [[Untitled (6)|Untitled]]
+- [[Afscheid Michael Ruperti|Afscheid Michael Ruperti]]
+- [[Stuk Hiddema 24-12-20|Stuk Hiddema 24-12-20]]
+- [[PDF - dnpprepo.ub.rug.nl|PDF - dnpprepo.ub.rug.nl]]
+- [[PDF - www.christenunie.nl|PDF - www.christenunie.nl]]
