@@ -26,4 +26,4 @@ Owner: La Vaca Saturno Saturnita. Chief of Staff keeps this current.
 - Dutch. Simon sends. Nothing goes out without a yes.
 - Volgende naam alleen als die geen bestaande preferred-supplier-stoel is. Geen outreach.
 - Offerte-aanvraag: geen koper benaderen. Simon stuurt, en alleen na een aparte ja. Hogeschool Rotterdam en Saxion blijven af. Eerste drie reacties pakken vaak de lead.
-- Shortlist 10 sep: Belastingdienst eerst, dan Achmea, Aegon, WUR voorwaardelijk. Witteveen+Bos af. Geen brief zonder koper.
+- Shortlist 10 sep: Belastingdienst eerst, dan Hogeschool Utrecht, VPRO, Achmea, Aegon. WUR voorwaardelijk. Witteveen+Bos af. Geen brief zonder koper.
