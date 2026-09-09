@@ -5,7 +5,7 @@ Owner: La Vaca Saturno Saturnita. Chief of Staff keeps this current.
 
 ## Needs you
 
-- Niets. Geen brief.
+- LoopbaanNederland Assessment (open): overheidsorganisatie Utrecht, 20 ontwikkelassessments (vlootschouw) managers/teamleiders, 630 medewerkers; aangemeld di 8 sep 2026; https://loopbaannederland.nl/bedrijven/request/buy?id=6aa007d95b8eb1deba012942 — Simon stuurt alleen na aparte ja; niet claimen.
 
 ## In flight
 
