@@ -9,6 +9,8 @@ Owner: La Vaca Saturno Saturnita. Chief of Staff keeps this current.
 
 ## In flight
 
+- [ ] Elke dag 11:00–13:00, elke 15 min: loopbaannederland.nl. Alleen alarmeren als het past. Zwaartepunt 11:30. Login nodig. Geen reactie zonder ja.
+
 - [x] Eerste targetlijst werkgevers, 8 september 2026. Bestand: `/Users/marvin/Documents/Work/CareerHandling/targets-2026-09-08.md`
 - [x] Check koper en preferred supplier, Saxion en Hogeschool Rotterdam, 8 september 2026. Bestand: `/Users/marvin/Documents/Work/CareerHandling/check-saxion-hr-2026-09-08.md`
 - [x] Hogeschool Rotterdam af. Simon: CareerHandling zat in de tender en won niet. Niet terug naar dat panel.
@@ -22,4 +24,5 @@ Owner: La Vaca Saturno Saturnita. Chief of Staff keeps this current.
 - Employer side first. Individual coaching is the slow till.
 - Dutch. Simon sends. Nothing goes out without a yes.
 - Volgende naam alleen als die geen bestaande preferred-supplier-stoel is. Geen outreach.
+- Offerte-aanvraag: geen koper benaderen. Simon stuurt, en alleen na een aparte ja. Hogeschool Rotterdam en Saxion blijven af. Eerste drie reacties pakken vaak de lead.
 - Nog geen volgende naam gepakt. WUR, Witteveen+Bos en Achmea wachten op een stoel-check, niet op een brief.
