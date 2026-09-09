@@ -5,7 +5,7 @@ Owner: La Vaca Saturno Saturnita. Chief of Staff keeps this current.
 
 ## Needs you
 
-- LoopbaanNederland Assessment (open): overheidsorganisatie Utrecht, 20 ontwikkelassessments (vlootschouw) managers/teamleiders, 630 medewerkers; aangemeld di 8 sep 2026; https://loopbaannederland.nl/bedrijven/request/buy?id=6aa007d95b8eb1deba012942 — Simon stuurt alleen na aparte ja; niet claimen.
+- Belastingdienst 20 ontwikkelassessments: geclaimd. Offerte wacht op nieuwe .docx-huisstijl. Simon stuurt alleen na aparte ja.
 
 ## In flight
 
@@ -15,6 +15,7 @@ Owner: La Vaca Saturno Saturnita. Chief of Staff keeps this current.
 - [x] Check koper en preferred supplier, Saxion en Hogeschool Rotterdam, 8 september 2026. Bestand: `/Users/marvin/Documents/Work/CareerHandling/check-saxion-hr-2026-09-08.md`
 - [x] Hogeschool Rotterdam af. Simon: CareerHandling zat in de tender en won niet. Niet terug naar dat panel.
 - [x] Saxion dicht, tenzij een benoemde koper buiten het Calder-kader verschijnt.
+- [x] Shortlist morgen 10 sep 2026: `/Users/marvin/Documents/Work/CareerHandling/leads-2026-09-10.md`
 - [ ] Pitch-voorstel werkgever ligt vast. Niet gebruiken. Bestand: `/Users/marvin/Documents/Work/CareerHandling/pitch-voorstel-werkgever.md`
 
 ## Standing
@@ -25,4 +26,4 @@ Owner: La Vaca Saturno Saturnita. Chief of Staff keeps this current.
 - Dutch. Simon sends. Nothing goes out without a yes.
 - Volgende naam alleen als die geen bestaande preferred-supplier-stoel is. Geen outreach.
 - Offerte-aanvraag: geen koper benaderen. Simon stuurt, en alleen na een aparte ja. Hogeschool Rotterdam en Saxion blijven af. Eerste drie reacties pakken vaak de lead.
-- Nog geen volgende naam gepakt. WUR, Witteveen+Bos en Achmea wachten op een stoel-check, niet op een brief.
+- Shortlist 10 sep: Belastingdienst eerst, dan Achmea, Aegon, WUR voorwaardelijk. Witteveen+Bos af. Geen brief zonder koper.
