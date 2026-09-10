@@ -21,3 +21,7 @@ Met vriendelijke groet,
 CareerHandling BV
 Simon Slooten
 tel. 0620 363 122
+
+Templatebestand: `/Users/marvin/Documents/Work/Voorbeeld brieven/CareerHandling Template.dotx`
+Zelf-aanbieding (toon Simon, geen CH-product): `/Users/marvin/Documents/Work/Voorbeeld brieven/Voorbeeld aanbieding.docx`
+Niet herbouwen uit PDF. Kloon de .dotx, wijzig body, nieuwe bestandsnaam.

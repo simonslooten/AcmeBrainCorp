@@ -5,7 +5,7 @@ Owner: La Vaca Saturno Saturnita. Chief of Staff keeps this current.
 
 ## Needs you
 
-- Belastingdienst 20 ontwikkelassessments: geclaimd. Offerte wacht op nieuwe .docx-huisstijl. Simon stuurt alleen na aparte ja.
+- Belastingdienst 20 ontwikkelassessments: geclaimd. Offerte klaar op template: `/Users/marvin/Documents/Work/CareerHandling/Offerte-ontwikkelassessments-Belastingdienst-2026-09-10.docx`. Simon stuurt alleen na aparte ja.
 
 ## In flight
 
@@ -16,6 +16,7 @@ Owner: La Vaca Saturno Saturnita. Chief of Staff keeps this current.
 - [x] Hogeschool Rotterdam af. Simon: CareerHandling zat in de tender en won niet. Niet terug naar dat panel.
 - [x] Saxion dicht, tenzij een benoemde koper buiten het Calder-kader verschijnt.
 - [x] Shortlist morgen 10 sep 2026: `/Users/marvin/Documents/Work/CareerHandling/leads-2026-09-10.md`
+- [x] Belastingdienst-offerte op template, 10 sep 2026. Simon stuurt.
 - [ ] Pitch-voorstel werkgever ligt vast. Niet gebruiken. Bestand: `/Users/marvin/Documents/Work/CareerHandling/pitch-voorstel-werkgever.md`
 
 ## Standing
@@ -24,6 +25,7 @@ Owner: La Vaca Saturno Saturnita. Chief of Staff keeps this current.
 - Pitch and prices: Voorbeeld brieven. Do not copy those client names.
 - Employer side first. Individual coaching is the slow till.
 - Dutch. Simon sends. Nothing goes out without a yes.
+- Nieuwe brieven: kloon `Voorbeeld brieven/CareerHandling Template.dotx`. Geen rebuild uit PDF.
 - Volgende naam alleen als die geen bestaande preferred-supplier-stoel is. Geen outreach.
 - Offerte-aanvraag: geen koper benaderen. Simon stuurt, en alleen na een aparte ja. Hogeschool Rotterdam en Saxion blijven af. Eerste drie reacties pakken vaak de lead.
 - Shortlist 10 sep: Belastingdienst eerst, dan Hogeschool Utrecht, VPRO, Achmea, Aegon. WUR voorwaardelijk. Witteveen+Bos af. Geen brief zonder koper.

@@ -5,7 +5,8 @@ Living list. Chief of Staff keeps this current. Chat is not the list.
 ## Morgen 10 september 2026
 
 - [ ] AcmeBrainCorp-klanten: shortlist `Documents/Work/acmebraincorp-leads-2026-09-10.md`. Kies één: Overbetuwe of Tiel eerste contact (geen prijs). Zutphen is verstuurd.
-- [ ] CareerHandling-klanten: shortlist `Documents/Work/CareerHandling/leads-2026-09-10.md`. Eerst Belastingdienst-offerte in nieuwe .docx-layout (vóór 11:00). Daarna LoopbaanNederland 11:00–13:00. Daarna HU / VPRO / Achmea / Aegon.
+- [x] Belastingdienst-offerte op template klaar (10 sep): `CareerHandling/Offerte-ontwikkelassessments-Belastingdienst-2026-09-10.docx`. Simon stuurt.
+- [ ] CareerHandling: LoopbaanNederland 11:00–13:00. Daarna HU / VPRO / Achmea / Aegon. Shortlist `Documents/Work/CareerHandling/leads-2026-09-10.md`.
 - [ ] Buffer-account voor agents: inloggen op Grok Bot-computer als je bij de Mac bent. Geen wachtwoord in chat. Drie X-posts staan al gepland (10, 14, 16 sep 08:30).
 
 ## Needs you
