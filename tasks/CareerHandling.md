@@ -17,6 +17,8 @@ Owner: La Vaca Saturno Saturnita. Chief of Staff keeps this current.
 - [x] Saxion dicht, tenzij een benoemde koper buiten het Calder-kader verschijnt.
 - [x] Shortlist morgen 10 sep 2026: `/Users/marvin/Documents/Work/CareerHandling/leads-2026-09-10.md`
 - [x] Belastingdienst-offerte op template, 10 sep 2026. Simon stuurt.
+- [x] Concurrentie-analyse CoS: `CareerHandling/concurrentie-analyse-2026-09-10.md`
+- [ ] Werksessie 11 sep 2026: herpositionering + site + social. Pakket `herpositionering-sessie-2026-09-11.md`. USP: ondernemers + diepe AI. Geen live zonder ja.
 - [ ] Pitch-voorstel werkgever ligt vast. Niet gebruiken. Bestand: `/Users/marvin/Documents/Work/CareerHandling/pitch-voorstel-werkgever.md`
 
 ## Standing
