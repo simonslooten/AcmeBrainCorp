@@ -14,13 +14,16 @@ Niets live zetten zonder aparte ja van Simon.
 
 ## 1. Positionering — voorstel om te besluiten
 
-**Voorstel kernzin (werkgever):**  
-CareerHandling combineert ondernemersverstand met diepe AI-ondersteuning — onder supervisie van psychologen — voor assessments en outplacement die sneller tot de juiste match leiden.
+**Kern (Simon, 10 sep — niet toeval):**  
+Dit is een bewuste lijn uit ~40 jaar praktijk. Mainstream verkoopt “AI lost het op” of “AI is eng, dus stop”. Wij verkopen de waarheid: AI is krachtig én gevaarlijk zonder sturing; ondernemers + diepe AI onder menselijk toezicht.
 
-**USP-volgorde (Simon):**
+**Kernzin (werkgever):**  
+CareerHandling combineert ondernemersverstand met diepe AI — onder supervisie van psychologen — zodat matches sneller kloppen en autonome tools niet ongecontroleerd je HR raken.
+
+**USP-volgorde (vast):**
 1. Ondernemers (besluit, arbeidsmarkt, kosten, “leuke baan”)
-2. Diepe inzet van AI (matching, dossierpatroon, jobsearch — niet “weer een testportaal”)
-3. Bewijs: >96% outplacement binnen 3 maanden; 24+ jaar; COTAN + NIP-toezicht
+2. Diepe AI onder menselijk toezicht (matching, dossierpatroon, jobsearch — niet testportaal-hype; wel agents-met-rem)
+3. Bewijs: >96% outplacement ≤3 mnd; 24+ jaar; COTAN + NIP
 
 **Niet claimen zonder bewijs:** “significant betere matches”, lagere kosten, bias-vrij, “vestigingen” alsof het een keten is.
 
@@ -100,3 +103,23 @@ Huidige staat: één Gamma-pagina; dienst-/privacy-/team-URL’s 404; meta kandi
 - `concurrentie-analyse-2026-09-10.md`
 - `ch-site-critique-2026-09-10.md`
 - `ch-competitor-scan-2026-09-10.md`
+
+---
+
+## 6. Verzilveren — waarheid als product (10 sep avond)
+
+**Wat we NIET verkopen:** AI-magic, angsttheater, “wij hebben ook ChatGPT”.
+**Wat we WEL verkopen:** de voorsprong die mainstream mist — agents komen eraan; zonder ondernemersoordeel + menselijke rem gaat het mis; met diepe AI + toezicht win je snelheid én controle.
+
+### Drie producten / haakjes
+1. **Outplacement** — bewijs (96%) + AI die zoekt, mens die stuurt.
+2. **Assessment / vlootschouw** — mis-hire voorkomen; AI ondersteunt patroon, psycholoog + ondernemer oordelen.
+3. **Board/directie-briefing (Omerus/Acme-kant, apart label)** — “wat mag een agent wél in jullie HR/IT” — zelfde waarheid, andere deur.
+
+### Site/social (morgen)
+- Hero = waarheid in één adem: kracht + rem + resultaat.
+- Acme = diepe AI-laag in methode, niet hype-logo.
+- LinkedIn: Coxon/agent-incidenten als *context*, niet als nieuwsjagen — “daarom doen wij X”.
+
+### Offerte-zin (copy-klaar)
+“De markt rent naar autonome AI. Wij zetten die kracht in onder ondernemersverstand en psychologisch toezicht — zodat u resultaat krijgt zonder de controle te verliezen.”
