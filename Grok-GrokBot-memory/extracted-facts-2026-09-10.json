@@ -10,16 +10,21 @@
       "Grokbot-dump_Simon-Slooten_2026-09-10_1220.md",
       "GROKBOT-dump-Simons-Project-20260910-1103.md",
       "delta-from-1220-vs-morning-2026-09-10.md",
-      "delta-from-Simons-Project-1103-vs-morning-2026-09-10.md"
+      "delta-from-Simons-Project-1103-vs-morning-2026-09-10.md",
+      "AcmeBrainCorp_GrokBot_Dump_2026-09-10_1311CEST.md",
+      "AcmeBrainCorp-GrokBot-Dump-2026-09-10-1249.md",
+      "delta-AcmeBrainCorp-2026-09-10.md"
     ],
-    "note": "Facts only from dumps. No invented metrics. Kaprun sensitivity=personal_financial. Midday append: Series A _1220 + Series B 1103. Prefer newest masters. Track split: job-search forbids RvC/RvT; coach track still discusses RvC/CAIO.",
+    "note": "Facts only from dumps. No invented metrics. Kaprun sensitivity=personal_financial. Midday append: Series A _1220 + Series B 1103. Prefer newest masters. Track split: job-search forbids RvC/RvT; coach track still discusses RvC/CAIO. Acme midday: Series C master 1311 + Series D master 1249. Prefer both; conflicts flagged in delta-AcmeBrainCorp.",
     "ingested_midday": "2026-09-10",
-    "last_updated": "2026-09-10 midday CEST",
+    "last_updated": "2026-09-10 ~13:20 CEST Acme midday",
     "masters": {
       "job_search": "Grokbot-dump_Simon-Slooten_2026-09-10_1220.md",
       "coach_project": "GROKBOT-dump-Simons-Project-20260910-1103.md",
       "coach_morning": "GROKBOT-memory-dump-2026-09-10-2.md",
-      "kaprun": "GROKBOT-dump-Kaprun-appartement-H1-2026.md"
+      "kaprun": "GROKBOT-dump-Kaprun-appartement-H1-2026.md",
+      "acme_ops_hermes": "AcmeBrainCorp_GrokBot_Dump_2026-09-10_1311CEST.md",
+      "acme_live_draft_social": "AcmeBrainCorp-GrokBot-Dump-2026-09-10-1249.md"
     }
   },
   "facts": [
@@ -794,6 +799,223 @@
       ],
       "sensitivity": "rule",
       "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "Acme masters midday: underscore Series C AcmeBrainCorp_GrokBot_Dump_2026-09-10_1311CEST.md (Hermes/ops/logo actuele brug); hyphen Series D AcmeBrainCorp-GrokBot-Dump-2026-09-10-1249.md (LIVE vs Gamma DRAFT + social). Keep both; 1249 not fully subsumed by 1311.",
+      "domain": "source_control",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris"
+      ],
+      "sensitivity": "public",
+      "added": "2026-09-10 Acme midday"
+    },
+    {
+      "fact": "Hermes Agent (Nous Research): 9 agents + Grok COO = 10 isolated profiles; routing via grok-coo. Roles: La Vaca Bunita career-lead; Bombardino Crocodilo job-scout; Balerina Cappuccina cv-optimizer; Tralalero Tralala copy-writer; Trippi Troppi market-scout; Chimpanzini Bananini product-designer; Bombombini Gusini store-operator (may send external email/Telegram); Bonica Ambalabu quality-auditor; Tung Tung Tung Sahur research-generalist. Jarvise public only — not in Hermes 9.",
+      "domain": "AcmeBrainCorp",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino",
+        "La Vaca"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 Acme midday"
+    },
+    {
+      "fact": "Public Acme About ≠ Hermes internal ops. Outplacement/Tees/social may be agent-run internally; not public Acme proposition unless Simon asks. Public website team claim: 7 members, >50% agents (Grok COO, Tralalero Research, Balerina BD, Jarvise allround).",
+      "domain": "AcmeBrainCorp",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino",
+        "La Vaca"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 Acme midday"
+    },
+    {
+      "fact": "Name overlap: Tralalero public Head of Research / internal copy-writer; Balerina public BD / internal cv-optimizer. Website copy v1.0 wins externally until About rewrite; Hermes role wins internally.",
+      "domain": "AcmeBrainCorp",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino",
+        "La Vaca"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 Acme midday"
+    },
+    {
+      "fact": "Logo canon Sept 2026 dump: Version 1 square red neural brain (square logo.jpg). May 2026 'use version 4' neon top-node overruled unless Simon re-locks. Do not use neon-icon as canon.",
+      "domain": "AcmeBrainCorp",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 Acme midday"
+    },
+    {
+      "fact": "Visual Design Brief v2.1 dark brand: #0f0f0f / #1a1a1a / #ff3b30 / #ff5e00. Website copy v1.0 is approved site copy source for that track. Biscotti font exists with Simon but not in workspace — not canon wordmark yet.",
+      "domain": "AcmeBrainCorp",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 Acme midday"
+    },
+    {
+      "fact": "LIVE acmebraincorp.com (10 Sept 2026 crawl): still long EN single-page for boards/leadership; CTAs 'Request a first conversation' / 'Request Available Dates'; CareerHandling partnerregel; no prices; no Fractional CAIO page live. Gamma 6-page draft (flagship Fractional CAIO slug /fractional-chief-ai-officer) not confirmed published. Ask live vs draft before editing 'the site'.",
+      "domain": "AcmeBrainCorp",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 Acme midday"
+    },
+    {
+      "fact": "Gamma DRAFT site palette: navy #0F172A, slate #334155, page #F1F5F9, cards white/#E2E8F0; Inter; teal banned on site. Social campaign color #FF4500 (not site primary). Do not mix campaign silhouette look into Gamma heroes.",
+      "domain": "AcmeBrainCorp",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 Acme midday"
+    },
+    {
+      "fact": "X @acmebraincorp created 15 May 2026; 1 follower on 10-09-2026; launch thread status/2055213301370331498; Buffer for scheduling; threads image on tweet 1 only; pin first tweet. Social language mix 70–80% NL / 20–30% EN. Personal LinkedIn first, then company.",
+      "domain": "AcmeBrainCorp",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 Acme midday"
+    },
+    {
+      "fact": "LinkedIn company https://linkedin.com/company/acmebraincorp is primary B2B channel. ACME Brains, Inc. (Seattle) is a different company — do not confuse.",
+      "domain": "AcmeBrainCorp",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 Acme midday"
+    },
+    {
+      "fact": "AcmeBrainCorp legal footer recorded: registered trademark of Omerus BV; KvK Rotterdam no. 59358599; VAT NL85.34.39.266.B01. Contact hello@acmebraincorp.com.",
+      "domain": "AcmeBrainCorp",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino",
+        "La Vaca"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 Acme midday"
+    },
+    {
+      "fact": "Hermes guardrails: never auto-apply to jobs without human approval; store publish needs review; external messages = copy writes, operator sends, auditor/COO may block. Demo store proves capability — not a promise of unmanned money printing. Public Tees line: AcmeBrainCorp Tees.",
+      "domain": "AcmeBrainCorp",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino",
+        "La Vaca"
+      ],
+      "sensitivity": "rule",
+      "added": "2026-09-10 Acme midday"
+    },
+    {
+      "fact": "Conflict tracks to keep separate: (1) logo Version 1 vs May v4 neon; (2) dark brief #ff3b30 vs Gamma navy/slate vs campaign #FF4500; (3) LIVE single-page vs DRAFT Gamma; (4) Reality Check/three services vs Fractional CAIO draft flagship; (5) EN site copy vs NL-majority social; (6) public About vs Hermes ops; (7) CTA label trio live/draft/Reality Check; (8) half-day Work €2490 vs dump indicative bands vs no public price.",
+      "domain": "source_control",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino",
+        "La Vaca"
+      ],
+      "sensitivity": "rule",
+      "added": "2026-09-10 Acme midday"
+    },
+    {
+      "fact": "Leadmagnet approved: The 7 AI Lies Organisations Still Believe in 2026 (acmebraincorp_7_ai_lies_2026_v2_subtle.pdf). PDF production: Version 1 logo ~1.6cm top first page; black body text; footer Copyright AcmeBrainCorp 2026 | @acmebraincorp | hello@acmebraincorp.com.",
+      "domain": "AcmeBrainCorp",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 Acme midday"
+    },
+    {
+      "fact": "Drive cores: AcmeBrainCorp folder 18ee_0IlLyUHVqDTETBxIAoMtx3XzskWW; hermes-team souls 1urUEL10YUYWSiBEhl-6QECcrub44BeSy; avatars 117iYoJLitFfUZiFmVe1TIF6A7bT-4IC-; recent Grok Config 1Lj4SVmiSxsR2n9YJvcuTxZ5Xwn0Kb-D4; Website Brief v1.0 file 16tf3_tr5bcMc6wujm8dPYHBebFAMacQ0.",
+      "domain": "AcmeBrainCorp",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 Acme midday"
+    },
+    {
+      "fact": "Ongoing Acme social task from 1249: analyse X @acmebraincorp, LinkedIn company, Google Ads and AI trends; deliver 5 Dutch-market post proposals; prefer personal LinkedIn first. Do not invent follower/ads/booking metrics. Google Ads creatives exist; no publicly visible campaigns live.",
+      "domain": "AcmeBrainCorp",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 Acme midday"
+    },
+    {
+      "fact": "FOMO LinkedIn article EN draft (~248 words, title 'The FOMO is strong with this one') and NL onderwijsartikel are thought-leadership drafts — publish status not confirmed; not new product offers; soft CTA only; Thorbecke MR mention only if Simon asks.",
+      "domain": "AcmeBrainCorp",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 Acme midday"
+    },
+    {
+      "fact": "Brr Brr owns X under Bombardino is morning ops context — not restated in Acme 1311/1249 dumps. Keep the morning rule; do not invent dump evidence either way.",
+      "domain": "rules",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Bombardino"
+      ],
+      "sensitivity": "rule",
+      "added": "2026-09-10 Acme midday"
     }
   ]
 }

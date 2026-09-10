@@ -93,3 +93,29 @@
 - RvC/RvT: morning “seeking” vs `_1220` “geen” → **track-specific**, not a silent overwrite.
 - CH metrics: morning none → midday two recorded figures (3→0, >96%).
 - Half-day pricing: Work-track €4.500 band still outside Grok dumps; 1103 indicative half-day €1.750–€2.500 is dump advice and still not public.
+
+
+---
+
+## AcmeBrainCorp dumps midday
+
+**Sources:** Series C underscore master `AcmeBrainCorp_GrokBot_Dump_2026-09-10_1311CEST.md` + Series D hyphen master `AcmeBrainCorp-GrokBot-Dump-2026-09-10-1249.md`. Delta: `delta-AcmeBrainCorp-2026-09-10.md`. Twelve Acme dump files copied to Obsidian. No outreach/email.
+
+### How to use the two Acme masters
+1. **1311** = operational bridge for Hermes (9+COO), logo Version 1 canon, Visual Design Brief dark brand, website copy v1.0, PDF/ads/EU AI Act, Drive/souls.
+2. **1249** = LIVE single-page vs Gamma DRAFT multipage + Fractional CAIO flagship + Buffer/social SOP + campaign `#FF4500` + NL social mix. **Not fully subsumed by 1311 — keep both.**
+3. When Simon says “the site,” ask live or Gamma-draft. Never invent “new site is live.”
+
+### Net-new routing (only)
+- Hermes internal ≠ public About. Bombardino = job-scout (vacancies). La Vaca = career-lead outplacement (human approve before apply). Bombombini may send external; copy writes first.
+- Logo: Version 1 square neural brain wins over May v4 neon unless Simon re-locks.
+- Social: Buffer; 70–80% NL; personal LinkedIn first; X @acmebraincorp ~1 follower (10 Sept); do not invent metrics.
+- Brr Brr X-ownership remains morning rule (not restated in these dumps).
+- Half-day Work-track €2490 and “site published / CH on How we work” stay Work-context — dumps still show LIVE≠Gamma publish gap and no public prices.
+
+### Conflicts to keep visible
+- Dark brief `#ff3b30` vs Gamma navy/slate vs campaign `#FF4500`.
+- Reality Check / three services (1311) vs Fractional CAIO draft flagship (1249).
+- CTA labels differ (live / draft / Reality Check).
+- English site copy vs Dutch-majority social.
+- Public team claim / old SEO “0-employee” layers vs soft new-site messaging vs internal Hermes meme roster.
