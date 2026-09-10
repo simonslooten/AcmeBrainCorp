@@ -23,9 +23,10 @@ Owner: La Vaca Saturno Saturnita. Chief of Staff keeps this current.
 
 - Offers: assessments, outplacement, coaching. One real employee besides Simon. Do not invent their name.
 - Pitch and prices: Voorbeeld brieven. Do not copy those client names.
-- Employer side first. Individual coaching is the slow till.
+- Employer side first. Assessmentmarkt extreem moeilijk (Simon 10 sep 2026): niet blind volume. Outplacement/coaching + warme haak eerst.
 - Dutch. Simon sends. Nothing goes out without a yes.
 - Nieuwe brieven: kloon `Voorbeeld brieven/CareerHandling Template.dotx`. Geen rebuild uit PDF.
+- Marketingbron: LoopbaanNederland geclaimde leads (MD/JSON/PDF). Prioriteit 10 sep: eerst outplacement/coaching + warme named leads met haak. Assessment alleen bij concrete opening. Geen contact zonder ja.
 - Volgende naam alleen als die geen bestaande preferred-supplier-stoel is. Geen outreach.
 - Offerte-aanvraag: geen koper benaderen. Simon stuurt, en alleen na een aparte ja. Hogeschool Rotterdam en Saxion blijven af. Eerste drie reacties pakken vaak de lead.
 - Shortlist 10 sep: Belastingdienst eerst, dan Hogeschool Utrecht, VPRO, Achmea, Aegon. WUR voorwaardelijk. Witteveen+Bos af. Geen brief zonder koper.
