@@ -1,0 +1,436 @@
+{
+  "meta": {
+    "title": "extracted-facts-2026-09-10",
+    "ingested": "2026-09-10",
+    "sources": [
+      "GROKBOT-memory-dump-2026-09-10.md",
+      "GROKBOT-memory-dump-2026-09-10-2.md",
+      "GROKBOT-dump-Simons-Project.md",
+      "GROKBOT-dump-Kaprun-appartement-H1-2026.md"
+    ],
+    "note": "Facts only from dumps. No invented metrics. Kaprun sensitivity=personal_financial."
+  },
+  "facts": [
+    {
+      "fact": "Simon Slooten (born 1963; turns 63 May 2026) lives at Ruurloseweg 109, 7251 LD Vorden; simon@simonslooten.com; +31 6 20 363 122; LinkedIn linkedin.com/in/simonslooten; X @simonslooten.",
+      "domain": "identity",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino",
+        "La Vaca"
+      ],
+      "sensitivity": "contact"
+    },
+    {
+      "fact": "Default coaching language with Grok/GrokBot is English; formal Dutch for CV, gemeente/college letters, motivatiebrieven.",
+      "domain": "working_style",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino",
+        "La Vaca"
+      ],
+      "sensitivity": "public"
+    },
+    {
+      "fact": "GrokBot role for Simon: thinking coach (Musk, Vogels, Jobs, Naval, polymaths) steering toward systems, long-term vision, leverage, asymmetric outcomes; honest, open, relaxed; ask what is missing.",
+      "domain": "working_style",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris"
+      ],
+      "sensitivity": "public"
+    },
+    {
+      "fact": "Voice: short sentences, few adjectives, 'gewoon uitleggen'; always name costs and benefits; no hype/brochure/'AI-revolutie' language.",
+      "domain": "voice_tone",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino",
+        "La Vaca"
+      ],
+      "sensitivity": "public"
+    },
+    {
+      "fact": "Formal NL close for proposals: 'Dit is een voorstel' / 'Dit betreft een voorstel'; U-vorm and complete sentences for college/gemeente.",
+      "domain": "voice_tone",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "public"
+    },
+    {
+      "fact": "Positioning line: 'Clarity in the AI noise' — he builds and runs AI, does not sell vapor.",
+      "domain": "positioning",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino",
+        "La Vaca"
+      ],
+      "sensitivity": "public"
+    },
+    {
+      "fact": "CareerHandling BV: Directeur & sole shareholder 2023–present; assessments, outplacement, (executive) coaching; deep Agentic AI integration in daily operations; previously RvC CareerHandling 2021–2023.",
+      "domain": "CareerHandling",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino",
+        "La Vaca"
+      ],
+      "sensitivity": "business"
+    },
+    {
+      "fact": "Omerus BV: Founder & DGA 2015–present; strategic advice (policy, management, IT, finance, HR, sales & marketing); Generative AI and Agentic AI training.",
+      "domain": "companies",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino",
+        "La Vaca"
+      ],
+      "sensitivity": "business"
+    },
+    {
+      "fact": "AcmeBrainCorp (under/via Omerus, 2026–active): pioneering 0-employee Agentic AI company; demo fully automated Etsy t-shirt store (US production, EU shipping); also AI services toward CareerHandling.",
+      "domain": "AcmeBrainCorp",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino",
+        "La Vaca"
+      ],
+      "sensitivity": "business"
+    },
+    {
+      "fact": "Agent/stack names he discusses: Grok/xAI, GrokBot, Ollama, Hermes/Pantheon, multi-agent teams (Jarvis as Head of Operations; Hal, Marvin, Lucas).",
+      "domain": "AcmeBrainCorp",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris"
+      ],
+      "sensitivity": "business"
+    },
+    {
+      "fact": "Prisma IT bv: Founder & CEO 1992–2019, sold end 2018; mission-critical custom software; offices Rotterdam, Helsinki, Warschau, London, Parijs, Brussel; treated as architecture foundation under his AI narrative.",
+      "domain": "companies",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business"
+    },
+    {
+      "fact": "Earlier ventures: Bold Alliance EESV Founding Partner & Financial Director 2015–2018; Silaroca bv Founding Partner & Financial Director 2014–2018; Minihouse Curaçao nv Operations manager 1990–1992; Multihouse bv analyst/programmer 1984–1990.",
+      "domain": "companies",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina"
+      ],
+      "sensitivity": "business"
+    },
+    {
+      "fact": "JA21: Secretaris / landelijk bestuur 2021–present; landelijk campagnemanager elections 2022–2026 (TK21, GR22, PS23, TK23, EK23, TK25, GR26); ~25 FTE + 1000+ volunteers; Strategiecommissie and Expert-team Digitale Zaken.",
+      "domain": "politics_governance",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina"
+      ],
+      "sensitivity": "sensitive_business_copy"
+    },
+    {
+      "fact": "JA21 role is a biographical fact; do not push into commercial or gemeente propositions unless Simon explicitly asks.",
+      "domain": "rules",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino",
+        "La Vaca"
+      ],
+      "sensitivity": "rule"
+    },
+    {
+      "fact": "Other governance roles: Lid MR Thorbecke Talentschool 2024–present; Lid bestuur RTVIdeaal 2026–present (local broadcaster Achterhoek/Liemers; technical/strategic including studios, Dante AoIP, AI-content, licenses); RvA Yeagger 2021–2022.",
+      "domain": "politics_governance",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina"
+      ],
+      "sensitivity": "business"
+    },
+    {
+      "fact": "Education: VWO Comenius College Capelle aan den IJssel 1975–1981; Economie Erasmus Universiteit Rotterdam 1981–1983 (stopped to program); Adobe Master Trainer EMEA 1998–2014; co-author Adobe Worldwide Training Curriculum.",
+      "domain": "identity",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina"
+      ],
+      "sensitivity": "public"
+    },
+    {
+      "fact": "Search direction 2026: RvC / RvT / interim CIO in digitalization, AI, cybersecurity, governance; examples explored include Lieven de Key, Goudappel, Delfland, Deventer Ziekenhuis, Wildlands, SWW VO, Amsterdam Digital.",
+      "domain": "fractional_RvC",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business"
+    },
+    {
+      "fact": "Unique positioning angle: few people with his enterprise/governance track record also ship autonomous multi-agent systems themselves.",
+      "domain": "positioning",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business"
+    },
+    {
+      "fact": "CV is a leverage/positioning document for RvC/interim digital-governance, not a chronological life list; weave AI into profile and recent roles, not a skills list at the bottom; target ~2 pages for board roles; older roles shortened.",
+      "domain": "CareerHandling",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina"
+      ],
+      "sensitivity": "business"
+    },
+    {
+      "fact": "AcmeBrainCorp may be visible on CV but must not drown the 40-year foundation; how prominent Acme may be on the public CV is still an open decision.",
+      "domain": "AcmeBrainCorp",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina"
+      ],
+      "sensitivity": "business"
+    },
+    {
+      "fact": "No hard metrics of AI in CareerHandling or campaigns are recorded in these dumps; do not invent revenue, client names, or AI results.",
+      "domain": "rules",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino",
+        "La Vaca"
+      ],
+      "sensitivity": "rule"
+    },
+    {
+      "fact": "Introductiemail template dated 27 May 2026 exists (subjects about digitale transformatie / RvC & Agentic AI); status template, not sent from this project; no specific addressee.",
+      "domain": "fractional_RvC",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business"
+    },
+    {
+      "fact": "Product: half-day Board & Leadership AI Awareness for college, directie, senior management (often gemeente); core deliverable is a besluitkader, not an awareness show; can be on-site at the municipality.",
+      "domain": "AcmeBrainCorp",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business"
+    },
+    {
+      "fact": "Half-day content pillars from Simon's voice: explain EU AI Act plainly; frame where AI creates value vs where it costs money and goodwill; how to recognize a vendor while they still talk and which questions matter.",
+      "domain": "AcmeBrainCorp",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business"
+    },
+    {
+      "fact": "Approved half-day mapping: 'in mijn stijl' → versie 1 (informal); 'formeler' → versie 2 formal werkversie for college/gemeentesecretaris (8 Sept 2026). No complete mail with salutation yet — municipality/addressee missing.",
+      "domain": "voice_tone",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business"
+    },
+    {
+      "fact": "Text workflow Simon expects: (1) raw draft (2) critique including weaknesses, devil's advocate, assumptions, audience-fit, 10/10 version (3) polished output.",
+      "domain": "working_style",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "public"
+    },
+    {
+      "fact": "Never store or ask for credentials, passwords, bank details, or exact public IP addresses; do not leak ports/IPs in texts sent to third parties.",
+      "domain": "rules",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino",
+        "La Vaca"
+      ],
+      "sensitivity": "rule"
+    },
+    {
+      "fact": "Homelab (personal): Plex runs on Synology; router Nokia XS-2426G-B; public IPv4 present (no CGNAT); shares Plex with his son; status was 'Not available outside your network' on 25 June 2026.",
+      "domain": "homelab",
+      "share_with": [
+        "Chief of Staff",
+        "personal-only"
+      ],
+      "sensitivity": "personal"
+    },
+    {
+      "fact": "Plex advice line: prefer native Plex Remote Access (TCP 32400) first so son sharing stays simple; Nokia 'WAN / IP routing' screen is static routes, not port forwarding; Tailscale as fallback for Simon's own LAN access if Nokia forwarding frustrates. Finish not confirmed.",
+      "domain": "homelab",
+      "share_with": [
+        "Chief of Staff",
+        "personal-only"
+      ],
+      "sensitivity": "personal"
+    },
+    {
+      "fact": "Fotoculling on Mac (Aug 2026): PhotoCuller first recommended (native, one-time purchase, trial first); then Keeper; Aftershoot if AI first-pass desired; CullKit if photos live on Synology. No purchase confirmed.",
+      "domain": "personal_tools",
+      "share_with": [
+        "Chief of Staff",
+        "personal-only"
+      ],
+      "sensitivity": "personal"
+    },
+    {
+      "fact": "Kaprun apartment (Austria): vacation unit; ownership 50/50 Simon Slooten and Ida Kersseboom (ex-wife); bookkeeping name 'Slooten Simon und Kersseboom Ida'; activity Erlöse Beherbergung 20% (short-term lodging).",
+      "domain": "Kaprun",
+      "share_with": [
+        "personal-only",
+        "Chief of Staff",
+        "Archivaris"
+      ],
+      "sensitivity": "personal_financial"
+    },
+    {
+      "fact": "Kaprun H1 2026 vs H1 2025 (rounded): revenue Beherbergung 27318 vs 34567 (−21%); EBT 12860 vs 20197 (−36%); Hausbetreuung 5233 vs 5121; interest 3084 vs 3303 (−7%). June 2026 revenue 0 / EBT ca. −4405 = shoulder month.",
+      "domain": "Kaprun",
+      "share_with": [
+        "personal-only",
+        "Chief of Staff"
+      ],
+      "sensitivity": "personal_financial"
+    },
+    {
+      "fact": "Kaprun decisions: operating asset with high fixed-cost leverage (knobs = occupancy & ADR); Hausbetreuung ~19% of revenue normal/sharp; deterioration vs 2025 mainly lower revenue not exploding costs; ~€22.8k Betriebs- und Geschäftsausstattung investment in H1; Sparkasse loan declining.",
+      "domain": "Kaprun",
+      "share_with": [
+        "personal-only",
+        "Chief of Staff"
+      ],
+      "sensitivity": "personal_financial"
+    },
+    {
+      "fact": "Kaprun benchmark (21 July 2026 reading): Zell am See AirDNA best public proxy; object H1 revenue near a market-average full-year listing — above average with unknown unit size/quality caveat; his −21% drop steeper than market ~−9%. Do not invent m², nights, ADR, occupancy, or H2.",
+      "domain": "Kaprun",
+      "share_with": [
+        "personal-only",
+        "Chief of Staff"
+      ],
+      "sensitivity": "personal_financial"
+    },
+    {
+      "fact": "Kaprun report address Kanaalweg 52, 2903 LS Capelle a/d IJssel must not be conflated with Simon's Vorden home address.",
+      "domain": "Kaprun",
+      "share_with": [
+        "personal-only",
+        "Chief of Staff",
+        "Archivaris"
+      ],
+      "sensitivity": "personal"
+    },
+    {
+      "fact": "Kaprun is PERSONAL/financial — not for CareerHandling or AcmeBrainCorp outreach bots (Balerina/Bombardino/La Vaca must not use for pitches).",
+      "domain": "rules",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino",
+        "La Vaca"
+      ],
+      "sensitivity": "rule"
+    },
+    {
+      "fact": "Other Grok projects (Hermes/Pantheon detail, Etsy shop, JA21 campaign texts, deep RTVIdeaal tech) are not in these dumps; if needed they must be dumped separately — do not invent.",
+      "domain": "rules",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris"
+      ],
+      "sensitivity": "rule"
+    },
+    {
+      "fact": "Prefer GROKBOT-memory-dump-2026-09-10-2.md over GROKBOT-memory-dump-2026-09-10.md as master coach dump; dump-2 adds homelab and fotoculling same day. GROKBOT-dump-Simons-Project.md is the condensed decisions/approved-texts view.",
+      "domain": "source_control",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris"
+      ],
+      "sensitivity": "public"
+    },
+    {
+      "fact": "Source CV 2026 exists as pdf+docx in the Grok project attachments; generated 2-page AI-updated CV from May 2026 is missing from artifacts.",
+      "domain": "fractional_RvC",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina"
+      ],
+      "sensitivity": "business"
+    },
+    {
+      "fact": "Typos noted in source CV to correct: intergratie→integratie, Veranwoordelijk→Verantwoordelijk, organsatie→organisatie.",
+      "domain": "CareerHandling",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina"
+      ],
+      "sensitivity": "business"
+    }
+  ]
+}
