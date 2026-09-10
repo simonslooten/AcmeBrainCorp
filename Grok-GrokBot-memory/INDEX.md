@@ -1,96 +1,98 @@
 # INDEX — Grok → GrokBot memory dumps
-**Ingested:** 2026-09-10  
+**Last updated:** 2026-09-10 midday (CEST)  
 **Source folder:** `/Users/marvin/Documents/Work/Grok -> GrokBot memory/`  
 **Obsidian copy:** `/Users/marvin/Documents/ObsidianVault/Hermes_Team/Grok-GrokBot-memory/`  
-**Rule:** Do not invent facts. Do not email anyone from these dumps. Kaprun = PERSONAL/financial — not for CH/ABC outreach bots.
+**Rules:** Do not invent facts. Do not email/outreach from these dumps. Kaprun = PERSONAL/financial. Incremental dumps often duplicate — **always prefer newest timestamped master**.
 
 ---
 
-## Dump overlap note
-- `GROKBOT-memory-dump-2026-09-10.md` = first full thinking-coach dump (CV, intro mail, half-day text).
-- `GROKBOT-memory-dump-2026-09-10-2.md` = **newer / more complete** same-day update: same core + **homelab/Plex** + **Mac fotoculling** + slightly richer RTVIdeaal note + stricter “no IP/credentials” rule.
-- Prefer **dump-2** as master for Simon's Project coach layer; dump-1 remains historical.
-- `GROKBOT-dump-Simons-Project.md` = condensed decisions + approved texts from that project (aligned with dump-2).
-- `GROKBOT-dump-Kaprun-appartement-H1-2026.md` = separate personal real-estate track only.
+## Masters (agents: start here)
+
+| Track | Master file | Status |
+|-------|-------------|--------|
+| Thinking coach / Simon's Project | `GROKBOT-dump-Simons-Project-20260910-1103.md` | **MASTER** |
+| Coach baseline (morning, still useful) | `GROKBOT-memory-dump-2026-09-10-2.md` | **MASTER** (morning coach; prefer 1103 for expanded commercial/LinkedIn/CH) |
+| Job-search / CISO Freep / Aalten | `Grokbot-dump_Simon-Slooten_2026-09-10_1220.md` | **MASTER** |
+| Kaprun apartment H1 2026 | `GROKBOT-dump-Kaprun-appartement-H1-2026.md` | **MASTER** (personal-only) |
+
+**Deltas (net-new only):**
+- `delta-from-1220-vs-morning-2026-09-10.md`
+- `delta-from-Simons-Project-1103-vs-morning-2026-09-10.md`
+
+**Machine-readable:** `extracted-facts-2026-09-10.json`  
+**Routing note:** `synthesis-for-agents-2026-09-10.md`
+
+### Critical track split
+- **Job-search Series A (`_1220`):** hard rule **Geen RvC / Geen RvT**; active CISO Aalten; Freep paste texts; €130 anchor.
+- **Coach Series B (`1103`) + dump-2:** still discusses RvC/RvT/CAIO, Acme commercial, LinkedIn posts, CH ops metrics.
+- Do **not** merge these into one policy. Kaprun stays personal-only.
 
 ---
 
-## 1. GROKBOT-memory-dump-2026-09-10.md
-- **Title:** GROKBOT MEMORY DUMP (thinking coach — first dump)
-- **Scope:** Identity, companies/roles, text workflow, CV update track, intro mail template, Board & Leadership AI Awareness versions (8 Sept 2026), open ends
-- **Date:** 2026-09-10 (morning; file mtime ~10:38)
-- **Who should use:** Chief of Staff, Archivaris, Balerina, Bombardino, La Vaca (business facts only). Not for Kaprun. JA21 = fact, not default business copy.
-- **Key facts:**
-  - Simon is thinking-coach client; coach line = Musk/Vogels/Jobs/Naval/polymaths → systems, leverage, asymmetry.
-  - Lives Vorden; companies: CareerHandling BV (DGA), Omerus BV (DGA), AcmeBrainCorp (via Omerus, 2026).
-  - Positioning: “Clarity in the AI noise”; builds/runs AI, no hype brochure language.
-  - Seeking RvC / RvT / interim CIO digital & AI governance; explored e.g. Lieven de Key, Goudappel, Delfland, Deventer Ziekenhuis, Wildlands, SWW VO, Amsterdam Digital.
-  - Half-day product = besluitkader (EU AI Act plain, costs+benefits, vendor questions); formal werkversie 2 for college.
-  - Introductiemail = template only, not sent from this project.
-  - JA21 landelijk bestuur / campagnemanager; do not push into gemeente sales copy unless asked.
-  - No hard AI metrics for CareerHandling or campaigns recorded; do not invent.
-  - Formal NL: U-vorm, complete sentences, “Dit betreft een voorstel”.
-  - Never store credentials / passwords / bank details.
+## Full file inventory
 
-## 2. GROKBOT-memory-dump-2026-09-10-2.md
-- **Title:** GROKBOT MEMORY DUMP (thinking coach — updated same day)
-- **Scope:** Dump-1 content + Plex/Synology/Nokia homelab + Mac fotoculling advice + usage rules for GrokBot
-- **Date:** 2026-09-10 (bijgewerkt same day; file mtime ~10:43) — **prefer this over dump-1**
-- **Who should use:** Chief of Staff, Archivaris; Balerina/Bombardino/La Vaca for business sections only. Homelab/foto = personal-only / Chief of Staff hygiene. Not Kaprun.
-- **Key facts:**
-  - Explicitly supersedes dump-1 with added tracks; other Grok projects still not in this workspace.
-  - Stack named: Grok/xAI, GrokBot, Ollama, Hermes/Pantheon, multi-agent (Jarvis / Hal / Marvin / Lucas).
-  - RTVIdeaal bestuur 2026: lokale omroep Achterhoek/Liemers; technical/strategic (studio’s, Dante AoIP, AI-content, licenses).
-  - Plex on Synology; router Nokia XS-2426G-B; public IPv4 (no CGNAT); shares Plex with son; exact IP must not be stored.
-  - Nokia “WAN / IP routing” screen ≠ port forwarding; Plex path preferred first (TCP 32400).
-  - Fotoculling Mac: PhotoCuller first advice (trial first); Keeper / Aftershoot / CullKit as ordered alternatives; no purchase confirmed.
-  - Same approved half-day formal versie 2 and intro mail template as dump-1.
-  - Open: Plex finish (Nokia vs Tailscale); fotoculling trial; Acme prominence on public CV; gemeente name for half-day.
-  - Homelab: no ports/IPs in third-party texts.
+### Baseline (morning — keep)
+| File | Status |
+|------|--------|
+| `GROKBOT-memory-dump-2026-09-10.md` | superseded_by `GROKBOT-memory-dump-2026-09-10-2.md` |
+| `GROKBOT-memory-dump-2026-09-10-2.md` | **MASTER** (morning coach baseline) |
+| `GROKBOT-dump-Simons-Project.md` | superseded_by `GROKBOT-dump-Simons-Project-20260910-1103.md` (lean morning) |
+| `GROKBOT-dump-Kaprun-appartement-H1-2026.md` | **MASTER** personal |
 
-## 3. GROKBOT-dump-Simons-Project.md
-- **Title:** GROKBOT-dump — Simon's Project
-- **Scope:** Condensed truth of Simon's Project only: coach rules, fixed decisions, bio bullets, approved texts, open ends
-- **Date:** 2026-09-10
-- **Who should use:** Chief of Staff, Archivaris, Balerina, Bombardino, La Vaca (as applicable). Personal homelab bullets only as needed. Not Kaprun.
-- **Key facts:**
-  - Project = personal coach layer, not campaign handbook and not full homelab manual.
-  - CV = leverage doc for RvC / interim digital-governance, not life story; AI woven into profile + recent roles.
-  - AcmeBrainCorp may be visible but must not drown 40-year foundation; Prisma IT = architecture foundation under AI story.
-  - Half-day = besluitkader; “in mijn stijl” → versie 1; “formeler” → versie 2 (werkversie).
-  - Intro mail template 27 May 2026; not sent; no fixed addressee.
-  - Plex: native remote access first because sharing with son; PhotoCuller first for Mac culling.
-  - Contains approved NL texts A–E (intro + half-day variants).
-  - States other deelprojecten must be dumped separately — do not invent Hermes/Etsy/JA21 campaign detail.
-  - Contact: simon@simonslooten.com, +31 6 20 363 122, LinkedIn, X @simonslooten.
+### Series A — Simon-Slooten job-search dumps (prefer latest)
+| File | Status |
+|------|--------|
+| `Grokbot-dump_Simon-Slooten_2026-09-10.md` | superseded_by `_1220` |
+| `Grokbot-dump_Simon-Slooten_2026-09-10_1112.docx` | superseded_by `_1220` (early snapshot; content redundant vs later md) |
+| `Grokbot-dump_Simon-Slooten_2026-09-10_1135.md` | superseded_by `_1220` |
+| `Grokbot-dump_Simon-Slooten_2026-09-10_1145.md` | superseded_by `_1220` |
+| `Grokbot-dump_Simon-Slooten_2026-09-10_1150.md` | superseded_by `_1220` |
+| `Grokbot-dump_Simon-Slooten_2026-09-10_1153.md` | superseded_by `_1220` |
+| `Grokbot-dump_Simon-Slooten_2026-09-10_1155.md` | superseded_by `_1220` |
+| `Grokbot-dump_Simon-Slooten_2026-09-10_1157.md` | superseded_by `_1220` |
+| `Grokbot-dump_Simon-Slooten_2026-09-10_1208.md` | superseded_by `_1220` |
+| `Grokbot-dump_Simon-Slooten_2026-09-10_1220.md` | **MASTER** Series A |
 
-## 4. GROKBOT-dump-Kaprun-appartement-H1-2026.md — PERSONAL / FINANCIAL
-- **Title:** GROKBOT-dump — Kaprun appartement H1 2026
-- **Scope:** Vacation apartment Kaprun AT — H1 2026 bookkeeping analysis + market benchmark only
-- **Date:** Dump 2026-09-10; source thread 2026-07-21
-- **Who should use:** **personal-only** + Chief of Staff (awareness). **Archivaris** may index with sensitivity flag. **Not** for Balerina / Bombardino / La Vaca outreach, CH letters, or AcmeBrainCorp sales.
-- **Key facts:**
-  - 50/50 ownership Simon Slooten & Ida Kersseboom (ex-wife); short-term lodging (Beherbergung 20%), not long lease.
-  - Bookkeeping via Fritzenwallner | Gandler; report name “Slooten Simon und Kersseboom Ida”.
-  - H1 2026 EBT ≈ €12.860 (vs €20.197 H1 2025, –36%); revenue –21% vs costs roughly flat.
-  - Operating asset with high fixed-cost leverage; knobs = occupancy & ADR; Hausbetreuung ~19% of revenue = normal/sharp, not first cut.
-  - Capex ~€22.8k Betriebs- und Geschäftsausstattung in H1; June 2026 revenue €0 = shoulder month, not “broken”.
-  - Sparkasse loan balance declining; interest down with amortization.
-  - Benchmark: Zell am See AirDNA as best public proxy; object’s H1 revenue near a market average *full year* — above-average with unit-size caveat.
-  - Do not invent m², rooms, nights, ADR, occupancy, or H2 forecast.
-  - Report address Capelle a/d IJssel ≠ Simon’s Vorden home — do not conflate.
-  - No bank account numbers / PINs; no “sell/buy another” advice without missing variables.
+Note: `_1141` mentioned inside dumps as archive but **not present** as a file in Work folder.
+
+### Series B — Simons-Project revisions (prefer latest)
+| File | Status |
+|------|--------|
+| `GROKBOT-dump-Simons-Project.md` | superseded_by `…-1103` |
+| `GROKBOT-dump-Simons-Project-2.md` | superseded_by `…-1103` |
+| `GROKBOT-dump-Simons-Project-20260910-1056.md` | superseded_by `…-1103` |
+| `GROKBOT-dump-Simons-Project-20260910-1100.md` | superseded_by `…-1103` |
+| `GROKBOT-dump-Simons-Project-20260910-1103.md` | **MASTER** Series B |
+
+### Derived / index
+| File | Role |
+|------|------|
+| `INDEX.md` | this file |
+| `synthesis-for-agents-2026-09-10.md` | Chief of Staff routing (includes midday updates section) |
+| `extracted-facts-2026-09-10.json` | facts store (append-only midday) |
+| `delta-from-1220-vs-morning-2026-09-10.md` | Series A net-new |
+| `delta-from-Simons-Project-1103-vs-morning-2026-09-10.md` | Series B net-new |
 
 ---
 
 ## Share map (names only)
-| Dump | Chief of Staff | Archivaris | Balerina | Bombardino | La Vaca | personal-only |
-|---|---|---|---|---|---|---|
-| memory-dump-2026-09-10 | yes | yes | yes | yes | yes | — |
-| memory-dump-2026-09-10-2 | yes | yes | business only | business only | business only | homelab/foto |
-| Simons-Project | yes | yes | yes | yes | yes | homelab bullets |
-| Kaprun H1 2026 | awareness | index+flag | **no** | **no** | **no** | **yes** |
 
-## Related machine-readable extract
-- `extracted-facts-2026-09-10.json` (Work + Hermes copies)
-- `synthesis-for-agents-2026-09-10.md` (Hermes only — Chief of Staff)
+| Source | Chief of Staff | Archivaris | Balerina | Bombardino | La Vaca | personal-only |
+|--------|----------------|------------|----------|------------|---------|---------------|
+| dump-2 (coach morning) | yes | yes | business only | business only | business only | homelab/foto |
+| Simons-Project-1103 | yes | yes | yes (CH/Acme commercial) | yes | yes | homelab bullets |
+| Simon-Slooten `_1220` (job-search) | yes | yes | yes (job-search / Freep) | yes | caution | — |
+| Kaprun H1 2026 | awareness | index+flag | **no** | **no** | **no** | **yes** |
+| delta-1220 | yes | yes | yes | yes | yes | — |
+| delta-1103 | yes | yes | yes | yes | yes | — |
+
+**Share recommendation:**
+- **Chief of Staff / Archivaris:** all masters + both deltas.
+- **Balerina / Bombardino:** `_1220` delta (CISO Aalten, Freep texts, rate, no-RvC for that track) + `1103` delta (Acme/CH commercial, LinkedIn drafts, leads Bijdevaate/Christiania). Do **not** auto-email.
+- **La Vaca:** business facts from 1103 + job-search constraints from `_1220`; no Kaprun.
+- **Kaprun:** personal-only + CoS awareness only.
+
+---
+
+## Docx handling
+`Grokbot-dump_Simon-Slooten_2026-09-10_1112.docx` copied to Obsidian. Text extract shows early Series A content (identity, hard decisions, Aalten Freep texts). **Redundant** vs `_1220.md` master; keep as archive binary only.

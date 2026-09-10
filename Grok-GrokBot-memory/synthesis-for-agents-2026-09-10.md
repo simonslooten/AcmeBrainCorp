@@ -70,3 +70,26 @@
 - Start new text from last approved version in dumps, not from zero.
 - Ask missing variables: audience, channel, formality, whether Acme may be prominent, gemeente name, length.
 - Kaprun = personal-only share; outreach agents do not get financial detail for pitches.
+
+---
+
+## Updates 2026-09-10 midday
+
+**Sources added:** Series A `Grokbot-dump_Simon-Slooten_*` (master `_1220`) + Series B `GROKBOT-dump-Simons-Project-*` (master `1103`). Deltas in folder. More dumps may still arrive — prefer newest timestamp.
+
+### Net-new guidance (only)
+1. **Two tracks — do not merge**
+   - Job-search (`_1220`): **no RvC/RvT**; parttime/fractional/CISO/AI; active **CISO Aalten** Freep; anchor **€130/h** (Aalten Freep €129 → €109,65 after 15%); approved Freep paste texts; no unsolicited letters; no EA title; PM-first then Agentic AI; Acme out of CISO CV until Simon says otherwise.
+   - Coach/commercial (`1103`): still RvC/CAIO/fractional; Acme commercial + LinkedIn content; CH warm tone; money-first mid-market 50–300.
+2. **Metrics now recorded (do not invent beyond these):** CH job hunters 3 FTE → ~0 via AI; outplacement **>96%** within 3 months. Morning “no hard metrics” is partially outdated for these two figures only.
+3. **Prisma exit language:** “sold in 2018” — dump states sold for €1 because it wasn’t going well; no flashy exit story.
+4. **Acme LinkedIn vs site:** 0-employee framing on site only; LinkedIn = brand, no URL, no 0-employee story; AI posts as Acme CEO on personal profile.
+5. **Freep Aalten:** use approved Eis/Wens texts verbatim; check submit/offerte status; 1 day/week on-site yes.
+6. **Riverflex TPM texts:** approved NL/EN exist but status historical — re-verify URL before presenting as open.
+7. **No outreach/email** from these dumps. Kaprun still personal-only.
+8. **Prefer masters:** `_1220`, `Simons-Project-1103`, dump-2, Kaprun. Superseded files stay listed in INDEX with `superseded_by`.
+
+### Contradictions vs morning synthesis
+- RvC/RvT: morning “seeking” vs `_1220` “geen” → **track-specific**, not a silent overwrite.
+- CH metrics: morning none → midday two recorded figures (3→0, >96%).
+- Half-day pricing: Work-track €4.500 band still outside Grok dumps; 1103 indicative half-day €1.750–€2.500 is dump advice and still not public.

@@ -6,9 +6,21 @@
       "GROKBOT-memory-dump-2026-09-10.md",
       "GROKBOT-memory-dump-2026-09-10-2.md",
       "GROKBOT-dump-Simons-Project.md",
-      "GROKBOT-dump-Kaprun-appartement-H1-2026.md"
+      "GROKBOT-dump-Kaprun-appartement-H1-2026.md",
+      "Grokbot-dump_Simon-Slooten_2026-09-10_1220.md",
+      "GROKBOT-dump-Simons-Project-20260910-1103.md",
+      "delta-from-1220-vs-morning-2026-09-10.md",
+      "delta-from-Simons-Project-1103-vs-morning-2026-09-10.md"
     ],
-    "note": "Facts only from dumps. No invented metrics. Kaprun sensitivity=personal_financial."
+    "note": "Facts only from dumps. No invented metrics. Kaprun sensitivity=personal_financial. Midday append: Series A _1220 + Series B 1103. Prefer newest masters. Track split: job-search forbids RvC/RvT; coach track still discusses RvC/CAIO.",
+    "ingested_midday": "2026-09-10",
+    "last_updated": "2026-09-10 midday CEST",
+    "masters": {
+      "job_search": "Grokbot-dump_Simon-Slooten_2026-09-10_1220.md",
+      "coach_project": "GROKBOT-dump-Simons-Project-20260910-1103.md",
+      "coach_morning": "GROKBOT-memory-dump-2026-09-10-2.md",
+      "kaprun": "GROKBOT-dump-Kaprun-appartement-H1-2026.md"
+    }
   },
   "facts": [
     {
@@ -431,6 +443,357 @@
         "Balerina"
       ],
       "sensitivity": "business"
+    },
+    {
+      "fact": "TRACK SPLIT: Job-search Series A (_1220) hard rule = Geen RvC / Geen RvT. Coach Series B (1103) still seeks fractional CAIO/CIO + RvC/RvT/interim. Do not merge into one policy.",
+      "domain": "source_control",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino",
+        "La Vaca"
+      ],
+      "sensitivity": "rule",
+      "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "Prefer masters: Grokbot-dump_Simon-Slooten_2026-09-10_1220.md (job-search); GROKBOT-dump-Simons-Project-20260910-1103.md (coach); GROKBOT-memory-dump-2026-09-10-2.md (morning coach baseline); Kaprun H1 dump (personal). Incremental dumps duplicate — newest timestamp wins.",
+      "domain": "source_control",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris"
+      ],
+      "sensitivity": "public",
+      "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "Active job-search assignment: CISO Gemeente Aalten via https://www.freep.nl/opdracht/ciso-12; 1 day/week on-site yes (Vorden); CV artifacts/CV_Simon_Slooten_CISO_Aalten_2026.docx; check if Freep form finally submitted / offerte status.",
+      "domain": "job_search_Aalten",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "Approved Freep Aalten paste answers exist for Eis 1–4 (HBO Nee; CISSP/CISM Nee; 5y strategic IB Ja; 1 day Aalten Ja) and Wens 5–9 (Cyberwet/BIO2/AVG; risico/leverancier/incident; governance; draagvlak; verbinden). Do not rewrite without consult.",
+      "domain": "job_search_Aalten",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "Job-search hard decisions: parttime/fractional/ZZP 16–32h or 3–4 days/week; urgency high; no unsolicited letters; working verified URL required; files only in /home/workdir/artifacts/; never party name externally; never inflate education/certs (no HBO bachelor, no CISSP, no CISM).",
+      "domain": "job_search_rules",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino",
+        "La Vaca"
+      ],
+      "sensitivity": "rule",
+      "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "Anchor hourly rate €130. Freep CISO Aalten: €129; after Freep 15% margin €109,65. Keep €130 on other assignments unless max is lower.",
+      "domain": "job_search_rules",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "No title 'Enterprise Architect' — not active as such 20+ years. Historical Prisma phrasing: advisering, training en PM van enterprise software-systemen. Emphasize Technical Trainer (Adobe Master Trainer EMEA 1998–2014).",
+      "domain": "positioning",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "Skillset order (approved 28 May 2026, reconfirmed 10 Sept): first PM of large custom software projects (Prisma IT); then recent GenAI/Agentic AI (AcmeBrainCorp/Omerus). Do not reverse unless Simon asks.",
+      "domain": "positioning",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "AcmeBrainCorp deliberately omitted from CISO CV Aalten; use in AI/PM applications. Do not restore to CISO CV without consult.",
+      "domain": "AcmeBrainCorp",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "Old 8-point style guide + automatic ratings/letters + Drive map 'Grok - Simon Slooten' are outdated. Sept 2026 dump wins over May Delfland CIO / NVWA CISO auto-letter workflow.",
+      "domain": "job_search_rules",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina"
+      ],
+      "sensitivity": "rule",
+      "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "Riverflex Technical Project Manager Agentic AI: approved NL+EN letter cores dated 28 May 2026 exist; status Sept 2026 historical — re-verify URL before presenting as open; unknown if letter sent. Reusable as base for similar TPM/Agentic roles with fields adjusted; not unsolicited.",
+      "domain": "job_search_Riverflex",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "Early Sept 2026 leads to re-verify (fit scores are estimates): Fractional CISO 10x Team; Fractional CTO-AI Trainer 10x Team; CISO Aalten (active); CISO NVWA/Oss/Vijfheerenlanden; AI Lead Gemeente Amsterdam (deadline was 14 Sept 2026); CTO TAF fulltime not deeltijd; Riverflex/Delfland historical.",
+      "domain": "job_search_leads",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "Do not mix CareerHandling candidates (e.g. Willem Bakker, Sybren Jukema) into Simon's own job search.",
+      "domain": "rules",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino",
+        "La Vaca"
+      ],
+      "sensitivity": "rule",
+      "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "CareerHandling recorded ops proof: job-hunter team 3 FTE → nearly 0 via Agentic AI (only hard recent AI ops metric). Outplacement success rate >96% within 3 months. Invent nothing beyond these.",
+      "domain": "CareerHandling",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino",
+        "La Vaca"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "Prisma IT sold end 2018 for €1 because it was not going well. Public language: 'sold in 2018' — no flashy exit story.",
+      "domain": "companies",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "AcmeBrainCorp framing: site may say 0-employee Agentic AI; LinkedIn = brand name only, no website URL, no 0-employee story. AI LinkedIn posts as CEO of AcmeBrainCorp on personal profile — not CareerHandling byline.",
+      "domain": "AcmeBrainCorp",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino",
+        "La Vaca"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "10-year horizon (May 2026): build Acme to sellable or semi-passive creative asset ~2035–2036; CareerHandling secondary; politics time-boxed to July 2029 then advisory.",
+      "domain": "positioning",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "Commercial coach decisions: first priority bring money in; Dutch mid-market 50–300 employees; USP battle-tested hype-filter; politics closed on LinkedIn for commercial; prices not public ('Neem contact op voor een voorstel'); stop LinkedIn headline loops — profile good enough.",
+      "domain": "fractional_RvC",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "AcmeBrainCorp site direction: away from dark one-pager toward professional multi-page (Home, What We Offer, Who We Are, Blogs later, Contact); house color rood-oranje not teal; Omerus.com stays minimal holding.",
+      "domain": "AcmeBrainCorp",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "Acme indicative pricing (May 2026 advice, NOT public): €200–€250/h; half-day €1.750–€2.500; full-day €3.000–€4.500; Reality Audit €5.000–€12.000+. Always on-request externally.",
+      "domain": "AcmeBrainCorp",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "CareerHandling vs Acme: Acme is motor; CH is human delivery layer; CH tone professional and warm; Acme on CH site subtle only; outplacement quote requests = call first to align then quote; no 'best bureau of NL' without proof.",
+      "domain": "CareerHandling",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino",
+        "La Vaca"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "LinkedIn feed-hero size for images: 1200×628 (~1.91:1). Default Grok landscape (~1.5:1) is too tall for LinkedIn.",
+      "domain": "voice_tone",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "public",
+      "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "Approved/draft LinkedIn texts in 1103: Black Box/Shoggoth (opening approved, not confirmed posted); AI puber post (raw preferred, placement not confirmed; Antigravity Tom's Hardware Dec 2025); hallucination/word-predictor post + CTA (not confirmed posted). Prefer raw over corporate polish.",
+      "domain": "voice_tone",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "CareerHandling first-contact outplacement mail (sectie N, mei 2026) is draft — not approved as sent; asker name missing. Warm+professional; cite 24+ years and >96%; ask to call to align quote.",
+      "domain": "CareerHandling",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino",
+        "La Vaca"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "Commercial lead Bijdevaate Verzekeringen & Hypotheken (Daniël van der Vliet, Zierikzee): ontwikkelassessment offerte 29 Apr 2026 Optie 1 €1.395 / Optie 2 €2.595 excl. BTW.",
+      "domain": "CareerHandling",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino",
+        "La Vaca"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "Commercial lead Christiania Shipping Holding B.V. (Rotterdam): outplacement after reorg (7 leaving, min 4 trajectories); concept Standaard €2.250 / Premium AI €2.950 pp — not confirmed sent/won. Bankruptcy check 22 May 2026: not bankrupt (active KvK/group). Not rechecked later in dump.",
+      "domain": "CareerHandling",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino",
+        "La Vaca"
+      ],
+      "sensitivity": "business",
+      "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "Process: if Simon says 'terug naar de basis' / not too much at once — only the asked piece; no 25-person lists, distribution systems, or pitch scripts unless explicit. He scores drafts ('6/10 make 10/10 but keep teeth') = sharpen, don't corporatize.",
+      "domain": "working_style",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino"
+      ],
+      "sensitivity": "public",
+      "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "Docx Grokbot-dump_Simon-Slooten_2026-09-10_1112.docx is an early Series A snapshot; content redundant vs _1220.md master; keep as archive only.",
+      "domain": "source_control",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris"
+      ],
+      "sensitivity": "public",
+      "added": "2026-09-10 midday"
+    },
+    {
+      "fact": "Party-name rule reinforced in job-search dump: never in CV/brief/Freep/offerte/LinkedIn application. Allowed framing: 'landelijke politieke organisatie' / expertteam wording for digitale veiligheid/privacy/IB.",
+      "domain": "rules",
+      "share_with": [
+        "Chief of Staff",
+        "Archivaris",
+        "Balerina",
+        "Bombardino",
+        "La Vaca"
+      ],
+      "sensitivity": "rule",
+      "added": "2026-09-10 midday"
     }
   ]
 }
