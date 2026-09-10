@@ -2,12 +2,20 @@
 
 Living list. Chief of Staff keeps this current. Chat is not the list.
 
-## Morgen 10 september 2026
+## Vandaag / open 10 september 2026
 
-- [ ] AcmeBrainCorp-klanten: kennismaking Overbetuwe + Tiel klaar (10 sep, geen prijs). Bestanden: `Documents/Work/conceptbrief-overbetuwe-kennismaking-2026-09-10.md` en `conceptbrief-tiel-kennismaking-2026-09-10.md`. Simon stuurt. Zutphen is verstuurd.
+- [x] AcmeBrainCorp-klanten: kennismaking Zutphen (9 sep), Overbetuwe + Tiel (10 sep) verstuurd. Archief: `Documents/Work/Archief/kennismakingen-gemeenten-2026-09/`.
 - [x] Belastingdienst-offerte op template klaar (10 sep): `CareerHandling/Offerte-ontwikkelassessments-Belastingdienst-2026-09-10.docx`. Simon stuurt.
 - [ ] CareerHandling: LoopbaanNederland 11:00–13:00. Daarna HU / VPRO / Achmea / Aegon. Shortlist `Documents/Work/CareerHandling/leads-2026-09-10.md`.
 - [ ] Buffer-account voor agents: inloggen op Grok Bot-computer als je bij de Mac bent. Geen wachtwoord in chat. Drie X-posts staan al gepland (10, 14, 16 sep 08:30).
+
+
+## Follow-up bellen — tweede helft week 15–19 september 2026
+Doel: nav kennismaking, vragen of een gesprek nuttig is. Geen prijs tenzij zij ernaar vragen.
+
+- [ ] **Zutphen** — mw. C. Creveld (gemeentesecretaris a.i.). Tel: **14 0575** (algemeen → bestuurssecretariaat). Verstuurd 9 sep.
+- [ ] **Overbetuwe** — mr. D.C. van Eeten. Tel: **14 0481** (bestuurssecretariaat). Mail: bestuurssecretariaat@overbetuwe.nl. Verstuurd 10 sep.
+- [ ] **Tiel** — drs. P.H.T.A. Koks RA. Tel: **0344 637 121** (bestuurssecretariaat). Mail: bestuur@tiel.nl. Verstuurd 10 sep.
 
 ## Needs you
 
@@ -19,7 +27,7 @@ Living list. Chief of Staff keeps this current. Chat is not the list.
 - [x] ICTU: aanmelding via freelance.nl. Status Open. Tarief In overleg. Geen tweede aanmelding. Geen contact ICTU/BZK.
 - [x] AcmeBrainCorp site live (acmebraincorp.com). Search Console sitemap Success. Pagina indexed (crawl 29 aug — oude tekst). Index-request faalde een keer; Google komt terug.
 - [ ] Set a day-rate. Unset, dus geen tarief op een fractional note.
-- [ ] Halfdag-offertes: Tiel-kennismaking klaar 10 sep. Waterschap nog open. Prijzen in `conceptbrieven-halfdag-2026-09-08.md` alleen als zij vragen. € 2.490,- excl. BTW.
+- [ ] Halfdag-offerte Waterschap nog open (eerst kennismaking). Prijzen in `conceptbrieven-halfdag-2026-09-08.md` alleen als zij vragen. € 2.490,- excl. BTW.
 
 ## Not for sending
 
