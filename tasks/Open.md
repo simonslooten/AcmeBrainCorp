@@ -4,6 +4,7 @@ Living list. Chief of Staff keeps this current. Chat is not the list.
 
 ## Vandaag / open 10 september 2026
 
+- [ ] Kennismakingen klaar (10 sep, CONCEPT, nog niet verstuurd): Meierijstad (Meertens), Hollands Kroon (Van der Woude), Súdwest-Fryslân (Smits). Bestanden in `Documents/Work/conceptbrief-*-kennismaking-2026-09-10.docx`. Simon stuurt.
 - [x] AcmeBrainCorp-klanten: kennismaking Zutphen (9 sep), Overbetuwe + Tiel (10 sep) verstuurd. Archief: `Documents/Work/Archief/kennismakingen-gemeenten-2026-09/`.
 - [x] Belastingdienst-offerte op template klaar (10 sep): `CareerHandling/Offerte-ontwikkelassessments-Belastingdienst-2026-09-10.docx`. Simon stuurt.
 - [ ] CareerHandling: LoopbaanNederland 11:00–13:00. Daarna HU / VPRO / Achmea / Aegon. Shortlist `Documents/Work/CareerHandling/leads-2026-09-10.md`.
