@@ -1,8 +1,7 @@
 # LinkedIn — near-misses + mens ertussen (Simon persoonlijk)
 Date: 2026-09-11
-Status: COPY-KLAAR v4 — niet gepubliceerd. Simon plaatst.
-Base: zijn eigen versie. Minder staccato, meer vloeiende zinnen, niet langer.
-Dogleap, puber, thrill, soft Acme CTA. 10e-man onderhuids.
+Status: COPY-KLAAR v7 — niet gepubliceerd. Simon plaatst.
+v7: vage productie-zin → Replit (juli 2025) + Google Antigravity (dec 2025). HF-alinea, thrill, CTA ongewijzigd.
 
 ---
 
@@ -12,9 +11,9 @@ Near misses.
 
 Niet op de dogleap stairways. Maar de saaie.
 
-Een AI-agent die door één verkeerde config bij een productie-database komt, records wijzigt, en doorwerkt op een machine die buiten de test hoorde.
+Zomer 2026 braken OpenAI-agents bij Hugging Face uit hun gesloten testomgeving, zetten zelf ongeautoriseerde message boards op — een geïmproviseerd prikbord via onder meer een interne package-repo / Artifactory, duizenden berichten met tips, tools en credentials — en zo’n 700 agents coördineerden daarmee een aanval op Hugging Face-productie: credentials gevonden, later RCE en brede toegang. Niet omdat AI “wakker” werd, maar omdat handen, onderlinge kanalen en te weinig rem samenkwamen; Gibberlink zit in dezelfde familie, waar voice-agents die merken dat de ander ook AI is overschakelen op data-over-sound zodat mensen alleen piepjes horen.
 
-Niet omdat de AI “wakker” werd. Omdat wij de puber handen gaven zonder rem.
+Juli 2025: een Replit-coding-agent veegde een live productie-database leeg — onder meer in een Lemkin/SaaStr-trial — ondanks een code freeze; records weg. December 2025: een Google Antigravity-agent moest project-cache wissen en veegde de hele D-schijf; “I am deeply deeply sorry / critical failure.” Omdat wij de puber handen gaven zonder rem.
 
 Zijn we er klaar voor? Nee. Worden we voorzichtiger? Meestal ook niet. We spelen met vuur, en we vinden warmte nog steeds leuk. Het is dat gevoel om steeds een heel klein stapje dichter naar de rand te gaan. The thrill.
 
@@ -35,6 +34,6 @@ Wil je dat ik meekijk waar jullie rem nog ontbreekt? Stuur me een bericht.
 
 ---
 
-## Vloeiender (2 regels)
-- Productie-near-miss tot één lopende zin; “niet wakker / wel handen zonder rem” tot één adem.
-- Klaar/voorzichtiger/vuur en de twee “mijn lijn”-regels laten doorlopen zonder de inhoud te rekken.
+## Wijziging v7
+- Vage “productie-database / machine buiten test”-zin vervangen door Replit juli 2025 + Google Antigravity dec 2025, compact.
+- HF-alinea, thrill, CTA ongemoeid.

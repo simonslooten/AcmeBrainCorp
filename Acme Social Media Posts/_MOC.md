@@ -9,3 +9,5 @@ Archived from Work on 2026-09-11. Sources unchanged.
 ## Related
 - Evernote live notebook: `Evernote/live/Acme Social Media Posts/`
 - Grok dumps: `Grok-GrokBot-memory/` (Acme Series C/D masters)
+
+- [[stijlkompas-haasbroek-bomans-holman-komrij-2026-09-11]] — stijlkompas Haasbroek/Bomans/Holman/Komrij
