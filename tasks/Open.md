@@ -2,13 +2,13 @@
 
 Living list. Chief of Staff keeps this current. Chat is not the list.
 
-## Vandaag / open 10 september 2026
+## Vandaag / open 11 september 2026
 
 - [ ] **11 sep:** CareerHandling herpositionering + website + social (werksessie). Pakket: `Documents/Work/CareerHandling/herpositionering-sessie-2026-09-11.md`
 
 
-- [ ] Kennismakingen klaar (10 sep, CONCEPT, nog niet verstuurd): Meierijstad (Meertens), Hollands Kroon (Van der Woude), Súdwest-Fryslân (Smits). Bestanden in `Documents/Work/conceptbrief-*-kennismaking-2026-09-10.docx`. Simon stuurt.
-- [x] AcmeBrainCorp-klanten: kennismaking Zutphen (9 sep), Overbetuwe + Tiel (10 sep) verstuurd. Archief: `Documents/Work/Archief/kennismakingen-gemeenten-2026-09/`.
+- [x] Kennismakingen Meierijstad / Hollands Kroon / Súdwest-Fryslân verstuurd (11 sep). Zie `tasks/verzonden-brieven-kennismakingen.md` + `Documents/Work/verzonden-brieven-kennismakingen.md`.
+- [x] AcmeBrainCorp/Omerus kennismakingen: Zutphen (9 sep), Overbetuwe + Tiel (10 sep), Meierijstad + Hollands Kroon + Súdwest-Fryslân (11 sep) — **6 totaal**. Archief: `Documents/Work/Archief/kennismakingen-gemeenten-2026-09/`.
 - [x] Belastingdienst-offerte op template klaar (10 sep): `CareerHandling/Offerte-ontwikkelassessments-Belastingdienst-2026-09-10.docx`. Simon stuurt.
 - [ ] CareerHandling: LoopbaanNederland 11:00–13:00. Daarna HU / VPRO / Achmea / Aegon. Shortlist `Documents/Work/CareerHandling/leads-2026-09-10.md`.
 - [ ] Buffer-account voor agents: inloggen op Grok Bot-computer als je bij de Mac bent. Geen wachtwoord in chat. Drie X-posts staan al gepland (10, 14, 16 sep 08:30).
@@ -16,10 +16,14 @@ Living list. Chief of Staff keeps this current. Chat is not the list.
 
 ## Follow-up bellen — tweede helft week 15–19 september 2026
 Doel: nav kennismaking, vragen of een gesprek nuttig is. Geen prijs tenzij zij ernaar vragen.
+Lijst: `tasks/verzonden-brieven-kennismakingen.md`
 
-- [ ] **Zutphen** — mw. C. Creveld (gemeentesecretaris a.i.). Tel: **14 0575** (algemeen → bestuurssecretariaat). Verstuurd 9 sep.
-- [ ] **Overbetuwe** — mr. D.C. van Eeten. Tel: **14 0481** (bestuurssecretariaat). Mail: bestuurssecretariaat@overbetuwe.nl. Verstuurd 10 sep.
-- [ ] **Tiel** — drs. P.H.T.A. Koks RA. Tel: **0344 637 121** (bestuurssecretariaat). Mail: bestuur@tiel.nl. Verstuurd 10 sep.
+- [ ] **Zutphen** — mw. C. Creveld (gs a.i.). Tel: **14 0575** (→ bestuurssecretariaat). Verstuurd 9 sep.
+- [ ] **Overbetuwe** — mr. D.C. van Eeten. Tel: **14 0481**. Mail: bestuurssecretariaat@overbetuwe.nl. Verstuurd 10 sep.
+- [ ] **Tiel** — drs. P.H.T.A. Koks RA. Tel: **0344 637 121**. Mail: bestuur@tiel.nl. Verstuurd 10 sep.
+- [ ] **Meierijstad** — mw. drs. M.J.M. Meertens. Tel: **14 0413** (→ directiesecretariaat). Mail: directiesecretariaat@meierijstad.nl. Verstuurd 11 sep.
+- [ ] **Hollands Kroon** — dhr. H. van der Woude. Tel: **088 321 5000** (t.a.v. gs). Mail: contact@hollandskroon.nl. Verstuurd 11 sep.
+- [ ] **Súdwest-Fryslân** — dhr. drs. C. Smits. Tel: **14 0515**. Mail: gemeentesecretaris@sudwestfryslan.nl. Verstuurd 11 sep.
 
 ## Needs you
 
