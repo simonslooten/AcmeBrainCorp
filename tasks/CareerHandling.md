@@ -5,8 +5,10 @@ Owner: La Vaca Saturno Saturnita. Chief of Staff keeps this current.
 
 ## Needs you
 
+- **Prio 1 (11 sep):** betalende CH-klanten. Lean. Geen reintegratie/2e-spoor. Geen LN-claim zonder ja + credits.
+- **Belastingdienst:** offerte klaar, **niet** versturen. Contact first: Nick van der Heide (LinkedIn), nog geen antwoord. Geen LN-credits burn.
 - ~~LoopbaanNederland Reintegratie Machinist Internationaal~~ — **geen fit**. CH doet geen reintegratie/2e-spoor. Negeren.
-- Belastingdienst 20 ontwikkelassessments: geclaimd. Offerte klaar op template: `/Users/marvin/Documents/Work/CareerHandling/Offerte-ontwikkelassessments-Belastingdienst-2026-09-10.docx`. Simon stuurt alleen na aparte ja.
+- Belastingdienst 20 ontwikkelassessments: geclaimd. Offerte klaar, **niet** versturen tot antwoord Nick van der Heide (LinkedIn). Bestand: `Offerte-ontwikkelassessments-Belastingdienst-2026-09-10.docx`.
 
 ## In flight
 
