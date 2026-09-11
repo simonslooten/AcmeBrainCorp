@@ -1,6 +1,7 @@
 # LinkedIn — near-misses + mens ertussen (Simon persoonlijk)
 Date: 2026-09-11
-Status: **v8.1 FINAL — klaar om te posten.** Niet gepubliceerd. Simon plaatst.
+Status: **v8.1 FINAL — gepubliceerd.** Simon plaatste op LinkedIn.
+Published: https://www.linkedin.com/posts/simonslooten_near-misses-niet-on-the-dogleap-stairways-share-7504110982344994816-jS4Y
 v8.1: na “we gaan AI niet gebruiken” — wij doen het zelf (agentic-first), maar zoals het moet.
 
 ---
