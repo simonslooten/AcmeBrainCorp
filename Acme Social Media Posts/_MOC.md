@@ -11,3 +11,5 @@ Archived from Work on 2026-09-11. Sources unchanged.
 - Grok dumps: `Grok-GrokBot-memory/` (Acme Series C/D masters)
 
 - [[stijlkompas-haasbroek-bomans-holman-komrij-2026-09-11]] — stijlkompas Haasbroek/Bomans/Holman/Komrij
+
+- [[stijlkompas-kouwes-fulghum-2026-09-11]] — stijlkompas Kouwes/Fulghum
