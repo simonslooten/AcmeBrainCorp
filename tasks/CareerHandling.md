@@ -5,6 +5,7 @@ Owner: La Vaca Saturno Saturnita. Chief of Staff keeps this current.
 
 ## Needs you
 
+- LoopbaanNederland Reintegratie (open): spoorwegonderneming Rotterdam, 112 medewerkers, 2e spoor Machinist Internationaal; aangemeld do 10 sep 2026; https://loopbaannederland.nl/bedrijven/request/buy?id=6aa2b9c2c3a48c7fe9002b64 — Simon stuurt alleen na aparte ja; niet claimen.
 - Belastingdienst 20 ontwikkelassessments: geclaimd. Offerte klaar op template: `/Users/marvin/Documents/Work/CareerHandling/Offerte-ontwikkelassessments-Belastingdienst-2026-09-10.docx`. Simon stuurt alleen na aparte ja.
 
 ## In flight
