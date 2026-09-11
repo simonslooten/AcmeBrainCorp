@@ -4,6 +4,7 @@ Living list. Chief of Staff keeps this current. Chat is not the list.
 
 ## Vandaag / open 11 september 2026
 
+- [ ] Volgende 3 kennismakingen researched (11 sep): De Ronde Venen (Vonk), Leidschendam-Voorburg (den Haan), Gooise Meren (Voorhorst). File: `Documents/Work/kennismaking-volgende-3-2026-09-11.md`. Wacht op ja voor conceptbrieven.
 - [ ] **11 sep:** CareerHandling herpositionering + website + social (werksessie). Pakket: `Documents/Work/CareerHandling/herpositionering-sessie-2026-09-11.md`
 
 
