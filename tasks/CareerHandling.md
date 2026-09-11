@@ -28,6 +28,7 @@ Owner: La Vaca Saturno Saturnita. Chief of Staff keeps this current.
 - Pitch and prices: Voorbeeld brieven. Do not copy those client names.
 - Employer side first. Assessmentmarkt extreem moeilijk (Simon 10 sep 2026): niet blind volume. Outplacement/coaching + warme haak eerst.
 - Dutch. Simon sends. Nothing goes out without a yes.
+- Externe CH-output: eerst Bonica Ambalabu (QA), dan Simon stuurt. Geen claim zonder ja.
 - Nieuwe brieven: kloon `Voorbeeld brieven/CareerHandling Template.dotx`. Geen rebuild uit PDF.
 - Marketingbron: LoopbaanNederland geclaimde leads (MD/JSON/PDF). Prioriteit 10 sep: eerst outplacement/coaching + warme named leads met haak. Assessment alleen bij concrete opening. Geen contact zonder ja.
 - Feiten uit dump 1103: outplacement >96% binnen 3 maanden; job hunters 3 FTE→~0. Verder geen metrics. Outplacement: call-first. Warm.

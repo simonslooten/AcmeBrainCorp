@@ -4,6 +4,8 @@ Vault archive on Marvins-MacBook-Pro. Sources from Work — byte-identical, no r
 Folder: `/Users/marvin/Documents/ObsidianVault/Hermes_Team/Acme Social Media Posts/`
 
 ## LinkedIn / near-misses line (2026-09-11)
+- [[bonica-ambalabu-qa]] — QA final gatekeeper; CoS retros; 8-points agenda
+- [[company-voice-truth-over-theatre]] — company voice ToV locked 2026-09-11 (Truth over theatre; = Work company-voice-tov)
 - [[linkedin-near-misses-2026-09-11]] — v8.1 FINAL — live: https://www.linkedin.com/posts/simonslooten_near-misses-niet-on-the-dogleap-stairways-share-7504110982344994816-jS4Y
 - [[linkedin-posts-corpus-2026-09-11]] — ABC LinkedIn corpus
 - [[stijlkompas-haasbroek-bomans-holman-komrij-2026-09-11]] — stijlkompas Haasbroek/Bomans/Holman/Komrij
