@@ -104,3 +104,9 @@ Naast bestaande ToV: Rotterdams, tongue-in-cheek, board-waardig. Near-misses-lij
 - Niet: Holman-bittere column of Bomans-ontwijking zodat de board-claim zoekraakt.
 
 Geen LinkedIn-herschrijving in deze nota.
+
+
+---
+
+## Aanvulling 11 sep 2026
+Zie `stijlkompas-kouwes-fulghum-2026-09-11.md` — Kouwes/Slachtkuikens (PDF-sample) + Fulghum kindergarten-lessons als moreel/stilistisch kompas. Geen LinkedIn-rewrite in die ronde.
