@@ -23,7 +23,7 @@ Lijst: `tasks/verzonden-brieven-kennismakingen.md`
 - [ ] **Overbetuwe** — mr. D.C. van Eeten. Tel: **14 0481**. Mail: bestuurssecretariaat@overbetuwe.nl. Verstuurd 10 sep.
 - [ ] **Tiel** — drs. P.H.T.A. Koks RA. Tel: **0344 637 121**. Mail: bestuur@tiel.nl. Verstuurd 10 sep.
 - [ ] **Meierijstad** — mw. drs. M.J.M. Meertens. Tel: **14 0413** (→ directiesecretariaat). Mail: directiesecretariaat@meierijstad.nl. Verstuurd 11 sep.
-- [ ] **Hollands Kroon** — dhr. H. van der Woude. Tel: **088 321 5000** (t.a.v. gs). Mail: contact@hollandskroon.nl. Verstuurd 11 sep.
+- [x] **Hollands Kroon** — antwoord 11 sep 14:09 (Angelique Berbee, Team Contact): doorgestuurd intern; zij nemen contact bij interesse. **Geen bel-follow-up.** `Documents/Work/hollands-kroon-antwoord-2026-09-11.md`
 - [ ] **Súdwest-Fryslân** — dhr. drs. C. Smits. Tel: **14 0515**. Mail: gemeentesecretaris@sudwestfryslan.nl. Verstuurd 11 sep.
 
 ## Needs you
