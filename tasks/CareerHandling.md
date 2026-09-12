@@ -23,9 +23,16 @@ Deliverables:
 
 Bronnen al aanwezig: website-tekstvoorstel-2026-09-11.md, concurrentie-analyse, herpositionering-sessie, targets/leads.
 
+## Missed cash (postmortem)
+- **2026-09-11:** Outplacement RFP op LoopbaanNederland — **~€3.000 misgelopen**. Niet gealarmeerd / niet geclaimd.
+- Watchdog: CoS routine `CareerHandling offertes` (`*/5 11-12`). Runs status “ok” + stil = geen alert (mogelijke oorzaken: te laat/al weg, login/sessie, of false skip).
+- Actie: maandag vóór 11:00 LN-login check; outplacement = altijd alert (geen stille skip); La Vaca backup-watch 11–13. Geen claim zonder Simon-ja.
+
 ## Needs you
 
+- **LN-miss 11 sep (~€3k outplacement):** niet gepakt. Maandag: dubbele waak 11–13 of login vóór 11:00. Geen claim zonder ja. CoS postmortem.
 - **Doorlopende BD-opdracht actief** (12 sep): v1 klaar in `Work/CareerHandling/bd-opdracht-doorlopend.md`. Bombardino lead; La Vaca uitvoer.
+- **LN-watch broken once (11 sep):** €3k outplacement gemist — zie Missed cash. Fix vóór maandag.
 - **Prio 1 (11 sep):** betalende CH-klanten. Lean. Geen reintegratie/2e-spoor. Geen LN-claim zonder ja + credits.
 - **Belastingdienst:** offerte klaar, **niet** versturen. Contact first: Nick van der Heide (LinkedIn), nog geen antwoord. Geen LN-credits burn.
 - ~~LoopbaanNederland Reintegratie Machinist Internationaal~~ — **geen fit**. CH doet geen reintegratie/2e-spoor. Negeren.
@@ -37,7 +44,7 @@ Bronnen al aanwezig: website-tekstvoorstel-2026-09-11.md, concurrentie-analyse, 
 
 - [x] **CH site v1** CLEAR maar ToV afgekeurd (Simon 12 sep): te koud/staccato/AI-talk. → v2.
 
-- [ ] Elke dag 11:00–13:00, elke 15 min: loopbaannederland.nl. Alleen alarmeren als het past. Zwaartepunt 11:30. Login nodig. Geen reactie zonder ja.
+- [ ] **LN-watch P0 (na cash-miss 12 sep):** La Vaca, werkdagen 11:00–13:00 (zwaartepunt 11:30). Fit-only outplacement/assessment; kill 2e-spoor. Pulse Bombardino; **Simon claimt**. Geen reactie zonder ja. Login nodig.
 
 - [x] Eerste targetlijst werkgevers, 8 september 2026. Bestand: `/Users/marvin/Documents/Work/CareerHandling/targets-2026-09-08.md`
 - [x] Check koper en preferred supplier, Saxion en Hogeschool Rotterdam, 8 september 2026. Bestand: `/Users/marvin/Documents/Work/CareerHandling/check-saxion-hr-2026-09-08.md`
@@ -51,7 +58,7 @@ Bronnen al aanwezig: website-tekstvoorstel-2026-09-11.md, concurrentie-analyse, 
 
 ## Standing
 
-- Wekelijkse CH-pulse aan Bombardino (max 8 regels): leads | stage | blockers | next cash. Escalatie: Bombardino → Bonica QA → Simon yes.
+- Wekelijkse CH-pulse aan Bombardino vóór ma/do 09:00 (max 8 regels): leads | stage | blockers | next cash. Hij rolt naar CoS/Simon. Escalatie: Bombardino → Bonica QA → Simon yes.
 
 - Offers: assessments, outplacement, coaching. One real employee besides Simon. Do not invent their name.
 - Pitch and prices: Voorbeeld brieven. Do not copy those client names.
@@ -64,3 +71,4 @@ Bronnen al aanwezig: website-tekstvoorstel-2026-09-11.md, concurrentie-analyse, 
 - Volgende naam alleen als die geen bestaande preferred-supplier-stoel is. Geen outreach.
 - Offerte-aanvraag: geen koper benaderen. Simon stuurt, en alleen na een aparte ja. Hogeschool Rotterdam en Saxion blijven af. Eerste drie reacties pakken vaak de lead.
 - Shortlist 10 sep: Belastingdienst eerst, dan Hogeschool Utrecht, VPRO, Achmea, Aegon. WUR voorwaardelijk. Witteveen+Bos af. Geen brief zonder koper.
+- LN-watch werkdagen 11–13 onder Bombardino; Simon claimt.
