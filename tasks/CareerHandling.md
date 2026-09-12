@@ -1,16 +1,39 @@
 # CareerHandling
 
 Separate list. Not the half-day letters. Not the fractional search.
-Owner: La Vaca Saturno Saturnita. Chief of Staff keeps this current.
+Owner: La Vaca Saturno Saturnita. Line manager: Bombardino Crodocillo (BD). CoS may route. Pulse wekelijks aan Bombardino.
+
+## Doorlopende BD-opdracht (Simon 12 sep 2026)
+**Owner:** Bombardino Crodocillo. **Uitvoer CH:** La Vaca. CoS routeert alleen.
+
+Scope (continu, niet one-shot):
+1. **Nieuwe markt** — segmenten/kanalen naast huidige employer-side (geen reintegratie/2e-spoor).
+2. **Nieuwe dienst** — product/packaging-ideeën die op bestaande USP en proof passen (geen metric-inventie).
+3. **Veranderingen** — wat CH moet stoppen/starten/wijzigen (site, pitch, prijsvorm, proces).
+4. **Ideeën** — kill-fast lijst; max 5 levende, rest dood.
+5. **Marktonderzoek** — vraag, budgethouders, inkooproutes (warm > koud).
+6. **Competition** — levend dossier; baseer op `Work/CareerHandling/concurrentie-analyse-2026-09-10.md` + updates.
+7. **USPs** — ondernemersverstand + deep AI onder psych/NIP; sectorbewijs zonder klantnamen tenzij Simon ja.
+8. **Marketing actie** — concrete next actions (geen send zonder Simon-ja; externe copy → Bonica).
+
+Deliverables:
+- Levend bestand: `Work/CareerHandling/bd-opdracht-doorlopend.md` (Bombardino start / La Vaca houdt bij).
+- Wekelijkse pulse (max 8 regels) aan Bombardino → CoS als cash-relevant: leads | markt/dienst-beweging | blockers | next cash actie.
+- Eerste oplevering: v1 van dat bestand + 3 cash-first acties (geen outreach zonder ja).
+
+Bronnen al aanwezig: website-tekstvoorstel-2026-09-11.md, concurrentie-analyse, herpositionering-sessie, targets/leads.
 
 ## Needs you
 
+- **Doorlopende BD-opdracht actief** (12 sep): v1 klaar in `Work/CareerHandling/bd-opdracht-doorlopend.md`. Bombardino lead; La Vaca uitvoer.
 - **Prio 1 (11 sep):** betalende CH-klanten. Lean. Geen reintegratie/2e-spoor. Geen LN-claim zonder ja + credits.
 - **Belastingdienst:** offerte klaar, **niet** versturen. Contact first: Nick van der Heide (LinkedIn), nog geen antwoord. Geen LN-credits burn.
 - ~~LoopbaanNederland Reintegratie Machinist Internationaal~~ — **geen fit**. CH doet geen reintegratie/2e-spoor. Negeren.
 - Belastingdienst 20 ontwikkelassessments: geclaimd. Offerte klaar, **niet** versturen tot antwoord Nick van der Heide (LinkedIn). Bestand: `Offerte-ontwikkelassessments-Belastingdienst-2026-09-10.docx`.
 
 ## In flight
+
+- [ ] **CH site ≤5 pagina’s:** GX v1 (`site-copy-v1-5paginas-2026-09-12.md`) → Tralalero polish → Bonica → Simon. Bron: website-tekstvoorstel-2026-09-11.md.
 
 - [ ] Elke dag 11:00–13:00, elke 15 min: loopbaannederland.nl. Alleen alarmeren als het past. Zwaartepunt 11:30. Login nodig. Geen reactie zonder ja.
 
@@ -25,6 +48,8 @@ Owner: La Vaca Saturno Saturnita. Chief of Staff keeps this current.
 - [ ] Pitch-voorstel werkgever ligt vast. Niet gebruiken. Bestand: `/Users/marvin/Documents/Work/CareerHandling/pitch-voorstel-werkgever.md`
 
 ## Standing
+
+- Wekelijkse CH-pulse aan Bombardino (max 8 regels): leads | stage | blockers | next cash. Escalatie: Bombardino → Bonica QA → Simon yes.
 
 - Offers: assessments, outplacement, coaching. One real employee besides Simon. Do not invent their name.
 - Pitch and prices: Voorbeeld brieven. Do not copy those client names.
