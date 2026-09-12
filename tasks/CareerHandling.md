@@ -33,7 +33,9 @@ Bronnen al aanwezig: website-tekstvoorstel-2026-09-11.md, concurrentie-analyse, 
 
 ## In flight
 
-- [ ] **CH site ≤5 pagina’s:** GX v1 (`site-copy-v1-5paginas-2026-09-12.md`) → Tralalero polish → Bonica → Simon. Bron: website-tekstvoorstel-2026-09-11.md.
+- [ ] **CH site v2** na Simon-feedback: warmer ToV, minder staccato/antithese-AI-talk, geen coaching, meer diepe AI+AVG. Output `site-copy-v2-tralalero-2026-09-12.md` → Bonica.
+
+- [x] **CH site v1** CLEAR maar ToV afgekeurd (Simon 12 sep): te koud/staccato/AI-talk. → v2.
 
 - [ ] Elke dag 11:00–13:00, elke 15 min: loopbaannederland.nl. Alleen alarmeren als het past. Zwaartepunt 11:30. Login nodig. Geen reactie zonder ja.
 
