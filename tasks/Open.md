@@ -25,7 +25,7 @@ Lijst: `tasks/verzonden-brieven-kennismakingen.md`
 - [ ] **Overbetuwe** — mr. D.C. van Eeten. Tel: **14 0481**. Verstuurd 10 sep.
 - [ ] **Tiel** — drs. P.H.T.A. Koks RA. Tel: **0344 637 121**. Verstuurd 10 sep.
 - [ ] **Meierijstad** — mw. drs. M.J.M. Meertens. Tel: **14 0413**. Verstuurd 11 sep.
-- [x] **Hollands Kroon** — antwoord 11 sep; geen bel-follow-up.
+- [x] **Hollands Kroon** — 11 sep intern doorgestuurd; **14 sep Directie: formele nee** (Christa van der Woude). Closed. Archief: `Work/Archief/kennismakingen-gemeenten-2026-09/hollands-kroon-afwijzing-directie-2026-09-14.md`.
 - [ ] **Súdwest-Fryslân** — dhr. drs. C. Smits. Tel: **14 0515**. Verstuurd 11 sep.
 
 ## Done / af (recent)
