@@ -7,6 +7,7 @@ Owner: La Vaca Saturno Saturnita. Line manager: Bombardino Crodocillo (BD). CoS 
 **Owner:** Bombardino. **Uitvoer:** La Vaca. Dossier: `Work/CareerHandling/bd-opdracht-doorlopend.md`.
 
 ## Needs you
+- **LN:** cash-miss #2 gelockt — direct BD+CoS pulse bij elke fit. Geen eind-venster-wacht.
 - **Prio 1 gedaan:** VPRO shortlist geleverd (Bastiaenen a.i. P&O, Guernina). Wacht Simon-ja. Geen mail/LI.
 - **Prio 2:** Aegon — research medewerker-keuzelijst / geselecteerde bureaus (€6k zelfkeuze-OP). Geen contact.
 - **Cash ticket:** Belastingdienst — offerte park tot Nick + Simon-ja.
@@ -14,6 +15,7 @@ Owner: La Vaca Saturno Saturnita. Line manager: Bombardino Crodocillo (BD). CoS 
 
 ## In flight
 - [x] VPRO named-koper shortlist → Bombardino (`vpro-named-koper-2026-09-14.md`).
+- [x] VPRO: Bastiaenen brief CLEAR — wacht Simon send-ja (geen outreach La Vaca).
 - [ ] Aegon keuzelijst-route (licht).
 - [ ] LN process owner 11–13.
 - [ ] CH site v2 → Bonica.
@@ -25,3 +27,6 @@ Owner: La Vaca Saturno Saturnita. Line manager: Bombardino Crodocillo (BD). CoS 
 - Pulse ma+do vóór 09:00 aan Bombardino.
 - Geen reintegratie/2e-spoor. Geen outreach zonder Simon-ja.
 - Extern: Bonica → Simon. Escalatie: Bombardino → Bonica → Simon yes.
+
+## Log
+- 2026-09-14: LN cash-miss #2 — Simon claimde zelf 2 outplacement RFPs (~€9k). Alerts misten. CoS routine */5 11–13 aangescherpt; La Vaca: bij fit meteen pulse Bombardino+CoS.

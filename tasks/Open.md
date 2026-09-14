@@ -4,7 +4,8 @@ Living list. Chief of Staff keeps this current. Chat is not the list.
 
 ## Vandaag — 14 september 2026
 
-- [ ] **LN** preflight ~10:50 + waak 11–13 (Simon claimt bij fit). Geen claim zonder ja.
+- [x] **LN** 14 sep: Simon claimde 2× outplacement (~€9k) zelf — alert-fix live. Waak 11–13 blijft; claim nog steeds Simon.
+- [ ] **VPRO** — concept kennismaking Mandy Bastiaenen (P&O a.i.); Simon stuurt. Dossier: `Work/CareerHandling/vpro-named-koper-2026-09-14.md`.
 - [ ] **Belastingdienst** — offerte park; Nick LI stil → send-ja = cash #1. Bestand: `Work/CareerHandling/Offerte-ontwikkelassessments-Belastingdienst-2026-09-10.docx`.
 - [ ] **LinkedIn** — comments pasten indien nodig (Bombardino draft; Simon stuurt). Geen box-login.
 - [ ] **CH site v2** — Simon-edits → Bonica als klaar. `Work/CareerHandling/site-copy-v2-tralalero-simon-2026-09-12.md`.
