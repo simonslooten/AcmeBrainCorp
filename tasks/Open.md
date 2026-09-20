@@ -1,4 +1,4 @@
-- [x] **Daily Open.md decide** — standing: weekdays 09:00 CoS ≤3 items + 1 decision (routine `Daily Open.md decide`)
+- [x] **Daily Open.md decide** — standing weekdays **08:30** CoS ≤3 items + 1 decision (was 09:00; first ma 21 sep)
 - [ ] **Review TypeSafe/Jev one-pager** — `Work/GB-org/typesafe-ai-jev-onepager-2026-09-20.md` (parked; decide spike or leave)
 - [ ] **Tue 23 sep LinkedIn:** post #2 Embodiment/Optimus v3 first (setup v4.1 HOLD after that).
 # Open
