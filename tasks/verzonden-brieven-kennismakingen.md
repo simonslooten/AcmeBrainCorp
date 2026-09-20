@@ -18,3 +18,5 @@ Archief: `Documents/Work/Archief/kennismakingen-gemeenten-2026-09/`
 - Kennismaking = geen prijs.
 - Follow-up: vragen of een gesprek nuttig is; prijs alleen als zij ernaar vragen.
 - Reminder-routine: 17 sep 09:00 (Bel-follow-up gemeenten).
+
+- **2026-09-15 — VPRO / Mandy Bastiaenen (P&O a.i.)** — kennismaking outplacement/CareerHandling. Verzonden door Simon; BCC hello@acmebraincorp.com. Docx: `Work/CareerHandling/conceptbrief-vpro-bastiaenen-kennismaking-2026-09-15.docx`. Bel-fu **ma 22 sep**: centrale **088-2058 911; mail geverifieerd: M.Bastiaenen@vpro.nl** → Bastiaenen/P&O.
