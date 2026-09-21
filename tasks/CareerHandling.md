@@ -8,6 +8,7 @@ Owner: La Vaca Saturno Saturnita. Line manager: Bombardino Crodocillo (BD). CoS 
 
 ## Needs you
 - **Next cash only:** Bierman/Eric (stand-down tot Simon ask) + LN-fit 11–13.
+- **LN nu:** SESSION_OK ~10:55; **credits 0**; geen open cards. Geen claim tot top-up. */5 CoS herstart.
 - **CLOSED 21 sep:** VPRO Bastiaenen + Belastingdienst ontwikkelassessments (vraag al ingevuld). Offerte niet send. **Nick LI moot** — niet in cash-next.
 - **Christiania:** stil tot Simon/BD ja.
 - **Filter:** 0–150 soft; groter OK buiten tenders; panels skip. Geen reintegratie/2e-spoor.
