@@ -24,3 +24,4 @@ Owner: La Vaca Saturno Saturnita. Line manager: Bombardino Crodocillo (BD). CoS 
 - **Material bar:** tape + Bonica 8-punten CLEAR vóór klaar; CoS noemt done.
 - Pulse ma+do vóór 09:00 aan Bombardino. Geen outreach zonder Simon-ja.
 - Geen nieuwe bots. Geen Simon completion-pings.
+- 2026-09-21 11:35 LN: CREDITS_0 | count 0→5 | ALERT uncertain RIE Oosterhout id 6ab0eaf017d6d19614090532 (overheid 90 mdw, RI&E 11 loc Brabant, 120cr) https://loopbaannederland.nl/bedrijven/request/open — 4× NEVER_FIT (Katwijk/Den Haag arbodienst; Alkmaar/Bodegraven reintegratie) silent. Simon claims.
