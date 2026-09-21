@@ -16,7 +16,7 @@ Living list. Chief of Staff keeps this current. Chat is not the list.
 - [x] **LN** 14 sep: Simon claimde 2× outplacement (~€9k) zelf — alert-fix live. Waak 11–13 blijft; claim nog steeds Simon.
 - [ ] **LN Bierman** — outplacement Eindhoven geclaimd; draft contact klaar (`draft-contact-astrid-bierman-2026-09-15.md`); Simon stuurt.
 - [x] **VPRO** — kennismaking verzonden 15 sep; **CLOSED 21 sep** (diensten niet nodig) (BCC hello@acmebraincorp.com). Docx: `Work/CareerHandling/conceptbrief-vpro-bastiaenen-kennismaking-2026-09-15.docx`.
-- [ ] **Belastingdienst** — offerte park; Nick LI stil → send-ja = cash #1. Bestand: `Work/CareerHandling/Offerte-ontwikkelassessments-Belastingdienst-2026-09-10.docx`.
+- [x] **Belastingdienst** — CLOSED 21 sep (vraag “al ingevuld”). Offerte archief, geen send. Bestand: `Work/CareerHandling/Offerte-ontwikkelassessments-Belastingdienst-2026-09-10.docx`.
 - [x] **Hollandskroon** — Omerus afgewezen 14 sep (directie@hollandskroon.nl / Christa van der Woude). Closed/kill.
 - [ ] **LinkedIn** — comments pasten indien nodig (Bombardino draft; Simon stuurt). Geen box-login.
 - [ ] **CH site v2** — Simon-edits → Bonica als klaar. `Work/CareerHandling/site-copy-v2-tralalero-simon-2026-09-12.md`.
@@ -54,7 +54,7 @@ Lijst: `tasks/verzonden-brieven-kennismakingen.md`
 
 - [x] Kennismakingen Meierijstad / Hollands Kroon / Súdwest-Fryslân verstuurd (11 sep).
 - [x] AcmeBrainCorp/Omerus kennismakingen: 6 totaal (Zutphen…Súdwest). Archief: `Work/Archief/kennismakingen-gemeenten-2026-09/`.
-- [x] Belastingdienst-offerte op template klaar (park).
+- [x] Belastingdienst-offerte klaar geweest — CLOSED 21 sep (vraag al ingevuld).
 - [x] 14 sep: Christiania Shipping **af**; Achmea + Aegon **af** (target werkgevers **0–150 pax**).
 - [x] Fractional scan 14 sep: geen keepers.
 
