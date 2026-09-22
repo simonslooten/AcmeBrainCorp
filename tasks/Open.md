@@ -61,6 +61,7 @@ Lijst: `tasks/verzonden-brieven-kennismakingen.md`
 ## Standing rules
 
 - **Five handoff criteria** (before new seat or routine; Open.md decide): repeatable · cross-system · rule-governed · draft-first · bounded error cost. Fail any → gate or wait. Shape: read → check → apply rule → write draft. Skill: GB bot hire bar. Locked 2026-09-22 from 0xRafy extract (not full PDF).
+- **Three clean runs + Mission Contract** (0xjmori 2026-09-22): before new routine enable → 3 successful runs with evidence; big handoffs name Result/Inputs/Output/Schedule/DoD/Constraints/Approval gates. Skills: GB bot hire bar + Material output bar.
 
 - Nothing goes out without a separate yes.
 - No letter unless there is a named, live opening or mandate.

@@ -6,6 +6,7 @@ Tags to search in Obsidian: `#onepager` `#steal-skip` `#park`
 
 | File | Topic | Status |
 | --- | --- | --- |
+| [[jmori-grokbot-agents-steal-skip-2026-09-22]] | 0xjmori trust/autonomy 16 beats | PARTIAL LOCK (3 runs + Mission Contract) + park rest |
 | [[sarvesh-local-seo-grokbot-steal-skip-2026-09-22]] | Sarvesh Grok Bot + local SEO / GBP | PARK — never-fit for our sites |
 | [[typesafe-ai-jev-onepager-2026-09-20]] | TypeSafe / Jev agent SDK | PARK — no SDK tip-swarm |
 | [[movez-jev-10steps-steal-skip-2026-09-21]] | 0xMovez / TypeSafe 10 steps | PARK (process steals only) |
@@ -14,6 +15,6 @@ Tags to search in Obsidian: `#onepager` `#steal-skip` `#park`
 | [[seo-playbook-b2b-professional-services-2026-09-19]] | Our B2B SEO (anti local map-pack) | LOCKED live |
 | [[movez-ops-rules-2026-09-17]] | Earlier Movez ops notes | archive |
 
-Updated: 2026-09-22 17:26 CEST
+Updated: 2026-09-22 18:08 CEST
 
 #onepager #steal-skip #park #gb-org #index
