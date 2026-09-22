@@ -1,5 +1,7 @@
 # SEO-speelboek — CareerHandling · AcmeBrainCorp · Omerus (DRAFT)
 
+Tags: `#onepager #seo #b2b #locked #anti-map-pack`
+
 **Status:** 2026-09-19 · CoS · **wij** · skill live: [B2B site SEO](sand-workflow:b2b-site-seo) · Bombardino uitvoert  
 **Bronnen (methode, niet copy-paste agency):** Weir Digital *SEO Organic Growth for Professional Services B2B*; Authority Specialist B2B entity loop; Tale Quale EU professional-services SEO framework; Obility thought-leadership loop (site first → LinkedIn).  
 **Niet:** lokale GBP/map-pack speelboeken (loodgieter-SEO).

@@ -1,4 +1,6 @@
 # TypeSafe AI / Jev — one-pager
+
+Tags: `#onepager #steal-skip #park #typesafe #jev #sdk`
 **Date:** 2026-09-20  
 **Owner:** GB/CoS (park for later spike)  
 **Source:** https://typesafe.ai/ · blog “Introducing System One Models & Jev” · LangChain/Vercel integrations (public)

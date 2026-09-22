@@ -1,5 +1,7 @@
 # Movez standing ops rules — 2026-09-17
 
+Tags: `#onepager #steal-skip #archive #movez`
+
 Source: Simon yes after CoS analysis of [@0xmovez 10-steps](https://x.com/0xmovez/status/2100261918896169259). Locked into CoS profile, [Material output bar](sand-workflow:material-output-bar), Lirili Cost hygiene weekly, Lirili agent description.
 
 ## 1. Attention list
