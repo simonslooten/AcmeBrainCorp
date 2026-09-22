@@ -60,6 +60,8 @@ Lijst: `tasks/verzonden-brieven-kennismakingen.md`
 
 ## Standing rules
 
+- **Five handoff criteria** (before new seat or routine; Open.md decide): repeatable · cross-system · rule-governed · draft-first · bounded error cost. Fail any → gate or wait. Shape: read → check → apply rule → write draft. Skill: GB bot hire bar. Locked 2026-09-22 from 0xRafy extract (not full PDF).
+
 - Nothing goes out without a separate yes.
 - No letter unless there is a named, live opening or mandate.
 - External proposals are in Dutch. Simon sends.
