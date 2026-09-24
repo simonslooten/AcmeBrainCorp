@@ -7,6 +7,7 @@ Owner: La Vaca Saturno Saturnita. Line manager: Bombardino Crodocillo (BD). CoS 
 **Owner:** Bombardino. **Uitvoer:** La Vaca. Dossier: `Work/CareerHandling/bd-opdracht-doorlopend.md`.
 
 ## Needs you
+- **LN ALERT 24 sep ~11:30:** FIT **Outplacement Beverwijk** (NH) id `6ab42ed410e996d8800fd3d2` 60cr — vrouw 37 HBO Medisch acceptant, VSO outplacement, budget €2000 ex BTW, gepubliceerd wo 23 sep. **CREDITS_0** (top-up vóór claim). Count-up 2→4 all-new; 3× NEVER_FIT silent (Oudenbosch/Utrecht reintegratie 2e-spoor; Borne arbodienst). https://loopbaannederland.nl/bedrijven/request/buy?id=6ab42ed410e996d8800fd3d2 — Simon claims.
 - **Next cash only:** Bierman/Eric (stand-down tot Simon ask) + LN-fit 11–13.
 - **LN:** CoS scant */5 alleen **11:20–11:40** (preflight 10:50). Credits **0** = claim-blocker. La Vaca fit-pulse OP/assessment only.
 - **CLOSED 21 sep:** VPRO Bastiaenen + Belastingdienst ontwikkelassessments (vraag al ingevuld). Offerte niet send. **Nick LI moot** — niet in cash-next.
