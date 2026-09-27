@@ -68,3 +68,5 @@ Lijst: `tasks/verzonden-brieven-kennismakingen.md`
 - External proposals are in Dutch. Simon sends.
 - CH target employers: **0–150 pax** (Simon 14 sep). Geen reintegratie/2e-spoor.
 - CareerHandling detail: `tasks/CareerHandling.md`.
+
+- [ ] Standing: alle saved work ook Hermes vault (zie GB-org/vault-mirror-rule-2026-09-27.md) — LOCKED 2026-09-27
