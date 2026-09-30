@@ -441,3 +441,32 @@ Left conservative — do not auto-merge into Topics without Simon call.
 
 ---
 *End of Archivaris refile pass 2 — 2026-09-30.*
+
+---
+
+# Pass 3 — private park — 2026-09-30
+
+Conservative private/legal and invoice park from the remaining `_INBOX` and `Default Notebook` only. Ambiguous political, person, Prisma/NS, and company/legal-history notes were left in place.
+
+## Moved from `_INBOX` — 8
+
+- `_INBOX/Brief IKE 210916.md` → `Topics/_private/Brief IKE 210916.md`
+- `_INBOX/CSV 2e brief.md` → `Topics/_private/CSV 2e brief.md`
+- `_INBOX/CSV brief.md` → `Topics/_private/CSV brief.md`
+- `_INBOX/CSV problematiek.md` → `Topics/_private/CSV problematiek.md`
+- `_INBOX/IDA.md` → `Topics/_private/IDA.md`
+- `_INBOX/Verrekenen met Ida.md` → `Topics/_private/Verrekenen met Ida.md`
+- `_INBOX/Nieuwe gezeik.md` → `Topics/_private/Nieuwe gezeik.md`
+- `_INBOX/Kopie rijbewijs 20 M.jpg.md` → `Topics/_private/Kopie rijbewijs 20 M.jpg.md`
+
+## Moved from `Default Notebook` — 2
+
+- `Default Notebook/FW- Invoice - FV 2-2013 - Prisma IT France.md` → `Topics/_private/FW- Invoice - FV 2-2013 - Prisma IT France.md`
+- `Default Notebook/TRC invoice.md` → `Topics/_private/TRC invoice.md`
+
+## Post-move status
+
+- `Topics/_private/`: **10** notes added
+- Remaining `_INBOX`: **99** markdown notes (including `_index.md`)
+- Remaining `Default Notebook`: **48** markdown notes (including `_index.md`)
+- Errors/skips: 0
