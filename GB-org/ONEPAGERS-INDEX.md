@@ -15,6 +15,8 @@ Tags to search in Obsidian: `#onepager` `#steal-skip` `#park`
 | [[seo-playbook-b2b-professional-services-2026-09-19]] | Our B2B SEO (anti local map-pack) | LOCKED live |
 | [[movez-ops-rules-2026-09-17]] | Earlier Movez ops notes | archive |
 
-Updated: 2026-09-22 18:08 CEST
+| [[team-bots-kids-SKIP-2026-09-30]] | mattyp Team bots vs kids Studieleider/Anker | **SKIP** (shared memory blurs ownership; revisit only if father↔kids bridge unparks) |
+
+Updated: 2026-09-30 ~21:57 CEST
 
 #onepager #steal-skip #park #gb-org #index

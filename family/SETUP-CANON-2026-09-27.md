@@ -40,3 +40,6 @@ Expiry/review: 2027-01-15 of na eerste schoolperiode met live gebruik.
 - GB-Mac: `Documents/Work/family/`
 - Hermes vault: `Documents/ObsidianVault/Hermes_Team/family/`
 - Standing lock: all saved work also lands in Hermes vault (see GB-org/vault-mirror-rule-2026-09-27.md)
+
+## Related locks
+- [[team-bots-kids-SKIP-2026-09-30]] — Team bots SKIP for kids setups (2026-09-30)
