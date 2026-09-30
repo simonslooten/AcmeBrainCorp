@@ -364,4 +364,80 @@ Optional frontmatter tags were **not bulk-written** this pass (move-only to avoi
 - … plus more untitled/stubs; total left 251
 
 ---
-*End of Archivaris refile pass 2026-09-30.*
+
+# Pass 2 — 2026-09-30 (~10:25 Europe/Amsterdam)
+
+Owner: Archivaris. Green light via CoS: FVD → `politics-nl-fvd`, Untitled → `_stubs`, then Default Notebook high-confidence refile.
+
+## New folders created
+| Folder | Intent |
+|---|---|
+| `Topics/politics-nl-fvd/` | FVD party-ops + TK21-era campaign without JA21 in title/body |
+| `Topics/_stubs/` | Clear Untitled / Untitled note / Untitled Note stubs parked from `_INBOX` and Default Notebook |
+
+## A. From `_INBOX`
+
+### `politics-nl-fvd` — 17 moved
+- FVD\* (12): `FVD.md`, `Fvd (2).md`, `FvD (3).md`, `FVD - teamcaptain update.md`, `FVD aanmwelding.md`, `FVD afdeling meeting 2-9-20.md`, `FVD afdelingsvergadering 20200907.md`, `FVD afdelingsvergadering 20200907 (2).md`, `FVD begroting 2022.md`, `FVD gesprek 26-11.md`, `FVD mail naar belteam.md`, `FVD online team meetings.md`
+- Forum: `Standpunten - Forum voor Democratie.md`
+- TK21-era campaign (no JA21): `TK21 campagne.md`, `Flyers per KiesKring TK21.md`, `Billboards.md`, `Coordinatoren per kieskring.md`
+
+### `ja21` — 4 moved (clearly JA21 despite no JA21 in title)
+- `PS23 - Opbouw teams.md` (ja21.nl emails)
+- `Evaluatie PS23.md` (JA21 PS23 list / Nanninga)
+- `Bericht Lijsttrekkers.md` (explicit JA21)
+- `Directeuren overleg politieke partijen.md` (JA21 director notes)
+
+### `_stubs` — 123 moved from `_INBOX`
+- All filenames starting with `Untitled` / `Untitled note` / `Untitled Note` remaining in `_INBOX` after pass 1.
+
+### `_INBOX` remaining after 2A
+- **107** (was 251; −17 FVD −4 ja21 −123 stubs)
+
+## B. Default Notebook (~93 → 50 remaining)
+
+### Inventory themes (pre-move)
+- Heavy: Job Description\* hiring pack; Untitled stubs; 4F/Prisma/Railo/vTiger/NS historical work crumbs; meeting notes (Aurelien, Vincent, Eric); device/home how-tos (Alexa/Hue, Android→iCloud photos); management articles; invoices; `Kadoos.md`.
+
+### Moves (high-confidence only) — 43 total
+| Destination | Count | Notes |
+|---|---:|---|
+| `Topics/_stubs/` | 19 | Untitled\* from Default Notebook; stored as `dn-Untitled*.md` after collision fix |
+| `Topics/cash-bd-career/` | 18 | Job Description\* (15), Hiring Senior Web Analyst, Job Opportunity Systeembeheerder, Sales Executive, Technical Web Analytics Consultant |
+| `Topics/home-life/` | 5 | Amazon Alexa Commands, Amazon Echo Alexa - Hue, Sync photos\* (3) |
+| `Topics/gifts-kadoos/` | 1 | `Kadoos.md` |
+
+### Default Notebook remaining — **50**
+Left conservative: 4F/Prisma/NS/Railo/vTiger project crumbs, dated meeting notes, invoices, management articles, ambiguous personal (`silvella`, `mooie dingen`, `Praten met`, `Agenda`, `test`, `_index.md`, etc.). No new Topics slug created beyond the 2 green-lit this pass.
+
+## Collision incident + recovery (Untitled filename clash)
+When Default Notebook Untitled\* were moved into `_stubs/`, **19** filenames collided with already-parked `_INBOX` stubs and overwrote them (`mv` replace). Mitigations applied same pass:
+1. Renamed Default stubs to `dn-<original>` (19 files).
+2. Restored missing `_INBOX` Untitled notes from local Evernote RemoteGraph + `.dat` / snippet (**24** files rewritten into `_stubs/`, including 5 that existed in Evernote `_INBOX` but were absent from the live markdown dump). Restored notes carry frontmatter `restored: pass2-collision-recovery-2026-09-30`.
+
+### `_stubs` final composition
+- Surviving original `_INBOX` stubs: 104
+- Default Notebook stubs (`dn-*`): 19
+- Restored `_INBOX` stubs: 24
+- **Total `_stubs/`: 147**
+
+## Pass 2 counts summary
+| Metric | Count |
+|---|---:|
+| Moved → politics-nl-fvd | 17 |
+| Moved → ja21 (extra clear) | 4 |
+| Moved → _stubs from `_INBOX` | 123 |
+| Moved from Default Notebook | 43 |
+| `_INBOX` remaining | **107** |
+| Default Notebook remaining | **50** |
+| New Topics folders | 2 (`politics-nl-fvd`, `_stubs`) |
+
+## Ambiguous pile still needing Simon (short)
+**Still in `_INBOX` (~107):** private/legal (CSV\*, Brief IKE, Briefje\*), `Campagne dirt.md`, `Aanmelden vrijwilliger verkiezingen.md` (stembureau, not party), `Google Ads Politieke partijen.md`, `Accounts Social Media Provincies.md` (creds — handle carefully), Bestuursvergadering / Baas / HVC crumbs, dated ambiguous (`15 maart`, `2013-*`), funeral poem, Gunshop, Change Education, etc.
+
+**Still in Default Notebook (~50):** 4F\* / Prisma / NS / Railo / vTiger / Bynder historical company notes; person meeting notes (Vincent/Eric/Aurelien/Jorrit); management articles (Merit Matrix, Leadership, Partner Program, McKinsey); invoices; thin personal (`silvella`, `mooie dingen`, `Praten met`, `Uitzoeken`, `Agenda`, `test`).
+
+Left conservative — do not auto-merge into Topics without Simon call.
+
+---
+*End of Archivaris refile pass 2 — 2026-09-30.*

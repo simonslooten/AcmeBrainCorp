@@ -7,9 +7,9 @@ updated: "2026-06-09T14:39:32+00:00"
 deleted: true
 body_source: "offline_search"
 source: evernote-local-live
+restored: pass2-collision-recovery-2026-09-30
 ---
 
 # Untitled Note
 
-You Can Love Someone and Still Let Them Go - Michael Burnham (USS Discovery - NCC-1031)
-Knew this was one way ticket, but you know I had to come
+You Can Love Someone and Still Let Them Go - Michael Burnham (USS Discovery - NCC-1031) Knew this was one way ticket, but you know I had to come
