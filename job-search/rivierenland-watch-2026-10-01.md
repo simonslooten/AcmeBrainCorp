@@ -21,7 +21,7 @@ https://www.berenschot.nl/artikelen/interim-manager-ruud-goijarts-hoe-groter-de-
 
 | ID | Status | Role | Notes |
 |----|--------|------|-------|
-| **SL-08** | **LIVE (agency)** — Owner hunt | **Directeur Water en Klimaat** — Waterschap Rivierenland | Castanho still lists as open opdracht 1 Oct. Werkenbij **main** vacatures list did **not** show this title today (vakgebied widgets still mention it — treat as soft). **36u vast** — outside usual ≤4 d/w bar; tracked because Owner named this seat. |
+| **SL-08** | **LIVE (agency)** — **Owner KEEP · track closely** | **Directeur Water en Klimaat** — Waterschap Rivierenland | Castanho open 1 Oct. Werkenbij main list: no primary card yet (soft). **36u vast** — outside ≤4 d/w; tracked on Owner ask. Cadence: weekdays **09:16 + 15:16** Castanho + werkenbij; immediate CoS ping on change. No outreach. |
 | (none yet) | WATCH later | Directeur Integrale Bedrijfsvoering (Goijarts succession) | Not LIVE permanent republish today |
 
 **Next free after SL-08:** **SL-09**.
@@ -69,5 +69,22 @@ When permanent/interim republish LIVE → assign **SL-09** + CoS ping.
 - Werkenbij main list: no Directeur W&K card; OSO OT + ops roles yes  
 - Freep DIB interim: closed  
 - ADJ SD Rivierenland: vervuld  
-- No new Goijarts-succession listing found  
+- No new Goijarts-succession listing found
+
+---
+
+## Owner decision + cadence — 2026-10-01 ~11:16 CEST
+
+- **Owner:** SL-08 **KEEP** — track closely; still **no outreach**.
+- **Escalate:** check Castanho + werkenbijwaterschaprivierenland for Directeur Water en Klimaat **twice weekdays** (09:16 + 15:16 Europe/Amsterdam); denser than prior once-daily 09:18.
+- **Ping CoS immediately on any change:** werkenbij primary card appears, deadline, Castanho closed/removed, new DIB/Goijarts listing → **SL-09**.
+- **Quiet** only if truly unchanged.
+- Routine folder: `wsrl-director-watch`.
+
+## Scan log — 2026-10-01 ~11:16 CEST (escalate baseline)
+
+- Castanho index + detail: Water & Klimaat **still LIVE** → SL-08 unchanged
+- Werkenbij `/vacatures/`: **no** Directeur W&K primary card (OSO OT + ops roles yes)
+- No new DIB/Goijarts listing
+- **Delta:** none — quiet to Owner; CoS gets cadence ACK only
 
