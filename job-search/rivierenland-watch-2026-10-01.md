@@ -88,3 +88,11 @@ When permanent/interim republish LIVE → assign **SL-09** + CoS ping.
 - No new DIB/Goijarts listing
 - **Delta:** none — quiet to Owner; CoS gets cadence ACK only
 
+## Scan log — 2026-10-01 ~12:15 CEST (CoS throttle)
+
+- Castanho index + detail: Water & Klimaat **still LIVE** → SL-08 unchanged (agency)
+- Werkenbij main `/vacatures/`: still **no** Directeur W&K primary card
+- Werkenbij **Omgeving & Beleid** live: W&K widget **gone** (was soft-present earlier today; now only Faunabeheerder) — soft-signal fade, not employer apply-open
+- Freep interim DIB: still **gesloten**; no new DIB/Goijarts LIVE → SL-09 not assigned
+- Board: SL-01 LIVE to 5 Oct; SL-02 LIVE to 11 Oct; SL-04 Colourful still hosted, talks 27 Oct
+
