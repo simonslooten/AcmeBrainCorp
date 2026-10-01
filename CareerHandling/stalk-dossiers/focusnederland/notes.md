@@ -54,3 +54,10 @@ Fetched: 2026-10-01 (public web only)
 - Werken-bij still redirects to werkenbijhumantotalcare.nl; no X — unchanged.
 
 ## Pulse #3 2026-10-01 recheck: no change vs #2
+
+## Deep money/claims 2026-10-01
+- Full OP star ladder confirmed live: **€815 / €1.890 / €2.495 / €3.225 / €3.995** excl. (1★–5★)
+- 5★: 6 mnd, 9 gesprekken + workshops/jobclubs — https://www.focusnederland.nl/onze-diensten/medewerker/outplacement/outplacement-5-sterren/
+- Ontwikkel-assessment: old URL **404**; **not in live diensten sitemaps** — historical €1.950 search snippet **unverified live**
+- CEDEO recognition (prior cedeo.nl listing) still relevant
+- Newsletter: none found on home

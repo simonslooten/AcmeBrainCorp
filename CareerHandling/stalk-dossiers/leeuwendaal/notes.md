@@ -55,3 +55,10 @@ Utrecht public-sector HR/org consultancy: assessments, talent/strengths (Gallup 
 - Open sollicitatie still invited.
 
 ## Pulse #3 2026-10-01 recheck: no change vs #2
+
+## Deep money/claims 2026-10-01
+- Still **no public client prices**; AV assessment cancel % ladder only
+- Gallup CliftonStrengths + MT1000 #1 (22.09.26) + RVO strengths case (01.09.26) remain assessment Against-us
+- Strengthscoach community includes **periodieke nieuwsbrief** (alumni) — https://www.leeuwendaal.nl/actualiteiten/de-kracht-van-de-strengthscoach-community/
+- Site Gravity Forms + reCAPTCHA + Turnstile — no easy public email-only NL signup; **not subscribed**
+- CEDEO on site vs cedeo.nl “Maatwerk Bedrijfsopleidingen” nuance unchanged

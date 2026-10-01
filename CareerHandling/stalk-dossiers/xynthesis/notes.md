@@ -46,3 +46,9 @@ Leiden-based national re-integratie (spoor 1+2) / loopbaan / vitaliteit / outpla
 Home ~45 coaches/CEDEO+OVAL, 2e spoor €2.000–€5.000 on FAQ+spoor-2 page, no vacatures, no X — reconfirmed.
 
 ## Pulse #3 2026-10-01 recheck: no change vs #2
+
+## Deep money/claims 2026-10-01
+- Sister OP site prices: typical **€3.000–€5.000**; light ~**€1.500**; **baangarantie €7.500–€10.000** — https://www.xynthesisoutplacement.nl/outplacement-kosten/
+- 2e spoor still **€2.000–€5.000**; CEDEO + OVAL claims stand
+- Seminar signup https://www.xynthesis.nl/inschrijven-gratis-seminar/ has **reCAPTCHA** — documented, not subscribed
+- No numeric placement % found

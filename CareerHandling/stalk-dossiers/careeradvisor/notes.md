@@ -59,3 +59,11 @@ Enschede-based national outplacement / 2e spoor / loopbaanadvies with **fully pu
 Home packages €2.235–€4.995, 90%/9.2, loopbaan/2e spoor/outplacement ladders unchanged; vacatures still 5 titles; HTML has bare https://x.com/ (no handle) — not a real X account.
 
 ## Pulse #3 2026-10-01 recheck: no change vs #2
+
+## Deep money/claims 2026-10-01
+- OP packages reconfirmed **€2.235–€4.995**; matrix includes **AI-vaardigheden voor de arbeidsmarkt**
+- 2e spoor **€2.995 / €3.870 / €4.745** + **€875** verlenging
+- Loopbaanadvies **€1.095–€2.650**
+- **NEW deep:** assessment list prices on page — Basis **vanaf €695**; Strategisch **vanaf €1.595**/werknemer (LDC cited)
+- Claims 90% + 9.2 + Cedeo/Blik/Noloc unchanged
+- Newsletter: **no hs-form/nieuwsbrief** on home or /blog — HubSpot site only

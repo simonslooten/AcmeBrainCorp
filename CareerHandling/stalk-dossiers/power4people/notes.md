@@ -50,3 +50,10 @@ Outplacement — https://power4people.nl/werkgever/diensten/outplacement/outplac
 Outplacement €2.415/€3.200/€4.280/€5.040 excl. btw; no numeric %; no vacatures; no X — reconfirmed.
 
 ## Pulse #3 2026-10-01 recheck: no change vs #2
+
+## Deep money/claims 2026-10-01
+- OP ladder reconfirmed **€2.415 / €3.200 / €4.280 / €5.040** excl.
+- Spoor 2 intensief **same €3.200/€4.280/€5.040** — /spoor-2-intensief/
+- Lighter re-integratiebegeleiding **€3.300 / €4.200**; haalbaarheidsonderzoek **€1.460** (2 mnd)
+- Schema sameAs: **OVAL** + **Blik op Werk**; NOLOC on haalbaarheidspage
+- No numeric plaatsings%; newsletter **not found**

@@ -58,3 +58,11 @@ National NL outplacement / loopbaan / re-integratie 2e spoor bureau (HQ Emmen); 
 - X API `get_users_by_username Care4Careers` → **Not Found** (same as run 1)
 
 ## Pulse #3 2026-10-01 recheck: no change vs #2
+
+## Deep money/claims 2026-10-01
+- OP werkgever **€2.000–€7.500** modular — https://care4careers.nl/werkgevers/outplacement
+- Loopbaanscan **€1.000 excl. btw** (vragenlijst + 4 gesprekken) — https://care4careers.nl/werkgevers/loopbaanscan
+- 2e spoor article avg **€2.000–€7.500** (updated 13-08-2026) — kenniscentrum kosten page; Den Haag min **€2.300 excl.**
+- Placement counters still **0% / 0 waardering** in static HTML (JS placeholders) — no verified public success %
+- Community lead magnet https://care4careers.nl/community (voornaam/achternaam/email/bericht required; no CAPTCHA seen) — **not subscribed**
+- Certs: none confirmed on-site this deep pass

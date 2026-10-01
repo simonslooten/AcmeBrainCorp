@@ -48,3 +48,9 @@ Beverwijk/Bussum re-integratiebureau (since 2003) focused on 2e spoor, outplacem
 Satisfaction 8.2/7.9; no public prices; vacatures still “ervaren collega 24–32u”; no X — reconfirmed.
 
 ## Pulse #3 2026-10-01 recheck: no change vs #2
+
+## Deep money/claims 2026-10-01
+- Still no public €; offerte/AV model
+- Footer contact form (naam/telefoon/email/bericht) + **reCAPTCHA v3** — sales contact, **not** newsletter; do not submit
+- Artikelen hub remains research source; outplacement explainer 24-08-2026 (prior)
+- Differentiation vs CH still weak on assessments/AI/%/price transparency

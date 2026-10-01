@@ -45,3 +45,10 @@ Rotterdam-based national loopbaan / outplacement / 2e spoor / training network (
 Home 91% claim, kosten €1.950/€2.985/€4.385, loopbaan vanaf €950, ZZP coach recruiting Zwolle+NH, no X — all reconfirmed.
 
 ## Pulse #3 2026-10-01 recheck: no change vs #2
+
+## Deep money/claims 2026-10-01
+- Kosten page reconfirmed: OP **€1.950 / €2.985 / €4.385 excl.** (3/6/9 mnd) — https://carrierepoort.nl/outplacementbureau/kosten-outplacement/
+- Tests **€295 incl. btw** (beroepskeuze/competentie/persoonlijkheid)
+- Home claim **ruim 91%** still methodology-light
+- Newsletter: **none found** on home HTML
+- Note: box curl to carrierepoort.nl intermittently failed later same day; WebFetch earlier succeeded
