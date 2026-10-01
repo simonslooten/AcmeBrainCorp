@@ -8,17 +8,16 @@ Owner: La Vaca Saturno Saturnita. Line manager: Bombardino Crodocillo (BD). CoS 
 
 ## Needs you
 
-- **LN FIT 28 sep 2026 ~11:26 CREDITS_0:** Outplacement Vlagtwedde (Groningen) id `6ab8bd647f408698c70def62` — VSO, IT/functioneel beheer leeftijd 59, budget €1500 excl. btw, max 2 aanbieders, aangemeld zo 27 sep. Open list 3 (↑ from 2). Prior Rotterdam outplacement `6ab663d67b185f56e203b262` weg uit open. Claim blocked tot top-up. https://loopbaannederland.nl/bedrijven/request/buy?id=6ab8bd647f408698c70def62
-- **LN ALERT 24 sep ~11:30:** FIT **Outplacement Beverwijk** (NH) id `6ab42ed410e996d8800fd3d2` 60cr — vrouw 37 HBO Medisch acceptant, VSO outplacement, budget €2000 ex BTW, gepubliceerd wo 23 sep. **CREDITS_0** (top-up vóór claim). Count-up 2→4 all-new; 3× NEVER_FIT silent (Oudenbosch/Utrecht reintegratie 2e-spoor; Borne arbodienst). https://loopbaannederland.nl/bedrijven/request/buy?id=6ab42ed410e996d8800fd3d2 — Simon claims.
-- **Next cash only:** Bierman/Eric (stand-down tot Simon ask) + LN-fit 11–13.
-- **LN:** CoS scant */5 alleen **11:20–11:40** (preflight 10:50). Credits **0** = claim-blocker. La Vaca fit-pulse OP/assessment only.
-- **CLOSED 21 sep:** VPRO Bastiaenen + Belastingdienst ontwikkelassessments (vraag al ingevuld). Offerte niet send. **Nick LI moot** — niet in cash-next.
+- **Synced 1 okt 2026 (do-pulse):** next cash only Bierman/Eric (stand-down) + LN fit if credits.
+- **Bierman/Eric:** stand-down. Simon→Eric 16 sep “Lead waar je over belde”; Gmail 1 okt nog geen reply op die thread (Eric 21 sep alleen Belastingdienst-joke). Wacht Simon ask. Geen outreach.
+- **LN:** CREDITS_0 = claim-blocker. LOST-FIT 28 sep: Rotterdam + Vlagtwedde OP @ CREDITS_0. Last scan Wed 30 11:40 open 2 NEVER_FIT (Waalwijk + Wijchen 2e-spoor). CoS preflight 10:50; */5 11:20–11:40. La Vaca fit-pulse OP/assessment only.
+- **CLOSED 21 sep:** VPRO Bastiaenen + Belastingdienst (Nick moot). Offerte niet send.
 - **Christiania:** stil tot Simon/BD ja.
 - **Filter:** 0–150 soft; groter OK buiten tenders; panels skip. Geen reintegratie/2e-spoor.
 - **Delivery:** pulses → Bombardino → CoS. Geen Simon-pings.
 
 ## In flight
-- [ ] LN process owner: fit-pulse tijdens/na scanvenster 11:20–11:40 (→ BD+CoS).
+- [ ] LN process owner: fit-pulse tijdens/na scanvenster 11:20–11:40 (→ BD+CoS). CREDITS_0 tot top-up.
 - [ ] Bierman/Eric: stand-down tot Simon next ask.
 - [x] Belastingdienst CLOSED 21 sep (Nick moot).
 - [x] VPRO Bastiaenen CLOSED 21 sep.
