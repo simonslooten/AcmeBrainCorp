@@ -62,3 +62,12 @@ Utrecht public-sector HR/org consultancy: assessments, talent/strengths (Gallup 
 - Strengthscoach community includes **periodieke nieuwsbrief** (alumni) — https://www.leeuwendaal.nl/actualiteiten/de-kracht-van-de-strengthscoach-community/
 - Site Gravity Forms + reCAPTCHA + Turnstile — no easy public email-only NL signup; **not subscribed**
 - CEDEO on site vs cedeo.nl “Maatwerk Bedrijfsopleidingen” nuance unchanged
+
+## PM delta pass — 2026-10-01
+**Current client-vacancy feed surfaced:** `/vacatures/` shows 23 listings/counts in each category (Toezicht & Bestuur, Directie & Management, Interim). Recent public postings include Medisch Directeur (Rijnmond Dokters), published 18-09 and modified 25-09, deadline **11-10-2026** — https://www.leeuwendaal.nl/vacatures/medisch-directeur-a0wp6000004m6aviak/ — and Vooraankondiging: Collegiaal bestuurder (Santé Partners), published 25-09 and modified 29-09, deadline **18-10-2026** — https://www.leeuwendaal.nl/vacatures/vooraankondiging-collegiaal-bestuurder-a0wp6000004mabjia4/. This is an external executive-search/jobs channel, not a client-price or assessment-product change. Internal `werken-bij` remains stale (Receptiemedewerker/PA past deadlines); assessmentpsycholoog URL remains 404.
+
+
+## 2026-10-01 hello@ Job Alert
+- Submitted Directie & Management for hello@acmebraincorp.com.
+- **JOIN CONFIRMED** 2026-10-01 ~15:05 CEST — CoS verified via OX IMAP; confirm page: “Verificatie gelukt.”
+- Gmail MCP not used for confirm (credential dropped; wrong mailbox path).

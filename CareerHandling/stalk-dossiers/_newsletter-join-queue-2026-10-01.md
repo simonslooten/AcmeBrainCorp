@@ -57,8 +57,8 @@ Next attempt: Leeuwendaal Job Alerts (queue #2, no CAPTCHA observed).
 - Status: **pending double opt-in** — not fully joined until verify click
 - Screenshot: box assets 0283a853…14ab0.png
 
-### Joined list (confirmed): **(none yet)**
-### Pending verify: Leeuwendaal Job Alerts (Directie & Management)
+### Joined list (confirmed): **Leeuwendaal Job Alerts (Directie & Management)**
+### Pending verify: *(none)*
 
 
 ### 2026-10-01 — CareerAdvisor PDF download — FAILED (reCAPTCHA)
@@ -71,7 +71,23 @@ Next attempt: Leeuwendaal Job Alerts (queue #2, no CAPTCHA observed).
 |---|---|
 | Care4Careers Community | FAILED HTTP 403 |
 | Carrièrepoort nieuwsbrief | FAILED reCAPTCHA |
-| Leeuwendaal Job Alerts | SUBMITTED — pending email verify |
+| Leeuwendaal Job Alerts | **JOINED** (double opt-in confirmed 2026-10-01 ~15:05 CEST) |
 | CareerAdvisor PDF | FAILED reCAPTCHA |
-| **Confirmed joined** | **(none)** |
+| **Confirmed joined** | **Leeuwendaal Job Alerts (Directie & Management)** |
+### 2026-10-01 — CareerAdvisor PDF recheck (2026-10-01 14:53 CEST) — FAILED reCAPTCHA; no form-free package-PDF alternate
+- Live page: https://www.careeradvisor.nl/mail-pakketten-overzicht-oud (canonical); current parallel landing page: https://www.careeradvisor.nl/mail-pakketten-overzicht
+- HubSpot form: portal 5318955, form 429f449f-37ed-453e-bc2d-e9c644ab58b9; fields are Voornaam (optional), Achternaam (optional), E-mail (required), Telefoonnummer (optional), hidden Traject (default Outplacement); consent text/required communication-consent checkbox is configured.
+- CAPTCHA: reCAPTCHA v2 (captchaEnabled: true, captchaVersion: V2). Authorized submission with firstname Research Desk and email hello@acmebraincorp.com returned HTTP 400 RECAPTCHA_VALIDATION_FAILED; no signup or PDF delivery confirmed.
+- Alternate check: no direct public PDF URL for the requested pakkettenoverzicht was found in live page HTML, public sitemap, or indexed results. Public HTML package details remain at https://www.careeradvisor.nl/outplacement/pakketten. A separate public trend-report PDF exists at https://www.careeradvisor.nl/hubfs/Trendbeeld_re-integratie_2026_Careeradvisor.pdf, but it is not the requested package overview.
+- Status: **FAILED reCAPTCHA** — not joined; **no form-free alternate for the requested PDF**.
 
+### 2026-10-01 15:05 CEST — Leeuwendaal Job Alerts — JOIN CONFIRMED
+- Source: CoS via OX IMAP on hello@acmebraincorp.com (Gmail MCP not used; credential dropped / wrong mailbox)
+- Confirm page text: **Verificatie gelukt.**
+- Category: Directie & Management
+- Email: hello@acmebraincorp.com
+- Status: **JOINED** (double opt-in complete)
+- CareerAdvisor PDF: still FAILED reCAPTCHA (unchanged)
+
+### Confirmed joined list
+1. Leeuwendaal Job Alerts — Directie & Management
