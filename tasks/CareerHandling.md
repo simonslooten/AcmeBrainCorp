@@ -27,3 +27,4 @@ Owner: La Vaca Saturno Saturnita. Line manager: Bombardino Crodocillo (BD). CoS 
 - Pulse ma+do vóór 09:00 aan Bombardino. Geen outreach zonder Simon-ja.
 - Geen nieuwe bots. Geen Simon completion-pings.
 - 2026-09-21 11:35 LN: CREDITS_0 | count 0→5 | ALERT uncertain RIE Oosterhout id 6ab0eaf017d6d19614090532 (overheid 90 mdw, RI&E 11 loc Brabant, 120cr) https://loopbaannederland.nl/bedrijven/request/open — 4× NEVER_FIT (Katwijk/Den Haag arbodienst; Alkmaar/Bodegraven reintegratie) silent. Simon claims.
+- 2026-10-01 11:35 LN: CREDITS_0 | count 0→2 | ALERT rule4 new ids — BOTH NEVER_FIT after open: (1) Arbodienst/bedrijfsarts Koekange id 6abd6eca06fa47144f056523 30cr; (2) Reintegratie Erica id 6abd06adfef9c596440a1642 80cr (ziek 04-09-2025). https://loopbaannederland.nl/bedrijven/request/open — no claim. State: Box /workspace/CareerHandling/ln-scan-2026-10-01-1135.json
