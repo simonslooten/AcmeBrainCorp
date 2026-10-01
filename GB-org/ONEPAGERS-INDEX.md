@@ -17,6 +17,9 @@ Tags to search in Obsidian: `#onepager` `#steal-skip` `#park`
 
 | [[team-bots-kids-SKIP-2026-09-30]] | mattyp Team bots vs kids Studieleider/Anker | **SKIP** (shared memory blurs ownership; revisit only if father↔kids bridge unparks) |
 
-Updated: 2026-09-30 ~21:57 CEST
+| [[material-done-gate-2026-10-01]] | Material done-gate (tape/Mission Contract gate) | LOCKED live |
+| `linkedin-analytics-2026-10-01/` | LinkedIn analytics pack (COMBINED-BRIEF / SCORECARD / GB-ANALYSIS + img/raw/text) | archive pack |
+
+Updated: 2026-10-01 ~09:55 CEST
 
 #onepager #steal-skip #park #gb-org #index
