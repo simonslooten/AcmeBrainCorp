@@ -51,3 +51,16 @@
 ---
 
 *End newsletter map 2026-10-01. Subscriptions performed: **0**.*
+
+---
+
+## Join attempt log (hello@acmebraincorp.com)
+
+### 2026-10-01 — Care4Careers Community — FAILED
+- URL: https://care4careers.nl/community
+- Identity: Research Desk / hello@acmebraincorp.com
+- Result: Form UI submitted; site error “Er ging iets mis — Probeer het later opnieuw of mail ons direct via info@care4careers.nl.” API `/api/contact` returned **HTTP 403**.
+- Screenshot: box assets (computerUse) 915e0d21…7234.png
+- Status: **NOT joined**. Do not email info@ (would contact competitor staff). Retry later or alternate path TBD.
+- Joined list so far: **(none)**
+

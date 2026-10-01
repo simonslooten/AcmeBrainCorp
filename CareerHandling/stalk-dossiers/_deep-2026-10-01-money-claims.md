@@ -3,6 +3,8 @@
 **Scope:** 8 watch competitors vs CareerHandling baseline (assessments + outplacement; proposals-only bands ~€1k–2.5k assessment / ~€3k–10k outplacement; claim >96% new role in 3 months; no public prices).  
 **Method:** Public pages only (WebFetch/curl/search). No Simon login. No invented numbers. Ad-hoc pulse was QUIET — this pass goes past homepages.
 
+
+> **HARD LOCK (Simon/CoS 2026-10-01):** CareerHandling biedt **geen** 2e spoor / re-integratie tweede spoor / Poortwachter-dossierproduct — never ever. Nooit claimen of positioneren als CH-aanbod. Peer 2e-spoor pages/prijzen blijven alleen **Against-us** competitive context (met URLs).
 ---
 
 ## Price / package matrix (public euros, excl. btw unless noted)
@@ -258,7 +260,7 @@
 ### For-our-site
 1. CH **>96% within 3 months** remains the strongest timed success claim on the watchlist (peers: 90–91% vague, or none).
 2. **COTAN + psych assessments + AcmeBrainCorp agentic AI** still largely unmirrored (CA has LDC + “AI skills” training row only; Leeuwendaal has Gallup not AI).
-3. Several strong spoor-2 shops (Xynthesis, P4P, NK, C4C) leave room for CH to stay premium on **assessment-led outplacement** rather than UWV commodity.
+3. Several strong spoor-2 shops (Xynthesis, P4P, NK, C4C) leave room for CH to stay premium on **assessment-led outplacement** rather than UWV commodity — **HARD LOCK: CH offers no 2e spoor**; peer shops = Against-us only.
 4. Opacity peers exist (Leeuwendaal, Nieuwe Koers) — proposals-only is defensible if sales collateral explains bands privately.
 
 ### Worth a decision (CoS / Simon) — pricing stays proposals-only unless strong evidence
@@ -272,7 +274,7 @@
 
 ### Proactive suggestions (vs CH baseline)
 1. Sales one-pager: private price bands + what modules mean vs Focus stars / CA packages (win on clarity without website list).  
-2. Content: 2–3 cornerstone “kosten & resultaat” articles (outplacement, assessment, 2e spoor) citing market ranges (competitors already educate the market).  
+2. Content: cornerstone “kosten & resultaat” articles (outplacement, assessment; optional OP-vs-2e **differentiatie** only — HARD LOCK: CH biedt geen 2e spoor) citing market ranges (competitors already educate the market).  
 3. Proof pack: make >96%/3m auditable; add Klantenvertellen/Trustpilot if missing (CA 9.2 / P4P 8+ compete on social proof).  
 4. Monitor Focus assessment IA (product pages disappeared from sitemap — opportunity or temporary).  
 5. Newsletter/intel: prioritize Care4Careers Community + Leeuwendaal Actualiteiten/webinars (see newsletter map). **No competitor staff contact; no Simon-named mail.**
