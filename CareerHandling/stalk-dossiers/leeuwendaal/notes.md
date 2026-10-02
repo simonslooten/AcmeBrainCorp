@@ -71,3 +71,22 @@ Utrecht public-sector HR/org consultancy: assessments, talent/strengths (Gallup 
 - Submitted Directie & Management for hello@acmebraincorp.com.
 - **JOIN CONFIRMED** 2026-10-01 ~15:05 CEST — CoS verified via OX IMAP; confirm page: “Verificatie gelukt.”
 - Gmail MCP not used for confirm (credential dropped; wrong mailbox path).
+
+
+## Scheduled pulse — 2026-10-02 (Fri Mon/Wed/Fri)
+**Jobs delta (client executive-search channel):** category counts still 23/23/23; Actualiteiten still MT1000 22.09.26 + RVO 01.09.26. Newly surfaced open listings vs 2026-10-01 PM2: *Twee regiodirecteuren* (Pieter van Foreest) deadline **04-10-2026** https://www.leeuwendaal.nl/vacatures/twee-regiodirecteuren-a0wp6000004mdkhiaw/ (published 14-09, modified 29-09); *Lid RvT* Jeugd Tandzorg West deadline **14-10-2026**; Elkerliek Voorzitter + Lid RvT deadline **16-10-2026**; Onafhankelijk lid RvT Koers VO deadline **11-10-2026**. *Medisch Directeur* still deadline **11-10-2026**. *Collegiaal bestuurder* Santé Partners still open; visible deadline now **11-10-2026** (PM2 had 18-10-2026). No public client prices. Source: `_pulse-2026-10-02.md`.
+
+
+## 2026-10-02 OX job-alert (hello@)
+- **Handled:** unread INBOX msg confirming Job Alert (IMAP PEEK; left unread for Frigo).
+- **From:** Leeuwendaal <no-reply@ml.leeuwendaal.nl>
+- **To:** hello@acmebraincorp.com
+- **Subject:** [Leeuwendaal] Bevestig uw Job Alert
+- **Date:** 01 Oct 2026 12:41:56 -0000 → **2026-10-01 14:41 CEST**
+- **Message-ID:** <6abe5514d04fc2d30cad0739@mailersend.net>
+- **Type:** double-opt-in **confirm** (not a job digest). Category subscribed: **Directie & Management**.
+- **Body listings:** none — confirm-only (“Bevestig binnen 24 uur”).
+- **Confirm URL checked (WebFetch GET):** https://www.leeuwendaal.nl/job-alert/verifieer/?email=hello@acmebraincorp.com&key=… → page: **“Verificatie gelukt! Uw e-mailadres is al geverifieerd. U ontvangt wekelijks (indien van toepassing) per mail een overzicht van nieuwe vacatures.”**
+- Aligns with prior CoS note (JOIN CONFIRMED 2026-10-01 ~15:05 CEST). No new digest in INBOX yet as of 2026-10-02 ~09:05 CEST search (only this Leeuwendaal msg matched SINCE 30-Sep).
+- **Against-us:** brand/exec-search Job Alert channel active for Directie & Management visibility; **no CH 2e spoor**; **no prices** in this mail.
+- Extract: `_leeuwendaal-job-alert-2026-10-02.md`
