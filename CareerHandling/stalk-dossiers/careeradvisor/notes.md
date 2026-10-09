@@ -67,3 +67,21 @@ Home packages €2.235–€4.995, 90%/9.2, loopbaan/2e spoor/outplacement ladde
 - **NEW deep:** assessment list prices on page — Basis **vanaf €695**; Strategisch **vanaf €1.595**/werknemer (LDC cited)
 - Claims 90% + 9.2 + Cedeo/Blik/Noloc unchanged
 - Newsletter: **no hs-form/nieuwsbrief** on home or /blog — HubSpot site only
+
+## PM delta pass — 2026-10-01
+**Content/changelog delta surfaced vs existing notes:** blog index currently shows *Hoe lang duurt een outplacementtraject? (2026)*, updated **22-09-2026**, covering a 3–9 month norm and factors affecting duration — https://www.careeradvisor.nl/blog/hoe-lang-duurt-een-outplacementtraject-2026. It also shows *Wat is een 2e spoortraject voor werkgevers? (2026)*, updated **21-09-2026**, with Poortwachter/dossier positioning — https://www.careeradvisor.nl/blog/wat-is-een-2e-spoortraject-voor-werkgevers-2026. No new package prices, placement percentage, or vacancy title was found; the five vacancy titles remain.
+
+
+## 2026-10-01 hello@ PDF form
+- FAILED reCAPTCHA on mail-pakketten-overzicht — not submitted.
+## 2026-10-01 CareerAdvisor PDF recheck (2026-10-01 14:53 CEST)
+- Live page https://www.careeradvisor.nl/mail-pakketten-overzicht-oud is a HubSpot form (portal 5318955, form 429f449f-37ed-453e-bc2d-e9c644ab58b9). Fields: Voornaam optional, Achternaam optional, E-mail required, Telefoonnummer optional, hidden Traject default Outplacement; configured consent/required communication-consent text is present.
+- Form definition reports captchaEnabled: true, captchaVersion: V2 (reCAPTCHA v2). Authorized POST using Research Desk / hello@acmebraincorp.com was rejected HTTP 400 with RECAPTCHA_VALIDATION_FAILED; no submission or PDF confirmation.
+- No direct public URL for the requested package-overview PDF was found in the page source, public sitemap, or indexed search. Public HTML package details: https://www.careeradvisor.nl/outplacement/pakketten. Separate public PDF found: https://www.careeradvisor.nl/hubfs/Trendbeeld_re-integratie_2026_Careeradvisor.pdf (trend report, not package overview).
+- **Status: FAILED reCAPTCHA; no form-free alternate for the requested package PDF.**
+
+## Pulse 2026-10-05
+- New blog post *Hoe outplacement werkt van intake tot nieuw werk* — published **4 oktober 2026**; 4–5 fases, “gemiddelde doorlooptijd 3–9 maanden”, verwerking-fase framing; no new €/% — https://www.careeradvisor.nl/blog/hoe-outplacement-werkt-van-intake-tot-nieuw-werk. Prices (€2.235–€4.995; 2e spoor €2.995/€3.870/€4.745 + €875), 90% / 9,2, five vacancy titles unchanged. Source: `_pulse-2026-10-05.md`.
+
+## 2026-10-07 pulse
+- Klantportaal header split into Werkgever – Portaal and Werknemer – Loopbaanplein. No new blog post since 04-10; prices unchanged.

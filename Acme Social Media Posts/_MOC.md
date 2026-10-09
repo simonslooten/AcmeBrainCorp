@@ -25,3 +25,5 @@ Folder: `/Users/marvin/Documents/ObsidianVault/Hermes_Team/Acme Social Media Pos
 ## Related
 - Evernote live: `Evernote/live/Acme Social Media Posts/`
 - Grok dumps: `Grok-GrokBot-memory/` (Acme Series C/D)
+
+- [[abc-social-media-plan-DRAFT-2026-10-07]] — DRAFT social plan ABC traction (7 Oct 2026; Brr Brr via Bombardino)

@@ -90,3 +90,10 @@ Utrecht public-sector HR/org consultancy: assessments, talent/strengths (Gallup 
 - Aligns with prior CoS note (JOIN CONFIRMED 2026-10-01 ~15:05 CEST). No new digest in INBOX yet as of 2026-10-02 ~09:05 CEST search (only this Leeuwendaal msg matched SINCE 30-Sep).
 - **Against-us:** brand/exec-search Job Alert channel active for Directie & Management visibility; **no CH 2e spoor**; **no prices** in this mail.
 - Extract: `_leeuwendaal-job-alert-2026-10-02.md`
+
+## Pulse 2026-10-05
+- *Twee regiodirecteuren* (Pieter van Foreest) deadline **04-10-2026** passed (still listed). Also expired: Bestuurder Huisartsenspoedposten Amsterdam + 2× Zorgwaard managers (01-10-2026); internal PA/secretaresse (30-09-2026). No new open client listings; still open: Koers VO, Santé Collegiaal bestuurder (slug now `collegiaal-bestuurder-a0wp6000004mabjia4`, no “vooraankondiging”), Medisch Directeur (all 11-10), Jeugd Tandzorg West (14-10), Elkerliek Voorzitter + Lid RvT (16-10). Counts 23/23/23; actualiteiten top still 22.09.26. `/vacatures/?feed=rss2` returns HTML (no feed). Source: `_pulse-2026-10-05.md`.
+
+## 2026-10-07 pulse
+- Werken-bij: new Assessmentpsycholoog fulltime (team ~30 adviseurs, ~3000 assessments/jr, €4.623–6.376) + Senior Organisatieadviseur, both close 31-10-2026. PA/receptie deadlines extended to 30-10.
+- Toezicht & Bestuur 23→24: new Raamwerk RvT lid HR & Transformatie (Noordwijkerhout), closes 18-10-2026. Directie & Management 17→16 (Directeur bedrijfsvoering gone).

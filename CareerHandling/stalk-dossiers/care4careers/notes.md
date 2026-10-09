@@ -66,3 +66,15 @@ National NL outplacement / loopbaan / re-integratie 2e spoor bureau (HQ Emmen); 
 - Placement counters still **0% / 0 waardering** in static HTML (JS placeholders) — no verified public success %
 - Community lead magnet https://care4careers.nl/community (voornaam/achternaam/email/bericht required; no CAPTCHA seen) — **not subscribed**
 - Certs: none confirmed on-site this deep pass
+
+
+## 2026-10-01 hello@ Community join attempt
+- FAILED: form submit → API /api/contact HTTP 403; on-page error to retry or mail info@ (do not mail — competitor staff).
+- Identity Research Desk / hello@acmebraincorp.com. NOT joined.
+
+## PM2 jobs/news pass — 2026-10-01
+**Content delta surfaced vs PM delta:** a current kenniscentrum article is dated and updated **25-09-2026**: *Re-integratie als eigenrisicodrager WGA: je plichten op een rij* — https://care4careers.nl/kenniscentrum/re-integratie-tweede-spoor/eigenrisicodrager-wga. It targets WGA employer obligations, costs/regie, dossier, and outsourcing; no product/price change.
+- Vacatures unchanged: zelfstandig re-integratiecoach tweede spoor and zelfstandig loopbaancoach — https://care4careers.nl/vacatures.
+
+## 2026-10-07 pulse
+- Pillar "Wat is re-integratie? Spoor 1, 2 en 3 uitgelegd" updated 6 okt 2026 (12 min). Nav label Loopbaanbegeleiding → Loopbaancoaching. No price change.

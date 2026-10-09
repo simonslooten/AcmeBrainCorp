@@ -1,0 +1,42 @@
+# SL-28 post-send analysis — Top of Minds interest mail (8 Oct 2026)
+
+**Sent:** by Simon himself, 8 Oct 2026 ~11:33 (Europe/Amsterdam), to Jessica Lim (Top of Minds), with `CV_Simon_Slooten_2026_SL28.pdf` attached.
+**Compared:** our draft `Mail_TopOfMinds_SL28_2026-10-08.md` (09:55, 172 words) against his text in `Mail_TopOfMinds_SL28_SENT_2026-10-08.md` (283 words, body from "Eén zin…" to "Ik zie uit naar jullie reactie.").
+**Caveat:** the SENT file says the text is "Simon's own version with CoS edits (11:28); Simon may have made last tweaks before sending". The subject is marked "(suggested)" and the From address "(assumed)". This analysis treats the SENT file as final, and any "why" below is my inference, not Simon's stated reason.
+
+## Line by line
+
+| # | Our draft | Simon's sent version | Likely why (inference) |
+|---|---|---|---|
+| Subject | Interim Digital Transformation & AI Advisor – Simon Slooten | Interim Digital Transformation & AI Advisor (ref. 26082410298) – Simon Slooten | Adds the recruiter's reference number so Jessica can file it in one look. Practical over pretty. |
+| Greeting | Beste Jessica, | Beste Jessica, | Kept. This confirms the informal recruiter register we guessed. |
+| P1 hook | "Eén zin van de CEO … bleef bij mij hangen:" with the quote on its own line | Same sentence; the quote follows inline after the colon, in English and verbatim | Kept the CEO quote and kept it in English. Inline makes it read as a mail rather than a letter layout. |
+| P2 | "Met die vraag begin ik zelf ook." Then the CareerHandling/AcmeBrainCorp receipts and "van begin tot eind, in plaats van losse stappen te digitaliseren" | "Die invalshoek is me op het lijf geschreven. Eerst de aannames eruit, niet het eisenlijstje optimaliseren. Bij dit soort vraagstukken is de eerste vraag vaak de verkeerde: niet welk systeem eruit moet, maar welke klantstap nog bestaat omdat niemand hem heeft durven schrappen. Van daaruit terug naar wat deze operatie echt nodig heeft." | **The sharper hook.** He owns the fit outright ("op het lijf geschreven") instead of the softer "begin ik zelf ook". He then *shows* the different angle by doing it: he reframes the client's problem with the "klantstap nobody dared to cut" question before any CV fact. Method comes before résumé, which is what the 'klik' strategy needs. |
+| P3 ERP | "Zo zou ik ook naar de ERP-vraag kijken. Niet eerst welk pakket er komt, maar welke scenario's er zijn, inclusief AI-gebaseerde alternatieven voor een klassieke implementatie. En wat elk scenario betekent voor de klant, van order tot factuur." | Same skeleton, with "ERP-keuze" and "een AI-gebaseerd alternatief", plus: "Snelheid, klantwaarde, operationele impact en vooral gemak voor de klant naast elkaar, zonder vast te zitten aan één leverancier." | He kept our scenario framing. The added line mirrors the vacancy's candidate profile in Dutch ("Solution-agnostic; weighs speed, customer value, and operational impact" and "consumer-grade simplicity"), so it maps one-to-one to what Jessica screens on. |
+| P4 AI | (in P2) "draaien multi-agent AI-teams mee in de dagelijkse operatie, voor operations, content en klantstromen" | "AI hoort daarbij als operationele laag, niet als pilot ernaast. Bij mijn bedrijven bouw ik multi-agent workflows die meedraaien in de operatie, voor klantstromen, content en uitvoering, van begin tot eind in plaats van losse stappen digitaliseren." | (a) He brought back the "not a pilot" framing that I had cut in self-critique as a vacancy echo; he states it as a position. (b) "Bij CareerHandling en AcmeBrainCorp" became "Bij mijn bedrijven", so he doesn't name small own companies (see the scale note below). (c) "AI-teams" became "workflows", the vacancy's word ("thinks in agentic workflows"). (d) He put "klantstromen" first and used Dutch "uitvoering" for "operations". |
+| P5 Prisma | "Mijn basis in architectuur komt uit Prisma IT … met vestigingen in zes landen. Bedrijfskritische maatwerksoftware en advies over enterprise architectuur, voor klanten wereldwijd." | "Mijn basis ligt in Prisma IT … zes landen. Bedrijfskritische maatwerksoftware en advies over enterprise-architectuur, voor internationale organisaties en overheden in binnen- en buitenland. Die lijn, architectuur die het hele bedrijf raakt en niet alleen de IT-afdeling, neem ik mee in deze interimopdracht. Zes tot negen maanden, 32 uur, Oost-Nederland: dat past." | "klanten wereldwijd" became a more concrete client type. The "hele bedrijf, niet alleen de IT-afdeling" line mirrors the vacancy (the role is decoupled from operational IT and spans "far more than systems alone"). **The fit line** states hours, duration and region positively in six words plus "dat past". We had skipped availability entirely to avoid limitation framing; he shows the positive version is wanted. |
+| P6 close | "Graag licht ik die invalshoek toe in een kort gesprek, en daarna hopelijk ook met de CEO. Mijn cv zit in de bijlage." | "Of dit werkt, hangt af van de klik met de CEO. Graag licht ik mijn invalshoek en achtergrond toe in een kort gesprek. Mijn cv heb ik bijgevoegd." | **The CEO-klik close.** He names the real decision criterion openly. That is honest and confident, and it frames mutual fit rather than asking a favour. "hopelijk" is gone (no hedging). "en achtergrond" invites the CV conversation. |
+| Closer | (none) | "Ik zie uit naar jullie reactie." | A conventional courtesy line. "jullie" addresses Top of Minds and the client together. |
+| Sign-off | "Met vriendelijke groet, / Simon Slooten" + "Vorden · tel. … · simon@… · linkedin…" | "Met vriendelijke groet, / Simon Slooten" | He dropped the contact line. Probably his mail client signature carries it; that is unverified. |
+
+## The "self-diminishing scale line"
+CoS named this one. **Our saved 09:55 draft has no explicit sentence about scale.** The closest thing in it is the named small companies ("Bij CareerHandling en AcmeBrainCorp …"), which my own devil's-advocate step had flagged as a scale weakness. Simon replaced that with "Bij mijn bedrijven" and kept Prisma's "zes landen" plus "internationale organisaties en overheden". If CoS meant a line from the 11:28 CoS edit round, that version is not on disk, so I can't quote it.
+
+## Other observations
+- **Length:** 283 words against our 172, about 65% longer and over our 120–180 target. Six short paragraphs plus a one-line closer. The 120–180 cap was too tight for Simon on a CEO-direct role; the extra words went into method (P2) and vacancy-mirroring (P3, P5), not into adjectives.
+- **Register:** "Beste Jessica" with je/jullie and no "u" anywhere. Our draft avoided pronouns altogether.
+- **English quote:** kept verbatim and inline. A Dutch mail with an English CEO quote is fine for him.
+- **Rhythm:** spoken, often verbless fragments ("Eerst de aannames eruit, niet het eisenlijstje optimaliseren." "Van daaruit terug naar wat deze operatie echt nodig heeft." "Zes tot negen maanden, 32 uur, Oost-Nederland: dat past.").
+- **Colons:** he uses colons for punch ("niet X, maar Y"; "…: dat past.") three times in the body. The ToV reference's "no colon setups" is about article lists and doesn't bind him in mails.
+- **Adjectives:** still none about himself. The confidence comes from the phrase "op het lijf geschreven" and from the facts.
+- **Not claimed:** he added no ERP-replacement or logistics experience claim, which is consistent with our guardrails.
+
+## Undercurrent (TOV-REFERENCE "Undercurrent", Simon 13:40): where it already shows
+This is my reading only; Simon did not say so.
+- **Simple wisdom over jargon** (the Fulghum strand): "Eerst de aannames eruit" and "welke klantstap nog bestaat omdat niemand hem heeft durven schrappen". It is a basic question, said plainly.
+- **Standing firm, keeping your head** (the Kipling strand): "Of dit werkt, hangt af van de klik met de CEO." It is calm, with no pleading and no "hopelijk".
+- **Craft without show-off** (the Knopfler strand): "Mijn basis ligt in Prisma IT…" and "Zes tot negen maanden, 32 uur, Oost-Nederland: dat past." Both are understated and precise, with no adjectives.
+- **Curiosity / courage**: "durven schrappen" carries a quiet note of daring. None of these favourites are named or quoted, which matches the rule.
+
+## Rules extracted
+See `letter-style-rules.md`, section "Interest mails (recruiter, aim = call) — from SL-28 SENT, 8 Oct 2026", and the pointer in `GB-org/TOV-REFERENCE-simon-articles.md`.

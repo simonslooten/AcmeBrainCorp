@@ -21,6 +21,8 @@ Tags to search in Obsidian: `#onepager` `#steal-skip` `#park`
 | [[self-critique-8-rules-2026-10-01]] | Self-critique 8 rules (done-gate step 4) | LOCKED live |
 | `linkedin-analytics-2026-10-01/` | LinkedIn analytics pack (COMBINED-BRIEF / SCORECARD / GB-ANALYSIS + img/raw/text) | archive pack |
 
-Updated: 2026-10-01 ~10:01 CEST
+| [[KEEP-org-visuals-2026-10-07]] | Org visuals KEEP (Canva r2 wall + brainrot strip) | KEEP live |
+
+Updated: 2026-10-07 ~10:16 CEST
 
 #onepager #steal-skip #park #gb-org #index
